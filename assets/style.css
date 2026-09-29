@@ -200,6 +200,7 @@ html[data-theme="dark"] .ico-moon { display: block; }
   opacity: .75;
   transition: color .12s, opacity .12s;
 }
+.row .half-lock { color: var(--accent-2); opacity: .85; }
 .row:hover .lock,
 .row.active .lock { color: var(--accent-2); opacity: 1; }
 

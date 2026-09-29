@@ -1,7 +1,7 @@
-# MyGO!!!!! 手游乐队故事（ガルパ Band Story）全章节文本
+# MyGO!!!!! 剧情对白（英文版）
 
-> 来源：BanG Dream! Wiki（bandori.miraheze.org）官方收录的英文翻译，对应《BanG Dream! Girls Band Party!》中 **MyGO!!!!!** 的乐队故事（Band Story）。
-> 说明：此为游戏内 MyGO 主线故事，共 **41 章**，与动画《It's MyGO!!!!!》对应，含游戏内独有编排。本文为社区英文翻译版，对话逐行呈现。
+> MyGO!!!!! 剧情对白的英文文本，共 41 章，按章节和场景逐行收录人物对话。
+> 文本来源：BanG Dream! Wiki（bandori.miraheze.org）。
 
 
 ---

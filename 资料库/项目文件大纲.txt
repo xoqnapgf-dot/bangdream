@@ -29,9 +29,7 @@ MyGO_AveMujica资料库 项目文件大纲
   04_漫画游戏/
     AveMujica漫画游戏情节汇总.md
     MyGO_漫画游戏情节汇总.md
-    [MyGO]ガルパ乐队故事_全章节翻译.md
-    [MyGO]采集汇总清单_20260824.md
-    [MyGO]采集说明_20260824.md
+    MyGO剧情对白_英文版.md
     OurNotes内测社区反馈汇总.md
     MyGO_卡面图/
       千早爱音_初始五星_迷失之中.png
