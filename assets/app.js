@@ -197,8 +197,8 @@
         var bvid = bili[1];
         var videoTitle = bili[2] || 'Bilibili 视频';
         out.push('<figure class="video-embed">' +
-          '<iframe src="https://player.bilibili.com/player.html?bvid=' + encodeURIComponent(bvid) +
-          '&page=1&high_quality=1&danmaku=0" title="' + esc(videoTitle) +
+          '<iframe src="https://player.bilibili.com/player.html?isOutside=true&bvid=' + encodeURIComponent(bvid) +
+          '&p=1&high_quality=1&danmaku=0" title="' + esc(videoTitle) +
           '" loading="lazy" scrolling="no" frameborder="0" allowfullscreen></iframe>' +
           '<figcaption>' + esc(videoTitle) + ' · <a href="https://www.bilibili.com/video/' +
           encodeURIComponent(bvid) + '/" target="_blank" rel="noopener">在 B 站打开</a></figcaption>' +
