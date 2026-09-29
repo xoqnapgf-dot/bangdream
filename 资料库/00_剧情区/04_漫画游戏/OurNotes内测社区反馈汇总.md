@@ -169,9 +169,21 @@ B 站在开服后形成了单独的 [Our Notes 小站](https://www.bilibili.com/
 - **打歌问题**：歌曲解锁、长条 Great、Flick 适应、大小键和《焚音打》指法；
 - **剧情传播**：millsage 与一家Dumb Rock! 全语音录屏、剧情解说、羁绊片段、角色梗和同人图快速增加。
 
-视频区同样不是单向口碑。9 月 27 日的 millsage 剧情解说以“开服封神”为标题，页面显示约 6.2 万播放、403 条评论；9 月 28 日的负面杂谈则明确标注“个人观点”，以“半成品”为标题，显示 7,277 播放、44 条评论。另一边，《焚音打》实机作者认为新谱比 GBP 特殊难度版更顺手，但仍需适应 Flick；配队攻略作者则提醒开服攻略时效短、已有错误配队建议流传。标题、播放量和评论数只能说明议题有人参与，不能直接换算成支持或反对比例。
+视频区同样不是单向口碑。9 月 27 日的 millsage 剧情解说以“开服封神”为标题，9 月 30 日页面数据约为 6.2 万播放、403 条弹幕、419 条评论；9 月 28 日的负面杂谈则明确标注“个人观点”，以“半成品”为标题，同期约为 7,310 播放、44 条弹幕、131 条评论。页面的弹幕数和评论数是两项不同数据，不能混写；播放与互动量也只能说明议题有人参与，不能直接换算成支持或反对比例。另一边，《焚音打》实机作者认为新谱比 GBP 特殊难度版更顺手，但仍需适应 Flick；配队攻略作者则提醒开服攻略时效短、已有错误配队建议流传。
 
-@[bilibili](BV1MTah6QECq "中文社区 millsage 剧情解说样本")
+#### 评测视频谈了什么
+
+6 月 CBT 评测的重点不是一句“值得期待”。作者把编队拆成五张成员与五张留影，说明五属性、同团加成、区域道具、角色等级以及留影重复突破会共同拉长培养线；如果长期主推一支乐队，还要准备不同属性的队伍。他认为 GEKISO 的动态加分条件与严判定给手法留下了追分空间，但总综合力和专属技能仍会影响竞争结果。视频同时肯定新建模、剧情演出和扫荡，对区域道具需求、UI 与设备优化持保留意见。更重要的是，作者明确说 CBT 没有开放抽卡，因此这期内容不能用来证明正式服抽卡资源足够，也不能替正式服的成员、留影同池规则背书。
+
+9 月 28 日的负面杂谈则把批评集中在另一组问题：开服连接与卡顿、谱面异常和震动反馈、缺少传统协力模式、名片编辑素材有限、翻唱与乐曲券偏少，以及多属性整队培养和重复突破带来的压力。作者并非否定所有内容：视频把 Live2D、动画插入与剧情列为最值得肯定的部分，并给出“10 分中 5 分，其中 3 分给剧情、2 分给 BanG Dream! 企划”的个人评分。置顶补充又说明自己仍在玩，也确实喜欢作品，只是认为若拿掉 IP，现阶段的曲量、福利与 Bug 不足以让他优先选择本作。它是一位作者的完整论证，不是简中玩家的总体结论；其中涉及福利和模式完成度的说法，也要与后续版本更新分开看。
+
+#### 剧情解说的关注点
+
+millsage 解说上、中的重点不只是复述“奏多去世”。上篇把萤的经历串成一条完整动机：她因自己的音乐天赋给同龄人带来挫败而畏惧演奏，在奏多的带领下重新相信音乐可以让人幸福；后来赴约观看旧 millsage 演出，才得知奏多已因病离世、原五人组也走到解散边缘。中篇继续追踪萤试图以支援乐手身份挽回旧团，却触碰到“补上空位是否等于取代奏多”的矛盾。解说作者据此把这条线概括为逝者遗愿、幸存者愧疚与新成员自我证明互相拉扯，而不是单纯的重组乐队爽文。这种概括属于作者对游戏剧情的讲解；角色关系与事件顺序仍以游戏原文为准。
+
+@[bilibili](BV1MTah6QECq "中文社区 millsage 剧情解说上篇")
+
+@[bilibili](BV1LPa56UEG5 "中文社区 millsage 剧情解说中篇")
 
 @[bilibili](BV18qaV6TEiX "中文社区对开服完成度的负面杂谈样本")
 
@@ -248,6 +260,7 @@ Google Play 与 Reddit 也有相反案例：部分高端 Android 设备运行流
 - bilibili game，2026-08-06：[ANON TOKYO Soft Opening 内容与限制](https://bdon.biligames.com/details/?id=181785496453290093)
 - 《BanG Dream! Our Notes》日版官网，2026-09-13：[正式版功能、通行证、卡池与开服活动](https://bang-dream-on.bushimo.jp/news/post-8)
 - Bushiroad / PR TIMES，2026-09-14：[五团 100 话、约 24 小时剧情及 CBT 后调整项目](https://prtimes.jp/main/html/rd/p/000009741.000014827.html)
+- 《BanG Dream! Our Notes》官方 X，2026-09-24：[奏多与萤的剧情关系](https://x.com/bang_dream_on/status/2103108822449688660)
 - 《BanG Dream! Our Notes》官方 X，2026-09-24：[统一于日本时间 20:00 开服](https://x.com/bang_dream_on/status/2103050569166545397)
 - 《BanG Dream! Our Notes》官方 X，2026-09-25：[10 张招募券补偿及开服招募延期](https://x.com/bang_dream_on/status/2103409741242478741)
 - 《BanG Dream! Our Notes》官方 X，2026-09-28：[首轮活动、招募延期与修复版审核状态](https://x.com/bang_dream_on/status/2104545658866671671)
@@ -273,7 +286,9 @@ Google Play 与 Reddit 也有相反案例：部分高端 Android 设备运行流
 - Bilibili Our Notes 小站，2026-09-30 抓取：[游戏攻略栏目近期主题](https://www.bilibili.com/bubble/home/76?category_id=691)
 - Bilibili Our Notes 小站，2026-09-30 抓取：[剧情映像研近期主题](https://www.bilibili.com/bubble/home/76?category_id=690)
 - Bilibili Our Notes 小站，2026-09-30 抓取：[水区近期问题与玩家求助](https://www.bilibili.com/bubble/home/76?category_id=727)
-- 奈依依レム，2026-09-27：[millsage 剧情解说及页面互动数据](https://www.bilibili.com/video/BV1MTah6QECq/)
+- Dead Rhetoric，2026-09-27：[millsage 全篇剧情评论与角色关系复核](https://deadrhetoric.com/features/bang-dream-our-notes-millsage-story-music-to-make-everyone-happy/)
+- 奈依依レム，2026-09-27：[millsage 剧情解说上篇及页面互动数据](https://www.bilibili.com/video/BV1MTah6QECq/)
+- 奈依依レム，2026-09-28：[millsage 剧情解说中篇](https://www.bilibili.com/video/BV1LPa56UEG5/)
 - 云朵高松灯，2026-09-28：[对开服完成度的负面杂谈及页面互动数据](https://www.bilibili.com/video/BV18qaV6TEiX/)
 - 很腻害的音游狗，2026-09-27：[《焚音打》实机、Flick 适应与谱面评价](https://www.bilibili.com/video/BV1NQa46NELx/)
 - 美竹兰兰蓝，2026-09-26：[开服配队攻略与错误攻略提醒](https://www.bilibili.com/video/BV1DHhd6WEnY/)
