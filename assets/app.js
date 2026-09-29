@@ -14,6 +14,8 @@
     byPath: {},       // path -> node
     dirByPath: {},    // path -> dir node
     cache: {},        // path -> 文本内容
+    videoMeta: {},    // BVID -> 播放所需 aid / cid / 封面
+    scrolls: {},      // path -> 主阅读区滚动位置
     current: null
   };
 
@@ -93,7 +95,7 @@
   };
   function fileIcon(ext) { return ext === 'txt' ? SVG.txt : SVG.md; }
 
-  /* 目录状态标记：原始资料显示小锁，阶段性整理完成的剧场版显示半锁。
+  /* 目录状态标记：原始资料显示小锁，仍会随新资料更新的目录显示半锁。
      两种图标都只作提示，不影响点击和阅读。 */
   var PROTECTED_DIRS = [
     '00_剧情区/01_MyGO动画',
@@ -101,8 +103,11 @@
     '00_剧情区/05_官方访谈与设定'
   ];
   var PROTECTED_HINT = '原始资料 · 请勿随意修改';
-  var PARTIAL_PROTECTED_DIRS = ['00_剧情区/03_剧场版'];
-  var PARTIAL_PROTECTED_HINT = '阶段性整理完成 · 等待后续电影资料更新';
+  var PARTIAL_PROTECTED_DIRS = [
+    '00_剧情区/03_剧场版',
+    '00_剧情区/04_漫画游戏'
+  ];
+  var PARTIAL_PROTECTED_HINT = '阶段性整理 · 内容将随新资料继续更新';
 
   function isProtectedDir(path) {
     return PROTECTED_DIRS.indexOf(path) >= 0;
@@ -237,17 +242,19 @@
       var bili = /^@\[(?:bilibili|哔哩哔哩)\]\((BV[0-9A-Za-z]+)(?:\s+"([^"]+)")?\)\s*$/.exec(line);
       if (bili) {
         var bvid = bili[1];
-        var videoTitle = bili[2] || 'Bilibili 视频';
-        out.push('<figure class="video-embed" data-bvid="' + esc(bvid) + '" data-title="' +
-          esc(videoTitle) + '">' +
-          '<div class="video-placeholder"><span class="video-mark">▶</span>' +
-          '<strong>' + esc(videoTitle) + '</strong>' +
-          '<span>按需载入播放器，避免 B 站外链限制直接显示错误页</span>' +
-          '<div class="video-actions"><button type="button" class="video-load">页面内播放</button>' +
-          '<a href="https://www.bilibili.com/video/' + encodeURIComponent(bvid) +
-          '/" target="_blank" rel="noopener">在 B 站打开</a></div></div>' +
-          '<figcaption>' + esc(videoTitle) + ' · <a href="https://www.bilibili.com/video/' +
-          encodeURIComponent(bvid) + '/" target="_blank" rel="noopener">在 B 站打开</a></figcaption></figure>');
+        var meta = state.videoMeta[bvid] || {};
+        var videoTitle = bili[2] || meta.title || 'Bilibili 视频';
+        var mediaAttrs = ' data-bvid="' + esc(bvid) + '" data-title="' + esc(videoTitle) + '"' +
+          (meta.aid ? ' data-aid="' + esc(meta.aid) + '"' : '') +
+          (meta.cid ? ' data-cid="' + esc(meta.cid) + '"' : '');
+        out.push('<figure class="video-embed"' + mediaAttrs + '>' +
+          '<button type="button" class="video-preview" aria-label="播放：' + esc(videoTitle) + '">' +
+          (meta.cover ? '<img src="' + esc(meta.cover) + '" alt="" loading="lazy">' : '') +
+          '<span class="video-shade"></span><span class="video-mark">▶</span>' +
+          '<strong>' + esc(videoTitle) + '</strong></button>' +
+          '<figcaption><a href="https://www.bilibili.com/video/' + encodeURIComponent(bvid) +
+          '/" target="_blank" rel="noopener">' + esc(videoTitle) + ' · 在 B 站打开</a>' +
+          '</figcaption></figure>');
         i++; continue;
       }
 
@@ -392,20 +399,24 @@
   }
 
   function activateVideos(container) {
-    container.querySelectorAll('.video-embed .video-load').forEach(function (button) {
+    container.querySelectorAll('.video-embed .video-preview').forEach(function (button) {
       button.addEventListener('click', function () {
         var figure = button.closest('.video-embed');
         if (!figure || figure.querySelector('iframe')) return;
-        var bvid = figure.dataset.bvid;
+        var params = ['isOutside=true', 'bvid=' + encodeURIComponent(figure.dataset.bvid), 'p=1',
+          'autoplay=1', 'high_quality=1', 'danmaku=0'];
+        // 仅传 BV 号时，B 站外链播放器偶尔无法解析分 P；固定 aid/cid 可直接定位视频流。
+        if (figure.dataset.aid) params.push('aid=' + encodeURIComponent(figure.dataset.aid));
+        if (figure.dataset.cid) params.push('cid=' + encodeURIComponent(figure.dataset.cid));
         var iframe = document.createElement('iframe');
-        iframe.src = 'https://player.bilibili.com/player.html?isOutside=true&bvid=' +
-          encodeURIComponent(bvid) + '&p=1&autoplay=0&high_quality=1&danmaku=0';
+        iframe.src = 'https://player.bilibili.com/player.html?' + params.join('&');
         iframe.title = figure.dataset.title || 'Bilibili 视频';
         iframe.loading = 'lazy';
         iframe.scrolling = 'no';
         iframe.frameBorder = '0';
+        iframe.allow = 'autoplay; fullscreen; picture-in-picture';
         iframe.allowFullscreen = true;
-        figure.querySelector('.video-placeholder').replaceWith(iframe);
+        button.replaceWith(iframe);
       });
     });
   }
@@ -413,6 +424,7 @@
   function guardImages(container) {
     container.querySelectorAll('img').forEach(function (img) {
       img.addEventListener('error', function () {
+        if (img.closest('.video-preview')) { img.remove(); return; }
         if (img.dataset.failed) return;
         img.dataset.failed = '1';
         var a = document.createElement('a');
@@ -603,6 +615,14 @@
     el.innerHTML = html;
   }
 
+  function restoreScroll(path) {
+    var key = path || '';
+    var top = Object.prototype.hasOwnProperty.call(state.scrolls, key) ? state.scrolls[key] : 0;
+    requestAnimationFrame(function () {
+      if (state.current === key) $('main').scrollTop = top;
+    });
+  }
+
   /* ─────────── 视图：首页 ─────────── */
 
   function viewHome() {
@@ -649,7 +669,7 @@
     $('content').innerHTML = h;
     $('toc').innerHTML = '';
     highlightTree(null);
-    $('main').scrollTop = 0;
+    restoreScroll('');
   }
 
   function fileRow(f) {
@@ -689,7 +709,7 @@
     $('content').innerHTML = h;
     $('toc').innerHTML = '';
     highlightTree(node.path);
-    $('main').scrollTop = 0;
+    restoreScroll(node.path);
   }
 
   /* ─────────── 视图：文件 ─────────── */
@@ -697,7 +717,6 @@
   function viewFile(node) {
     crumb(node.path, fmtSize(node.size) + ' · ' + node.chars.toLocaleString() + ' 字');
     highlightTree(node.path);
-    $('main').scrollTop = 0;
 
     function paint(text) {
       var box = $('content');
@@ -716,10 +735,12 @@
           '<div class="txt">' + esc(text) + '</div>';
         $('toc').innerHTML = '';
       }
+      restoreScroll(node.path);
     }
 
     if (state.cache[node.path]) { paint(state.cache[node.path]); return; }
 
+    $('main').scrollTop = 0;
     $('content').className = 'content';
     $('content').innerHTML = '<div class="loading"><i class="spin"></i>载入中…</div>';
     $('toc').innerHTML = '';
@@ -729,8 +750,12 @@
         if (!r.ok) throw new Error('HTTP ' + r.status);
         return r.text();
       })
-      .then(function (t) { state.cache[node.path] = t; paint(t); })
+      .then(function (t) {
+        state.cache[node.path] = t;
+        if (state.current === node.path) paint(t);
+      })
       .catch(function (e) {
+        if (state.current !== node.path) return;
         $('content').innerHTML = '<div class="errbox">载入失败：' + esc(e.message) +
           '<br><small style="color:var(--tx-faint)">' + esc(node.path) + '</small></div>';
       });
@@ -784,6 +809,7 @@
   }
 
   function route() {
+    if (state.current !== null) state.scrolls[state.current] = $('main').scrollTop;
     var raw = location.hash.replace(/^#\/?/, '');
     var path = '';
     try { path = decodeURIComponent(raw); } catch (e) { path = raw; }
@@ -874,12 +900,18 @@
 
     window.addEventListener('hashchange', route);
 
-    fetch('assets/manifest.json')
-      .then(function (r) {
+    Promise.all([
+      fetch('assets/manifest.json').then(function (r) {
         if (!r.ok) throw new Error('HTTP ' + r.status);
         return r.json();
-      })
-      .then(function (m) {
+      }),
+      fetch('assets/video-meta.json').then(function (r) {
+        return r.ok ? r.json() : {};
+      }).catch(function () { return {}; })
+    ])
+      .then(function (data) {
+        var m = data[0];
+        state.videoMeta = data[1];
         state.manifest = m;
         buildIndex(m.tree, '');
         buildTree();
