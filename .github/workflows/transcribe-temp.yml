@@ -38,11 +38,16 @@ jobs:
           HF_HUB_DISABLE_XET: "1"
         run: |
           cat > /tmp/transcribe.py <<'PY'
+          import traceback
           from faster_whisper import WhisperModel
-          m=WhisperModel('small',device='cpu',compute_type='int8')
-          segs,info=m.transcribe('/tmp/audio/story.wav',language='ja',beam_size=5,vad_filter=True)
-          with open('transcript/BV19YaK6dEbg.txt','w',encoding='utf-8') as f:
-            for s in segs:f.write(f'[{s.start:07.2f} --> {s.end:07.2f}] {s.text.strip()}\n')
+          try:
+            m=WhisperModel('small',device='cpu',compute_type='int8')
+            segs,info=m.transcribe('/tmp/audio/story.wav',language='ja',beam_size=5,vad_filter=True)
+            with open('transcript/BV19YaK6dEbg.txt','w',encoding='utf-8') as f:
+              for s in segs:f.write(f'[{s.start:07.2f} --> {s.end:07.2f}] {s.text.strip()}\n')
+          except Exception:
+            with open('transcript/BV19YaK6dEbg-error.txt','w',encoding='utf-8') as f:
+              f.write(traceback.format_exc())
           PY
           python /tmp/transcribe.py
       - name: Return transcript
