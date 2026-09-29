@@ -1,0 +1,41 @@
+name: Temporary Bilibili transcription
+
+on:
+  push:
+    branches: [arena/01a0ed01-bangdream]
+    paths: [.github/workflows/transcribe-temp.yml]
+
+jobs:
+  transcribe:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install tools
+        run: pip install -q yt-dlp faster-whisper
+      - name: Download audio
+        run: |
+          mkdir -p /tmp/audio transcript
+          for bvid in BV18qaV6TEiX BV1MTah6QECq BV1LPa56UEG5 BV1N17p6XEAX; do
+            yt-dlp -f 'bestaudio/best' --no-playlist -o "/tmp/audio/${bvid}.%(ext)s" "https://www.bilibili.com/video/${bvid}/"
+          done
+      - name: Transcribe Chinese speech
+        run: |
+          cat > /tmp/transcribe.py <<'PY'
+          from faster_whisper import WhisperModel
+          from pathlib import Path
+          model = WhisperModel("small", device="cpu", compute_type="int8")
+          for src in sorted(Path('/tmp/audio').iterdir()):
+              segments, info = model.transcribe(str(src), language="zh", beam_size=5, vad_filter=True)
+              out = Path('transcript') / f'{src.stem}.txt'
+              with out.open('w', encoding='utf-8') as f:
+                  f.write(f'# language={info.language} probability={info.language_probability:.4f}\n')
+                  for s in segments:
+                      f.write(f'[{s.start:07.2f} --> {s.end:07.2f}] {s.text.strip()}\n')
+          PY
+          python /tmp/transcribe.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: bilibili-transcripts
+          path: transcript/
+          retention-days: 1
