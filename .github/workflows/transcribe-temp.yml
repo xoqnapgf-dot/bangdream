@@ -11,11 +11,12 @@ jobs:
     timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
-      - run: pip install -q requests faster-whisper
+      - run: pip install -q requests faster-whisper 'av<15'
       - name: Download story audio
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
           mkdir -p /tmp/audio transcript
+          rm -f transcript/BV19YaK6dEbg*.txt
           cat > /tmp/download.py <<'PY'
           import requests
           from pathlib import Path
