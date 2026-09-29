@@ -22,14 +22,15 @@
     '高松灯': '#77BBDD', '千早爱音': '#FF8899', '要乐奈': '#77DD77',
     '长崎素世': '#FFDD88', '椎名立希': '#7777AA', '三角初华': '#BB9955',
     '若叶睦': '#779977', '八幡海铃': '#335566', '祐天寺若麦': '#AA4477',
-    '丰川祥子': '#7799CC'
+    '丰川祥子': '#7799CC', '纯田真奈': '#D6A84B'
   };
   var BAND = {
     '高松灯': 'MyGO!!!!! · 主唱', '千早爱音': 'MyGO!!!!! · 节奏吉他',
     '要乐奈': 'MyGO!!!!! · 主音吉他', '长崎素世': 'MyGO!!!!! · 贝斯',
     '椎名立希': 'MyGO!!!!! · 鼓 / 作曲', '三角初华': 'Ave Mujica · 主唱兼吉他',
     '若叶睦': 'Ave Mujica · 节奏吉他', '八幡海铃': 'Ave Mujica · 贝斯',
-    '祐天寺若麦': 'Ave Mujica · 鼓', '丰川祥子': 'Ave Mujica · 键盘 / 作曲'
+    '祐天寺若麦': 'Ave Mujica · 鼓', '丰川祥子': 'Ave Mujica · 键盘 / 作曲',
+    '纯田真奈': 'sumimi · 主唱'
   };
 
   function colorFor(name) {
@@ -61,6 +62,10 @@
 
   function prettyName(n) {
     return n.replace(/\.(md|txt)$/i, '').replace(/^\d{2}_/, '');
+  }
+
+  function displayDirName(name) {
+    return name.replace(/^\d+_/, '').replace(/^次要角色_/, '');
   }
 
   /* MyGO 动画剧本用文件名前缀表示集数；展示时明确写成“第 X 集”，
@@ -533,7 +538,7 @@
       '<div class="stat"><b>' + s.files + '</b><span>个文件</span></div>' +
       '<div class="stat"><b>' + s.dirs + '</b><span>个目录</span></div>' +
       '<div class="stat"><b>' + (s.bytes / 1048576).toFixed(1) + '</b><span>MB 文本</span></div>' +
-      '<div class="stat"><b>10</b><span>位角色</span></div>' +
+      '<div class="stat"><b>' + chars.length + '</b><span>位角色</span></div>' +
       '</div>';
 
     function cards(list) {
@@ -542,7 +547,7 @@
         var role = roleFor(d.name);
         return '<a class="card" href="#/' + esc(d.path) + '"' +
           (c ? ' style="--cc:' + c + '"' : '') + '>' +
-          '<span class="cn">' + esc(d.name.replace(/^\d+_/, '')) + '</span>' +
+          '<span class="cn">' + esc(displayDirName(d.name)) + '</span>' +
           '<span class="cs">' + (role ? esc(role) + ' · ' : '') + countFiles(d) + ' 个文件</span>' +
           '</a>';
       }).join('') + '</div>';
@@ -576,7 +581,7 @@
     var c = colorFor(node.name);
     var role = roleFor(node.name);
 
-    var h = '<div class="hero"><h1>' + esc(node.name.replace(/^\d+_/, '')) + '</h1>';
+    var h = '<div class="hero"><h1>' + esc(displayDirName(node.name)) + '</h1>';
     if (role) h += '<p class="lede">' + esc(role) + '</p>';
     h += '</div>';
 
@@ -587,7 +592,7 @@
       h += '<div class="sec-h">子目录</div><div class="cards">' + dirs.map(function (d) {
         return '<a class="card" href="#/' + esc(d.path) + '"' +
           (c ? ' style="--cc:' + c + '"' : '') + '>' +
-          '<span class="cn">' + esc(d.name.replace(/^\d+_/, '')) + '</span>' +
+          '<span class="cn">' + esc(displayDirName(d.name)) + '</span>' +
           '<span class="cs">' + countFiles(d) + ' 个文件</span></a>';
       }).join('') + '</div>';
     }
@@ -708,7 +713,7 @@
     if (state.dirByPath[path]) {
       var d = state.dirByPath[path];
       viewDir(d);
-      document.title = d.name.replace(/^\d+_/, '') + ' — 资料库';
+      document.title = displayDirName(d.name) + ' — 资料库';
       return;
     }
     crumb(path);
