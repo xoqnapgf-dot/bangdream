@@ -21,16 +21,17 @@
 | 2026-08-06—08-10 | ANON TOKYO Soft Opening | 单独测试店铺经营、陈列、成员派遣、服装与 Fever Live |
 | 2026-09-22 | 国际版预下载 | App Store、Google Play 与官网安装包陆续开放 |
 | 2026-09-24 | 全球上线 | 日版与国际版同步开服；国际版分为台港澳、韩国、英文区服务器 |
+| 2026-09-28 | 首轮活动延期 | 《アイの奔流 AtoZ》及同期梦限大MewType SSR 招募未按原计划开启；截至 9 月 29 日新日期未定 |
 
-正式上线当天曾因日版 Google Play 审核进度延长维护，原定北京时间 11:00 的开服延后至约 19:00。开服后又出现集中登录和连接异常。这个情况解释了当天社区大量“仍在维护”“无法进入”的截图，但不代表游戏截至 9 月 29 日仍未上线。
+正式上线当天曾因日版 Google Play 审核进度延长维护，原定北京时间 11:00 的开服延后至 19:00。开服后又出现集中登录和连接异常。官方随后向全服发放 10 张招募券，并延长 MyGO!!!!!、Ave Mujica 开服招募至 10 月 8 日。这个情况解释了当天社区大量“仍在维护”“无法进入”的截图，但不代表游戏截至 9 月 29 日仍未上线。
 
-国际版各区数据互不相通，开始游戏后不能转区。App Store 与 Google Play 购买的付费星钻也不能跨 iOS、Android 显示；官网支付所得付费星钻可以跨两种系统使用。完整资源约 8.2—8.3 GB，官方建议至少保留 13 GB 空间。
+国际版各区数据互不相通，开始游戏后不能转区。App Store 与 Google Play 购买的付费星钻也不能跨 iOS、Android 显示；官网支付所得付费星钻可以跨两种系统使用。国际版 FAQ 给出的完整资源参考值为 iOS 约 8.8 GB、Android 约 9.1 GB，官方建议至少保留 13 GB 空间。
 
 @[bilibili](BV1cyYi6REXH "《BanG Dream! Our Notes》9 月 24 日全球上线官方预告")
 
 ### 开服版本实际提供什么
 
-游戏围绕 MyGO!!!!!、Ave Mujica、梦限大MewType、millsage、一家Dumb Rock! 五支乐队、25 名角色展开。MyGO!!!!!、Ave Mujica 和梦限大MewType 的篇章会从动画经历切入，并收录动画之后的特别篇；millsage 与一家Dumb Rock! 从原创故事开始。
+游戏围绕 MyGO!!!!!、Ave Mujica、梦限大MewType、millsage、一家Dumb Rock! 五支乐队、25 名角色展开。五团各有 20 话主线，开服共 100 话，官方给出的总播放时间约 24 小时。MyGO!!!!!、Ave Mujica 和梦限大MewType 的篇章会从动画经历切入，并收录动画之后的 Extra Story；另有角色视角的 Another Story 和描写角色关系的羁绊故事。millsage 与一家Dumb Rock! 则从原创故事开始。
 
 开服内容主要包括：
 
@@ -40,7 +41,7 @@
 - Live2D、动画片段、既有 2D/3D MV 与 LITE 等演出模式；
 - 任务、首季 Mission Pass、开服登录奖励和连续歌曲追加。
 
-上线宣传期的全球预约人数最终突破 200 万。首季 Mission Pass 的高级奖励免费开放，预约里程碑和开服任务提供星钻、招募券、SSR 必得券及纪念留影。开服后的五日连续加曲包括《ちゅ、多様性。》《空に歌えば》《Stellar Stellar》《Fatal》《微笑みの爆弾》。
+上线宣传期的全球预约人数最终突破 200 万。首季 Mission Pass 的高级奖励免费开放，预约里程碑和开服任务提供星钻、招募券、SSR 必得券及纪念留影。开服后的五日连续加曲包括《ちゅ、多様性。》《空に歌えば》《Stellar Stellar》《Fatal》《微笑みの爆弾》。官方在正式版前还明确列出相对 CBT 的调整：重新打磨谱面并放宽判定、增加 GEKISO 开始前切换编队、调整剧情演出与 Live2D、细修 UI。正式版玩家仍提出 Flick、可视性和菜单问题，说明“做过调整”与“所有问题已经解决”不是一回事。
 
 ![「Cinematic Storytelling」官方系统画面](https://s1.biligames.com/fe-static/game-global-bangdreamon/gw/img/img_cinematic-story_1.f9d4b2ac.jpg)
 
@@ -119,7 +120,7 @@ GEKISO LIVE 不是传统协力房，而是带竞争结果的五人实时模式�
 
 ### 成员与留影是两套养成
 
-正式版中，玩家既要培养成员卡，也要配置留影卡。开服日文评测记录的 SSR 概率为成员 3%、留影 6%；两类卡各有自己的等级、技能与突破。成员与留影的乐队、属性搭配会影响 GEKISO 表现，不只是收集卡图。
+正式版中，玩家既要培养成员卡，也要配置留影卡。开服日文评测记录的 SSR 概率为成员 3%、留影 6%；两类卡各有自己的等级、技能与突破。通常招募并未把两类卡拆成两个独立卡池，而是会在同一招募中抽到成员或留影，因此更准确的说法是“同池抽取、双线养成”。成员与留影的乐队、属性搭配会影响 GEKISO 表现，不只是收集卡图。
 
 这套设计比 GBP 的“抽成员、组成同属性队伍”更复杂，也造成开服评价中最集中的争议：
 
@@ -129,7 +130,7 @@ GEKISO LIVE 不是传统协力房，而是带竞争结果的五人实时模式�
 - 成员重复转化为对应碎片，通用突破资源在开服期较少；
 - GEKISO 对数值和协同的要求，使纯音游玩家觉得养成压过打歌。
 
-TapTap 的长评把这些问题概括为“成员、留影、属性和突破层数同时堆叠”。Google Play 评论也多次提到升级材料不足和菜单繁复。开服赠送较多抽卡与必得券，只能说明初始福利较多，不能据此判断长期资源收入或未来卡池强度。
+TapTap 的长评把这些问题概括为“成员、留影、属性和突破层数同时堆叠”。Google Play 评论也多次提到升级材料不足和菜单繁复。开服时 MyGO!!!!!、Ave Mujica 各有五张 SSR 成员，另外三团首先公开的是 SR 成员；这让只推梦限大MewType、millsage 或一家Dumb Rock! 的玩家暂时缺少本团 SSR 成员目标。开服赠送较多抽卡与必得券，只能说明初始福利较多，不能据此判断长期资源收入或未来卡池强度。
 
 ### 评分只能作为当日快照
 
@@ -140,12 +141,30 @@ TapTap 的长评把这些问题概括为“成员、留影、属性和突破层�
 | TapTap | 5.9 / 10，825 条评价 | 页面仍残留“预约”“2026 年内上线”等旧简介，评分混有上线前期待评价 |
 | Google Play 国际版 | 不同地区约 3.8—4.0 / 5，约 1,600 条评价 | 地区、语言和刷新时间会造成差异 |
 | 美国 App Store | 4.8 / 5，693 个评分 | 高分与“未完成、Bug 多”的长评同时存在 |
+| 日本 App Store | 4.5 / 5，3,059 个评分 | 日文长评既肯定故事、音乐与 Live2D，也集中批评连接、音符可视性、同池双线养成和便利功能限制 |
 
 这些数字不能直接横向比较：各商店计分规则、用户地区和样本规模不同。它们只能说明开服评价高度分化，而不能证明某个平台玩家“更满意”。
+
+### 不同社区在讨论什么
+
+下面只记录可定位到原帖或商店页面的样本，不把少量帖子写成地区共识。
+
+- **日语社区**：上线一日长评和 App Store 评论最常同时提到两面——插画、Live2D、配音、新团故事与多数谱面的完成度得到肯定；首日认证与连接、Flick 卷入判定、相邻音符可视性、跳过次数和体力便利功能则被反复批评。也有玩家在通信恢复后认为运行轻快、音符容易辨认，说明谱面可视性和性能都明显受机型、设置与个人习惯影响。
+- **简体中文社区**：TapTap 长评更关注成员加留影的养成层级、材料缺口、菜单与本地化；贴吧的开服福利统计则把交换券、SSR 券、留影券和资源获取逐项拆开，讨论重点偏向“实际能拿多少、该换什么”。B 站相关视频与评论同时存在对剧情演出、卡图和新团的期待，以及对服务器、判定和数值系统的质疑。
+- **英语社区**：Reddit 开服集中帖和 Google Play 评论把登录失败、GEKISO 断线、英文残留日文和旧设备表现列为主要问题；另一批玩家则肯定快速重开、设置细项和高端 Android 上的流畅度。美国 App Store 的高分并未消除长评中的“功能未齐、Bug 多”意见。
+- **繁中社区**：巴哈姆特开服讨论首先集中在台港澳服时间、设备要求、下载与服务器选择。现有可核对样本较少，不足以概括繁中玩家对剧情或养成的整体态度。
+
+个别日文长评还显示，新团剧情能改变玩家的预期：有作者原本最不关注 millsage，却因第 20 话的收束转为五人全员好评。它只能代表个人阅读经验，但说明原创两团并非只靠角色视觉获得讨论。
 
 ---
 
 ## 五、上线初期技术与本地化反馈
+
+### 首轮活动未能按计划开启
+
+首个活动《アイの奔流 AtoZ》与同期梦限大MewType SSR 招募原定 9 月 28 日开始，但因连接、匹配和显示异常的修复版本仍在应用商店审核而延期。截至 9 月 29 日，官方尚未公布新日期。它不是玩家推测，而是已经确认的运营变更；Gamerch 等攻略站的活动表也已同步标成延期。反过来，也不能在新公告前推断延期时长或补偿内容。
+
+延期使“开服没有活动可玩”成为日文商店评论中的现实抱怨，也放大了对未开放入口和初期 SSR 覆盖不足的担忧。不过，活动延期属于运营与技术状态，不改变开服已实装五团 100 话主线的事实。
 
 ### 已反复出现的问题
 
@@ -186,8 +205,8 @@ Google Play 与 Reddit 也有相反案例：部分高端 Android 设备运行流
 
 - 服务器和 GEKISO LIVE 能否在首轮修复后稳定；
 - ANON TOKYO、未开放入口和后续玩法何时正式落地；
-- 成员与留影双卡池、重复突破和多属性养成的长期资源压力；
-- 高难谱面、活动和竞争内容能否留住核心音游玩家；
+- 成员与留影同池抽取、双线培养、重复突破和多属性养成的长期资源压力；
+- 首轮活动及关联招募何时补开，高难谱面和竞争内容能否留住核心音游玩家；
 - 英文等多语言本地化是否持续修正；
 - 《Our Notes》与 GBP 同时运营后，两边内容更新能否保持稳定。
 
@@ -209,6 +228,10 @@ Google Play 与 Reddit 也有相反案例：部分高端 Android 设备运行流
 - bilibili game，2026-08-05：[国际版 CBT 时间、设备要求与测试限制](https://bdon.biligames.com/details/?id=181785496706519656)
 - bilibili game，2026-08-06：[ANON TOKYO Soft Opening 内容与限制](https://bdon.biligames.com/details/?id=181785496453290093)
 - 《BanG Dream! Our Notes》日版官网，2026-09-13：[正式版功能、通行证、卡池与开服活动](https://bang-dream-on.bushimo.jp/news/post-8)
+- Bushiroad / PR TIMES，2026-09-14：[五团 100 话、约 24 小时剧情及 CBT 后调整项目](https://prtimes.jp/main/html/rd/p/000009741.000014827.html)
+- 《BanG Dream! Our Notes》官方 X，2026-09-24：[统一于日本时间 20:00 开服](https://x.com/bang_dream_on/status/2103050569166545397)
+- 《BanG Dream! Our Notes》官方 X，2026-09-25：[10 张招募券补偿及开服招募延期](https://x.com/bang_dream_on/status/2103409741242478741)
+- 《BanG Dream! Our Notes》官方 X，2026-09-28：[首轮活动、招募延期与修复版审核状态](https://x.com/bang_dream_on/status/2104545658866671671)
 - bilibili game，2026-09-13：[9 月 24 日全球上线、语言、五团与开服奖励](https://bdon.biligames.com/details/?id=181789121626264213)
 - bilibili game，2026-09-22：[国际版预下载与全球线下活动](https://bdon.biligames.com/details/?id=181790007589770177)
 - bilibili game，2026-09-23：[国际版设备、容量、服务器和付费星钻 FAQ](https://bdon.biligames.com/details/?id=181789993093106864)
@@ -226,8 +249,18 @@ Google Play 与 Reddit 也有相反案例：部分高端 Android 设备运行流
 - 巴哈姆特 GNN，2026-09-24：[全球上线、200 万预约与首轮活动](https://gnn.gamer.com.tw/detail.php?sn=312326)
 - アプリ島，2026-09-25：[正式版难度、设置、GEKISO、概率与曲库体验](https://apps-island.com/ournotes)
 - TapTap，2026-09-29 抓取：[商店评分与正式版玩家长评](https://www.taptap.cn/app/808443)
+- 百度贴吧，2026-09：[国际服开服福利、交换券与资源统计](https://tieba.baidu.com/p/11043510941)
+- 巴哈姆特，2026-09：[国际服上线 FAQ 与台港澳玩家讨论](https://forum.gamer.com.tw/C.php?bsn=84526&snA=142&tnum=1)
 - TapTap 官方论坛，持续更新：[开服、连接问题与处理进展](https://www.taptap.cn/app/808443/topic)
 - Google Play，2026-09-29 抓取：[国际版评分与用户评论](https://play.google.com/store/apps/details?id=com.bilibili.sirius&hl=en_US&showAllReviews=true)
 - Apple App Store，2026-09-29 抓取：[美国区评分与用户评论](https://apps.apple.com/us/app/bang-dream-our-notes/id6757695187)
+- Apple App Store，2026-09-29 抓取：[日本区评分与详细用户评论](https://apps.apple.com/jp/app/id6771716739)
+- カニスキー，2026-09-24—26：[音游新手持续实录——认证负载、同池抽取、显示异常与难度入口](https://note.com/kanisuky/n/n8dcba75b42a1)
+- Kosuke K，2026-09-25：[GBP 玩家视角的 MyGO!!!!! 重述与两款游戏分工](https://note.com/quick_kudu7662/n/nb4f91ad90938)
+- ちはや，2026-09-25：[上线一日实玩——连接、谱面、Flick、插画与 Live2D](https://note.com/chim_fs/n/n8229f798ac33)
+- Game Log Lab，2026-09-26：[Redmi Pad 2 Pro 高画质与 Live2D 实机样本](https://note.com/rapid_gerbil992/n/n0fa195f93590)
+- 藤，2026-09-27：[millsage 全 20 话个人观后感](https://note.com/fujkta/n/n85f844e06a9b)
+- Game Log Lab，2026-09-28：[首轮活动延期、初期 SSR 范围与畅销榜个人观察](https://note.com/rapid_gerbil992/n/nfba9d30a357e)
+- Gamerch，2026-09-29 抓取：[首轮活动与招募延期状态](https://gamerch.com/bang-dream-on/)
 - Reddit / r/BanGDream，2026-09-24：[正式版首日体验讨论](https://www.reddit.com/r/BanGDream/comments/1wp47h3/first_impressions_of_our_notes/)
 - Reddit / r/BanGDream，2026-09-24：[开服集中帖与 GEKISO 通信问题](https://www.reddit.com/r/BanGDream/comments/1woj8vs/bang_dream_our_notes_game_release_megathread/)
