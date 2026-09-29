@@ -418,6 +418,7 @@
   function normalizeRelativePath(baseFile, href) {
     var raw = href.split('#')[0].split('?')[0];
     try { raw = decodeURIComponent(raw); } catch (_) {}
+    if (raw.indexOf('资料库/') === 0) return raw.slice('资料库/'.length);
     var parts = baseFile.split('/');
     parts.pop();
     raw.split('/').forEach(function (part) {
@@ -428,17 +429,34 @@
     return parts.join('/');
   }
 
-  /* Markdown 的相对文件链接不能交给静态主机直接打开，否则会绕过单页路由而 404。 */
+  function repositoryFilePath(href) {
+    if (!/^https?:\/\//i.test(href)) return '';
+    var url;
+    try { url = new URL(href); } catch (_) { return ''; }
+    var path = url.pathname;
+    try { path = decodeURIComponent(path); } catch (_) {}
+    var marker = '/资料库/';
+    var at = path.indexOf(marker);
+    if (at < 0) return '';
+    var target = path.slice(at + marker.length);
+    return /\.(?:md|txt)$/i.test(target) ? target : '';
+  }
+
+  /* 库内资料一律走站内路由；即使旧正文留下 GitHub Raw 地址，也不离开当前网站。 */
   function resolveContentLinks(container, currentPath) {
     container.querySelectorAll('a[href]').forEach(function (a) {
       var href = a.getAttribute('href') || '';
-      if (!href || /^(?:https?:|mailto:|#\/|\/\/)/i.test(href)) return;
+      if (!href || /^(?:mailto:|#\/|\/\/)/i.test(href)) return;
       if (href.charAt(0) === '#') return;
-      var target = normalizeRelativePath(currentPath, href);
+      var target = repositoryFilePath(href);
+      if (!target && !/^https?:\/\//i.test(href)) target = normalizeRelativePath(currentPath, href);
+      if (!target) return;
       if (state.byPath[target]) {
         a.href = '#/' + target;
+        a.removeAttribute('target');
+        a.removeAttribute('rel');
         a.classList.add('ref-link');
-      } else {
+      } else if (!/^https?:\/\//i.test(href)) {
         a.removeAttribute('href');
         a.classList.add('broken-ref');
         a.title = '资料库中未找到目标文件：' + target;
