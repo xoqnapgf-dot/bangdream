@@ -386,10 +386,33 @@ html[data-theme="dark"] .ico-moon { display: block; }
   display: block; width: 100%; aspect-ratio: 16 / 9;
   border: 0; border-radius: 10px; background: #000;
 }
+.md .video-placeholder {
+  min-height: 210px; padding: 28px 20px;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 9px; text-align: center; border: 1px solid var(--line); border-radius: 10px;
+  background: linear-gradient(145deg, var(--bg-soft), var(--bg-sink));
+  color: var(--tx-dim);
+}
+.md .video-placeholder strong { font-size: 15px; }
+.md .video-placeholder > span:not(.video-mark) { color: var(--tx-faint); font-size: 12px; }
+.md .video-mark { font-size: 30px; line-height: 1; color: var(--accent); }
+.md .video-actions { display: flex; flex-wrap: wrap; justify-content: center; gap: 9px; margin-top: 5px; }
+.md .video-actions button, .md .video-actions a {
+  padding: 7px 13px; border: 1px solid var(--line); border-radius: 7px;
+  background: var(--bg); color: var(--accent); font: inherit; font-size: 13px;
+  cursor: pointer; text-decoration: none;
+}
+.md .video-actions button:hover, .md .video-actions a:hover { border-color: var(--accent); }
 .md .video-embed figcaption {
   margin-top: 7px; color: var(--tx-faint); font-size: 12px;
   text-align: center;
 }
+.md .media-fallback {
+  display: flex; min-height: 120px; align-items: center; justify-content: center;
+  margin: 18px 0; padding: 18px; border: 1px dashed var(--line); border-radius: 10px;
+  background: var(--bg-soft); color: var(--tx-dim); text-align: center;
+}
+.md .broken-ref { color: var(--tx-faint); border-bottom-style: dashed; cursor: help; }
 
 .md strong { font-weight: 680; color: var(--tx); }
 .md em { font-style: normal; color: var(--accent-2); font-weight: 560; }

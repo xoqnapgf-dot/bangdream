@@ -1,6 +1,6 @@
 # Ave Mujica 漫画与游戏剧情汇总
 
-> 更新至 2026 年 9 月 29 日。本文包含漫画、游戏活动和联动剧情剧透。
+> 更新至 2026 年 9 月 30 日。本文包含漫画、游戏活动和联动剧情剧透。
 
 Ave Mujica 在游戏中的经历并不只属于一条时间线。《少女乐团派对》的两期活动沿用电视动画剧情，《Our Notes》承接动画后续；《明日方舟》和 Minecraft 则是得到授权的独立联动，不应拿来反推本家设定。
 
@@ -8,6 +8,22 @@ Ave Mujica 在游戏中的经历并不只属于一条时间线。《少女乐团
 ![《BanG Dream! Ave Mujica -manuscriptus-》官方主视觉](https://cdn-public.comici.jp/series/1646812/20250217120557771509D1EA2D7C63136B98C6A12D603F95D-lg.webp "《BanG Dream! Ave Mujica -manuscriptus-》官方主视觉 · Comic Growl")
 ![《BanG Dream! Our Notes》Ave Mujica 乐队视觉](https://s1.biligames.com/fe-static/game-global-bangdreamon/gw/img/img_avemujica.eadc8c37.png "《BanG Dream! Our Notes》Ave Mujica 乐队视觉 · bilibili game")
 @[/gallery]
+
+## 时间线速查
+
+| 日期 | 载体 | 事件 | 时间线性质 |
+| --- | --- | --- | --- |
+| 2025-01-10 | 漫画 | 《Ave Mujica -manuscriptus-》开始连载 | 电视动画的漫画改编 |
+| 2025-06-10 | 《少女乐团派对！》 | 「雨上がり、瞳に映る空は」前篇开始 | 从 MyGO!!!!! 一侧补看动画事件 |
+| 2025-09-04—09-25 | 《明日方舟》 | SideStory「无忧梦呓」开放 | 授权联动世界，不属本家主线 |
+| 2025-09-19 | 《少女乐团派对！》 | 「わかれ道をゆく人たちへ」后篇开始 | 前篇续篇，沿动画剧情推进 |
+| 2025-10-31 | Minecraft | 「从 Ave Mujica 的世界逃脱」地图公开 | 授权逃脱游戏，不属本家主线 |
+| 2026-03-19 | 漫画 | 《-manuscriptus-》最终话③发布 | 漫画连载完结 |
+| 2026-04-08 | 漫画 | 第 3 卷发售 | 正文完结卷 |
+| 2026-09-24 | 《Our Notes》 | 全球上线，开放动画重述、Extra Story 与羁绊故事 | 本家游戏平台；回顾与动画后续并存 |
+| 2026-10-16 | 电影 | 《prima aurora》日本上映 | 电视动画续篇 |
+
+日期接近不代表故事顺序相连。《明日方舟》和 Minecraft 即使发布在两期 GBP 活动之间，也不能插进动画主线；《Our Notes》又同时包含旧事件重述和动画之后的新故事，必须按具体章节判断。
 
 ## 一、《BanG Dream! Ave Mujica -manuscriptus-》
 
@@ -93,7 +109,7 @@ Ave Mujica 没有在《少女乐团派对！》（GBP）中以一支完整可编
 
 五人的职业设计分别呼应各自在乐队里的位置或人物意象：祥子是领主，初华是吟游者，睦是傀儡师，海铃是伏击客，若麦是撼地者。活动另有五套 CROSSOVER 时装、主题家具、场景和界面主题。
 
-![《明日方舟》× Ave Mujica「无忧梦呓」官方活动视觉](https://web.hycdn.cn/upload/image/20250826/5e2438d4991ebe992421f988d950b36e.jpg)
+![《明日方舟》× Ave Mujica「无忧梦呓」丰川祥子技能展示 PV 官方封面](https://i1.hdslb.com/bfs/archive/4fe21130f1de00e8882424dbcdd829b7ae50023e.jpg)
 
 #### 剧情梗概
 
@@ -141,6 +157,18 @@ BanG Dream! 官方与日本游戏实况团体ドズル社合作制作的 Minecra
 - 动画回顾部分和动画后续特别篇都属于游戏正式内容，讨论具体情节时应标明章节，避免把回顾段落误当成新发生的事件。
 
 @[bilibili](BV1V1Yj6pEnR "TV 动画《BanG Dream! Ave Mujica》×《Our Notes》STORY LINK 官方 PV")
+
+### 9 月 25 日公开的 27 分钟新剧情
+
+这段剧情发生在 Ave Mujica 再出道约一周后。祥子接下丰川集团每年举办的豪华客船派对，希望用一场全员佩戴假面的“假面舞会”吸引政商与演艺界宾客，也预料祖父会出席。睦、海铃、若麦和初华在船上与来宾交流、共舞；祥子则把这次演出视作重建乐队、摆脱丰川家庇护的第一步。
+
+派对途中，祥子遇见一名独自出现的少女。对方先称她“祥子姐姐”，随后以母亲和燈的声音、形象唤起钢琴课、生日曲与 CRYCHIC 的往事，追问她是否想回到过去。祥子拒绝了诱惑，表示母亲、燈和昔日的自己都已经不在那里，自己会作为 Ave Mujica 的 Oblivionis 继续前进。初华赶到时只看到祥子独自起舞；神秘存在则称她为“忘却的女神”后消失。
+
+演出结束后，祥子仍无法断定刚才是梦，还是“某种借用了少女外形的东西”。她把花留下，向那些耀眼而美丽的回忆道晚安。剧情刻意保留了心理幻象与超自然遭遇两种读法，并没有给出确定答案；评论区关于“灵异感”和“祥子完全不怕”的说法只能作为观众反应。
+
+这 27 分 17 秒是《Our Notes》的动画后续特别篇，不是《少女乐团派对！》在 2026 年新增的卡牌活动。同一上传者还公开了约 6 小时 4 分的 Ave Mujica 全语音故事，并在置顶说明中指出：手游对旧剧情的主要改动集中在与 MyGO!!!!! 有关的部分，其他设定和情节基本不变。这条说明针对整套游戏版故事，不能用来否定上述特别篇的后续性质。GBP 目前可确认的 Ave Mujica 相关活动仍是 2025 年 6 月和 9 月两期。
+
+@[bilibili](BV19YaK6dEbg "《Our Notes》Ave Mujica 动画后续特别篇录屏")
 
 ### 演出与首发内容
 
@@ -201,3 +229,5 @@ Ave Mujica 的《KiLLKiSS》等原曲随游戏收录。全球上线纪念内容�
 - OurNotesOfficial，2026-09-11：[Ave Mujica STORY LINK 官方 PV](https://www.bilibili.com/video/BV1V1Yj6pEnR/)
 - OurNotesOfficial，2026-09-13：[全球上线官方预告](https://www.bilibili.com/video/BV1cyYi6REXH/)
 - OurNotesOfficial，2026-09-22：[《Abracadabra》MV 预告与国际服先行实装说明](https://www.bilibili.com/video/BV1Xiha6dEKR/)
+- 応为，2026-09-25：[Ave Mujica 动画后续特别篇录屏](https://www.bilibili.com/video/BV19YaK6dEbg/)
+- 応为，2026-09-25：[Ave Mujica 手游版剧情全语音及置顶补充](https://www.bilibili.com/video/BV1fmh26yEf3/)

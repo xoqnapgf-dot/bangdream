@@ -75,6 +75,9 @@
     var path = typeof file === 'string' ? '' : (file.path || '');
     var m = /^00_剧情区\/01_MyGO动画\/(\d{2})_(.+)\.(md|txt)$/i.exec(path);
     if (m) return '第' + m[1] + '集 · ' + m[2];
+    if (path === '00_剧情区/04_漫画游戏/MyGO剧情对白_英文版.md') {
+      return 'MyGO!!!!! 剧情对白（英文版）';
+    }
     return prettyName(name);
   }
 
@@ -235,13 +238,16 @@
       if (bili) {
         var bvid = bili[1];
         var videoTitle = bili[2] || 'Bilibili 视频';
-        out.push('<figure class="video-embed">' +
-          '<iframe src="https://player.bilibili.com/player.html?isOutside=true&bvid=' + encodeURIComponent(bvid) +
-          '&p=1&high_quality=1&danmaku=0" title="' + esc(videoTitle) +
-          '" loading="lazy" scrolling="no" frameborder="0" allowfullscreen></iframe>' +
+        out.push('<figure class="video-embed" data-bvid="' + esc(bvid) + '" data-title="' +
+          esc(videoTitle) + '">' +
+          '<div class="video-placeholder"><span class="video-mark">▶</span>' +
+          '<strong>' + esc(videoTitle) + '</strong>' +
+          '<span>按需载入播放器，避免 B 站外链限制直接显示错误页</span>' +
+          '<div class="video-actions"><button type="button" class="video-load">页面内播放</button>' +
+          '<a href="https://www.bilibili.com/video/' + encodeURIComponent(bvid) +
+          '/" target="_blank" rel="noopener">在 B 站打开</a></div></div>' +
           '<figcaption>' + esc(videoTitle) + ' · <a href="https://www.bilibili.com/video/' +
-          encodeURIComponent(bvid) + '/" target="_blank" rel="noopener">在 B 站打开</a></figcaption>' +
-          '</figure>');
+          encodeURIComponent(bvid) + '/" target="_blank" rel="noopener">在 B 站打开</a></figcaption></figure>');
         i++; continue;
       }
 
@@ -351,6 +357,72 @@
         a.className = 'ref-link';
         el.replaceWith(a);
       }
+    });
+  }
+
+  function normalizeRelativePath(baseFile, href) {
+    var raw = href.split('#')[0].split('?')[0];
+    try { raw = decodeURIComponent(raw); } catch (_) {}
+    var parts = baseFile.split('/');
+    parts.pop();
+    raw.split('/').forEach(function (part) {
+      if (!part || part === '.') return;
+      if (part === '..') parts.pop();
+      else parts.push(part);
+    });
+    return parts.join('/');
+  }
+
+  /* Markdown 的相对文件链接不能交给静态主机直接打开，否则会绕过单页路由而 404。 */
+  function resolveContentLinks(container, currentPath) {
+    container.querySelectorAll('a[href]').forEach(function (a) {
+      var href = a.getAttribute('href') || '';
+      if (!href || /^(?:https?:|mailto:|#\/|\/\/)/i.test(href)) return;
+      if (href.charAt(0) === '#') return;
+      var target = normalizeRelativePath(currentPath, href);
+      if (state.byPath[target]) {
+        a.href = '#/' + target;
+        a.classList.add('ref-link');
+      } else {
+        a.removeAttribute('href');
+        a.classList.add('broken-ref');
+        a.title = '资料库中未找到目标文件：' + target;
+      }
+    });
+  }
+
+  function activateVideos(container) {
+    container.querySelectorAll('.video-embed .video-load').forEach(function (button) {
+      button.addEventListener('click', function () {
+        var figure = button.closest('.video-embed');
+        if (!figure || figure.querySelector('iframe')) return;
+        var bvid = figure.dataset.bvid;
+        var iframe = document.createElement('iframe');
+        iframe.src = 'https://player.bilibili.com/player.html?isOutside=true&bvid=' +
+          encodeURIComponent(bvid) + '&p=1&autoplay=0&high_quality=1&danmaku=0';
+        iframe.title = figure.dataset.title || 'Bilibili 视频';
+        iframe.loading = 'lazy';
+        iframe.scrolling = 'no';
+        iframe.frameBorder = '0';
+        iframe.allowFullscreen = true;
+        figure.querySelector('.video-placeholder').replaceWith(iframe);
+      });
+    });
+  }
+
+  function guardImages(container) {
+    container.querySelectorAll('img').forEach(function (img) {
+      img.addEventListener('error', function () {
+        if (img.dataset.failed) return;
+        img.dataset.failed = '1';
+        var a = document.createElement('a');
+        a.className = 'media-fallback';
+        a.href = img.src;
+        a.target = '_blank';
+        a.rel = 'noopener';
+        a.textContent = '配图暂时无法载入，点击打开原图';
+        img.replaceWith(a);
+      });
     });
   }
 
@@ -515,7 +587,9 @@
     var el = $('crumb');
     var html = '<a href="#/">' + esc(LIB) + '</a>';
     if (path) {
-      var parts = path.split('/'), acc = [];
+      var crumbPath = path === '00_剧情区/04_漫画游戏/MyGO剧情对白_英文版.md'
+        ? '00_剧情区/01_MyGO动画/MyGO剧情对白_英文版.md' : path;
+      var parts = crumbPath.split('/'), acc = [];
       parts.forEach(function (p, k) {
         acc.push(p);
         var last = k === parts.length - 1;
@@ -631,6 +705,9 @@
         box.className = 'content md';
         box.innerHTML = renderMarkdown(text);
         linkifyRefs(box);
+        resolveContentLinks(box, node.path);
+        activateVideos(box);
+        guardImages(box);
         buildToc(box);
       } else {
         box.className = 'content';
