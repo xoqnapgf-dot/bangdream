@@ -301,9 +301,17 @@
 
   /* ─────────── 侧栏树 ─────────── */
 
+  /* 角色目录里的「人设汇总」是这个角色的总览，固定排在同级文件的最前面。
+     纯排序上的置顶，不加徽标也不做任何视觉标记。 */
+  function pinRank(node) {
+    return (node.type === 'file' && /^人设汇总/.test(node.name)) ? 0 : 1;
+  }
+
   // 前端再次按目录 / 文件名中的数字排序，避免清单来源变化后集数乱序。
   function compareNodes(a, b) {
     if (a.type !== b.type) return a.type === 'dir' ? -1 : 1;
+    var ap = pinRank(a), bp = pinRank(b);
+    if (ap !== bp) return ap - bp;
     var am = /^(\d+)/.exec(a.name), bm = /^(\d+)/.exec(b.name);
     if (am && bm && +am[1] !== +bm[1]) return +am[1] - +bm[1];
     if (am && !bm) return -1;
