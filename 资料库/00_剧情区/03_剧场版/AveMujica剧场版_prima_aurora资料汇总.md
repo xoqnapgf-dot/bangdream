@@ -228,31 +228,17 @@ Introduction 用“发誓成为神”制造悬念，祥子角色页则用“履�
 
 ---
 
-## 八、TV 系列创作背景与 PV 观察（背景/分析层）
+## 八、PV 与已公开歌曲观察（分析层）
 
-> 本节用于解释为什么某些观察值得追踪，**不是电影剧情确认**。柿本广大访谈发表于 2025-03，主题是 TV 动画第 9 集之前的制作，早于电影正式资料公开。
+> 本节只分析电影官方 PV、电影同步宣传素材及电影插曲。
 
-### 8.1 监督公开谈过的系列创作方法
-
-柿本广大在 Animate Times 长访谈中说明，MyGO!!!!! 与 Ave Mujica 最初就是“两支乐队、十个人的 drama”；他希望描写现实乐队常见的解散、受挫、音乐性与实力差异造成的冲突，并把焦点放在人物“难以前进”和无法舍弃之物上。该访谈还给出几项理解电影宣传材料时有用的背景：
-
-- MyGO!!!!! 的朋克/裸露冲动与 Ave Mujica 的金属/技术和形式美，被有意识地设置为对照；
-- 脚本先决定若干“landmark”事件，其余发展会随人物的行动与感情反复重构，而不是让人物机械执行最初 plot；
-- 动画团队会从上下文主动补入构图呼应与细微表情，监督也明确重视物理距离和心理距离的错位；
-- TV 阶段的 Ave Mujica 被设计成“看似共依存，实际上并未彼此依存”的关系；海铃的核心恐惧被监督解释为“不被信任”，若麦则是靠持续努力抓住机会的野心家；
-- 睦在 TV 制作中逐渐成为影响全局的重要人物。
-
-监督所说的渡濑结月“演 13 个角色（13役）”，特指 **TV 第 3 集**。该集配音表的 13 个栏位是：若叶睦，以及 Mortis（旁白）、Mortis（みなみ）、Mortis（隆文）、Mortis（吉他）、Mortis（熊）、Mortis（猫）、Mortis（企鹅）、Mortis（九官鸟）、Mortis（萤火虫）、Mortis（水母）、Mortis（刺猬）、Mortis（鸡）。后 12 项是睦内心舞台里由 Mortis 扮演/模仿的形态，**不是 12 名长期登场的新角色，更不是“睦有 13 种人格”**。这只是 TV 第 3 集的演出与配音实例，和电影剧情目前没有已知关系。
-
-这些陈述支持“继续观察人物关系、舞台形式和细节呼应”，却不能证明电影必然解散、必然以睦为唯一中心，或某个 PV 镜头一定是伏笔。
-
-### 8.2 两支公开 PV 能确认到哪一步
+### 8.1 两支公开 PV 能确认到哪一步
 
 - 2026-07 的最新 PV 与同步公开素材确认故事跨到春季，并发布五人的春季新便服插图；这与官网写明的“半年以上后、季节为春”互相印证。
 - 2026-09 的本 PV 时长约 67 秒，使用《A Song Of Romance》，并公开 Ave Mujica 的舞台演出画面。官方新闻只把它描述为能感受电影世界观的影像，没有发布逐镜头剧情说明。
 - 因而“舞台规模升级”“歌曲必然对应特定角色恋爱关系”“PV 剪辑顺序就是正片时间顺序”等说法，都只能是二次解读。尤其宣传 PV 常会重新编排镜头与音乐，不能据剪辑制造伪剧情。
 
-### 8.3 《A Song Of Romance》的低风险文本观察
+### 8.2 《A Song Of Romance》的低风险文本观察
 
 公开歌词出现“伤口”“追忆”“重生”“拥抱伤痕累累的星”“分享孤独”等意象。日语分析博客据此把 Romance 读成对受伤者的理解、回应与共同承担；西语媒体则注意到明亮的“romance”标题与 Ave Mujica 黑暗舞台美学之间的反差。
 
@@ -296,7 +282,6 @@ Introduction 用“发誓成为神”制造悬念，祥子角色页则用“履�
 - 把“成为女神”统一校正为“成为神”。
 - 改正制作关系的两种极端写法：正式 credit 是 Nichicaline；Nichicaline 同时是 SANZIGEN 于 2025 年公布的工作室品牌，并非无关公司。
 - 删除“不是总集篇，所以必然直接桥接 2027 TV 第一集”的混合推断：前半句可由官方确认，后半句尚无官方说明。
-- 修正“渡濑结月演绎 13 种人格”的旧二手说法：TV 第 3 集片尾把若叶睦和 12 种 Mortis 扮演形态分别列为配音角色，监督因此概括为“一人 13 役”；这是单集配音设计，不是医学诊断，也不是电影内容确认。
 - 不再以低可信转载站的心理惊悚宣传语充当官方类型定义。
 
 ---
@@ -356,12 +341,10 @@ Introduction 用“发誓成为神”制造悬念，祥子角色页则用“履�
 - [Bushiroad / PR TIMES 本 PV 新闻稿（亦明确 2027 TV 是“同作的续篇”）](https://prtimes.jp/main/html/rd/p/000009745.000014827.html)
 - [Tower Records（上映日、PV 与《神の名を》）](https://tower.jp/article/news/2026/08/03/tg008)
 - [4Gamers（木棉花台湾、香港发行公告）](https://www.4gamers.com.tw/news/detail/81032/bang-dream-ave-mujica-prima-aurora-release-in-taiwan)
-- [Animate Times 柿本广大监督长访谈（2025-03-06；TV 动画制作背景，非电影专访）](https://www.animatetimes.com/news/details.php?id=1741242390)
 - [Comic Natalie（本 PV 时长/舞台画面与舞台挨拶交叉核对）](https://natalie.mu/comic/news/689574)
 - [Cinema Sunshine（发行简介标注“会員制のマスカレード〔ルビ：シークレットマスカレード〕”）](https://www.cinemasunshine.co.jp/movies/2470)
 - [巴哈姆特电影资讯讨论（繁中社区样本）](https://forum.gamer.com.tw/C.php?bsn=47099&snA=5728)
 - [Reddit r/anime key visual / synopsis 讨论（英语社区样本）](https://www.reddit.com/r/anime/comments/1vatp5t/bang_dream_ave_mujica_prima_aurora_key_visual/)
 - [《A Song Of Romance》日语歌词解读样本](https://pvmv.uta5.com/entry/2026/09/15/003613)
 - [MultiAnime（西语媒体对 Romance 与暗色舞台反差的解读样本）](https://multianime.com.mx/2026/09/14/ave-mujica-prima-aurora-revela-trailer-oficial-con-la-nueva-cancion-a-song-of-romance-antes-de-su-estreno-anime-avemujica-bangdream-cine/)
-- [TV 第 3 集配音角色表（核对渡濑结月“一人 13 役”的具体栏位）](https://www.fukikaekingdom.com/bang-dream-ave-mujica/)
 - [*aurora* 词源参考](https://www.etymonline.com/word/aurora)
