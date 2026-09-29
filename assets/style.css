@@ -376,9 +376,11 @@ html[data-theme="dark"] .ico-moon { display: block; }
   background: var(--bg-soft);
 }
 .md .image-gallery img {
-  width: 100%; height: auto; margin: 0; border: 0; border-radius: 0;
+  width: 100%; aspect-ratio: 16 / 9; height: auto; margin: 0;
+  border: 0; border-radius: 0; object-fit: contain; background: var(--bg-sink);
 }
 .md .image-gallery figcaption {
+  min-height: 42px; display: flex; align-items: center; justify-content: center;
   margin-top: auto; padding: 8px 10px; color: var(--tx-faint);
   font-size: 12px; line-height: 1.45; text-align: center;
 }

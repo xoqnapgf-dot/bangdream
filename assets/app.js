@@ -421,7 +421,8 @@
   var PINNED_FILES = [
     '00_剧情区/04_漫画游戏/MyGO_漫画游戏情节汇总.md',
     '00_剧情区/05_官方访谈与设定/MyGO_确证内容汇总.md',
-    '00_剧情区/06_社区解析_推测/MyGO_分析推测汇总.md'
+    '00_剧情区/06_社区解析_推测/MyGO_分析推测汇总.md',
+    '00_剧情区/07_CP线梳理/MyGO_CP线梳理.md'
   ];
   function pinRank(node) {
     if (node.type !== 'file') return 1;
