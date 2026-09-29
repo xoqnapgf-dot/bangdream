@@ -7,34 +7,76 @@ permissions:
   contents: write
 jobs:
   collect:
+    strategy:
+      fail-fast: false
+      matrix:
+        bvid:
+          - BV15S7G6uE85
+          - BV18qaV6TEiX
+          - BV19YaK6dEbg
+          - BV1CYaA6FEPD
+          - BV1Jy42187oc
+          - BV1LPa56UEG5
+          - BV1MTah6QECq
+          - BV1N17p6XEAX
+          - BV1V1Yj6pEnR
+          - BV1Xiha6dEKR
+          - BV1ZLeG6JEha
+          - BV1amhB6rEdi
+          - BV1bgacz7E4J
+          - BV1cyYi6REXH
+          - BV1gP411u7kS
+          - BV1iyyrYFESJ
+          - BV1nz421B7Yy
+          - BV1tEYE6UEkS
+          - BV1xtYC6UEwN
+    runs-on: ubuntu-latest
+    steps:
+      - run: pip install -q requests
+      - name: Read one video
+        env:
+          BVID: ${{ matrix.bvid }}
+        run: |
+          mkdir -p /tmp/meta
+          python - <<'PY'
+          import json, os, pathlib, requests
+          bvid=os.environ['BVID']; out={}
+          try:
+              r=requests.get('https://api.bilibili.com/x/web-interface/view',params={'bvid':bvid},headers={'User-Agent':'Mozilla/5.0','Referer':'https://www.bilibili.com/'},timeout=20)
+              p=r.json()
+              if r.status_code == 200 and p.get('code') == 0:
+                  d=p['data']; pages=d.get('pages') or []
+                  out[bvid]={'aid':d['aid'],'cid':pages[0]['cid'] if pages else d.get('cid'),'cover':d['pic'].replace('http://','https://'),'title':d['title']}
+              else: print(r.status_code,p.get('code'))
+          except Exception as e: print(repr(e))
+          pathlib.Path('/tmp/meta/'+bvid+'.json').write_text(json.dumps(out,ensure_ascii=False),encoding='utf-8')
+          PY
+      - uses: actions/upload-artifact@v4
+        with:
+          name: meta-${{ matrix.bvid }}
+          path: /tmp/meta/*.json
+  merge:
+    needs: collect
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
         with:
           ref: arena/01a0ed01-bangdream
-      - run: pip install -q requests
-      - name: Collect video metadata
+      - uses: actions/download-artifact@v4
+        with:
+          pattern: meta-*
+          path: /tmp/meta
+          merge-multiple: true
+      - name: Merge metadata
         run: |
           python - <<'PY'
-          import json, pathlib, re, requests, time
-          root=pathlib.Path('资料库')
-          vids=set()
-          for p in root.rglob('*.md'):
-              vids.update(re.findall(r'@\[bilibili\]\((BV[0-9A-Za-z]+)',p.read_text('utf-8',errors='ignore')))
-          out={}
-          headers={'User-Agent':'Mozilla/5.0','Referer':'https://www.bilibili.com/'}
-          for bvid in sorted(vids):
-              try:
-                  r=requests.get('https://api.bilibili.com/x/web-interface/view',params={'bvid':bvid},headers=headers,timeout=20)
-                  payload=r.json()
-                  if r.status_code != 200 or payload.get('code') != 0:
-                      print('skip',bvid,r.status_code,payload.get('code')); continue
-                  d=payload['data']; pages=d.get('pages') or []
-                  out[bvid]={'aid':d['aid'],'cid':pages[0]['cid'] if pages else d.get('cid'),'cover':d['pic'],'title':d['title']}
-              except Exception as e:
-                  print('skip',bvid,repr(e))
-              time.sleep(.5)
-          pathlib.Path('assets/video-meta.json').write_text(json.dumps(out,ensure_ascii=False,separators=(',',':')),encoding='utf-8')
+          import json, pathlib
+          target=pathlib.Path('assets/video-meta.json')
+          out=json.loads(target.read_text('utf-8')) if target.exists() else {}
+          for p in pathlib.Path('/tmp/meta').glob('*.json'):
+              out.update(json.loads(p.read_text('utf-8')))
+          for x in out.values(): x['cover']=x['cover'].replace('http://','https://')
+          target.write_text(json.dumps(out,ensure_ascii=False,separators=(',',':')),encoding='utf-8')
           print('collected',len(out),'videos')
           PY
       - name: Return metadata
@@ -42,5 +84,6 @@ jobs:
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
           git add assets/video-meta.json
-          git commit -m '更新 B 站视频播放元数据'
+          git diff --cached --quiet && exit 0
+          git commit -m '补全 B 站视频播放元数据'
           git push origin HEAD:arena/01a0ed01-bangdream
