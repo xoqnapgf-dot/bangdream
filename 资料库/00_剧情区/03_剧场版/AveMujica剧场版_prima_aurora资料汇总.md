@@ -240,7 +240,9 @@ Introduction 用“发誓成为神”制造悬念，祥子角色页则用“履�
 - 脚本先决定若干“landmark”事件，其余发展会随人物的行动与感情反复重构，而不是让人物机械执行最初 plot；
 - 动画团队会从上下文主动补入构图呼应与细微表情，监督也明确重视物理距离和心理距离的错位；
 - TV 阶段的 Ave Mujica 被设计成“看似共依存，实际上并未彼此依存”的关系；海铃的核心恐惧被监督解释为“不被信任”，若麦则是靠持续努力抓住机会的野心家；
-- 睦在 TV 制作中逐渐成为影响全局的重要人物。监督当时也明确说，渡濑结月最终需要“演 13 个角色（13役）”；这属于 **TV 制作秘话**，不能擅自改写成医学意义上的“13 种人格”，也不能推导电影会再次采用相同数量或相同表现方式。
+- 睦在 TV 制作中逐渐成为影响全局的重要人物。
+
+监督所说的渡濑结月“演 13 个角色（13役）”，特指 **TV 第 3 集**。该集配音表的 13 个栏位是：若叶睦，以及 Mortis（旁白）、Mortis（南）、Mortis（隆文）、Mortis（吉他）、Mortis（熊）、Mortis（猫）、Mortis（企鹅）、Mortis（九官鸟）、Mortis（萤火虫）、Mortis（水母）、Mortis（刺猬）、Mortis（鸡）。后 12 项是睦内心舞台里由 Mortis 扮演/模仿的形态，**不是 12 名长期登场的新角色，更不是“睦有 13 种人格”**。这只是 TV 第 3 集的演出与配音实例，和电影剧情目前没有已知关系。
 
 这些陈述支持“继续观察人物关系、舞台形式和细节呼应”，却不能证明电影必然解散、必然以睦为唯一中心，或某个 PV 镜头一定是伏笔。
 
@@ -294,7 +296,7 @@ Introduction 用“发誓成为神”制造悬念，祥子角色页则用“履�
 - 把“成为女神”统一校正为“成为神”。
 - 改正制作关系的两种极端写法：正式 credit 是 Nichicaline；Nichicaline 同时是 SANZIGEN 于 2025 年公布的工作室品牌，并非无关公司。
 - 删除“不是总集篇，所以必然直接桥接 2027 TV 第一集”的混合推断：前半句可由官方确认，后半句尚无官方说明。
-- 修正“渡濑结月演绎 13 种人格”的旧二手说法：监督访谈原话是 TV 动画制作过程中“最终变成演 13 个角色（13役）”，可作为 TV 配音制作秘话；它不是医学上的“13 种人格”诊断，也不是电影内容确认。
+- 修正“渡濑结月演绎 13 种人格”的旧二手说法：TV 第 3 集片尾把若叶睦和 12 种 Mortis 扮演形态分别列为配音角色，监督因此概括为“一人 13 役”；这是单集配音设计，不是医学诊断，也不是电影内容确认。
 - 不再以低可信转载站的心理惊悚宣传语充当官方类型定义。
 
 ---
@@ -322,43 +324,44 @@ Introduction 用“发誓成为神”制造悬念，祥子角色页则用“履�
 
 ### 官方一手来源
 
-- 电影官网：https://avemujica-movie.bang-dream.com/
-- Introduction：https://avemujica-movie.bang-dream.com/introduction/
-- Staff & Cast：https://avemujica-movie.bang-dream.com/staff-cast/
-- Character 总页：https://avemujica-movie.bang-dream.com/character/
-- 三角初华：https://avemujica-movie.bang-dream.com/character/uika/
-- 若叶睦：https://avemujica-movie.bang-dream.com/character/mutsumi/
-- 八幡海铃：https://avemujica-movie.bang-dream.com/character/umiri/
-- 祐天寺若麦：https://avemujica-movie.bang-dream.com/character/nyamu/
-- 丰川祥子：https://avemujica-movie.bang-dream.com/character/sakiko/
-- 2025-08 电影项目首次发表（ANN 记录）：https://www.animenewsnetwork.com/news/2025-08-15/bang-dream-ave-mujica-anime-gets-new-film-new-mini-anime-details-revealed/.227675
-- 2026-01-12 正式发表：https://avemujica-movie.bang-dream.com/news/post-1
-- 2026-07-30 预售信息：https://avemujica-movie.bang-dream.com/news/post-2
-- 日本上映馆清单：https://avemujica-movie.bang-dream.com/theater/
-- 2026-09-14 第二弹 Movie Ticket：https://avemujica-movie.bang-dream.com/news/post-4
-- 本 PV：https://www.youtube.com/watch?v=Sr1w-prNbH0
-- 首映舞台挨拶：https://bang-dream.com/news/2406/
-- 《A Song Of Romance》官方唱片页：https://bang-dream.com/discographies/4266/
-- 迷你专辑《神の名を》官方唱片页：https://bang-dream.com/discographies/4238/
-- 2026 年 BanG Dream! 复映企划：https://bang-dream.com/news/2380/
-- SANZIGEN 对 Nichicaline 品牌的官方说明：https://www.sanzigen.co.jp/news/20250907.html
-- SANZIGEN 官方站（确认本片制作署名并列出场刊消息）：https://www.sanzigen.co.jp/
-- Bushiroad Works 官方场刊页（2026-10-16，A4/32页/1,430日元，含 cast & staff interviews）：https://bushiroad-works.com/avemujica-primaaurora-pamphlet/
-- 木棉花台湾官方 PV：https://www.youtube.com/watch?v=QVPQvvJ9DnA
-- Ave Mujica 官方哔哩哔哩主 PV：https://www.bilibili.com/video/BV1xtYC6UEwN/
+- [电影官网](https://avemujica-movie.bang-dream.com/)
+- [Introduction](https://avemujica-movie.bang-dream.com/introduction/)
+- [Staff & Cast](https://avemujica-movie.bang-dream.com/staff-cast/)
+- [Character 总页](https://avemujica-movie.bang-dream.com/character/)
+- [三角初华](https://avemujica-movie.bang-dream.com/character/uika/)
+- [若叶睦](https://avemujica-movie.bang-dream.com/character/mutsumi/)
+- [八幡海铃](https://avemujica-movie.bang-dream.com/character/umiri/)
+- [祐天寺若麦](https://avemujica-movie.bang-dream.com/character/nyamu/)
+- [丰川祥子](https://avemujica-movie.bang-dream.com/character/sakiko/)
+- [2025-08 电影项目首次发表（ANN 记录）](https://www.animenewsnetwork.com/news/2025-08-15/bang-dream-ave-mujica-anime-gets-new-film-new-mini-anime-details-revealed/.227675)
+- [2026-01-12 正式发表](https://avemujica-movie.bang-dream.com/news/post-1)
+- [2026-07-30 预售信息](https://avemujica-movie.bang-dream.com/news/post-2)
+- [日本上映馆清单](https://avemujica-movie.bang-dream.com/theater/)
+- [2026-09-14 第二弹 Movie Ticket](https://avemujica-movie.bang-dream.com/news/post-4)
+- [本 PV](https://www.youtube.com/watch?v=Sr1w-prNbH0)
+- [首映舞台挨拶](https://bang-dream.com/news/2406/)
+- [《A Song Of Romance》官方唱片页](https://bang-dream.com/discographies/4266/)
+- [迷你专辑《神の名を》官方唱片页](https://bang-dream.com/discographies/4238/)
+- [2026 年 BanG Dream! 复映企划](https://bang-dream.com/news/2380/)
+- [SANZIGEN 对 Nichicaline 品牌的官方说明](https://www.sanzigen.co.jp/news/20250907.html)
+- [SANZIGEN 官方站（确认本片制作署名并列出场刊消息）](https://www.sanzigen.co.jp/)
+- [Bushiroad Works 官方场刊页（2026-10-16，A4/32页/1,430日元，含 cast & staff interviews）](https://bushiroad-works.com/avemujica-primaaurora-pamphlet/)
+- [木棉花台湾官方 PV](https://www.youtube.com/watch?v=QVPQvvJ9DnA)
+- [Ave Mujica 官方哔哩哔哩主 PV](https://www.bilibili.com/video/BV1xtYC6UEwN/)
 
 ### 交叉核对来源
 
-- Anime News Network（2026-07-30，上映日与 PV）：https://www.animenewsnetwork.com/news/2026-07-30/bang-dream-ave-mujica-film-trailer-reveals-october-16-opening/.240118
-- Anime News Network（2026-09-14，本 PV 与插曲）：https://www.animenewsnetwork.com/news/2026-09-14/bang-dream-ave-mujica-film-trailer-previews-new-song/.241772
-- Bushiroad / PR TIMES 本 PV 新闻稿（亦明确 2027 TV 是“同作的续篇”）：https://prtimes.jp/main/html/rd/p/000009745.000014827.html
-- Tower Records（上映日、PV 与《神の名を》）：https://tower.jp/article/news/2026/08/03/tg008
-- 4Gamers（木棉花台湾、香港发行公告）：https://www.4gamers.com.tw/news/detail/81032/bang-dream-ave-mujica-prima-aurora-release-in-taiwan
-- Animate Times 柿本广大监督长访谈（2025-03-06；TV 动画制作背景，非电影专访）：https://www.animatetimes.com/news/details.php?id=1741242390
-- Comic Natalie（本 PV 时长/舞台画面与舞台挨拶交叉核对）：https://natalie.mu/comic/news/689574
-- Cinema Sunshine（发行简介标注“会員制のマスカレード〔ルビ：シークレットマスカレード〕”）：https://www.cinemasunshine.co.jp/movies/2470
-- 巴哈姆特电影资讯讨论（繁中社区样本）：https://forum.gamer.com.tw/C.php?bsn=47099&snA=5728
-- Reddit r/anime key visual / synopsis 讨论（英语社区样本）：https://www.reddit.com/r/anime/comments/1vatp5t/bang_dream_ave_mujica_prima_aurora_key_visual/
-- 《A Song Of Romance》日语歌词解读样本：https://pvmv.uta5.com/entry/2026/09/15/003613
-- MultiAnime（西语媒体对 Romance 与暗色舞台反差的解读样本）：https://multianime.com.mx/2026/09/14/ave-mujica-prima-aurora-revela-trailer-oficial-con-la-nueva-cancion-a-song-of-romance-antes-de-su-estreno-anime-avemujica-bangdream-cine/
-- *aurora* 词源参考：https://www.etymonline.com/word/aurora
+- [Anime News Network（2026-07-30，上映日与 PV）](https://www.animenewsnetwork.com/news/2026-07-30/bang-dream-ave-mujica-film-trailer-reveals-october-16-opening/.240118)
+- [Anime News Network（2026-09-14，本 PV 与插曲）](https://www.animenewsnetwork.com/news/2026-09-14/bang-dream-ave-mujica-film-trailer-previews-new-song/.241772)
+- [Bushiroad / PR TIMES 本 PV 新闻稿（亦明确 2027 TV 是“同作的续篇”）](https://prtimes.jp/main/html/rd/p/000009745.000014827.html)
+- [Tower Records（上映日、PV 与《神の名を》）](https://tower.jp/article/news/2026/08/03/tg008)
+- [4Gamers（木棉花台湾、香港发行公告）](https://www.4gamers.com.tw/news/detail/81032/bang-dream-ave-mujica-prima-aurora-release-in-taiwan)
+- [Animate Times 柿本广大监督长访谈（2025-03-06；TV 动画制作背景，非电影专访）](https://www.animatetimes.com/news/details.php?id=1741242390)
+- [Comic Natalie（本 PV 时长/舞台画面与舞台挨拶交叉核对）](https://natalie.mu/comic/news/689574)
+- [Cinema Sunshine（发行简介标注“会員制のマスカレード〔ルビ：シークレットマスカレード〕”）](https://www.cinemasunshine.co.jp/movies/2470)
+- [巴哈姆特电影资讯讨论（繁中社区样本）](https://forum.gamer.com.tw/C.php?bsn=47099&snA=5728)
+- [Reddit r/anime key visual / synopsis 讨论（英语社区样本）](https://www.reddit.com/r/anime/comments/1vatp5t/bang_dream_ave_mujica_prima_aurora_key_visual/)
+- [《A Song Of Romance》日语歌词解读样本](https://pvmv.uta5.com/entry/2026/09/15/003613)
+- [MultiAnime（西语媒体对 Romance 与暗色舞台反差的解读样本）](https://multianime.com.mx/2026/09/14/ave-mujica-prima-aurora-revela-trailer-oficial-con-la-nueva-cancion-a-song-of-romance-antes-de-su-estreno-anime-avemujica-bangdream-cine/)
+- [TV 第 3 集配音角色表（核对渡濑结月“一人 13 役”的具体栏位）](https://www.fukikaekingdom.com/bang-dream-ave-mujica/)
+- [*aurora* 词源参考](https://www.etymonline.com/word/aurora)

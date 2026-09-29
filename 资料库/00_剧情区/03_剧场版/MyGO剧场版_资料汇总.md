@@ -196,35 +196,35 @@ TV 版需要把观众送入《Ave Mujica》，所以让第 13 集承担双重任
 
 ### 官方来源
 
-- 剧场版官网 Introduction：https://mygo-movie.bang-dream.com/introduction/
-- 剧场版官网 Staff & Cast：https://mygo-movie.bang-dream.com/staff-cast/
-- 剧场版官网 Blu-ray：https://mygo-movie.bang-dream.com/blu-ray/
-- 官方制作决定公告：https://anime.bang-dream.com/mygo/news/post-26
-- 官方上映日期公告：https://mygo-movie.bang-dream.com/news/post-6
-- 官方定额配信公告：https://bang-dream.com/news/2351/
-- 2026 年复映公告：https://bang-dream.com/news/2380/
-- 前篇 Blu-ray 商品页：https://bang-dream.com/discographies/4118/
-- 后篇 Blu-ray 商品页：https://bang-dream.com/discographies/4119/
-- 前篇 ED《過惰幻》与 Dolby Atmos 公告：https://bang-dream.com/news/1924
-- 后篇 ED《歩拾道》与 Dolby Atmos 公告：https://bang-dream.com/news/1951
-- 后篇 ED《歩拾道》官方 MV：https://www.youtube.com/watch?v=vIPvmAQdCfI
-- 前后篇首映舞台挨拶日程：https://mygo-movie.bang-dream.com/event/
-- 前篇官方场刊新闻稿：https://bushiroad.com/media/be17d59a77727b46
-- 后篇官方场刊新闻稿：https://bushiroad.com/media/e0b5638f2defcab2
-- 后篇舞台挨拶报道（含 FILM LIVE 曲目与制作说明）：https://gamebiz.jp/news/395550
-- 青木阳菜、林鼓子上映访谈：https://animatetimes.com/news/details.php?id=1727679390
-- 羊宫妃那、小日向美香上映访谈：https://www.animatetimes.com/news/details.php?id=1731030888
+- [剧场版官网 Introduction](https://mygo-movie.bang-dream.com/introduction/)
+- [剧场版官网 Staff & Cast](https://mygo-movie.bang-dream.com/staff-cast/)
+- [剧场版官网 Blu-ray](https://mygo-movie.bang-dream.com/blu-ray/)
+- [官方制作决定公告](https://anime.bang-dream.com/mygo/news/post-26)
+- [官方上映日期公告](https://mygo-movie.bang-dream.com/news/post-6)
+- [官方定额配信公告](https://bang-dream.com/news/2351/)
+- [2026 年复映公告](https://bang-dream.com/news/2380/)
+- [前篇 Blu-ray 商品页](https://bang-dream.com/discographies/4118/)
+- [后篇 Blu-ray 商品页](https://bang-dream.com/discographies/4119/)
+- [前篇 ED《過惰幻》与 Dolby Atmos 公告](https://bang-dream.com/news/1924)
+- [后篇 ED《歩拾道》与 Dolby Atmos 公告](https://bang-dream.com/news/1951)
+- [后篇 ED《歩拾道》官方 MV](https://www.youtube.com/watch?v=vIPvmAQdCfI)
+- [前后篇首映舞台挨拶日程](https://mygo-movie.bang-dream.com/event/)
+- [前篇官方场刊新闻稿](https://bushiroad.com/media/be17d59a77727b46)
+- [后篇官方场刊新闻稿](https://bushiroad.com/media/e0b5638f2defcab2)
+- [后篇舞台挨拶报道（含 FILM LIVE 曲目与制作说明）](https://gamebiz.jp/news/395550)
+- [青木阳菜、林鼓子上映访谈](https://animatetimes.com/news/details.php?id=1727679390)
+- [羊宫妃那、小日向美香上映访谈](https://www.animatetimes.com/news/details.php?id=1731030888)
 
 ### 作品资料与观众记录（用于交叉核对新增镜头；均非官方设定）
 
-- MOVIE WALKER PRESS 前篇资料：https://press.moviewalker.jp/mv86418/
-- MOVIE WALKER PRESS 后篇资料：https://press.moviewalker.jp/mv86419/
-- 香港前篇影院资料：https://hkmovie6.com/movie/87507f82-35b8-4692-b8c5-39c39fce6101/
-- 香港后篇影院资料：https://hkmovie6.com/movie/68df2636-c840-4855-9943-a2f01b919d87/
-- 台湾威秀前篇资料：https://www.vscinemas.com.tw/film/detail.aspx?id=8419
-- 台湾威秀后篇资料：https://www.vscinemas.com.tw/film/detail.aspx?id=8427
-- 矛盾ケヴァット前篇感想：https://halkenborg.hatenablog.com/entry/2024/09/30/073841
-- ビッテン前篇感想：https://note.com/dij_bitten/n/n83b0ca300f48
-- ビッテン后篇感想：https://note.com/dij_bitten/n/ne09a7838cd47
-- 四十の一部始终后篇记录：https://tensei-yabuki.hatenablog.com/entry/2025/01/02/180000
-- ケルティック☆タイチ前后篇记录：https://note.com/celtic_ta1/n/n00daa7db8242
+- [MOVIE WALKER PRESS 前篇资料](https://press.moviewalker.jp/mv86418/)
+- [MOVIE WALKER PRESS 后篇资料](https://press.moviewalker.jp/mv86419/)
+- [香港前篇影院资料](https://hkmovie6.com/movie/87507f82-35b8-4692-b8c5-39c39fce6101/)
+- [香港后篇影院资料](https://hkmovie6.com/movie/68df2636-c840-4855-9943-a2f01b919d87/)
+- [台湾威秀前篇资料](https://www.vscinemas.com.tw/film/detail.aspx?id=8419)
+- [台湾威秀后篇资料](https://www.vscinemas.com.tw/film/detail.aspx?id=8427)
+- [矛盾ケヴァット前篇感想](https://halkenborg.hatenablog.com/entry/2024/09/30/073841)
+- [ビッテン前篇感想](https://note.com/dij_bitten/n/n83b0ca300f48)
+- [ビッテン后篇感想](https://note.com/dij_bitten/n/ne09a7838cd47)
+- [四十の一部始终后篇记录](https://tensei-yabuki.hatenablog.com/entry/2025/01/02/180000)
+- [ケルティック☆タイチ前后篇记录](https://note.com/celtic_ta1/n/n00daa7db8242)
