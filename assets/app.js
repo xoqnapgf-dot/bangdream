@@ -249,7 +249,7 @@
           (meta.cid ? ' data-cid="' + esc(meta.cid) + '"' : '');
         out.push('<figure class="video-embed"' + mediaAttrs + '>' +
           '<button type="button" class="video-preview" aria-label="播放：' + esc(videoTitle) + '">' +
-          (meta.cover ? '<img src="' + esc(meta.cover) + '" alt="" loading="lazy">' : '') +
+          (meta.cover ? '<img src="' + esc(meta.cover) + '" alt="" loading="lazy" referrerpolicy="no-referrer">' : '') +
           '<span class="video-shade"></span><span class="video-mark">▶</span>' +
           '<strong>' + esc(videoTitle) + '</strong></button>' +
           '<figcaption><a href="https://www.bilibili.com/video/' + encodeURIComponent(bvid) +
