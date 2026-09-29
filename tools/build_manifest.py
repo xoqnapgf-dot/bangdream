@@ -13,6 +13,7 @@ LIB = ROOT / "资料库"
 OUT = ROOT / "assets" / "manifest.json"
 
 TEXT_EXT = {".md", ".txt"}
+BEIJING_TZ = datetime.timezone(datetime.timedelta(hours=8))
 
 
 def read_text(p: pathlib.Path) -> str:
@@ -110,7 +111,8 @@ def main():
     total = sum(p.stat().st_size for p in LIB.rglob("*") if p.is_file())
     data = {
         "root": LIB.name,
-        "generated": datetime.datetime.now().strftime("%Y-%m-%d %H:%M"),
+        # 固定使用北京时间，避免生成环境的本地时区影响页面显示。
+        "generated": datetime.datetime.now(BEIJING_TZ).strftime("%Y-%m-%d %H:%M"),
         "stats": {"files": nf, "dirs": nd, "bytes": total},
         "tree": tree,
     }

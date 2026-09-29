@@ -516,7 +516,7 @@
   /* ─────────── 视图：首页 ─────────── */
 
   function viewHome() {
-    crumb('', state.manifest.generated + ' 生成');
+    crumb('', '北京时间 ' + state.manifest.generated + ' 生成');
     var s = state.manifest.stats;
     var kids = state.manifest.tree.children || [];
     var dirs = kids.filter(function (c) { return c.type === 'dir'; });

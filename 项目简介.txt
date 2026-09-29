@@ -110,7 +110,7 @@
 python3 tools/build_manifest.py
 ```
 
-`assets/manifest.json` 由脚本生成，不应手工修改。
+`assets/manifest.json` 由脚本生成，不应手工修改。页面显示的清单生成时间固定使用北京时间（UTC+8），不跟随运行脚本的服务器时区。
 
 ### 2. 本地预览
 
@@ -200,6 +200,7 @@ GitHub Pages 从 `main` 分支根目录部署，合并后网站才会更新。
 - 新增受限的 Bilibili 视频语法，并嵌入 MyGO!!!!! 前后篇预告和《prima aurora》主 PV。
 - 修正 Bilibili 站外播放器参数，支持页面内正常播放。
 - 角色目录中的人设汇总文件改为优先显示。
+- Manifest 生成时间统一为北京时间，并在页面上明确标注。
 
 ### 初始版本
 
