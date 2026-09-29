@@ -362,6 +362,22 @@ html[data-theme="dark"] .ico-moon { display: block; }
   margin: 18px auto; border-radius: 10px;
   border: 1px solid var(--line); background: var(--bg-soft);
 }
+.md .image-gallery {
+  display: grid; grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 14px; margin: 18px 0 24px;
+}
+.md .image-gallery .media-card {
+  display: flex; flex-direction: column; min-width: 0; margin: 0;
+  overflow: hidden; border: 1px solid var(--line); border-radius: 10px;
+  background: var(--bg-soft);
+}
+.md .image-gallery img {
+  width: 100%; height: auto; margin: 0; border: 0; border-radius: 0;
+}
+.md .image-gallery figcaption {
+  margin-top: auto; padding: 8px 10px; color: var(--tx-faint);
+  font-size: 12px; line-height: 1.45; text-align: center;
+}
 .md .video-embed {
   margin: 18px 0 22px;
 }

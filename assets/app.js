@@ -190,6 +190,32 @@
         continue;
       }
 
+      // 图片画廊：围栏内只接受 HTTPS Markdown 图片，避免注入任意 HTML。
+      if (/^@\[gallery\]\s*$/.test(line)) {
+        var gallery = [];
+        i++;
+        while (i < lines.length && !/^@\[\/gallery\]\s*$/.test(lines[i].trim())) {
+          var galleryImage = /^!\[([^\]]*)\]\((https:\/\/[^\s)]+)(?:\s+"([^"]+)")?\)\s*$/.exec(lines[i].trim());
+          if (galleryImage) {
+            gallery.push({
+              alt: galleryImage[1],
+              src: galleryImage[2],
+              caption: galleryImage[3] || galleryImage[1]
+            });
+          }
+          i++;
+        }
+        if (i < lines.length) i++;
+        if (gallery.length) {
+          out.push('<div class="image-gallery">' + gallery.map(function (image) {
+            return '<figure class="media-card"><img src="' + esc(image.src) + '" alt="' +
+              esc(image.alt) + '" loading="lazy"><figcaption>' + esc(image.caption) +
+              '</figcaption></figure>';
+          }).join('') + '</div>');
+        }
+        continue;
+      }
+
       // Bilibili 视频：@[bilibili](BV号 "标题")
       // 只接受 BV 号，避免把任意 HTML / iframe 注入资料正文。
       var bili = /^@\[(?:bilibili|哔哩哔哩)\]\((BV[0-9A-Za-z]+)(?:\s+"([^"]+)")?\)\s*$/.exec(line);
@@ -266,7 +292,7 @@
       // 段落
       var p = [];
       while (i < lines.length && lines[i].trim() &&
-             !/^(#{1,6}\s|\s*>|\s*([-*+]|\d+[.)])\s|\s*(```|~~~)|@\[(?:bilibili|哔哩哔哩)\]\()/.test(lines[i]) &&
+             !/^(#{1,6}\s|\s*>|\s*([-*+]|\d+[.)])\s|\s*(```|~~~)|@\[(?:bilibili|哔哩哔哩)\]\(|@\[gallery\]\s*$)/.test(lines[i]) &&
              !/^\s*([-*_])\s*(\1\s*){2,}$/.test(lines[i])) {
         p.push(lines[i].trim()); i++;
       }

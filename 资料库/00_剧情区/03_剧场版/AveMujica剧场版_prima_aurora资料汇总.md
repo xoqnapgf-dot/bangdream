@@ -56,6 +56,8 @@
 > 祥子为下一个舞台提出的，是一场会员制假面舞会。  
 > 发誓要成为神的她，真正的盘算究竟是……
 
+![《BanG Dream! Ave Mujica prima aurora》官方先导视觉图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/index/img_kv_01.webp)
+
 ### 2.3 逐项校正
 
 - **会員制**应译为“会员制”，具体资格尚未公布。Introduction 正文写的是**会員制のマスカレード**；官网分享文案、海外宣传及日本影院发行资料使用 **シークレットマスカレード（Secret Masquerade）**。影院资料将后者标为前者的注音/读法，两者并非不同活动。
@@ -67,6 +69,14 @@
 ## 三、人物在电影官网中的新状态（事实层）
 
 电影官网角色页不只是复述 TV 版简介，还给出了故事时间推进后的状态。这些文本是目前判断“半年后五人分别在做什么”的最直接依据。
+
+@[gallery]
+![三角初华Doloris电影官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
+![若叶睦Mortis电影官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
+![八幡海铃Timoris电影官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
+![祐天寺若麦Amoris电影官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
+![丰川祥子Oblivionis电影官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
+@[/gallery]
 
 ### 3.1 三角初华 / Doloris
 
@@ -155,6 +165,11 @@
 - 截至 2026-09-29，公开曲目中可以确认第 4 轨为《A Song Of Romance》，其余曲名仍未在官方商品页完整揭晓。
 
 这 4 个 CD 音轨是专辑收录信息，不是正片的完整音乐清单；除《A Song Of Romance》外，各曲在电影中的用途也尚未公布。
+
+@[gallery]
+![Ave Mujica《A Song Of Romance》数字单曲封面](https://bang-dream.com/wordpress/wp-content/uploads/2026/09/14103024/fdc1d6a4-44675519-54a97694-1ac041ee.png "电影插曲《A Song Of Romance》")
+![Ave Mujica迷你专辑《神の名を》通常盘封面](https://bang-dream.com/wordpress/wp-content/uploads/2026/07/29133648/903370ec-6263906d-2ace75ab-0a03c76e.jpg "迷你专辑《神の名を》通常盘")
+@[/gallery]
 
 ### 5.3 官方场刊与尚未公开的电影访谈
 

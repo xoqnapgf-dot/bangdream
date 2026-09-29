@@ -26,11 +26,26 @@
 
 说明：118/119 分钟与 G 分级可由日本电影资料页、影院资料交叉核对；官方电影站主要确认片名、日期、作品性质与新增内容。
 
+### 官方角色图
+
+@[gallery]
+![高松燈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松燈 · Vo.")
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
+![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
+![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
+@[/gallery]
+
 ### 后续发行
 
 - 前后篇 Blu-ray 均于 **2025-11-05** 发售，各为单碟、定价 8,800 日元；品番分别为 **BRMM-10982 / BRMM-10983**。官方列有无障碍日语、英语、韩语、繁体中文、简体中文字幕，以及 Linear PCM 2.0ch / 3.1ch 音轨。初回生产版分别附复制原画套装 A / B、共同款随机拍立得风卡与各篇封面贴纸。
 - 官方于 2026 年公布，前后篇自 **2026-06-01 起**陆续进入日本的ニコニコ、FOD、Hulu、Anime Times、DMM TV、U-NEXT 与 animehodai 定额观看服务。这里是**日本平台清单**，不表示每个海外地区均可观看。
 - 为纪念《Ave Mujica prima aurora》上映，官方安排两部 MyGO!!!!! 剧场版于 **2026-09-27** 分别复映；公告特别说明是两部独立场次，并非一张票的连映套票。
+
+@[gallery]
+![MyGO剧场版前篇Blu-ray封面](https://bang-dream.com/2025/renew/8de31a60-a1b1-438d-b16f-d15962a701b7.jpg "前篇 Blu-ray 封面")
+![MyGO剧场版后篇Blu-ray封面](https://bang-dream.com/2025/renew/d5bb6d3a-8c26-4178-b874-f86403644c39.jpg "后篇 Blu-ray 封面")
+@[/gallery]
 
 ### 日本以外的院线上映记录
 
@@ -150,6 +165,14 @@ TV 动画第 13 集把大量篇幅交给 Ave Mujica 的成立与首次演出，�
 - 《過惰幻》于 2024-09-28 数字发行；同日起《過惰幻》《迷星叫》提供 Dolby Atmos 音源。
 - 《歩拾道》于 2024-11-09 数字发行；同日起《歩拾道》《壱雫空》提供 Dolby Atmos 音源。
 
+两首片尾曲均收录于 MyGO!!!!! 第二张专辑《跡暖空》。以下为官方数字单曲封面与专辑通常盘封面。
+
+@[gallery]
+![MyGO!!!!!《過惰幻》数字单曲封面](https://bang-dream.com/2025/renew/2e75ab1d-c2a3-4f76-8acc-3a28e48da2aa.png "前篇片尾曲《過惰幻》")
+![MyGO!!!!!《歩拾道》数字单曲封面](https://bang-dream.com/2025/renew/e7179647-ebc4-4693-90fc-b59b16b33252.jpg "后篇片尾曲《歩拾道》")
+![MyGO!!!!!第二张专辑《跡暖空》通常盘封面](https://bang-dream.com/2025/renew/3ed88d9f-a48f-4ff6-b285-039dcbab7a9d.jpg "第二张专辑《跡暖空》通常盘")
+@[/gallery]
+
 这两组 Atmos 公告是音乐平台版本信息，不代表影院声轨就是 Dolby Atmos，也不应反推出 Blu-ray 音轨规格。
 
 ### 5.2 主要制作与出演
@@ -204,6 +227,7 @@ TV 第 13 集还要引出《Ave Mujica》，电影则需要完成 MyGO!!!!! 前�
 
 - [剧场版官网 Introduction](https://mygo-movie.bang-dream.com/introduction/)
 - [剧场版官网 Staff & Cast](https://mygo-movie.bang-dream.com/staff-cast/)
+- [剧场版官网 Character（本文角色图来源）](https://mygo-movie.bang-dream.com/character/)
 - [剧场版官网 Blu-ray](https://mygo-movie.bang-dream.com/blu-ray/)
 - [官方制作决定公告](https://anime.bang-dream.com/mygo/news/post-26)
 - [官方上映日期公告](https://mygo-movie.bang-dream.com/news/post-6)
@@ -213,6 +237,7 @@ TV 第 13 集还要引出《Ave Mujica》，电影则需要完成 MyGO!!!!! 前�
 - [后篇 Blu-ray 商品页](https://bang-dream.com/discographies/4119/)
 - [前篇 ED《過惰幻》与 Dolby Atmos 公告](https://bang-dream.com/news/1924)
 - [后篇 ED《歩拾道》与 Dolby Atmos 公告](https://bang-dream.com/news/1951)
+- [第二张专辑《跡暖空》官方唱片页](https://bang-dream.com/discographies/3846/)
 - [后篇 ED《歩拾道》官方 MV](https://www.youtube.com/watch?v=vIPvmAQdCfI)
 - [前篇官方预告（Bilibili，本文内嵌）](https://www.bilibili.com/video/BV1nz421B7Yy/)
 - [后篇官方预告（Bilibili，本文内嵌）](https://www.bilibili.com/video/BV1iyyrYFESJ/)
