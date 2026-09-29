@@ -24,12 +24,16 @@ jobs:
           out={}
           headers={'User-Agent':'Mozilla/5.0','Referer':'https://www.bilibili.com/'}
           for bvid in sorted(vids):
-              r=requests.get('https://api.bilibili.com/x/web-interface/view',params={'bvid':bvid},headers=headers,timeout=20)
-              r.raise_for_status(); payload=r.json()
-              if payload.get('code') != 0: raise RuntimeError((bvid,payload))
-              d=payload['data']; pages=d.get('pages') or []
-              out[bvid]={'aid':d['aid'],'cid':pages[0]['cid'] if pages else d.get('cid'),'cover':d['pic'],'title':d['title']}
-              time.sleep(.25)
+              try:
+                  r=requests.get('https://api.bilibili.com/x/web-interface/view',params={'bvid':bvid},headers=headers,timeout=20)
+                  payload=r.json()
+                  if r.status_code != 200 or payload.get('code') != 0:
+                      print('skip',bvid,r.status_code,payload.get('code')); continue
+                  d=payload['data']; pages=d.get('pages') or []
+                  out[bvid]={'aid':d['aid'],'cid':pages[0]['cid'] if pages else d.get('cid'),'cover':d['pic'],'title':d['title']}
+              except Exception as e:
+                  print('skip',bvid,repr(e))
+              time.sleep(.5)
           pathlib.Path('assets/video-meta.json').write_text(json.dumps(out,ensure_ascii=False,separators=(',',':')),encoding='utf-8')
           print('collected',len(out),'videos')
           PY
