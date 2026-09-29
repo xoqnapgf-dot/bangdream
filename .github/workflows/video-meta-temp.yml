@@ -1,0 +1,42 @@
+name: Temporary Bilibili video metadata
+on:
+  workflow_dispatch:
+  push:
+    paths: ['.github/workflows/video-meta-temp.yml']
+permissions:
+  contents: write
+jobs:
+  collect:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: arena/01a0ed01-bangdream
+      - run: pip install -q requests
+      - name: Collect video metadata
+        run: |
+          python - <<'PY'
+          import json, pathlib, re, requests, time
+          root=pathlib.Path('资料库')
+          vids=set()
+          for p in root.rglob('*.md'):
+              vids.update(re.findall(r'@\[bilibili\]\((BV[0-9A-Za-z]+)',p.read_text('utf-8',errors='ignore')))
+          out={}
+          headers={'User-Agent':'Mozilla/5.0','Referer':'https://www.bilibili.com/'}
+          for bvid in sorted(vids):
+              r=requests.get('https://api.bilibili.com/x/web-interface/view',params={'bvid':bvid},headers=headers,timeout=20)
+              r.raise_for_status(); payload=r.json()
+              if payload.get('code') != 0: raise RuntimeError((bvid,payload))
+              d=payload['data']; pages=d.get('pages') or []
+              out[bvid]={'aid':d['aid'],'cid':pages[0]['cid'] if pages else d.get('cid'),'cover':d['pic'],'title':d['title']}
+              time.sleep(.25)
+          pathlib.Path('assets/video-meta.json').write_text(json.dumps(out,ensure_ascii=False,separators=(',',':')),encoding='utf-8')
+          print('collected',len(out),'videos')
+          PY
+      - name: Return metadata
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add assets/video-meta.json
+          git commit -m '更新 B 站视频播放元数据'
+          git push origin HEAD:arena/01a0ed01-bangdream
