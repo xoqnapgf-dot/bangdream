@@ -1,13 +1,14 @@
 # Ave Mujica 社区解析——CP线梳理
 
-> Ave Mujica内部CP + 跨团CP（含AveMujica角色侧）
-> 来源：NGA、百合会、B站、贴吧、豆瓣、小红书及官方访谈（柿本广大/绫奈由仁子）
-> 标注：【主流解读】= 多人共识或有访谈依据；【推测】= 个人猜测或延伸推理；官方确认部分单独标注。
+> 更新至 2026 年 9 月 30 日
+> 来源：NGA、百合会、B站、贴吧、豆瓣、小红书及主创访谈
 
 @[gallery]
 ![Ave Mujica TV 动画主视觉](https://anime.bang-dream.com/avemujica/wordpress/wp-content/themes/avemujica_0102/assets/images/common/index/img_hero.png "Ave Mujica · TV 动画官方主视觉")
 ![Ave Mujica Visual Change](https://anime.bang-dream.com/avemujica/wordpress/wp-content/themes/avemujica_0102/assets/images/common/index/img_hero_3.jpg "Ave Mujica · TV 动画 Visual Change")
 @[/gallery]
+
+@[bilibili](BV1xtYC6UEwN "电影《BanG Dream! Ave Mujica prima aurora》官方主 PV")
 
 ## 站内关联资料
 
@@ -36,7 +37,6 @@
 
 > Lofter投稿量：爱灯8532＞海铃立希8371＞素睦8276。P站投稿量：海铃立希1623＞素睦938＞爱灯898。爱素主tag是ansy参与量3w；爱祥9744参与，素祥9188参与。（Sky，2025-08-04）
 
-> 说明：讨论热度为社区讨论量与传播度综合判断（NGA/贴吧/B站/百合会）。初祥因贯穿主线+官方访谈背书居首；喵睦、祥睦均有官方定调或名场面支撑；海睦属小众但有原作场景支撑的关系线。
 
 ---
 
@@ -273,10 +273,6 @@ P站投稿量938，Lofter投稿量8276。（Sky，2025-08-04）
 - **素世登门拜访与墨缇丝的"电话"（确证）**：解散后素世登门拜访睦的家，打开房间看到满面疮痍的屋子、散落一地的破玩偶。墨缇丝一边把芭蕾舞鞋当手机放耳边打电话一边抚摸吉他说"医生，拜托了，她一直没有醒来"。素世被吓得踩到玩偶摔跤，墨缇丝流泪请求"爽世……让小睦醒来吧……"（第2.6话）。 [剧情总纲 2.6节]
 - **素世配合墨缇丝演戏（确证）**：素世帮墨缇丝整理房间，看到她又拿"电话"求助医生后，拿起另一只鞋子装作接电话的医生，劝她可以去学吉他刺激睦醒来（第2.6话）。 [剧情总纲 2.6节]
 - **素世跪地护睦（确证）**：在RiNG前墨缇丝怪异举动引围观拍摄时，素世跪下来护住睦请求路人不要再拍摄睦的丑态（第2.7话）。 [剧情总纲 2.7节]
-
----
-
-> ⚠️ 标注说明：【主流解读】= 多人共识或有访谈依据；【推测】= 个人猜测或延伸推理；"确证"标注 = 官方访谈/原作剧情/官网可确认的事实。
 
 ---
 

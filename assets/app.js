@@ -102,7 +102,11 @@
     '00_剧情区/02_AveMujica动画',
     '00_剧情区/05_官方访谈与设定'
   ];
+  var CURATED_PROTECTED_DIRS = [
+    '00_剧情区/06_社区解析_推测'
+  ];
   var PROTECTED_HINT = '原始资料 · 请勿随意修改';
+  var CURATED_PROTECTED_HINT = '社区解析资料 · 请谨慎修改';
   var PARTIAL_PROTECTED_DIRS = [
     '00_剧情区/03_剧场版',
     '00_剧情区/04_漫画游戏'
@@ -111,6 +115,10 @@
 
   function isProtectedDir(path) {
     return PROTECTED_DIRS.indexOf(path) >= 0;
+  }
+
+  function isCuratedProtectedDir(path) {
+    return CURATED_PROTECTED_DIRS.indexOf(path) >= 0;
   }
 
   function isPartialProtectedDir(path) {
@@ -341,7 +349,7 @@
     (node.children || []).forEach(function (c) { buildIndex(c, node.path); });
   }
 
-  /* 把内容里提到的文件路径变成可点链接 */
+  /* 把正文中的资料文件名和裸 URL 变成可点链接。 */
   function linkifyRefs(container) {
     var baseMap = {};
     state.index.forEach(function (f) {
@@ -365,6 +373,45 @@
         a.className = 'ref-link';
         el.replaceWith(a);
       }
+    });
+
+    var names = Object.keys(baseMap).filter(function (name) {
+      return /\.(?:md|txt)$/i.test(name);
+    }).sort(function (a, b) { return b.length - a.length; });
+    var escapeRe = function (s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); };
+    var filePart = names.map(escapeRe).join('|');
+    var plainRef = new RegExp('https?:\\/\\/[^\\s<>"”）)\\]}，。；、]+|' + filePart, 'g');
+    var walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT);
+    var textNodes = [];
+    while (walker.nextNode()) {
+      var parent = walker.currentNode.parentElement;
+      if (!parent || parent.closest('a, code, pre, script, style')) continue;
+      if (plainRef.test(walker.currentNode.nodeValue)) textNodes.push(walker.currentNode);
+      plainRef.lastIndex = 0;
+    }
+    textNodes.forEach(function (node) {
+      var text = node.nodeValue;
+      var frag = document.createDocumentFragment();
+      var last = 0;
+      text.replace(plainRef, function (match, offset) {
+        frag.appendChild(document.createTextNode(text.slice(last, offset)));
+        var a = document.createElement('a');
+        a.textContent = match;
+        if (/^https?:\/\//i.test(match)) {
+          a.href = match;
+          a.target = '_blank';
+          a.rel = 'noopener';
+        } else {
+          a.href = '#/' + baseMap[match];
+          a.className = 'ref-link';
+        }
+        frag.appendChild(a);
+        last = offset + match.length;
+        return match;
+      });
+      frag.appendChild(document.createTextNode(text.slice(last)));
+      node.replaceWith(frag);
+      plainRef.lastIndex = 0;
     });
   }
 
@@ -465,9 +512,12 @@
 
     if (node.type === 'dir') {
       var n = countFiles(node);
-      var locked = isProtectedDir(node.path);
+      var originalLocked = isProtectedDir(node.path);
+      var curatedLocked = isCuratedProtectedDir(node.path);
+      var locked = originalLocked || curatedLocked;
       var partialLocked = isPartialProtectedDir(node.path);
-      var lockHint = locked ? PROTECTED_HINT : (partialLocked ? PARTIAL_PROTECTED_HINT : '');
+      var lockHint = originalLocked ? PROTECTED_HINT :
+        (curatedLocked ? CURATED_PROTECTED_HINT : (partialLocked ? PARTIAL_PROTECTED_HINT : ''));
       var lockIcon = locked ? SVG.lock : SVG.halfLock;
       row.innerHTML = SVG.chev + SVG.dir +
         '<span class="label">' + esc(node.name) + '</span>' +
@@ -711,6 +761,7 @@
         resolveContentLinks(box, node.path);
         guardImages(box);
         buildToc(box);
+        resolveHeadingLinks(box);
       } else {
         box.className = 'content';
         box.innerHTML = '<h1 style="font-size:22px;margin:4px 0 14px">' +
@@ -774,6 +825,28 @@
       });
     });
     spy();
+  }
+
+  function resolveHeadingLinks(box) {
+    var heads = Array.prototype.slice.call(box.querySelectorAll('h2, h3, h4'));
+    function key(s) {
+      return (s || '').toLowerCase().replace(/[\s—–·・:：，,。！？!?（）()【】\[\]"'“”‘’&]/g, '');
+    }
+    box.querySelectorAll('a[href^="#"]:not([href^="#/"])').forEach(function (a) {
+      var wanted = key(a.textContent);
+      var target = heads.find(function (h) { return key(h.textContent) === wanted; });
+      if (!target) {
+        var raw = a.getAttribute('href').slice(1);
+        try { raw = decodeURIComponent(raw); } catch (_) {}
+        target = heads.find(function (h) { return key(h.textContent) === key(raw); });
+      }
+      if (!target) return;
+      a.href = '#' + target.id;
+      a.addEventListener('click', function (e) {
+        e.preventDefault();
+        $('main').scrollTo({ top: target.offsetTop - 52, behavior: 'smooth' });
+      });
+    });
   }
 
   function spy() {

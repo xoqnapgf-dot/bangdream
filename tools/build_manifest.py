@@ -14,6 +14,12 @@ OUT = ROOT / "assets" / "manifest.json"
 
 TEXT_EXT = {".md", ".txt"}
 BEIJING_TZ = datetime.timezone(datetime.timedelta(hours=8))
+PINNED_DISPLAY_PATHS = {
+    "00_剧情区/04_漫画游戏/MyGO_漫画游戏情节汇总.md",
+    "00_剧情区/05_官方访谈与设定/MyGO_确证内容汇总.md",
+    "00_剧情区/06_社区解析_推测/MyGO_分析推测汇总.md",
+    "00_剧情区/07_CP线梳理/MyGO_CP线梳理.md",
+}
 
 
 def read_text(p: pathlib.Path) -> str:
@@ -116,6 +122,23 @@ def relocate_for_display(tree):
         mygo_dir["children"].append(dialogue)
 
 
+def pin_summaries_for_display(node):
+    """让指定总览在清单与前端排序中都稳定置顶。"""
+    if node.get("type") != "dir":
+        return
+    dirs = [child for child in node["children"] if child["type"] == "dir"]
+    files = [child for child in node["children"] if child["type"] == "file"]
+    files.sort(
+        key=lambda child: (
+            child["path"] not in PINNED_DISPLAY_PATHS,
+            natural_key(child["name"]),
+        )
+    )
+    node["children"] = dirs + files
+    for child in dirs:
+        pin_summaries_for_display(child)
+
+
 def count(node):
     f = d = 0
     for c in node["children"]:
@@ -134,6 +157,7 @@ def main():
         raise SystemExit(f"找不到资料库目录: {LIB}")
     tree = walk(LIB)
     relocate_for_display(tree)
+    pin_summaries_for_display(tree)
     nf, nd = count(tree)
     total = sum(p.stat().st_size for p in LIB.rglob("*") if p.is_file())
     data = {
