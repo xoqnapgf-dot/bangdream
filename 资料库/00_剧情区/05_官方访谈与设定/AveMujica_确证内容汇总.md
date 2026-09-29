@@ -156,25 +156,26 @@
 
 ## 四、漫画与游戏官方资料（索引与要点）
 
-> 详细内容见 `04_漫画游戏/AveMujica漫画游戏情节汇总.md`（官方四线对照）与 `04_漫画游戏/OurNotes内测社区反馈汇总.md`。此处仅列官方确定要点。
+> 详细内容见 `04_漫画游戏/AveMujica漫画游戏情节汇总.md` 与 `04_漫画游戏/OurNotes内测社区反馈汇总.md`。此处仅列官方确定要点。
 
 ### 1. 官方漫画《BanG Dream! Ave Mujica -manuscriptus-》
 
-- 官方漫画，与动画互为补充的 Ave Mujica 官方叙事线（详细信息见漫画游戏情节汇总第一章）。
+- 电视动画的官方漫画改编，正文全 3 卷，已于 2026 年 3 月 19 日完成网络连载；详细出版资料见漫画游戏情节汇总第一章。
 
-### 2. GBP 手游《BanG Dream! 少女乐团派对!》Ave Mujica 线
+### 2. GBP 手游《BanG Dream! 少女乐团派对!》中的 Ave Mujica
 
-- Ave Mujica 在 GBP 中实装，主要出场方式为 MyGO × Ave Mujica 混合活动（2025年6月活动「雨上がり、瞳に映る空は」、2025年9月活动「わかれ道をゆく人たちへ」等）。
-- 世界观定位见漫画游戏情节汇总第二章。
+- Ave Mujica 没有作为完整可编成、拥有独立乐队故事的常驻乐队实装。主要出场方式是 2025 年两期 MyGO!!!!! × Ave Mujica 混合活动：《雨上がり、瞳に映る空は》与《わかれ道をゆく人たちへ》。
+- 两期故事沿电视动画剧情展开，活动卡牌主体仍是 MyGO!!!!! 成员。
 
 ### 3. 跨界游戏联动
 
-- **明日方舟 × Ave Mujica「无忧梦呓」（Somniloquium Serenum）**：Ave Mujica 的首次游戏登场，属跨界官方授权内容，单列为"跨界官方授权内容"，非本家正史。
-- **Minecraft（我的世界）逃脱游戏 × Ave Mujica**：官方联动。
+- **《明日方舟》× Ave Mujica「无忧梦呓」（Somniloquium Serenum）**：2025 年 9 月开放的官方授权跨界故事，非 BanG Dream! 本家主线。
+- **Minecraft「从 Ave Mujica 的世界逃脱」**：与ドズル社合作的官方逃脱地图，已于 2025 年 10 月 31 日发布，非本家主线。
 
-### 4. 新游戏《BanG Dream! Our Notes》（主线后续平台）
+### 4. 《BanG Dream! Our Notes》（动画后续平台）
 
-- Our Notes 为官方确认的主线后续平台，含 Ave Mujica 篇；首发确认曲目含 Ave Mujica；发行进度见漫画游戏情节汇总第四章及 OurNotes 内测反馈汇总。
+- 已于 2026 年 9 月 24 日上线。游戏含 Ave Mujica 乐队故事、动画回顾和承接电视动画之后的特别篇；STORY LINK 官方 PV 明确说明动画后续将在本作展开。
+- GBP 仍并行运营，《Our Notes》并非 GBP 的停服替代。开服功能与社区反馈见《Our Notes 测试与上线社区反馈汇总》。
 
 ---
 
