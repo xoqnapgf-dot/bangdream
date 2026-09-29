@@ -131,7 +131,7 @@ MyGO!!!!! 成员也进入多团混合活动。2024 年 3 月的《SAKURA CiRCRiN
 
 《BanG Dream! Our Notes》（国际服中文名《BanG Dream! 交织的乐章》）已在 2026 年 9 月 24 日全球上线，不再处于“年内推出”或内测阶段。国际版由 bilibili game 发行，支持简体中文、繁体中文、英文和韩文；日版与国际版使用各自的发行入口。
 
-游戏围绕 MyGO!!!!!、Ave Mujica、梦限大MewType、millsage、一家Dumb Rock! 五支乐队展开。GBP 仍继续运营，《Our Notes》不是停服后的替代客户端，而是拥有独立系统、曲库与剧情演出的另一款作品。
+游戏围绕 MyGO!!!!!、Ave Mujica、梦限大MewType、millsage、一家Dumb Rock! 五支乐队展开。GBP 仍继续运营，《Our Notes》不是停服后的替代客户端，而是拥有独立系统、曲库与剧情演出的另一款作品。测试版本、正式服功能和上线初期评价见[《Our Notes 测试与上线社区反馈汇总》](./OurNotes内测社区反馈汇总.md)。
 
 ![《BanG Dream! Our Notes》全球上线公告主视觉](https://image-intl.biligame.net/cs/mng/image/202609/f94ae47bffa82bd0e9a0e07f787a4c5a.jpg)
 

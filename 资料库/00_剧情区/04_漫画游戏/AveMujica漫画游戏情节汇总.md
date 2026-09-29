@@ -124,7 +124,7 @@ BanG Dream! 官方与日本游戏实况团体ドズル社合作制作的 Minecra
 
 《BanG Dream! Our Notes》（国际服中文名《BanG Dream! 交织的乐章》）已结束预约和测试阶段：9 月 22 日开放预下载，9 月 24 日在 iOS、Android 全球同步上线。国际版由 bilibili game 发行，支持简体中文、繁体中文、英文和韩文；日版与国际版使用各自的发行入口。
 
-游戏收录 MyGO!!!!!、Ave Mujica、梦限大MewType、millsage、一家Dumb Rock! 五支乐队，共 25 名角色。GBP 仍继续运营，因此《Our Notes》不是对 GBP 的停服替代，而是以这五团为中心的另一款作品。
+游戏收录 MyGO!!!!!、Ave Mujica、梦限大MewType、millsage、一家Dumb Rock! 五支乐队，共 25 名角色。GBP 仍继续运营，因此《Our Notes》不是对 GBP 的停服替代，而是以这五团为中心的另一款作品。测试版本、开服功能、商店评分和上线初期问题见[《Our Notes 测试与上线社区反馈汇总》](./OurNotes内测社区反馈汇总.md)。
 
 ![《BanG Dream! Our Notes》全球上线公告主视觉](https://image-intl.biligame.net/cs/mng/image/202609/f94ae47bffa82bd0e9a0e07f787a4c5a.jpg)
 
