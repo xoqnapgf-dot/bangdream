@@ -188,6 +188,21 @@ html[data-theme="dark"] .ico-moon { display: block; }
 .row .label {
   overflow: hidden; text-overflow: ellipsis; white-space: nowrap;
 }
+/* 受保护目录的小锁：纯视觉提示，不拦截点击 */
+.row .lock-wrap {
+  flex: none; display: inline-flex; align-items: center;
+  margin-left: 3px; pointer-events: none;
+}
+.row .lock {
+  width: 11px; height: 11px; flex: none;
+  stroke-width: 2.2;
+  color: var(--tx-faint);
+  opacity: .75;
+  transition: color .12s, opacity .12s;
+}
+.row:hover .lock,
+.row.active .lock { color: var(--accent-2); opacity: 1; }
+
 .row .count {
   margin-left: auto; flex: none;
   font-size: 10.5px; font-variant-numeric: tabular-nums;

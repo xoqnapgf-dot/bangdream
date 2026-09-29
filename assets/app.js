@@ -77,9 +77,24 @@
     dir:  '<svg class="fico" viewBox="0 0 24 24"><path d="M3 7a2 2 0 012-2h4l2 2h8a2 2 0 012 2v8a2 2 0 01-2 2H5a2 2 0 01-2-2z"/></svg>',
     md:   '<svg class="fico" viewBox="0 0 24 24"><path d="M14 3H7a2 2 0 00-2 2v14a2 2 0 002 2h10a2 2 0 002-2V8z"/><path d="M14 3v5h5"/><path d="M8.5 16v-3l1.6 1.8L11.7 13v3"/></svg>',
     txt:  '<svg class="fico" viewBox="0 0 24 24"><path d="M14 3H7a2 2 0 00-2 2v14a2 2 0 002 2h10a2 2 0 002-2V8z"/><path d="M14 3v5h5"/><path d="M9 13h6M9 16.5h4"/></svg>',
-    chev: '<svg class="chev" viewBox="0 0 24 24"><path d="M9 6l6 6-6 6"/></svg>'
+    chev: '<svg class="chev" viewBox="0 0 24 24"><path d="M9 6l6 6-6 6"/></svg>',
+    lock: '<svg class="lock" viewBox="0 0 24 24"><rect x="5" y="11" width="14" height="9" rx="2"/>' +
+          '<path d="M8 11V7.5a4 4 0 018 0V11"/></svg>'
   };
   function fileIcon(ext) { return ext === 'txt' ? SVG.txt : SVG.md; }
+
+  /* 受保护目录：官方原始资料，目录栏加一枚小锁作为视觉提示。
+     只是提示「这是原始资料、不要随意改动」，不影响点击和阅读。 */
+  var PROTECTED_DIRS = [
+    '00_剧情区/01_MyGO动画',
+    '00_剧情区/02_AveMujica动画',
+    '00_剧情区/05_官方访谈与设定'
+  ];
+  var PROTECTED_HINT = '原始资料 · 请勿随意修改';
+
+  function isProtectedDir(path) {
+    return PROTECTED_DIRS.indexOf(path) >= 0;
+  }
 
   /* ─────────── Markdown 渲染 ─────────── */
 
@@ -319,9 +334,16 @@
 
     if (node.type === 'dir') {
       var n = countFiles(node);
+      var locked = isProtectedDir(node.path);
       row.innerHTML = SVG.chev + SVG.dir +
         '<span class="label">' + esc(node.name) + '</span>' +
+        (locked ? '<span class="lock-wrap" title="' + PROTECTED_HINT + '" aria-label="' +
+                  PROTECTED_HINT + '">' + SVG.lock + '</span>' : '') +
         '<span class="count">' + n + '</span>';
+      if (locked) {
+        row.classList.add('locked');
+        row.title = node.name + ' — ' + PROTECTED_HINT;
+      }
       var kids = document.createElement('div');
       kids.className = 'children';
       orderedChildren(node.children).forEach(function (c) { kids.appendChild(nodeEl(c, depth + 1)); });
