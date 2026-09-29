@@ -357,6 +357,23 @@ html[data-theme="dark"] .ico-moon { display: block; }
         border-bottom: 1px solid color-mix(in srgb, var(--accent) 35%, transparent); }
 .md a:hover { border-bottom-color: var(--accent); }
 
+.md img {
+  display: block; max-width: 100%; height: auto;
+  margin: 18px auto; border-radius: 10px;
+  border: 1px solid var(--line); background: var(--bg-soft);
+}
+.md .video-embed {
+  margin: 18px 0 22px;
+}
+.md .video-embed iframe {
+  display: block; width: 100%; aspect-ratio: 16 / 9;
+  border: 0; border-radius: 10px; background: #000;
+}
+.md .video-embed figcaption {
+  margin-top: 7px; color: var(--tx-faint); font-size: 12px;
+  text-align: center;
+}
+
 .md strong { font-weight: 680; color: var(--tx); }
 .md em { font-style: normal; color: var(--accent-2); font-weight: 560; }
 

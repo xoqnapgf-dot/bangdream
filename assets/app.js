@@ -190,6 +190,22 @@
         continue;
       }
 
+      // Bilibili 视频：@[bilibili](BV号 "标题")
+      // 只接受 BV 号，避免把任意 HTML / iframe 注入资料正文。
+      var bili = /^@\[(?:bilibili|哔哩哔哩)\]\((BV[0-9A-Za-z]+)(?:\s+"([^"]+)")?\)\s*$/.exec(line);
+      if (bili) {
+        var bvid = bili[1];
+        var videoTitle = bili[2] || 'Bilibili 视频';
+        out.push('<figure class="video-embed">' +
+          '<iframe src="https://player.bilibili.com/player.html?bvid=' + encodeURIComponent(bvid) +
+          '&page=1&high_quality=1&danmaku=0" title="' + esc(videoTitle) +
+          '" loading="lazy" scrolling="no" frameborder="0" allowfullscreen></iframe>' +
+          '<figcaption>' + esc(videoTitle) + ' · <a href="https://www.bilibili.com/video/' +
+          encodeURIComponent(bvid) + '/" target="_blank" rel="noopener">在 B 站打开</a></figcaption>' +
+          '</figure>');
+        i++; continue;
+      }
+
       // 标题
       var h = /^(#{1,6})\s+(.*)$/.exec(line);
       if (h) {
@@ -250,7 +266,7 @@
       // 段落
       var p = [];
       while (i < lines.length && lines[i].trim() &&
-             !/^(#{1,6}\s|\s*>|\s*([-*+]|\d+[.)])\s|\s*(```|~~~))/.test(lines[i]) &&
+             !/^(#{1,6}\s|\s*>|\s*([-*+]|\d+[.)])\s|\s*(```|~~~)|@\[(?:bilibili|哔哩哔哩)\]\()/.test(lines[i]) &&
              !/^\s*([-*_])\s*(\1\s*){2,}$/.test(lines[i])) {
         p.push(lines[i].trim()); i++;
       }
