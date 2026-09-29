@@ -244,14 +244,15 @@
         var bvid = bili[1];
         var meta = state.videoMeta[bvid] || {};
         var videoTitle = bili[2] || meta.title || 'Bilibili 视频';
-        var mediaAttrs = ' data-bvid="' + esc(bvid) + '" data-title="' + esc(videoTitle) + '"' +
-          (meta.aid ? ' data-aid="' + esc(meta.aid) + '"' : '') +
-          (meta.cid ? ' data-cid="' + esc(meta.cid) + '"' : '');
-        out.push('<figure class="video-embed"' + mediaAttrs + '>' +
-          '<button type="button" class="video-preview" aria-label="播放：' + esc(videoTitle) + '">' +
-          (meta.cover ? '<img src="' + esc(meta.cover) + '" alt="" loading="lazy" referrerpolicy="no-referrer">' : '') +
-          '<span class="video-shade"></span><span class="video-mark">▶</span>' +
-          '<strong>' + esc(videoTitle) + '</strong></button>' +
+        var playerParams = ['isOutside=true', 'bvid=' + encodeURIComponent(bvid), 'p=1',
+          'autoplay=0', 'high_quality=1', 'danmaku=0'];
+        // aid/cid 直接定位首个分 P，避免外链播放器仅凭 BV 号解析失败。
+        if (meta.aid) playerParams.push('aid=' + encodeURIComponent(meta.aid));
+        if (meta.cid) playerParams.push('cid=' + encodeURIComponent(meta.cid));
+        out.push('<figure class="video-embed">' +
+          '<iframe src="https://player.bilibili.com/player.html?' + playerParams.join('&amp;') +
+          '" title="' + esc(videoTitle) + '" loading="lazy" scrolling="no" frameborder="0" ' +
+          'allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>' +
           '<figcaption><a href="https://www.bilibili.com/video/' + encodeURIComponent(bvid) +
           '/" target="_blank" rel="noopener">' + esc(videoTitle) + ' · 在 B 站打开</a>' +
           '</figcaption></figure>');
@@ -398,33 +399,9 @@
     });
   }
 
-  function activateVideos(container) {
-    container.querySelectorAll('.video-embed .video-preview').forEach(function (button) {
-      button.addEventListener('click', function () {
-        var figure = button.closest('.video-embed');
-        if (!figure || figure.querySelector('iframe')) return;
-        var params = ['isOutside=true', 'bvid=' + encodeURIComponent(figure.dataset.bvid), 'p=1',
-          'autoplay=1', 'high_quality=1', 'danmaku=0'];
-        // 仅传 BV 号时，B 站外链播放器偶尔无法解析分 P；固定 aid/cid 可直接定位视频流。
-        if (figure.dataset.aid) params.push('aid=' + encodeURIComponent(figure.dataset.aid));
-        if (figure.dataset.cid) params.push('cid=' + encodeURIComponent(figure.dataset.cid));
-        var iframe = document.createElement('iframe');
-        iframe.src = 'https://player.bilibili.com/player.html?' + params.join('&');
-        iframe.title = figure.dataset.title || 'Bilibili 视频';
-        iframe.loading = 'lazy';
-        iframe.scrolling = 'no';
-        iframe.frameBorder = '0';
-        iframe.allow = 'autoplay; fullscreen; picture-in-picture';
-        iframe.allowFullscreen = true;
-        button.replaceWith(iframe);
-      });
-    });
-  }
-
   function guardImages(container) {
     container.querySelectorAll('img').forEach(function (img) {
       img.addEventListener('error', function () {
-        if (img.closest('.video-preview')) { img.remove(); return; }
         if (img.dataset.failed) return;
         img.dataset.failed = '1';
         var a = document.createElement('a');
@@ -725,7 +702,6 @@
         box.innerHTML = renderMarkdown(text);
         linkifyRefs(box);
         resolveContentLinks(box, node.path);
-        activateVideos(box);
         guardImages(box);
         buildToc(box);
       } else {

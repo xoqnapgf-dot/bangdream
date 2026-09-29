@@ -386,34 +386,6 @@ html[data-theme="dark"] .ico-moon { display: block; }
   display: block; width: 100%; aspect-ratio: 16 / 9;
   border: 0; border-radius: 10px; background: #000;
 }
-.md .video-preview {
-  position: relative; display: block; width: 100%; aspect-ratio: 16 / 9;
-  padding: 0; overflow: hidden; border: 1px solid var(--line); border-radius: 10px;
-  background: linear-gradient(145deg, #292b35, #111218); color: #fff; cursor: pointer;
-}
-.md .video-preview img {
-  position: absolute; inset: 0; width: 100%; height: 100%; margin: 0;
-  max-height: none; object-fit: cover; border-radius: 0;
-}
-.md .video-shade {
-  position: absolute; inset: 0;
-  background: linear-gradient(180deg, transparent 48%, rgba(0,0,0,.76));
-}
-.md .video-preview .video-mark {
-  position: absolute; left: 50%; top: 50%; transform: translate(-50%, -50%);
-  display: grid; place-items: center; width: 58px; height: 58px; padding-left: 4px;
-  border-radius: 50%; background: rgba(0,0,0,.68); color: #fff; font-size: 25px;
-  box-shadow: 0 2px 16px rgba(0,0,0,.3); transition: transform .16s, background .16s;
-}
-.md .video-preview strong {
-  position: absolute; left: 16px; right: 16px; bottom: 13px;
-  overflow: hidden; text-align: left; color: #fff; font: 600 14px/1.45 var(--sans);
-  text-overflow: ellipsis; white-space: nowrap;
-}
-.md .video-preview:hover .video-mark {
-  transform: translate(-50%, -50%) scale(1.08); background: var(--accent);
-}
-.md .video-preview:focus-visible { outline: 2px solid var(--accent); outline-offset: 2px; }
 .md .video-embed figcaption {
   margin-top: 7px; color: var(--tx-faint); font-size: 12px;
   text-align: center;
