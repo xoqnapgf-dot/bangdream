@@ -13,20 +13,24 @@
 | --- | --- |
 | 完整片名 | 映画「BanG Dream! Ave Mujica prima aurora」 |
 | 作品性质 | 《BanG Dream! It's MyGO!!!!! / Ave Mujica》的新作续篇电影 |
-| 日本上映 | 2026-10-16（周五） |
+| 日本上映 | 2026-10-16（周五）；日本全国上映馆名单已公开 |
+| 海外院线 | 台湾确定与日本同日上映；香港已宣布上映，日期待定 |
 | 故事时间 | Ave Mujica 再次出道超过半年后的春天 |
 | 乐队状态 | 人气进一步上升，五名成员各自的活动也步入正轨 |
 | 核心舞台 | 祥子提出的会员制 masquerade（会員制のマスカレード） |
 | 核心悬念 | 发誓“成为神”的祥子究竟有何盘算 |
 | 监督、音响监督 | 柿本广大 |
 | 脚本 | 后藤绿、和场明子 |
-| 动画制作 | ニチカライン（Nichicaline） |
+| 动画制作 | ニチカライン（Nichicaline；SANZIGEN 的工作室品牌） |
+| 日本发行 | Bushiroad Move |
 | 已公开插曲 | 《A Song Of Romance》 |
 | 插曲专辑 | 迷你专辑《神の名を》，2026-10-21 发售，预告收录 4 首新曲 |
 
-### 必须注意的制作公司区别
+### 必须注意的制作署名与组织关系
 
-TV 动画《BanG Dream! Ave Mujica》的动画制作是 **SANZIGEN**；本电影官网 Staff & Cast 页标注的动画制作则是 **Nichicaline**。因此，把电影继续写成“SANZIGEN 制作”是不准确的。部分早期英文媒体在完整 staff 公布前沿用了 TV 版制作信息，只能作为旧报道，不能覆盖电影官网的最终署名。
+TV 动画《BanG Dream! Ave Mujica》的动画制作署名是 **SANZIGEN**，电影官网 Staff & Cast 页的正式署名则是 **Nichicaline**。但这不代表作品换给了毫无关系的另一家公司：SANZIGEN 于 2025-09-07 正式宣布，Nichicaline 是其新设的**工作室品牌**，用于综合运用 SANZIGEN 制作体系的项目；SANZIGEN 官网也直接确认本片由 Nichicaline 制作。
+
+因此最准确的写法是“动画制作：Nichicaline（SANZIGEN 的工作室品牌）”。只写“动画制作：SANZIGEN”没有采用影片正式署名；反过来说“Nichicaline 与 SANZIGEN 无关”同样错误。部分英文媒体简写成 SANZIGEN，可以理解其组织归属，却不应覆盖电影官网的正式 credit。
 
 ---
 
@@ -51,7 +55,7 @@ TV 动画《BanG Dream! Ave Mujica》的动画制作是 **SANZIGEN**；本电影
 ### 2.3 逐项校正
 
 - **会員制**应译为“会员制”，不能直接扩写成“只允许乐队成员参加”。这里的“会员”指何种资格，官网尚未解释。
-- 当前官网正文写的是**会員制のマスカレード**。部分宣传报道使用“secret masquerade”概括其封闭性，但“秘密假面舞会”不应反过来替代官网原句。
+- Introduction 正文写的是**会員制のマスカレード**；与此同时，电影官网首页的官方分享文案明确使用**シークレットマスカレード（Secret Masquerade）**。两种官方措辞可以同时成立：前者说明制度属性，后者是宣传命名。不能把“Secret Masquerade”判成误写，也不能由此追加“只允许五名乐队成员参加”等官网没有说明的规则。
 - **神になる**是“成为神”，日文没有在此限定“女神”。把它固定译成“成为女神”会加入原句没有明说的性别化含义。
 - “祥子的盘算”是官方留下的问句；在上映前，不能把任何一种阴谋论、献祭论或成员淘汰论写成剧情事实。
 
@@ -103,18 +107,30 @@ TV 动画《BanG Dream! Ave Mujica》的动画制作是 **SANZIGEN**；本电影
 
 ## 四、公开进度与可验证时间线
 
+- **2025-08-14 至 08-15**：BanG Dream! 夏季发表活动首先宣布 Ave Mujica 新电影正在制作；当时未公开正式片名与剧情。本项目与 2025-03 已宣布的共同续篇 TV 动画是两个独立项目。
 - **2026-01-12**：官方公布正式片名与 teaser visual，宣布 2026 年秋上映；公告称本片是《It's MyGO!!!!! / Ave Mujica》的新作续篇电影。
 - **2026-07-30**：公布 2026-10-16 的具体上映日、最新 PV 与 key visual；同日公开首轮预售相关信息，并宣布收录电影插曲的迷你专辑《神の名を》。
 - **2026-08-13**：更新上映影院、预售票与附商品预售票信息。
-- **2026-09-14 至 09-15**：本 PV 公开；PV 使用插曲《A Song Of Romance》。歌曲于 9 月 14 日 18:00（JST）起全球配信，部分服务自次日起陆续上线；第二弹 Movie Ticket 与首映舞台挨拶信息同时进入宣传期。
-- **2026-10-16**：日本院线预定上映。
-- **2026-10-17**：官方安排新宿 Wald 9 舞台挨拶，并公布 live viewing 信息。
+- **2026-09-14 至 09-15**：本 PV 公开；PV 使用插曲《A Song Of Romance》。歌曲于 9 月 14 日 18:00（JST）起全球配信，部分服务自次日起陆续上线；第二弹 Movie Ticket 与首映舞台挨拶信息同时进入宣传期。第二弹 Movie Ticket 于 9 月 19 日起在日本上映馆及网络销售，票价 1,700 日元。
+- **2026-10-16**：日本院线与台湾院线预定同日上映；日本官网已公开从北海道至冲绳的上映馆清单。
+- **2026-10-17**：官方安排新宿 Wald 9 两场舞台挨拶，Ave Mujica 五名主要声优预定全部登台。
 - **2026-10-21**：迷你专辑《神の名を》预定发售。
 - **2027-01**：《It's MyGO!!!!! / Ave Mujica》续篇 TV 动画预定开播。
 
 ### 关于“承上启下”的准确说法
 
-电影位于 2025 年 TV 动画之后、2027 年共同续篇 TV 动画之前，因此称它在发布顺序和故事时间上具有“桥梁位置”是合理归纳。但官方目前没有公开承诺“看不看电影会不会影响理解 2027 TV”或“电影结尾将直接接 TV 第一集”。资料库应把“桥梁位置”标为编排判断，不写成官方保证。
+官方公告把本片称为《It's MyGO!!!!! / Ave Mujica》的新作续篇，相关官方宣传又把 2027 年 1 月新 TV 动画表述为“本作之后”的作品；因此，**电影先于 TV、TV 在电影之后**不是纯粹的粉丝排序猜测。
+
+仍然不能越过证据的是更强的说法：官方尚未承诺“未看电影便无法理解 TV”“电影结尾无缝接续 TV 第一集”，也未公布两者之间的具体剧情承接方式。资料库可以写“正式续篇序列中的前后关系”，但不能自行补成观看门槛或逐集衔接保证。
+
+### 日本与海外发行现状
+
+- **日本**：电影官网已公开全国上映馆列表，范围覆盖北海道至冲绳；具体场次仍应以各影院临近上映日的排片为准。
+- **台湾**：代理方木棉花已确认 **2026-10-16 与日本同步上映**。木棉花官方 YouTube 已发布繁体中文宣传 PV；此项不再属于“海外全部待定”。
+- **香港**：木棉花已宣布本片将在香港上映，但截至整理日尚未公布具体日期与完整影院表。
+- **中国大陆及其他地区**：BanG Dream! / Ave Mujica 官方哔哩哔哩账号发布日文主 PV，能确认宣传物已进入中文平台；这本身**不等于中国大陆院线定档**。截至整理日未找到可核验的大陆院线发行公告。北美、欧洲等地区也未公布院线或流媒体日期。
+
+这里应严格区分“官方账号上传 PV”“代理权或上映意向”“已有日期和影院”三个层级，不能用前者替代后两者。
 
 ---
 
@@ -133,7 +149,8 @@ TV 动画《BanG Dream! Ave Mujica》的动画制作是 **SANZIGEN**；本电影
 ### 5.2 迷你专辑《神の名を》
 
 - 发售日：2026-10-21。
-- 官方商品页说明收录《prima aurora》插曲，并列出 4 个 CD 音轨位置。
+- 版本与定价：5,000 张限定特装版 18,700 日元（BRMM-11071）、附 Blu-ray 限定版 8,800 日元（BRMM-11072）、通常版 2,200 日元（BRMM-11073）。
+- 官方商品页说明收录《prima aurora》插曲，并列出 4 个 CD 音轨位置；两种附 Blu-ray 版本收录 Ave Mujica LIVE TOUR 2026「Exitus」-FINAL- 影像，5,000 张限定版另收录 DAY1 并附五人亚克力立牌套装。
 - 截至 2026-09-29，公开曲目中可以确认第 4 轨为《A Song Of Romance》，其余曲名仍未在官方商品页完整揭晓。
 
 所以，“电影共有且只有四首插曲”仍不能成立：唱片收录 4 首新曲，不等于正片全部音乐清单，也不等于每首在电影中的用途已经公布。
@@ -223,9 +240,9 @@ Introduction 用“发誓成为神”制造悬念，祥子角色页则用“履�
 
 ### 8.2 已删除或改正的旧说法
 
-- 删除“只限乐队成员参加的秘密舞会”：官网只确认**会员制假面舞会**，没有说明仅限五名成员。
+- 改正“Secret Masquerade 是误写”：Introduction 确认**会员制假面舞会**，官网首页宣传又正式使用 **Secret Masquerade**；两者并存，但都没有说明仅限五名成员。
 - 把“成为女神”统一校正为“成为神”。
-- 删除“影片由 SANZIGEN 制作”：电影官网标注 Nichicaline。
+- 改正制作关系的两种极端写法：正式 credit 是 Nichicaline；Nichicaline 同时是 SANZIGEN 于 2025 年公布的工作室品牌，并非无关公司。
 - 删除“不是总集篇，所以必然直接桥接 2027 TV 第一集”的混合推断：前半句可由官方确认，后半句尚无官方说明。
 - 删除无法可靠复核的“渡濑结月一人演绎 Mortis 的 13 种人格”等二手转述。
 - 不再以低可信转载站的心理惊悚宣传语充当官方类型定义。
@@ -242,7 +259,7 @@ Introduction 用“发誓成为神”制造悬念，祥子角色页则用“履�
 - 睦与 Mortis 在半年后的具体状态；
 - 祥子“成为神”的行动方案与代价；
 - 《A Song Of Romance》在正片中的准确场景；
-- 日本以外各地区完整上映与流媒体计划；
+- 香港具体上映日、中国大陆及其他地区院线安排，以及全球流媒体计划（台湾已确认 2026-10-16 同步上映）；
 - Blu-ray / DVD 发售安排；
 - 电影结尾与 2027 年续篇 TV 第一集的直接衔接方式。
 
@@ -263,18 +280,26 @@ Introduction 用“发誓成为神”制造悬念，祥子角色页则用“履�
 - 八幡海铃：https://avemujica-movie.bang-dream.com/character/umiri/
 - 祐天寺若麦：https://avemujica-movie.bang-dream.com/character/nyamu/
 - 丰川祥子：https://avemujica-movie.bang-dream.com/character/sakiko/
+- 2025-08 电影项目首次发表（ANN 记录）：https://www.animenewsnetwork.com/news/2025-08-15/bang-dream-ave-mujica-anime-gets-new-film-new-mini-anime-details-revealed/.227675
 - 2026-01-12 正式发表：https://avemujica-movie.bang-dream.com/news/post-1
 - 2026-07-30 预售信息：https://avemujica-movie.bang-dream.com/news/post-2
+- 日本上映馆清单：https://avemujica-movie.bang-dream.com/theater/
 - 2026-09-14 第二弹 Movie Ticket：https://avemujica-movie.bang-dream.com/news/post-4
+- 本 PV：https://www.youtube.com/watch?v=Sr1w-prNbH0
 - 首映舞台挨拶：https://bang-dream.com/news/2406/
 - 《A Song Of Romance》官方唱片页：https://bang-dream.com/discographies/4266/
 - 迷你专辑《神の名を》官方唱片页：https://bang-dream.com/discographies/4238/
 - 2026 年 BanG Dream! 复映企划：https://bang-dream.com/news/2380/
+- SANZIGEN 对 Nichicaline 品牌的官方说明：https://www.sanzigen.co.jp/news/20250907.html
+- SANZIGEN 官方站（确认本片制作署名）：https://www.sanzigen.co.jp/
+- 木棉花台湾官方 PV：https://www.youtube.com/watch?v=QVPQvvJ9DnA
+- Ave Mujica 官方哔哩哔哩主 PV：https://www.bilibili.com/video/BV1xtYC6UEwN/
 
 ### 交叉核对来源
 
 - Anime News Network（2026-07-30，上映日与 PV）：https://www.animenewsnetwork.com/news/2026-07-30/bang-dream-ave-mujica-film-trailer-reveals-october-16-opening/.240118
 - Anime News Network（2026-09-14，本 PV 与插曲）：https://www.animenewsnetwork.com/news/2026-09-14/bang-dream-ave-mujica-film-trailer-previews-new-song/.241772
-- Bushiroad / PR TIMES 本 PV 新闻稿：https://prtimes.jp/main/html/rd/p/000009745.000014827.html
+- Bushiroad / PR TIMES 本 PV 新闻稿（亦明确 2027 TV 是“同作的续篇”）：https://prtimes.jp/main/html/rd/p/000009745.000014827.html
 - Tower Records（上映日、PV 与《神の名を》）：https://tower.jp/article/news/2026/08/03/tg008
+- 4Gamers（木棉花台湾、香港发行公告）：https://www.4gamers.com.tw/news/detail/81032/bang-dream-ave-mujica-prima-aurora-release-in-taiwan
 - *aurora* 词源参考：https://www.etymonline.com/word/aurora
