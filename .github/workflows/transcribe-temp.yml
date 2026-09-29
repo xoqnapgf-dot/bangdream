@@ -5,6 +5,9 @@ on:
     branches: [arena/01a0ed01-bangdream]
     paths: [.github/workflows/transcribe-temp.yml]
 
+permissions:
+  contents: write
+
 jobs:
   transcribe:
     runs-on: ubuntu-latest
@@ -51,6 +54,13 @@ jobs:
                       f.write(f'[{s.start:07.2f} --> {s.end:07.2f}] {s.text.strip()}\n')
           PY
           python /tmp/transcribe.py
+      - name: Return transcripts through Git
+        run: |
+          git config user.name github-actions[bot]
+          git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add transcript/
+          git commit -m "临时保存自动转写结果"
+          git push
       - uses: actions/upload-artifact@v4
         with:
           name: bilibili-transcripts
