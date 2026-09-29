@@ -11,7 +11,7 @@ jobs:
     timeout-minutes: 90
     steps:
       - uses: actions/checkout@v4
-      - run: pip install -q requests faster-whisper 'av==15.1.0'
+      - run: pip install -q requests faster-whisper
       - name: Download story audio
         run: |
           sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
@@ -39,11 +39,14 @@ jobs:
           HF_HUB_DISABLE_XET: "1"
         run: |
           cat > /tmp/transcribe.py <<'PY'
-          import traceback
+          import traceback, wave
+          import numpy as np
           from faster_whisper import WhisperModel
           try:
+            with wave.open('/tmp/audio/story.wav','rb') as w:
+              audio=np.frombuffer(w.readframes(w.getnframes()),dtype=np.int16).astype(np.float32)/32768.0
             m=WhisperModel('small',device='cpu',compute_type='int8')
-            segs,info=m.transcribe('/tmp/audio/story.wav',language='ja',beam_size=5,vad_filter=True)
+            segs,info=m.transcribe(audio,language='ja',beam_size=5,vad_filter=True)
             with open('transcript/BV19YaK6dEbg.txt','w',encoding='utf-8') as f:
               for s in segs:f.write(f'[{s.start:07.2f} --> {s.end:07.2f}] {s.text.strip()}\n')
           except Exception:
