@@ -63,6 +63,16 @@
     return n.replace(/\.(md|txt)$/i, '').replace(/^\d{2}_/, '');
   }
 
+  /* MyGO 动画剧本用文件名前缀表示集数；展示时明确写成“第 X 集”，
+     但不改动资料库里的原始文件名和正文。 */
+  function displayName(file) {
+    var name = typeof file === 'string' ? file : file.name;
+    var path = typeof file === 'string' ? '' : (file.path || '');
+    var m = /^00_剧情区\/01_MyGO动画\/(\d{2})_(.+)\.(md|txt)$/i.exec(path);
+    if (m) return '第' + m[1] + '集 · ' + m[2];
+    return prettyName(name);
+  }
+
   var SVG = {
     dir:  '<svg class="fico" viewBox="0 0 24 24"><path d="M3 7a2 2 0 012-2h4l2 2h8a2 2 0 012 2v8a2 2 0 01-2 2H5a2 2 0 01-2-2z"/></svg>',
     md:   '<svg class="fico" viewBox="0 0 24 24"><path d="M14 3H7a2 2 0 00-2 2v14a2 2 0 002 2h10a2 2 0 002-2V8z"/><path d="M14 3v5h5"/><path d="M8.5 16v-3l1.6 1.8L11.7 13v3"/></svg>',
@@ -276,10 +286,24 @@
 
   /* ─────────── 侧栏树 ─────────── */
 
+  // 前端再次按目录 / 文件名中的数字排序，避免清单来源变化后集数乱序。
+  function compareNodes(a, b) {
+    if (a.type !== b.type) return a.type === 'dir' ? -1 : 1;
+    var am = /^(\d+)/.exec(a.name), bm = /^(\d+)/.exec(b.name);
+    if (am && bm && +am[1] !== +bm[1]) return +am[1] - +bm[1];
+    if (am && !bm) return -1;
+    if (!am && bm) return 1;
+    return a.name.localeCompare(b.name, 'zh-CN');
+  }
+
+  function orderedChildren(children) {
+    return (children || []).slice().sort(compareNodes);
+  }
+
   function buildTree() {
     var root = $('tree');
     root.innerHTML = '';
-    (state.manifest.tree.children || []).forEach(function (c) {
+    orderedChildren(state.manifest.tree.children).forEach(function (c) {
       root.appendChild(nodeEl(c, 0));
     });
   }
@@ -300,7 +324,7 @@
         '<span class="count">' + n + '</span>';
       var kids = document.createElement('div');
       kids.className = 'children';
-      (node.children || []).forEach(function (c) { kids.appendChild(nodeEl(c, depth + 1)); });
+      orderedChildren(node.children).forEach(function (c) { kids.appendChild(nodeEl(c, depth + 1)); });
       row.addEventListener('click', function (e) {
         e.stopPropagation();
         wrap.classList.toggle('open');
@@ -311,7 +335,7 @@
       if (depth === 0 && /^00_/.test(node.name)) wrap.classList.add('open');
     } else {
       row.innerHTML = '<span style="width:13px;flex:none"></span>' + fileIcon(node.ext) +
-        '<span class="label">' + esc(prettyName(node.name)) + '</span>';
+        '<span class="label">' + esc(displayName(node)) + '</span>';
       row.title = node.title || node.name;
       row.addEventListener('click', function (e) {
         e.stopPropagation();
@@ -373,7 +397,7 @@
       var row = document.createElement('div');
       row.className = 'row file';
       row.dataset.path = f.path;
-      var nm = prettyName(f.name);
+      var nm = displayName(f);
       var k = nm.toLowerCase().indexOf(q);
       var label = k >= 0
         ? esc(nm.slice(0, k)) + '<span class="hit">' + esc(nm.slice(k, k + q.length)) +
@@ -468,7 +492,7 @@
 
   function fileRow(f) {
     return '<li><a href="#/' + esc(f.path) + '">' + fileIcon(f.ext) +
-      '<span class="fn"><b>' + esc(prettyName(f.name)) + '</b>' +
+      '<span class="fn"><b>' + esc(displayName(f)) + '</b>' +
       (f.summary ? '<span>' + esc(f.summary) + '</span>' : '') +
       '</span><span class="fsz">' + fmtSize(f.size) + '</span></a></li>';
   }
@@ -484,8 +508,8 @@
     if (role) h += '<p class="lede">' + esc(role) + '</p>';
     h += '</div>';
 
-    var dirs = (node.children || []).filter(function (x) { return x.type === 'dir'; });
-    var files = (node.children || []).filter(function (x) { return x.type === 'file'; });
+    var dirs = orderedChildren((node.children || []).filter(function (x) { return x.type === 'dir'; }));
+    var files = orderedChildren((node.children || []).filter(function (x) { return x.type === 'file'; }));
 
     if (dirs.length) {
       h += '<div class="sec-h">子目录</div><div class="cards">' + dirs.map(function (d) {
@@ -523,7 +547,7 @@
       } else {
         box.className = 'content';
         box.innerHTML = '<h1 style="font-size:22px;margin:4px 0 14px">' +
-          esc(prettyName(node.name)) + '</h1>' +
+          esc(displayName(node)) + '</h1>' +
           '<div class="txt">' + esc(text) + '</div>';
         $('toc').innerHTML = '';
       }
@@ -606,7 +630,7 @@
     if (state.byPath[path]) {
       var f = state.byPath[path];
       viewFile(f);
-      document.title = prettyName(f.name) + ' — 资料库';
+      document.title = displayName(f) + ' — 资料库';
       return;
     }
     if (state.dirByPath[path]) {
