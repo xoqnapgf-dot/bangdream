@@ -39,16 +39,24 @@ jobs:
         run: |
           mkdir -p /tmp/meta
           python - <<'PY'
-          import json, os, pathlib, requests
-          bvid=os.environ['BVID']; out={}
+          import json, os, pathlib, re, requests
+          bvid=os.environ['BVID']; out={}; headers={'User-Agent':'Mozilla/5.0','Referer':'https://www.bilibili.com/'}
+          def save(d):
+              pages=d.get('pages') or []
+              out[bvid]={'aid':d['aid'],'cid':pages[0]['cid'] if pages else d.get('cid'),'cover':d['pic'].replace('http://','https://'),'title':d['title']}
           try:
-              r=requests.get('https://api.bilibili.com/x/web-interface/view',params={'bvid':bvid},headers={'User-Agent':'Mozilla/5.0','Referer':'https://www.bilibili.com/'},timeout=20)
+              r=requests.get('https://api.bilibili.com/x/web-interface/view',params={'bvid':bvid},headers=headers,timeout=20)
               p=r.json()
-              if r.status_code == 200 and p.get('code') == 0:
-                  d=p['data']; pages=d.get('pages') or []
-                  out[bvid]={'aid':d['aid'],'cid':pages[0]['cid'] if pages else d.get('cid'),'cover':d['pic'].replace('http://','https://'),'title':d['title']}
-              else: print(r.status_code,p.get('code'))
-          except Exception as e: print(repr(e))
+              if r.status_code == 200 and p.get('code') == 0: save(p['data'])
+              else: print('api',r.status_code,p.get('code'))
+          except Exception as e: print('api',repr(e))
+          if not out:
+              try:
+                  html=requests.get('https://www.bilibili.com/video/'+bvid+'/',headers=headers,timeout=20).text
+                  m=re.search(r'window\.__INITIAL_STATE__=(.*?);\(function\(\)',html)
+                  if m: save(json.loads(m.group(1))['videoData'])
+                  else: print('page has no initial state',len(html))
+              except Exception as e: print('page',repr(e))
           pathlib.Path('/tmp/meta/'+bvid+'.json').write_text(json.dumps(out,ensure_ascii=False),encoding='utf-8')
           PY
       - uses: actions/upload-artifact@v4
