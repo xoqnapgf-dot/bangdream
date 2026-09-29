@@ -52,6 +52,13 @@ jobs:
           except Exception as e: print('api',repr(e))
           if not out:
               try:
+                  d=requests.get('https://www.biliplus.com/api/view',params={'id':bvid},headers=headers,timeout=20).json()
+                  pages=[{'cid':d['list'][0]['cid']}] if d.get('list') else []
+                  save({'aid':d.get('aid') or d['id'],'cid':pages[0]['cid'] if pages else None,
+                        'pages':pages,'pic':d['pic'],'title':d['title']})
+              except Exception as e: print('biliplus',repr(e))
+          if not out:
+              try:
                   html=requests.get('https://www.bilibili.com/video/'+bvid+'/',headers=headers,timeout=20).text
                   m=re.search(r'window\.__INITIAL_STATE__=(.*?);\(function\(\)',html)
                   if m: save(json.loads(m.group(1))['videoData'])
