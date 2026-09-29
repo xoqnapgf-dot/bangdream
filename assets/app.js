@@ -417,10 +417,16 @@
 
   /* ─────────── 侧栏树 ─────────── */
 
-  /* 角色目录里的「人设汇总」是这个角色的总览，固定排在同级文件的最前面。
-     纯排序上的置顶，不加徽标也不做任何视觉标记。 */
+  /* 总览文件固定排在同级文件最前面；只调整展示顺序，不移动原文件。 */
+  var PINNED_FILES = [
+    '00_剧情区/04_漫画游戏/MyGO_漫画游戏情节汇总.md',
+    '00_剧情区/05_官方访谈与设定/MyGO_确证内容汇总.md',
+    '00_剧情区/06_社区解析_推测/MyGO_分析推测汇总.md'
+  ];
   function pinRank(node) {
-    return (node.type === 'file' && /^人设汇总/.test(node.name)) ? 0 : 1;
+    if (node.type !== 'file') return 1;
+    if (/^人设汇总/.test(node.name)) return 0;
+    return PINNED_FILES.indexOf(node.path) >= 0 ? 0 : 1;
   }
 
   // 前端再次按目录 / 文件名中的数字排序，避免清单来源变化后集数乱序。

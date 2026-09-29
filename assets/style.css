@@ -357,6 +357,9 @@ html[data-theme="dark"] .ico-moon { display: block; }
 .md a { color: var(--accent); text-decoration: none;
         border-bottom: 1px solid color-mix(in srgb, var(--accent) 35%, transparent); }
 .md a:hover { border-bottom-color: var(--accent); }
+.md a[target="_blank"]::after {
+  content: " ↗"; font-size: .76em; color: var(--tx-faint); vertical-align: .08em;
+}
 
 .md img {
   display: block; max-width: 100%; height: auto;
