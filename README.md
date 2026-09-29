@@ -4,6 +4,8 @@
 
 **在线访问：** https://xoqnapgf-dot.github.io/bangdream/
 
+[项目简介、阅读与维护注意事项、版本记录](./项目简介.txt)
+
 ---
 
 ## 功能

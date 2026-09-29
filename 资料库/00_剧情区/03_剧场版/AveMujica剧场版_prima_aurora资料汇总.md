@@ -1,6 +1,6 @@
 # 电影《BanG Dream! Ave Mujica prima aurora》资料汇总
 
-电影于 2026-10-16 在日本上映，故事发生在 Ave Mujica 再次出道半年后的春天。
+电影将于 2026-10-16 在日本上映，故事发生在 Ave Mujica 再次出道半年后的春天。
 
 ![《BanG Dream! Ave Mujica prima aurora》官方主视觉图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/index/img_kv_02.webp)
 
