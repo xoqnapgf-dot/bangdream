@@ -62,6 +62,11 @@
 
 </div>
 
+<script>
+if (location.protocol === 'file:') {
+  document.write('<script src="assets/offline-data.js"><\/script>');
+}
+</script>
 <script src="assets/app.js"></script>
 </body>
 </html>

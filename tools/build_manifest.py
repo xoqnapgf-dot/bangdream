@@ -11,6 +11,8 @@ import datetime
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 LIB = ROOT / "资料库"
 OUT = ROOT / "assets" / "manifest.json"
+OFFLINE_OUT = ROOT / "assets" / "offline-data.js"
+VIDEO_META = ROOT / "assets" / "video-meta.json"
 
 TEXT_EXT = {".md", ".txt"}
 BEIJING_TZ = datetime.timezone(datetime.timedelta(hours=8))
@@ -172,7 +174,24 @@ def main():
         json.dumps(data, ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
     )
-    print(f"✅ {OUT.relative_to(ROOT)}  —  {nf} 个文件 / {nd} 个目录 / {total/1024:.0f} KB")
+
+    video_meta = json.loads(VIDEO_META.read_text("utf-8")) if VIDEO_META.is_file() else {}
+    content = {
+        p.relative_to(LIB).as_posix(): read_text(p)
+        for p in LIB.rglob("*")
+        if p.is_file() and p.suffix.lower() in TEXT_EXT
+    }
+    offline = json.dumps(
+        {"manifest": data, "videoMeta": video_meta, "content": content},
+        ensure_ascii=False,
+        separators=(",", ":"),
+    ).replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
+    OFFLINE_OUT.write_text("window.__BD_OFFLINE_DATA__=" + offline + ";\n", encoding="utf-8")
+
+    print(
+        f"✅ {OUT.relative_to(ROOT)}  —  {nf} 个文件 / {nd} 个目录 / {total/1024:.0f} KB\n"
+        f"✅ {OFFLINE_OUT.relative_to(ROOT)}  —  本地双击备用数据 {OFFLINE_OUT.stat().st_size/1024:.0f} KB"
+    )
 
 
 if __name__ == "__main__":

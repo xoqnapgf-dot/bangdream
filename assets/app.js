@@ -773,6 +773,12 @@
     }
 
     if (state.cache[node.path]) { paint(state.cache[node.path]); return; }
+    var offlineContent = window.__BD_OFFLINE_DATA__ && window.__BD_OFFLINE_DATA__.content;
+    if (offlineContent && Object.prototype.hasOwnProperty.call(offlineContent, node.path)) {
+      state.cache[node.path] = offlineContent[node.path];
+      paint(offlineContent[node.path]);
+      return;
+    }
 
     $('main').scrollTop = 0;
     $('content').className = 'content';
@@ -956,16 +962,20 @@
 
     window.addEventListener('hashchange', route);
 
-    Promise.all([
-      fetch('assets/manifest.json').then(function (r) {
-        if (!r.ok) throw new Error('HTTP ' + r.status);
-        return r.json();
-      }),
-      fetch('assets/video-meta.json').then(function (r) {
-        return r.ok ? r.json() : {};
-      }).catch(function () { return {}; })
-    ])
-      .then(function (data) {
+    var offlineData = window.__BD_OFFLINE_DATA__;
+    var startup = offlineData
+      ? Promise.resolve([offlineData.manifest, offlineData.videoMeta || {}])
+      : Promise.all([
+          fetch('assets/manifest.json').then(function (r) {
+            if (!r.ok) throw new Error('HTTP ' + r.status);
+            return r.json();
+          }),
+          fetch('assets/video-meta.json').then(function (r) {
+            return r.ok ? r.json() : {};
+          }).catch(function () { return {}; })
+        ]);
+
+    startup.then(function (data) {
         var m = data[0];
         state.videoMeta = data[1];
         state.manifest = m;
@@ -978,8 +988,7 @@
       })
       .catch(function (e) {
         $('content').innerHTML = '<div class="errbox">目录清单载入失败：' + esc(e.message) +
-          '<br><small style="color:var(--tx-faint)">若在本地直接双击打开 index.html，' +
-          '浏览器会因 CORS 限制拒绝读取文件，请用本地服务器访问。</small></div>';
+          '<br><small style="color:var(--tx-faint)">本地阅读请完整下载项目，并保留 index.html 与 assets、资料库目录的相对位置。</small></div>';
       });
   }
 
