@@ -344,10 +344,7 @@ Ave Mujica 动画前期冷遇爱素的同时，手游 2025 年素世生日回与
 
 > 长崎素世 × 若叶睦 · CRYCHIC 旧队友，现分属 MyGO!!!!! 与 Ave Mujica · 扭曲关系
 
-@[gallery]
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
-@[/gallery]
+![素世与墨缇丝 · Ave Mujica 第 6 话](https://img.anitubu.com/imgs/2025/02/07/OXkZYlCzclkH9hx.jpg "素世与墨缇丝 · Ave Mujica 第 6 话，素世拿起另一只鞋配合墨缇丝「打电话」")
 
 ### 磕点核心
 
