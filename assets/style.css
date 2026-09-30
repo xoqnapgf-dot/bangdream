@@ -668,18 +668,32 @@ html[data-theme="dark"] .errbox { color: #f08a7e; }
 .script-view .ep-title-ja {
   color: var(--tx-faint); font-size: 13.5px; letter-spacing: .02em;
 }
-.script-view .ep-shots {
-  display: grid; grid-template-columns: repeat(3, minmax(0, 1fr));
-  gap: 10px; margin: 18px 0 16px;
+.script-view .ep-cover {
+  margin: 18px 0 16px; overflow: hidden;
+  border: 1px solid var(--line); border-radius: 10px; background: var(--bg-sink);
 }
-.script-view .ep-shots .media-card {
-  margin: 0; overflow: hidden; border: 1px solid var(--line);
-  border-radius: 8px; background: var(--bg-sink);
+.script-view .ep-cover img {
+  display: block; width: 100%; aspect-ratio: 16 / 7;
+  object-fit: cover; background: var(--bg-sink);
 }
-.script-view .ep-shots img {
+
+/* 正文里分散铺开的场面图 */
+.script-view .sc-figure {
+  margin: 26px 0; overflow: hidden;
+  border: 1px solid var(--line); border-radius: 10px; background: var(--bg-sink);
+}
+.script-view .sc-figure img {
   display: block; width: 100%; aspect-ratio: 16 / 9;
   object-fit: cover; background: var(--bg-sink);
 }
+.script-view .sc-figure figcaption {
+  padding: 8px 10px; color: var(--tx-faint);
+  font-size: 12px; line-height: 1.45; text-align: center;
+}
+
+/* 心里话：说话人照旧，台词转成灰调 */
+.script-view .sc-line.is-inner .sc-say { color: var(--tx-dim); font-style: italic; }
+.script-view .sc-line.is-inner .sc-who { opacity: .75; }
 .script-view .ep-syn {
   margin: 0 0 12px; color: var(--tx-dim); font-size: 14.5px; line-height: 1.75;
 }
@@ -745,17 +759,12 @@ html[data-theme="dark"] .errbox { color: #f08a7e; }
 .script-view .sc-scene.is-break { margin-top: 24px; }
 
 @media (max-width: 640px) {
-  .script-view .ep-shots { grid-template-columns: repeat(2, minmax(0, 1fr)); }
   .script-view .ep-title { font-size: 21px; }
   .script-view .sc-line { grid-template-columns: 1fr; gap: 0; }
   .script-view .sc-who { text-align: left; font-size: 12px; opacity: .85; }
 }
 
 /* 头卡里的图注与互见链接 */
-.script-view .ep-shots figcaption {
-  padding: 6px 8px; color: var(--tx-faint);
-  font-size: 11.5px; line-height: 1.4; text-align: center;
-}
 .script-view .ep-links {
   display: flex; flex-wrap: wrap; gap: 8px; margin: 0 0 12px;
 }
@@ -769,7 +778,6 @@ html[data-theme="dark"] .errbox { color: #f08a7e; }
 }
 
 /* 视角叙述：长段落正文 */
-.prose-view .ep-shots { grid-template-columns: repeat(4, minmax(0, 1fr)); }
 .prose-view .prose { font-size: 15px; line-height: 1.95; }
 .prose-view .pr-h {
   margin: 30px 0 14px; padding-bottom: 7px; font-size: 17px; font-weight: 650;
@@ -778,5 +786,4 @@ html[data-theme="dark"] .errbox { color: #f08a7e; }
 .prose-view .pr-h:first-child { margin-top: 4px; }
 .prose-view .pr-p { margin: 0 0 17px; color: var(--tx); }
 @media (max-width: 640px) {
-  .prose-view .ep-shots { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }

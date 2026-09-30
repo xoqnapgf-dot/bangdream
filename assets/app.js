@@ -494,58 +494,101 @@
     });
   }
 
+  /* 把配图铺到正文里：优先落在场景切换处，避免一次性堆在开头。 */
+  function spreadImages(blocks, breaks, images) {
+    if (!images || !images.length) return blocks.join('');
+    var slots = [], used = {};
+    for (var n = 0; n < images.length; n++) {
+      var want = Math.round(blocks.length * (n + 1) / (images.length + 1));
+      var limit = Math.max(6, Math.round(blocks.length * 0.08));   // 就近吸附，但不许跑太远
+      var best = -1, dist = Infinity;
+      for (var k = 0; k < breaks.length; k++) {
+        var d = Math.abs(breaks[k] - want);
+        if (!used[breaks[k]] && d < dist) { dist = d; best = breaks[k]; }
+      }
+      if (best < 0 || dist > limit) best = want;
+      used[best] = 1;
+      slots.push({ at: best, img: images[n] });
+    }
+    slots.sort(function (x, y) { return y.at - x.at; });
+    slots.forEach(function (sl) {
+      var src = typeof sl.img === 'string' ? sl.img : sl.img.src;
+      var cap = typeof sl.img === 'string' ? '' : (sl.img.caption || '');
+      blocks.splice(Math.max(0, Math.min(sl.at, blocks.length)), 0,
+        '<figure class="sc-figure"><img src="' + esc(src) + '" alt="' + esc(cap || '场面图') +
+        '" loading="lazy" referrerpolicy="no-referrer">' +
+        (cap ? '<figcaption>' + esc(cap) + '</figcaption>' : '') + '</figure>');
+    });
+    return blocks.join('');
+  }
+
   /* 视角叙述 txt：整段整段的长文，按段落排，短行当阶段小标题。 */
-  function renderProse(src) {
-    var lines = String(src).replace(/\r\n?/g, '\n').split('\n'), out = [];
+  function renderProse(src, images) {
+    var lines = String(src).replace(/\r\n?/g, '\n').split('\n'), out = [], breaks = [];
     for (var i = 0; i < lines.length; i++) {
       var t = lines[i].trim();
       if (!t) continue;
-      if (t.length <= 16 && !/[。！？，、]/.test(t)) out.push('<h2 class="pr-h">' + esc(t) + '</h2>');
-      else out.push('<p class="pr-p">' + esc(t) + '</p>');
+      if (t.length <= 16 && !/[。！？，、]/.test(t)) {
+        breaks.push(out.length);
+        out.push('<h2 class="pr-h">' + esc(t) + '</h2>');
+      } else {
+        breaks.push(out.length);
+        out.push('<p class="pr-p">' + esc(t) + '</p>');
+      }
     }
-    return '<div class="prose">' + out.join('') + '</div>';
+    return '<div class="prose">' + spreadImages(out, breaks, images) + '</div>';
   }
 
   /* 剧本 txt：说话人、场景提示与旁注分开排版。不改动资料库里的原文，
      只是把「姓名：台词」这样的纯文本行渲染成可读的对白。 */
-  function renderScript(src) {
+  function renderScript(src, images) {
     var lines = String(src).replace(/\r\n?/g, '\n').split('\n');
-    var out = [], gap = false;
-    function push(cls, html) { out.push('<p class="' + cls + (gap ? ' is-break' : '') + '">' + html + '</p>'); gap = false; }
+    var out = [], breaks = [], gap = false;
+    function push(cls, html) {
+      out.push('<p class="' + cls + (gap ? ' is-break' : '') + '">' + html + '</p>');
+      gap = false;
+    }
     for (var i = 0; i < lines.length; i++) {
       var line = lines[i].replace(/\s+$/, '');
       if (!line.trim()) { gap = true; continue; }
       var t = line.trim(), m;
-      if ((m = /^\*{2,3}(.+?)\*{2,3}$/.exec(t))) {          // ***整段说明***
+      if ((m = /^\*{2,3}(.+?)\*{2,3}$/.exec(t))) {            // ***整段说明***
         push('sc-note', esc(m[1]));
-      } else if ((m = /^#\s*(.*)$/.exec(t))) {               // # 灯的旁白（第 3 集）
+      } else if ((m = /^#\s*(.+)$/.exec(t))) {                 // 行首 # ：独白
         push('sc-aside', esc(m[1]));
-      } else if ((m = /^\*\s*(.*)$/.exec(t))) {              // * 笔记本上的字（第 3 集）
+      } else if ((m = /^\*\s*(.+)$/.exec(t))) {                // 行首 * ：笔记本上的字
         push('sc-memo', esc(m[1]));
-      } else if (/^[（(]/.test(t)) {                         // （动作、镜头、画面内文字）
+      } else if (/^[（(]/.test(t)) {                           // （动作、镜头、画面内文字）
+        if (gap) breaks.push(out.length);
         push('sc-act', esc(t));
       } else if ((m = /^([^：:，。！？\s]{1,24})[：:](.*)$/.exec(line))) {
-        out.push('<p class="sc-line' + (gap ? ' is-break' : '') + '"><span class="sc-who">' +
-          esc(m[1]) + '</span><span class="sc-say">' + esc(m[2].trim()) + '</span></p>');
+        var body = m[2].trim(), inner = '';
+        /* 「姓名：#……」「姓名：（动作）#……」是心里话。
+           注意 F# 这类和弦不能误伤——# 必须紧跟在冒号或右括号之后。 */
+        var mono = /^([（(][^）)]*[）)])?\s*#\s*(.+)$/.exec(body);
+        if (mono) { inner = ' is-inner'; body = (mono[1] || '') + mono[2]; }
+        out.push('<p class="sc-line' + inner + (gap ? ' is-break' : '') + '"><span class="sc-who">' +
+          esc(m[1]) + '</span><span class="sc-say">' + esc(body) + '</span></p>');
         gap = false;
-      } else {                                               // 场景、时间、地点
+      } else {                                                 // 场景、时间、地点
+        if (gap) breaks.push(out.length);
         push('sc-scene', esc(t));
       }
     }
-    return '<div class="script">' + out.join('') + '</div>';
+    return '<div class="script">' + spreadImages(out, breaks, images) + '</div>';
   }
 
   /* 剧本文件的头部：官方场面图、话数标题、梗概与制作名单。
      数据来自 assets/episode-meta.json。 */
   function renderEpisodeHead(meta, title) {
     if (!meta) return '';
-    var shots = (meta.images || []).map(function (item) {
-      var src = typeof item === 'string' ? item : item.src;
-      var cap = typeof item === 'string' ? '' : (item.caption || '');
-      return '<figure class="media-card"><img src="' + esc(src) + '" alt="' +
-        esc(cap || (title + ' 场面图')) + '" loading="lazy" referrerpolicy="no-referrer">' +
-        (cap ? '<figcaption>' + esc(cap) + '</figcaption>' : '') + '</figure>';
-    }).join('');
+    var cover = (meta.images || [])[0];
+    var shots = '';
+    if (cover) {
+      var coverSrc = typeof cover === 'string' ? cover : cover.src;
+      shots = '<figure class="ep-cover"><img src="' + esc(coverSrc) + '" alt="' +
+        esc(title) + '" loading="lazy" referrerpolicy="no-referrer"></figure>';
+    }
     var links = (meta.links || []).map(function (l) {
       return '<a class="ep-link" href="' + esc(l.href) + '">' + esc(l.text) + '</a>';
     }).join('');
@@ -560,7 +603,7 @@
       (meta.ep ? '<div class="ep-no">第 ' + esc(String(meta.ep)) + ' 集</div>' : '') +
       '<h1 class="ep-title">' + esc(title) + '</h1>' +
       (meta.titleJa ? '<div class="ep-title-ja">' + esc(meta.titleJa) + '</div>' : '') +
-      (shots ? '<div class="image-gallery ep-shots">' + shots + '</div>' : '') +
+      shots +
       (meta.synopsis ? '<p class="ep-syn">' + esc(meta.synopsis) + '</p>' : '') +
       (meta.quote ? '<blockquote class="ep-quote">' + esc(meta.quote) + '</blockquote>' : '') +
       staff +
@@ -898,8 +941,9 @@
         if (epMeta) {
           var prose = epMeta.layout === 'prose';
           box.className = 'content script-view' + (prose ? ' prose-view' : '');
+          var bodyImages = (epMeta.images || []).slice(1);
           box.innerHTML = renderEpisodeHead(epMeta, epMeta.title || plainTitle) +
-            (prose ? renderProse(text) : renderScript(text));
+            (prose ? renderProse(text, bodyImages) : renderScript(text, bodyImages));
           guardImages(box);
           resolveContentLinks(box, node.path);
         } else {
