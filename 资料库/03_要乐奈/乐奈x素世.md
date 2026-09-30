@@ -78,6 +78,6 @@
 - MyGO 剧本：05_我没有逃避.txt:23、07_就算今天的演唱会结束.txt:146-235、09_解散.txt:306、10_一直迷失着.txt:423、11:479、12_It's_my_go.txt:83
 - Ave Mujica 总纲：2.7（嫉妒乐奈）
 - 库内：乐奈人设、素世人设第七节（×乐奈条）、素世x爱音.md（抹茶芭菲卡面转引）
-- 联网：moegirl《长崎爽世》、Tumblr priscirat 投稿、Pixiv tag 观察
+- 联网：moegirl《长崎素世》、Tumblr priscirat 投稿、Pixiv tag 观察
 
 对齐账号：`04_长崎素世/素世x乐奈.md`

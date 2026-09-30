@@ -81,6 +81,6 @@
 - MyGO 剧本：12_It's_my_go.txt:392-416（含官方括注）
 - Ave Mujica 总纲：2.6/2.7/2.9/2.10/2.11 章节
 - 库内：睦人设、素世人设第七节（×睦条）
-- 联网：moegirl《长崎爽世》、はてな mikanayuip 断案（2025-01）、annict、NGA 百合部、lastbreath Mujica 感想、B站用户提供 tag 数据（社区口径）
+- 联网：moegirl《长崎素世》、はてな mikanayuip 断案（2025-01）、annict、NGA 百合部、lastbreath Mujica 感想、B站用户提供 tag 数据（社区口径）
 
 对齐账号：本文件为むつそよ（睦攻向）；对向文件为《素世x睦》（そよむつ/素世攻向），路径 04_长崎素世/素世x睦.md。同睦侧另见《睦x祥子》《睦x若麦》。
