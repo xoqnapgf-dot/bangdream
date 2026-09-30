@@ -27,6 +27,7 @@ jobs:
           open('/tmp/avem13.mp4','wb').write(r.content)
           print('downloaded',len(r.content))
           PY
+          cp /tmp/avem13.mp4 audit-video.mp4
           rm -rf /tmp/frames audit-video-frames
           mkdir -p /tmp/frames audit-video-frames
           ffmpeg -hide_banner -loglevel error -i /tmp/avem13.mp4 -vf 'fps=1,scale=320:-1' -q:v 5 /tmp/frames/%04d.jpg
@@ -46,6 +47,6 @@ jobs:
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add audit-video-frames
+          git add audit-video.mp4 audit-video-frames
           git commit -m 'chore: add temporary audit contact sheets'
           git push origin HEAD:arena/01a0f20c-bangdream
