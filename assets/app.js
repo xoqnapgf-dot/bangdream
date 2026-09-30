@@ -863,7 +863,9 @@
     return '<li><a href="#/' + esc(f.path) + '">' + fileIcon(f.ext) +
       '<span class="fn"><b>' + esc(displayName(f)) + '</b>' +
       (f.summary ? '<span>' + esc(f.summary) + '</span>' : '') +
-      '</span><span class="fsz">' + fmtSize(f.size) + '</span></a></li>';
+      '</span><span class="fsz"><span>' + fmtSize(f.size) + '</span>' +
+      (f.updated ? '<span>北京时间 ' + esc(f.updated) + '</span>' : '') +
+      '</span></a></li>';
   }
 
   /* ─────────── 视图：文件夹 ─────────── */
@@ -902,7 +904,8 @@
   /* ─────────── 视图：文件 ─────────── */
 
   function viewFile(node) {
-    crumb(node.path, fmtSize(node.size) + ' · ' + node.chars.toLocaleString() + ' 字');
+    crumb(node.path, fmtSize(node.size) + ' · ' + node.chars.toLocaleString() + ' 字' +
+      (node.updated ? ' · 更新于北京时间 ' + node.updated : ''));
     highlightTree(node.path);
 
     function paint(text) {

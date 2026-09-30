@@ -7,6 +7,7 @@ import os
 import re
 import pathlib
 import datetime
+import subprocess
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 LIB = ROOT / "资料库"
@@ -140,6 +141,58 @@ def write_outline():
     OUTLINE.write_text(text, encoding="utf-8")
 
 
+def git_update_times() -> dict[str, str]:
+    """返回资料库文件最后一次提交的北京时间（精确到分钟）。
+
+    检出、重置会批量改写文件系统 mtime，因此历史时间只取 Git。工作区中
+    已修改或未跟踪的文件尚无提交时间，明确使用本次生成时刻。
+    """
+    now = datetime.datetime.now(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
+    try:
+        history = subprocess.run(
+            ["git", "-c", "core.quotepath=false", "log", "--format=@@%ct",
+             "--name-only", "--no-renames", "--", LIB.name],
+            cwd=ROOT, check=True, capture_output=True, text=True, encoding="utf-8",
+        ).stdout
+        dirty_output = subprocess.run(
+            ["git", "-c", "core.quotepath=false", "status", "--porcelain", "-z", "--", LIB.name],
+            cwd=ROOT, check=True, capture_output=True,
+        ).stdout.decode("utf-8", errors="replace")
+    except (OSError, subprocess.CalledProcessError):
+        return {}
+
+    result: dict[str, str] = {}
+    stamp = None
+    for line in history.splitlines():
+        if line.startswith("@@"):
+            try:
+                stamp = datetime.datetime.fromtimestamp(int(line[2:]), BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
+            except ValueError:
+                stamp = None
+        elif stamp and line.startswith(LIB.name + "/"):
+            result.setdefault(line[len(LIB.name) + 1:], stamp)
+
+    # porcelain -z 的普通记录为“XY 路径”；重命名会多带一个 NUL 字段。
+    fields = dirty_output.split("\0")
+    i = 0
+    while i < len(fields):
+        record = fields[i]
+        i += 1
+        if not record:
+            continue
+        status, path = record[:2], record[3:]
+        if status[0] in "RC" or status[1] in "RC":
+            if i < len(fields):
+                i += 1
+        if path.startswith(LIB.name + "/"):
+            result[path[len(LIB.name) + 1:]] = now
+    return result
+
+
+UPDATE_TIMES: dict[str, str] = {}
+CURRENT_BUILD_TIME = ""
+
+
 def walk(d: pathlib.Path):
     dirs, files = [], []
     for entry in sorted(d.iterdir(), key=display_key):
@@ -162,12 +215,16 @@ def walk(d: pathlib.Path):
                 "chars": len(text),
                 "title": extract_title(entry, text),
                 "summary": summarize(text),
+                "updated": UPDATE_TIMES.get(rel, CURRENT_BUILD_TIME),
             })
+    children = dirs + files
+    updated = max((child.get("updated") or "" for child in children), default="") or None
     return {
         "type": "dir",
         "name": d.name,
         "path": d.relative_to(LIB).as_posix() if d != LIB else "",
-        "children": dirs + files,
+        "updated": updated,
+        "children": children,
     }
 
 
@@ -185,10 +242,13 @@ def count(node):
 
 
 def main():
+    global UPDATE_TIMES, CURRENT_BUILD_TIME
     if not LIB.is_dir():
         raise SystemExit(f"找不到资料库目录: {LIB}")
     # 先刷新大纲，再扫描，保证清单里记录的是大纲的最新体积。
     write_outline()
+    CURRENT_BUILD_TIME = datetime.datetime.now(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
+    UPDATE_TIMES = git_update_times()
     tree = walk(LIB)
     nf, nd = count(tree)
     total = sum(p.stat().st_size for p in LIB.rglob("*") if p.is_file())

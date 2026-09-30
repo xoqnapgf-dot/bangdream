@@ -48,6 +48,30 @@ def main() -> None:
     assert ".sort(compareNodes)" not in frontend, "前端仍在覆盖 manifest 的策划顺序"
     assert "return (children || []).slice();" in frontend
 
+    # 每个资料文件都必须带北京时间分钟时间；前端列表和阅读页都要展示。
+    def check_updated(node: dict) -> None:
+        for child in node.get("children", []):
+            updated = child.get("updated")
+            assert isinstance(updated, str) and len(updated) == 16, f"缺少分钟级更新时间：{child.get('path')}"
+            assert updated[4] == "-" and updated[7] == "-" and updated[10] == " " and updated[13] == ":"
+            if child["type"] == "dir":
+                check_updated(child)
+
+    check_updated(tree)
+    assert "北京时间 ' + esc(f.updated)" in frontend, "文件清单未显示北京时间"
+    assert "更新于北京时间 ' + node.updated" in frontend, "文件阅读页未显示更新时间"
+
+    community_dir = LIB / "00_剧情区/06_社区解析_推测"
+    mygo_community = (community_dir / "MyGO_分析推测汇总.md").read_text(encoding="utf-8")
+    ave_community = (community_dir / "AveMujica_分析推测汇总.md").read_text(encoding="utf-8")
+    yamaryo = (community_dir / "Yamaryo_個體化的擺盪與認同的放手.md").read_text(encoding="utf-8")
+    for text in (mygo_community, ave_community):
+        assert "双向情感障碍自杀率" not in text
+        assert "系统自动/豆瓣" not in text
+        assert "★★★★★" not in text
+    assert "不是 `Mujica` 的拉丁语词源" in ave_community
+    assert "非完整转载" in yamaryo and "缺少原站第 3、4 章" in yamaryo
+
     synopsis = (LIB / "00_剧情区/02_AveMujica动画/AveMujica_剧情总纲_整合版.md").read_text(encoding="utf-8")
     required = [
         "赤着一只脚继续冲出机场",

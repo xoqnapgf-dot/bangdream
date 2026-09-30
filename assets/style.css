@@ -333,7 +333,11 @@ html[data-theme="dark"] .ico-moon { display: block; }
 }
 .filelist .fsz {
   flex: none; font-size: 11px; color: var(--tx-faint);
-  font-variant-numeric: tabular-nums;
+  font-variant-numeric: tabular-nums; text-align: right;
+}
+.filelist .fsz span { display: block; white-space: nowrap; }
+@media (max-width: 620px) {
+  .filelist .fsz span:first-child { display: none; }
 }
 
 /* ───────────── Markdown 排版 ───────────── */
