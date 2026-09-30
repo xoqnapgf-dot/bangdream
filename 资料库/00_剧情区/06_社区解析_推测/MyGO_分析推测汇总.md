@@ -5,7 +5,7 @@
 
 @[gallery]
 ![MyGO!!!!! 五名成员官方视觉](https://anime.bang-dream.com/mygo/wordpress/wp-content/uploads/2023/04/05130222/MyGO_info_SLIDE_01-2.png "MyGO!!!!! · TV 动画官方视觉")
-![高松燈与三角初华](https://anime.bang-dream.com/mygo/wordpress/wp-content/uploads/2023/08/10202947/BD_Mygo_ep10_230705_PR422HQ_00020.png "燈与初华 · TV 动画第 10 话官方场面图")
+![高松灯与三角初华](https://anime.bang-dream.com/mygo/wordpress/wp-content/uploads/2023/08/10202947/BD_Mygo_ep10_230705_PR422HQ_00020.png "灯与初华 · TV 动画第 10 话官方场面图")
 @[/gallery]
 
 @[bilibili](BV1tEYE6UEkS "TV 动画《It's MyGO!!!!!》×《Our Notes》STORY LINK 官方 PV")
