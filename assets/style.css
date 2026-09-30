@@ -518,24 +518,34 @@ html[data-theme="dark"] .errbox { color: #f08a7e; }
 }
 .section-return:hover { color: var(--accent); border-color: var(--accent); }
 
-.contents-fab {
+/* 右下角浮动返回：窄屏专用。宽屏有右侧「本文大纲」可用，且此处正是大纲栏位置，故不显示。 */
+.fab-stack {
   position: fixed; z-index: 45;
   right: max(18px, env(safe-area-inset-right));
   bottom: max(20px, env(safe-area-inset-bottom));
-  width: 52px; height: 38px; padding: 0;
+  display: none; flex-direction: column; align-items: flex-end; gap: 8px;
+}
+.fab {
+  min-width: 52px; height: 38px; padding: 0 13px;
   border: 1px solid var(--line); border-radius: 999px;
   color: var(--tx); background: var(--bg);
   background: color-mix(in srgb, var(--bg) 92%, transparent);
   box-shadow: var(--shadow); backdrop-filter: blur(8px);
-  font-size: 13px; font-weight: 600; line-height: 36px; text-align: center;
-  cursor: pointer;
+  font: inherit; font-size: 13px; font-weight: 600; line-height: 36px; text-align: center;
+  white-space: nowrap; cursor: pointer;
 }
-.contents-fab:hover { color: var(--accent); border-color: var(--accent); transform: translateY(-1px); }
-.contents-fab[hidden] { display: none; }
+.fab:hover { color: var(--accent); border-color: var(--accent); transform: translateY(-1px); }
+.fab:active { transform: translateY(0); }
+.fab[hidden] { display: none; }
+.back-fab::before {
+  content: '‹'; margin-right: 5px;
+  font-size: 17px; font-weight: 700; vertical-align: 1px;
+}
 
 /* ───────────── 响应式 ───────────── */
 @media (max-width: 1180px) {
   .toc { display: none; }
+  .fab-stack { display: flex; }
 }
 
 @media (max-width: 860px) {

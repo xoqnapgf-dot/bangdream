@@ -862,6 +862,7 @@
     var contentsFab = $('contentsFab');
     contentsFab.hidden = !contentsHead;
     contentsFab.onclick = contentsHead ? function () {
+      dropSameDocJumps();
       $('main').scrollTo({ top: contentsHead.offsetTop - 52, behavior: 'smooth' });
     } : null;
     box.querySelectorAll('a[href^="#"]:not([href^="#/"])').forEach(function (a) {
@@ -884,6 +885,7 @@
       a.href = '#' + target.id;
       a.addEventListener('click', function (e) {
         e.preventDefault();
+        pushJump(true);
         $('main').scrollTo({ top: target.offsetTop - 52, behavior: 'smooth' });
       });
       if (contentsHead && target !== contentsHead && !target.querySelector('.section-return')) {
@@ -894,6 +896,7 @@
         back.addEventListener('click', function (e) {
           e.preventDefault();
           e.stopPropagation();
+          dropSameDocJumps();
           $('main').scrollTo({ top: contentsHead.offsetTop - 52, behavior: 'smooth' });
         });
         target.appendChild(back);
@@ -910,6 +913,62 @@
     tocLinks.forEach(function (a, k) { a.classList.toggle('on', k === cur); });
   }
 
+  /* ─────────── 右下角按需返回 ───────────
+     正文里发生跳转时才记一笔，供窄屏右下角的返回按钮使用：
+       · 本页跳转（目录 → 章节）→「返回」，回到跳转前的滚动位置
+       · 跨文件跳转（交叉引用）→「上一页」，回到来源文件及其滚动位置
+     从侧栏、搜索、面包屑或浏览器后退进入的页面不算跳转，记录随即清空。 */
+
+  var jumpStack = [];   // { path, top, label, sameDoc }
+  var navByRef = false; // 本次 route() 是否由正文跳转链接触发
+
+  function currentLabel() {
+    var f = state.byPath[state.current];
+    return f ? displayName(f) : (state.current || '首页');
+  }
+
+  function updateBackFab() {
+    var fab = $('backFab');
+    if (!fab) return;
+    var last = jumpStack[jumpStack.length - 1];
+    if (!last) { fab.hidden = true; return; }
+    var tip = last.sameDoc ? '返回跳转前的位置' : '返回上一页：' + last.label;
+    fab.hidden = false;
+    fab.textContent = last.sameDoc ? '返回' : '上一页';
+    fab.title = tip;
+    fab.setAttribute('aria-label', tip);
+  }
+
+  function pushJump(sameDoc) {
+    jumpStack.push({
+      path: state.current,
+      top: $('main').scrollTop,
+      label: currentLabel(),
+      sameDoc: !!sameDoc
+    });
+    if (jumpStack.length > 20) jumpStack.shift();
+    updateBackFab();
+  }
+
+  /* 已用行内「返回目录」或目录按钮回到原处，同文件的跳转记录就失效了 */
+  function dropSameDocJumps() {
+    while (jumpStack.length && jumpStack[jumpStack.length - 1].sameDoc) jumpStack.pop();
+    updateBackFab();
+  }
+
+  function popJump() {
+    var last = jumpStack.pop();
+    updateBackFab();
+    if (!last) return;
+    if (last.path === state.current) {
+      $('main').scrollTo({ top: last.top, behavior: 'smooth' });
+    } else {
+      state.scrolls[last.path] = last.top;
+      navByRef = true;   // 返回本身不应清空更早的跳转记录
+      go(last.path);
+    }
+  }
+
   /* ─────────── 路由 ─────────── */
 
   function go(path) {
@@ -920,6 +979,9 @@
     /* 页内标题锚点不属于文件路由；避免旧目录链接把正文误判成文件路径。 */
     if (location.hash && location.hash.indexOf('#/') !== 0) return;
     $('contentsFab').hidden = true;
+    if (!navByRef) jumpStack.length = 0;
+    navByRef = false;
+    updateBackFab();
     if (state.current !== null) state.scrolls[state.current] = $('main').scrollTop;
     var raw = location.hash.replace(/^#\/?/, '');
     var path = '';
@@ -975,6 +1037,20 @@
       document.body.classList.contains('nav-open') ? closeNav() : openNav();
     });
     $('scrim').addEventListener('click', closeNav);
+
+    $('backFab').addEventListener('click', popJump);
+
+    /* 正文里跳去其它资料前记下来源；委托绑定，交叉引用与显式链接都能覆盖。 */
+    $('content').addEventListener('click', function (e) {
+      var el = e.target;
+      var a = el && el.closest ? el.closest('a[href^="#/"]') : null;
+      if (!a || !$('content').contains(a)) return;
+      var target = a.getAttribute('href').replace(/^#\//, '');
+      try { target = decodeURIComponent(target); } catch (_) {}
+      if (!target || target === state.current) return;
+      navByRef = true;
+      pushJump(false);
+    });
 
     var t;
     $('search').addEventListener('input', function (e) {
