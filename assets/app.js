@@ -637,33 +637,13 @@
 
   /* ─────────── 侧栏树 ─────────── */
 
-  /* 总览文件固定排在同级文件最前面；只调整展示顺序，不移动原文件。 */
-  var PINNED_FILES = [
-    '00_剧情区/04_漫画游戏/MyGO_漫画游戏情节汇总.md',
-    '00_剧情区/05_官方访谈与设定/MyGO_确证内容汇总.md',
-    '00_剧情区/06_社区解析_推测/MyGO_分析推测汇总.md',
-    '00_剧情区/07_CP线梳理/MyGO_CP线梳理.md'
-  ];
-  function pinRank(node) {
-    if (node.type !== 'file') return 1;
-    if (/^人设汇总/.test(node.name)) return 0;
-    return PINNED_FILES.indexOf(node.path) >= 0 ? 0 : 1;
-  }
-
-  // 前端再次按目录 / 文件名中的数字排序，避免清单来源变化后集数乱序。
-  function compareNodes(a, b) {
-    if (a.type !== b.type) return a.type === 'dir' ? -1 : 1;
-    var ap = pinRank(a), bp = pinRank(b);
-    if (ap !== bp) return ap - bp;
-    var am = /^(\d+)/.exec(a.name), bm = /^(\d+)/.exec(b.name);
-    if (am && bm && +am[1] !== +bm[1]) return +am[1] - +bm[1];
-    if (am && !bm) return -1;
-    if (!am && bm) return 1;
-    return a.name.localeCompare(b.name, 'zh-CN');
-  }
-
+  /*
+   * manifest 已由 build_manifest.py 按自然顺序和专题策划顺序生成。
+   * 前端必须原样使用该顺序；若再次按文件名排序，会把 AveMujica
+   * 排到 MyGO!!!!! 前面，并破坏同类型资料的相邻关系。
+   */
   function orderedChildren(children) {
-    return (children || []).slice().sort(compareNodes);
+    return (children || []).slice();
   }
 
   function buildTree() {

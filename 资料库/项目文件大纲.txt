@@ -28,9 +28,9 @@ MyGO!!!!! × Ave Mujica 资料库 项目文件大纲
     AveMujica剧场版_prima_aurora资料汇总.md
   04_漫画游戏/
     MyGO_漫画游戏情节汇总.md
+    AveMujica漫画游戏情节汇总.md
     MyGO剧情对白_英文版.md
     少女乐团派对_MyGO相关活动剧情对白_中文版.md
-    AveMujica漫画游戏情节汇总.md
     少女乐团派对_AveMujica相关剧情对白_中文版.md
     OurNotes内测社区反馈汇总.md
   05_官方访谈与设定/

@@ -35,12 +35,18 @@ def main() -> None:
     ])
     assert_order(tree, "00_剧情区/04_漫画游戏", [
         "MyGO_漫画游戏情节汇总.md",
+        "AveMujica漫画游戏情节汇总.md",
         "MyGO剧情对白_英文版.md",
         "少女乐团派对_MyGO相关活动剧情对白_中文版.md",
-        "AveMujica漫画游戏情节汇总.md",
         "少女乐团派对_AveMujica相关剧情对白_中文版.md",
         "OurNotes内测社区反馈汇总.md",
     ])
+
+    # 页面必须服从 manifest；曾经这里二次按文件名排序，导致实际页面
+    # 与上述检查结果相反。
+    frontend = (ROOT / "assets/app.js").read_text(encoding="utf-8")
+    assert ".sort(compareNodes)" not in frontend, "前端仍在覆盖 manifest 的策划顺序"
+    assert "return (children || []).slice();" in frontend
 
     synopsis = (LIB / "00_剧情区/02_AveMujica动画/AveMujica_剧情总纲_整合版.md").read_text(encoding="utf-8")
     required = [

@@ -123,7 +123,7 @@
 python3 tools/build_manifest.py
 ```
 
-`assets/manifest.json`、`assets/offline-data.js` 与 `资料库/项目文件大纲.txt` 由脚本生成，不应手工修改。脚本也会更新 `index.html` 中的静态资源版本号，避免浏览器继续使用旧缓存。页面显示的清单生成时间固定使用北京时间（UTC+8），不跟随运行脚本的服务器时区。剧情区成对专题统一按 MyGO!!!!! → Ave Mujica 排列；漫画游戏区再依次排列 MyGO!!!!! 总览与对白、Ave Mujica 总览与对白、跨作品辅助资料。
+`assets/manifest.json`、`assets/offline-data.js` 与 `资料库/项目文件大纲.txt` 由脚本生成，不应手工修改。脚本也会更新 `index.html` 中的静态资源版本号，避免浏览器继续使用旧缓存。页面显示的清单生成时间固定使用北京时间（UTC+8），不跟随运行脚本的服务器时区。剧情区成对专题统一按 MyGO!!!!! → Ave Mujica 排列；漫画游戏区按资料类型归组：先并列两作总览，再列剧情对白，最后列跨作品辅助资料。同类型内仍保持 MyGO!!!!! 在 Ave Mujica 之前。
 
 ### 2. 本地阅读与预览
 
