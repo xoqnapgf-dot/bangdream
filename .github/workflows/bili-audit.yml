@@ -12,10 +12,9 @@ jobs:
       - uses: actions/checkout@v4
         with:
           ref: arena/01a0f20c-bangdream
-      - name: Download and make one-second contact sheets
+      - name: Download review copy
         run: |
-          sudo apt-get update -qq && sudo apt-get install -y -qq ffmpeg
-          python -m pip install -q requests pillow
+          python -m pip install -q requests
           python - <<'PY'
           import json, requests
           api='https://r.jina.ai/http://api.bilibili.com/x/player/playurl?bvid=BV19oLBzQE2n%26cid=29648617472%26qn=16%26fnver=0%26fnval=1%26platform=html5'
@@ -24,29 +23,13 @@ jobs:
           url=json.loads(payload)['data']['durl'][0]['url']
           r=requests.get(url,headers={'Referer':'https://www.bilibili.com/video/BV19oLBzQE2n/','User-Agent':'Mozilla/5.0'},timeout=180)
           r.raise_for_status()
-          open('/tmp/avem13.mp4','wb').write(r.content)
+          open('audit-video.mp4','wb').write(r.content)
           print('downloaded',len(r.content))
           PY
-          cp /tmp/avem13.mp4 audit-video.mp4
-          rm -rf /tmp/frames audit-video-frames
-          mkdir -p /tmp/frames audit-video-frames
-          ffmpeg -hide_banner -loglevel error -i /tmp/avem13.mp4 -vf 'fps=1,scale=320:-1' -q:v 5 /tmp/frames/%04d.jpg
-          python - <<'PY'
-          from PIL import Image,ImageDraw
-          from pathlib import Path
-          fs=sorted(Path('/tmp/frames').glob('*.jpg'))
-          for page,start in enumerate(range(0,len(fs),100),1):
-              batch=fs[start:start+100]
-              sheet=Image.new('RGB',(3200,2000),'white'); d=ImageDraw.Draw(sheet)
-              for k,p in enumerate(batch):
-                  im=Image.open(p); x=(k%10)*320; y=(k//10)*200
-                  sheet.paste(im,(x,y+20)); d.text((x+4,y+3),f'{start+k:03d}s',fill='yellow',stroke_width=2,stroke_fill='black')
-              sheet.save(f'audit-video-frames/contact-{page}.jpg',quality=82)
-          PY
-      - name: Push contact sheets
+      - name: Push temporary review copy
         run: |
           git config user.name github-actions[bot]
           git config user.email 41898282+github-actions[bot]@users.noreply.github.com
-          git add audit-video.mp4 audit-video-frames
-          git commit -m 'chore: add temporary audit contact sheets'
+          git add audit-video.mp4
+          git commit -m 'chore: add temporary audit video'
           git push origin HEAD:arena/01a0f20c-bangdream
