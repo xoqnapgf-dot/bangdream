@@ -219,5 +219,73 @@
    "演出": "山之口 創、小川 浩太朗"
   },
   "source": "https://anime.bang-dream.com/mygo/story/"
+ },
+ "00_剧情区/02_AveMujica动画/故事情节（祥子视角）.txt": {
+  "layout": "prose",
+  "title": "故事情节（祥子视角）",
+  "synopsis": "从丰川家的早年一路写到 Ave Mujica 终章，全程跟着丰川祥子一个人的视角走。与《故事情节（睦视角）》互为对照。",
+  "images": [
+   {
+    "src": "https://anime.bang-dream.com/avemujica/wordpress/wp-content/themes/avemujica_0102/assets/images/common/index/img_hero.png",
+    "caption": "Ave Mujica · TV 动画官方主视觉"
+   },
+   {
+    "src": "https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2024/12/15183835/%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B9-01.00_02_16_23.%E9%9D%99%E6%AD%A2%E7%94%BB010-1024x576.png",
+    "caption": "第 1 话官方场面图"
+   },
+   {
+    "src": "https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/01/28100424/%E2%91%A0BDAVE_ep05_Haishin_Harding_ARI_241025.mp4.10_03_50_10.%E9%9D%99%E6%AD%A2%E7%94%BB011-1024x576.png",
+    "caption": "第 5 话官方场面图"
+   },
+   {
+    "src": "https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/03/18112833/%E2%91%A0-2-1024x576.png",
+    "caption": "第 12 话官方场面图"
+   }
+  ],
+  "links": [
+   {
+    "text": "逐话剧情总纲",
+    "href": "AveMujica_剧情总纲_整合版.md"
+   },
+   {
+    "text": "同一段剧情的睦视角",
+    "href": "故事情节（睦视角）.txt"
+   }
+  ],
+  "source": "https://anime.bang-dream.com/avemujica/story/"
+ },
+ "00_剧情区/02_AveMujica动画/故事情节（睦视角）.txt": {
+  "layout": "prose",
+  "title": "故事情节（睦视角）",
+  "synopsis": "从高一秋冬季的武道馆首演写到终章，全程跟着若叶睦与墨缇丝的视角走。与《故事情节（祥子视角）》互为对照。",
+  "images": [
+   {
+    "src": "https://anime.bang-dream.com/avemujica/wordpress/wp-content/themes/avemujica_0102/assets/images/common/index/img_hero_3.jpg",
+    "caption": "Ave Mujica · TV 动画 Visual Change"
+   },
+   {
+    "src": "https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/01/21101052/BDAVE_ep04_Haishin_Harding_ARI_241025_00001-1024x576.png",
+    "caption": "第 4 话官方场面图"
+   },
+   {
+    "src": "https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/02/25113743/%E2%91%A0-2-1024x576.png",
+    "caption": "第 9 话官方场面图"
+   },
+   {
+    "src": "https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/03/11111859/%E2%91%A0-1-1024x576.png",
+    "caption": "第 11 话官方场面图"
+   }
+  ],
+  "links": [
+   {
+    "text": "逐话剧情总纲",
+    "href": "AveMujica_剧情总纲_整合版.md"
+   },
+   {
+    "text": "同一段剧情的祥子视角",
+    "href": "故事情节（祥子视角）.txt"
+   }
+  ],
+  "source": "https://anime.bang-dream.com/avemujica/story/"
  }
 }

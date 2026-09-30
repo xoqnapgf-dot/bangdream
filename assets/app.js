@@ -494,6 +494,18 @@
     });
   }
 
+  /* 视角叙述 txt：整段整段的长文，按段落排，短行当阶段小标题。 */
+  function renderProse(src) {
+    var lines = String(src).replace(/\r\n?/g, '\n').split('\n'), out = [];
+    for (var i = 0; i < lines.length; i++) {
+      var t = lines[i].trim();
+      if (!t) continue;
+      if (t.length <= 16 && !/[。！？，、]/.test(t)) out.push('<h2 class="pr-h">' + esc(t) + '</h2>');
+      else out.push('<p class="pr-p">' + esc(t) + '</p>');
+    }
+    return '<div class="prose">' + out.join('') + '</div>';
+  }
+
   /* 剧本 txt：说话人、场景提示与旁注分开排版。不改动资料库里的原文，
      只是把「姓名：台词」这样的纯文本行渲染成可读的对白。 */
   function renderScript(src) {
@@ -527,9 +539,15 @@
      数据来自 assets/episode-meta.json。 */
   function renderEpisodeHead(meta, title) {
     if (!meta) return '';
-    var shots = (meta.images || []).map(function (src) {
+    var shots = (meta.images || []).map(function (item) {
+      var src = typeof item === 'string' ? item : item.src;
+      var cap = typeof item === 'string' ? '' : (item.caption || '');
       return '<figure class="media-card"><img src="' + esc(src) + '" alt="' +
-        esc(title + ' 场面图') + '" loading="lazy" referrerpolicy="no-referrer"></figure>';
+        esc(cap || (title + ' 场面图')) + '" loading="lazy" referrerpolicy="no-referrer">' +
+        (cap ? '<figcaption>' + esc(cap) + '</figcaption>' : '') + '</figure>';
+    }).join('');
+    var links = (meta.links || []).map(function (l) {
+      return '<a class="ep-link" href="' + esc(l.href) + '">' + esc(l.text) + '</a>';
     }).join('');
     var staff = '';
     if (meta.staff) {
@@ -546,6 +564,7 @@
       (meta.synopsis ? '<p class="ep-syn">' + esc(meta.synopsis) + '</p>' : '') +
       (meta.quote ? '<blockquote class="ep-quote">' + esc(meta.quote) + '</blockquote>' : '') +
       staff +
+      (links ? '<nav class="ep-links">' + links + '</nav>' : '') +
       (meta.source ? '<a class="ep-src" href="' + esc(meta.source) +
         '" target="_blank" rel="noopener">官方网站 Story 页</a>' : '') +
       '</header>';
@@ -877,9 +896,12 @@
         var epMeta = (state.episodeMeta || {})[node.path];
         var plainTitle = displayName(node).replace(/^第\d+集\s*·\s*/, '');
         if (epMeta) {
-          box.className = 'content script-view';
-          box.innerHTML = renderEpisodeHead(epMeta, plainTitle) + renderScript(text);
+          var prose = epMeta.layout === 'prose';
+          box.className = 'content script-view' + (prose ? ' prose-view' : '');
+          box.innerHTML = renderEpisodeHead(epMeta, epMeta.title || plainTitle) +
+            (prose ? renderProse(text) : renderScript(text));
           guardImages(box);
+          resolveContentLinks(box, node.path);
         } else {
           box.className = 'content';
           box.innerHTML = '<h1 style="font-size:22px;margin:4px 0 14px">' +
