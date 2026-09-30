@@ -898,6 +898,11 @@
       return (s || '').toLowerCase().replace(/[\s—–·・:：，,。！？!?（）()【】\[\]"'“”‘’&]/g, '');
     }
     var contentsHead = heads.find(function (h) { return key(h.textContent) === '目录'; });
+    // 行内目录条目多时会占掉大半屏，给它挂个类，宽屏下分栏排版
+    if (contentsHead) {
+      var tocList = contentsHead.nextElementSibling;
+      if (tocList && tocList.tagName === 'UL') tocList.classList.add('inline-toc');
+    }
     var contentsFab = $('contentsFab');
     contentsFab.hidden = !contentsHead;
     contentsFab.onclick = contentsHead ? function () {

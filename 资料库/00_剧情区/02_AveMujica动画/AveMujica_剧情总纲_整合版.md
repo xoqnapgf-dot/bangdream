@@ -10,6 +10,23 @@
 
 ---
 
+@[gallery]
+![Ave Mujica TV 动画主视觉](https://anime.bang-dream.com/avemujica/wordpress/wp-content/themes/avemujica_0102/assets/images/common/index/img_hero.png "Ave Mujica · TV 动画官方主视觉")
+![Ave Mujica Visual Change](https://anime.bang-dream.com/avemujica/wordpress/wp-content/themes/avemujica_0102/assets/images/common/index/img_hero_3.jpg "Ave Mujica · TV 动画 Visual Change")
+@[/gallery]
+
+@[bilibili](BV1MP411h759 "「Ave Mujica」Official Anime × Live Video")
+
+## 目录
+
+- [一、前史：CRYCHIC 的成立与瓦解（祥子视角·早年）](#一、前史：CRYCHIC 的成立与瓦解（祥子视角·早年）)
+- [二、Ave Mujica 主线剧情（高一秋冬季，双视角合并）](#二、Ave Mujica 主线剧情（高一秋冬季，双视角合并）)
+- [三、官方确证剧情补充（官方原作确认的关键节点与澄清）](#三、官方确证剧情补充（官方原作确认的关键节点与澄清）)
+- [四、剧场版《Ave Mujica prima aurora》后续剧情（官方确定）](#四、剧场版《Ave Mujica prima aurora》后续剧情（官方确定）)
+- [五、游戏官方线剧情节点（GBP / Our Notes 确定剧情）](#五、游戏官方线剧情节点（GBP / Our Notes 确定剧情）)
+
+---
+
 ## 一、前史：CRYCHIC 的成立与瓦解（祥子视角·早年）
 
 丰川祥子是丰川集团的大小姐，父亲丰川清告入赘，祥子随母丰川瑞穗姓。从幼儿园开始就和知名搞笑艺人若叶隆文和著名演员森美奈美的女儿若叶睦在一起，二人是青梅竹马。年幼时在小岛上度假时与岛民三角初华结识，两人结下了深厚的友谊。
@@ -229,6 +246,8 @@ Ave Mujica 重组后，祥子以神明的身份要求自己奋力工作以维系
 
 ## 四、剧场版《Ave Mujica prima aurora》后续剧情（官方确定）
 
+@[bilibili](BV1xtYC6UEwN "剧场版「BanG Dream! Ave Mujica prima aurora」主 PV")
+
 > 来源：官方电影官网 avemujica-movie.bang-dream.com（introduction 页 / character 页）、官方预告片报道交叉核实。属官方确定/公开信息，非推测。
 
 - **片名与档期**：BanG Dream! Ave Mujica prima aurora；日本上映 2026 年 10 月 16 日；首支预告片 + 主视觉于 2026 年 7 月 30 日公开。
@@ -268,6 +287,8 @@ Ave Mujica 重组后，祥子以神明的身份要求自己奋力工作以维系
 - Minecraft「从 Ave Mujica 的世界逃脱」：与ドズル社合作的官方逃脱地图，已于 2025 年 10 月 31 日发布；地图重组动画场景与意象，同样不属于本家主线。
 
 ### 5.4 《BanG Dream! Our Notes》（动画后续平台）
+
+@[bilibili](BV1V1Yj6pEnR "TV 动画《Ave Mujica》×《Our Notes》STORY LINK 官方 PV")
 
 - 已于 2026 年 9 月 24 日在 iOS、Android 上线，与 GBP 并行运营。
 - Ave Mujica 乐队故事以动画的成立、武道馆、崩坏和重组为基础，从游戏专属视角重现重要段落；另有承接电视动画之后的特别篇。

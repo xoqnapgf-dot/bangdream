@@ -479,6 +479,19 @@ html[data-theme="dark"] .ico-moon { display: block; }
 
 .md hr { margin: 26px 0; border: 0; border-top: 1px solid var(--line); }
 
+/* 行内「目录」：条目多时分两栏，避免一屏放不下 */
+.md ul.inline-toc {
+  margin: 12px 0 4px; padding: 14px 16px 14px 34px;
+  background: var(--bg-soft); border: 1px solid var(--line);
+  border-radius: var(--radius);
+  font-size: 13.5px; line-height: 1.5;
+}
+.md ul.inline-toc li { margin: 3px 0; }
+@media (min-width: 980px) {
+  .md ul.inline-toc { columns: 2; column-gap: 30px; }
+  .md ul.inline-toc li { break-inside: avoid; }
+}
+
 .md table {
   width: 100%; margin: 15px 0; border-collapse: collapse;
   font-size: 13.5px; display: block; overflow-x: auto;
