@@ -498,6 +498,8 @@
 
   function guardImages(container) {
     container.querySelectorAll('img').forEach(function (img) {
+      // 视频封面在 <button> 里，替换掉会破坏点击播放；它自身有底板兜底。
+      if (img.closest('.video-poster')) return;
       img.addEventListener('error', function () {
         if (img.dataset.failed) return;
         img.dataset.failed = '1';
@@ -506,7 +508,11 @@
         a.href = img.src;
         a.target = '_blank';
         a.rel = 'noopener';
-        a.textContent = '配图暂时无法载入，点击打开原图';
+        // 带上图注，图挂了也知道这里本来是什么
+        var label = (img.getAttribute('alt') || '').trim();
+        a.textContent = label
+          ? label + '（图片未能载入，点击打开原图）'
+          : '配图暂时无法载入，点击打开原图';
         img.replaceWith(a);
       });
     });

@@ -87,10 +87,7 @@ CP 讨论的走向和官方供给高度绑定，以下为截至 2026 年 9 月�
 
 > 三角初华 × 丰川祥子 · 断档式热门
 
-@[gallery]
-![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
-![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
-@[/gallery]
+![初华与祥子 · 第 10 话小岛重逢](https://img.anitubu.com/imgs/2025/03/06/YPmUeznE0hdrwQZ.jpg "初华与祥子 · Ave Mujica 第 10 话，祥子逃到小岛找到初华")
 @[bilibili](BV1Ep91YPEQo "Ave Mujica《Imprisoned XII》官方 MV（第 10 话插曲）")
 
 ### 磕点核心
@@ -400,10 +397,7 @@ Lofter参与量9188（评论补充数据，但素祥实际参与量不好说因�
 
 > 长崎素世 × 若叶睦 · CRYCHIC 旧队友，现分属两团 · 扭曲关系
 
-@[gallery]
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
-@[/gallery]
+![素世与墨缇丝 · 第 6 话](https://img.anitubu.com/imgs/2025/02/07/OXkZYlCzclkH9hx.jpg "素世与墨缇丝 · Ave Mujica 第 6 话，素世拿起另一只鞋配合墨缇丝「打电话」")
 ### 磕点核心
 
 素睦是重量级扭曲关系。肤浅看是母女文学，其实一个太拧巴一个没嘴巴，总是处于误会中不自知的互相伤害。在MyGO里soyo压力睦找祥有点像PUA，但睦何尝不贪恋着soyo的温暖。在soyo视角里睦确实一直在做违背她和伤害她的事，而睦难以表达真实想法，两人关系才这么痛苦。（海苔肉松卷，2025-08-18）
