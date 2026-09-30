@@ -440,6 +440,7 @@ html[data-theme="dark"] .ico-moon { display: block; }
   vertical-align: top;
 }
 .md tbody tr:nth-child(even) { background: var(--bg-soft); }
+.md tbody tr:hover { background: color-mix(in srgb, var(--accent) 7%, transparent); }
 
 /* 纯文本（剧本） */
 .txt {
@@ -564,6 +565,11 @@ html[data-theme="dark"] .errbox { color: #f08a7e; }
   .brand   { font-size: 13.5px; }
   .md h1 { font-size: 22px; }
   .md h2 { font-size: 17.5px; }
+}
+
+/* 手机窄屏：画廊双列会把 16:9 图压得过小，改为单列 */
+@media (max-width: 560px) {
+  .md .image-gallery { grid-template-columns: minmax(0, 1fr); gap: 12px; }
 }
 
 @media (prefers-reduced-motion: reduce) {
