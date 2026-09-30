@@ -859,6 +859,11 @@
       return (s || '').toLowerCase().replace(/[\s—–·・:：，,。！？!?（）()【】\[\]"'“”‘’&]/g, '');
     }
     var contentsHead = heads.find(function (h) { return key(h.textContent) === '目录'; });
+    var contentsFab = $('contentsFab');
+    contentsFab.hidden = !contentsHead;
+    contentsFab.onclick = contentsHead ? function () {
+      $('main').scrollTo({ top: contentsHead.offsetTop - 52, behavior: 'smooth' });
+    } : null;
     box.querySelectorAll('a[href^="#"]:not([href^="#/"])').forEach(function (a) {
       var wanted = key(a.textContent);
       function findHead(needle) {
@@ -914,6 +919,7 @@
   function route() {
     /* 页内标题锚点不属于文件路由；避免旧目录链接把正文误判成文件路径。 */
     if (location.hash && location.hash.indexOf('#/') !== 0) return;
+    $('contentsFab').hidden = true;
     if (state.current !== null) state.scrolls[state.current] = $('main').scrollTop;
     var raw = location.hash.replace(/^#\/?/, '');
     var path = '';

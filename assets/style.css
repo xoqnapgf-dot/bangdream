@@ -518,6 +518,21 @@ html[data-theme="dark"] .errbox { color: #f08a7e; }
 }
 .section-return:hover { color: var(--accent); border-color: var(--accent); }
 
+.contents-fab {
+  position: fixed; z-index: 45;
+  right: max(18px, env(safe-area-inset-right));
+  bottom: max(20px, env(safe-area-inset-bottom));
+  width: 42px; height: 42px; padding: 0;
+  border: 1px solid var(--line); border-radius: 50%;
+  color: var(--tx); background: var(--bg);
+  background: color-mix(in srgb, var(--bg) 92%, transparent);
+  box-shadow: var(--shadow); backdrop-filter: blur(8px);
+  font-size: 22px; line-height: 40px; text-align: center;
+  cursor: pointer;
+}
+.contents-fab:hover { color: var(--accent); border-color: var(--accent); transform: translateY(-1px); }
+.contents-fab[hidden] { display: none; }
+
 /* ───────────── 响应式 ───────────── */
 @media (max-width: 1180px) {
   .toc { display: none; }
