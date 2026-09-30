@@ -10,6 +10,7 @@ import datetime
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 LIB = ROOT / "资料库"
+OUTLINE = LIB / "项目文件大纲.txt"
 OUT = ROOT / "assets" / "manifest.json"
 OFFLINE_OUT = ROOT / "assets" / "offline-data.js"
 VIDEO_META = ROOT / "assets" / "video-meta.json"
@@ -66,6 +67,50 @@ def natural_key(name: str):
     """让 01_ 02_ 10_ 这类前缀按数字排序。"""
     parts = re.split(r"(\d+)", name)
     return [int(x) if x.isdigit() else x for x in parts]
+
+
+def outline_lines(d: pathlib.Path, depth: int = 0):
+    """按资料库里的真实层级列出目录与文件，供 项目文件大纲.txt 使用。"""
+    lines = []
+    entries = sorted(
+        (e for e in d.iterdir() if not e.name.startswith(".")),
+        key=lambda p: natural_key(p.name),
+    )
+    subdirs = [e for e in entries if e.is_dir()]
+    files = [
+        e for e in entries
+        if e.is_file() and e.suffix.lower() in TEXT_EXT and e != OUTLINE
+    ]
+    for sub in subdirs:
+        child = outline_lines(sub, depth + 1)
+        if not child:
+            continue
+        if depth == 0 and lines:
+            lines.append("")
+        lines.append("  " * depth + sub.name + "/")
+        lines.extend(child)
+    if files and subdirs and depth == 0:
+        lines.append("")
+    for f in files:
+        lines.append("  " * depth + f.name)
+    return lines
+
+
+def write_outline():
+    """大纲随资料库内容一起生成，避免手工维护后与真实目录脱节。"""
+    body = outline_lines(LIB)
+    title = "MyGO!!!!! × Ave Mujica 资料库 项目文件大纲"
+    text = "\n".join([
+        title,
+        "=" * 46,
+        "",
+        "本文件由 tools/build_manifest.py 生成，请勿手工修改。",
+        f"内容与 {LIB.name}/ 下的真实目录结构一致（不含本文件）。",
+        "",
+        *body,
+        "",
+    ])
+    OUTLINE.write_text(text, encoding="utf-8")
 
 
 def walk(d: pathlib.Path):
@@ -158,6 +203,8 @@ def count(node):
 def main():
     if not LIB.is_dir():
         raise SystemExit(f"找不到资料库目录: {LIB}")
+    # 先刷新大纲，再扫描，保证清单里记录的是大纲的最新体积。
+    write_outline()
     tree = walk(LIB)
     relocate_for_display(tree)
     pin_summaries_for_display(tree)

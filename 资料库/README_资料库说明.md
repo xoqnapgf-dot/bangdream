@@ -23,7 +23,7 @@
 └── 11_次要角色_纯田真奈/
 ```
 
-目录和文件数量以网站首页及 `assets/manifest.json` 为准。
+完整的逐级文件清单见 `项目文件大纲.txt`（由 `tools/build_manifest.py` 随资料库内容一起生成）。目录和文件数量以网站首页及 `assets/manifest.json` 为准。
 
 ## 阅读注意事项
 
