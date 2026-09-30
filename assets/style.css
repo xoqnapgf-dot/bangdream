@@ -455,6 +455,15 @@ html[data-theme="dark"] .ico-moon { display: block; }
 .md .fold-body > :first-child { margin-top: 12px; }
 
 .md strong { font-weight: 680; color: var(--tx); }
+
+/* 审阅标注：~~删除线~~ 显示为红色，用于标出拟删除的内容 */
+.md del {
+  color: #c0392b; text-decoration: line-through;
+  text-decoration-thickness: 1.5px;
+  background: color-mix(in srgb, #c0392b 7%, transparent);
+  border-radius: 3px; padding: 0 2px;
+}
+html[data-theme="dark"] .md del { color: #ff7b6b; }
 .md em { font-style: normal; color: var(--accent-2); font-weight: 560; }
 
 .md blockquote {
