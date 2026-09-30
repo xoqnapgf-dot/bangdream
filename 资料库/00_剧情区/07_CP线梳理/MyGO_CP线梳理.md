@@ -80,7 +80,7 @@ CP 讨论的走向和官方供给高度绑定，以下为截至 2026 年 9 月�
 | 2026-07 ~ 09 | 梦限大 MewType 动画《BanG Dream! Yume∞Mita》放送完毕 |
 | 2026-09-24 | 手游《BanG Dream! Our Notes》上线，与《少女乐团派对》并行运营 |
 | 2026-10-16 | 剧场版《BanG Dream! Ave Mujica prima aurora》上映 |
-| 2027-01 | MyGO!!!!! / Ave Mujica 续篇 TV 动画放送（NTV 及 29 家联播台） |
+| 2027-01 | MyGO!!!!! / Ave Mujica 续篇 TV 动画放送（日本电视台系全国 30 家电视台），[官方网站](https://anime.bang-dream.com/mygo-avemujica/) |
 
 **剧场版《Ave Mujica prima aurora》**——监督柿本广大，动画制作 NICHIKA LINE。舞台设在 Ave Mujica 再出道半年多之后的春天：乐队人气进一步上升，成员各自的活动也步入正轨，担任键盘与演出构成的丰川祥子提议以「会员制假面舞会」作为乐队的下一个舞台。同时公开了成员的全新便服插画。
 

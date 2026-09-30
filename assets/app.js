@@ -275,15 +275,23 @@
         var bvid = bili[1];
         var meta = state.videoMeta[bvid] || {};
         var videoTitle = bili[2] || meta.title || 'Bilibili 视频';
+        // autoplay 不写进基础参数：播放器要等用户点了封面才创建，届时再追加 autoplay=1
         var playerParams = ['isOutside=true', 'bvid=' + encodeURIComponent(bvid), 'p=1',
-          'autoplay=0', 'high_quality=1', 'danmaku=0'];
+          'high_quality=1', 'danmaku=0'];
         // aid/cid 直接定位首个分 P，避免外链播放器仅凭 BV 号解析失败。
         if (meta.aid) playerParams.push('aid=' + encodeURIComponent(meta.aid));
         if (meta.cid) playerParams.push('cid=' + encodeURIComponent(meta.cid));
+        var playerUrl = 'https://player.bilibili.com/player.html?' + playerParams.join('&');
+        // 先只渲染封面占位，点击后才插入 iframe：
+        // 一来站外播放器自身的封面时有时无，二来一页多个视频时可省掉成片的 iframe 开销。
+        var poster = meta.cover
+          ? '<img class="poster-img" src="' + esc(meta.cover) + '" alt="" loading="lazy" ' +
+            'referrerpolicy="no-referrer">'
+          : '';
         out.push('<figure class="video-embed">' +
-          '<iframe src="https://player.bilibili.com/player.html?' + playerParams.join('&amp;') +
-          '" title="' + esc(videoTitle) + '" loading="lazy" scrolling="no" frameborder="0" ' +
-          'allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>' +
+          '<button type="button" class="video-poster" data-player="' + esc(playerUrl) +
+          '" aria-label="播放：' + esc(videoTitle) + '">' + poster +
+          '<span class="poster-play" aria-hidden="true"></span></button>' +
           '<figcaption><a href="https://www.bilibili.com/video/' + encodeURIComponent(bvid) +
           '/" target="_blank" rel="noopener">' + esc(videoTitle) + ' · 在 B 站打开</a>' +
           '</figcaption></figure>');
@@ -1064,6 +1072,22 @@
     $('backFab').addEventListener('click', popJump);
 
     /* 正文里跳去其它资料前记下来源；委托绑定，交叉引用与显式链接都能覆盖。 */
+    // 点击视频封面 → 换成真正的播放器（带 autoplay，等同于直接点了播放）
+    $('content').addEventListener('click', function (e) {
+      var btn = e.target && e.target.closest ? e.target.closest('.video-poster') : null;
+      if (!btn) return;
+      var src = btn.getAttribute('data-player');
+      if (!src) return;
+      var frame = document.createElement('iframe');
+      frame.src = src + '&autoplay=1';
+      frame.title = btn.getAttribute('aria-label') || 'Bilibili 视频';
+      frame.setAttribute('scrolling', 'no');
+      frame.setAttribute('frameborder', '0');
+      frame.setAttribute('allow', 'autoplay; fullscreen; picture-in-picture');
+      frame.setAttribute('allowfullscreen', '');
+      btn.replaceWith(frame);
+    });
+
     $('content').addEventListener('click', function (e) {
       var el = e.target;
       var a = el && el.closest ? el.closest('a[href^="#/"]') : null;

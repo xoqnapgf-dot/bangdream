@@ -1,16 +1,33 @@
-# Ave Mujica 社区解析——CP线梳理
+# Ave Mujica CP 线梳理
 
-> 更新至 2026 年 9 月 30 日
-> 来源：NGA、百合会、B站、贴吧、豆瓣、小红书及主创访谈
+> **社区解析，非官方设定。** 正文取自 NGA、百合会、B 站、贴吧、豆瓣、小红书的公开讨论，官方访谈与剧情原文另行标注（确证）。
+> 热度与投稿量均为社区统计快照，会随时间变化。
+> 更新至 2026 年 9 月 30 日。
 
 @[gallery]
 ![Ave Mujica TV 动画主视觉](https://anime.bang-dream.com/avemujica/wordpress/wp-content/themes/avemujica_0102/assets/images/common/index/img_hero.png "Ave Mujica · TV 动画官方主视觉")
 ![Ave Mujica Visual Change](https://anime.bang-dream.com/avemujica/wordpress/wp-content/themes/avemujica_0102/assets/images/common/index/img_hero_3.jpg "Ave Mujica · TV 动画 Visual Change")
 @[/gallery]
 
-@[bilibili](BV1xtYC6UEwN "电影《BanG Dream! Ave Mujica prima aurora》官方主 PV")
+@[bilibili](BV1MP411h759 "「Ave Mujica」Official Anime × Live Video")
+
+## 目录
+
+- [一、CP 热度总览](#一、CP-热度总览)
+- [二、最新动向与时间线](#二、最新动向与时间线)
+- [三、初祥](#三、初祥) — 三角初华 × 丰川祥子
+- [四、喵睦](#四、喵睦) — 祐天寺若麦 × 若叶睦／Mortis
+- [五、祥睦](#五、祥睦) — 丰川祥子 × 若叶睦
+- [六、海睦](#六、海睦) — 八幡海铃 × 若叶睦
+- [七、睦墨](#七、睦墨) — 若叶睦 × 墨缇丝
+- [八、海希](#八、海希) — 八幡海铃 × 椎名立希
+- [九、灯祥](#九、灯祥) — 高松灯 × 丰川祥子
+- [十、素祥](#十、素祥) — 长崎素世 × 丰川祥子
+- [十一、素睦](#十一、素睦) — 长崎素世 × 若叶睦
+- [来源索引](#来源索引)
 
 ## 站内关联资料
+
 
 - [Ave Mujica 官方访谈与设定汇总](../05_官方访谈与设定/AveMujica_确证内容汇总.md)
 - [Ave Mujica 动画剧情总纲](../02_AveMujica动画/AveMujica_剧情总纲_整合版.md)
@@ -21,7 +38,8 @@
 
 ---
 
-## 一、CP热度总览
+## 一、CP 热度总览
+
 
 | CP | 主要类型 | 讨论热度 | 关键设定依据 |
 |----|---------|---------|-------------|
@@ -40,11 +58,42 @@
 
 ---
 
-## 二、初华×祥子（初祥）——断档式热门
+## 二、最新动向与时间线
 
-### 磕点核心（第七章主体）
+CP 讨论的走向和官方供给高度绑定，以下为截至 2026 年 9 月底的已确认信息。
 
-**【主流解读】** 初华对祥子的情感被官方访谈定性为"刻印效应"——源于记忆太少所以无比执着。《Imprisoned XII》被广泛解读为初华献给祥子的情书，在"现实"中无法言说的禁忌依恋编码为一首歌。第12集后初音能由衷说出"我最喜欢你了"，被视为关系的重要转折。但祥子对初华的态度在整部剧中始终带有利用色彩——视初华为"家臣"式的无条件政治忠诚关系。 [NGA / B站 / 豆瓣]
+| 时间 | 事件 |
+|------|------|
+| 2025-01-02 ~ 03-27 | TV 动画《Ave Mujica》放送；最终话后宣布续篇系列制作决定 |
+| 2025-04-23 | Ave Mujica 1st Album《Completeness》发售 |
+| 2025-04-26 / 27 | 合同 LIVE「わかれ道の、その先へ」（K Arena 横滨），CRYCHIC 参演 |
+| 2025-07-26 / 27 | Ave Mujica 5th LIVE（LaLa arena TOKYO-BAY） |
+| 2026-03-01 | 合同 LIVE「moment / memory」（K Arena 横滨），门票完售 |
+| 2026-09-24 | 手游《BanG Dream! Our Notes》上线，与《少女乐团派对》并行运营 |
+| 2026-10-16 | 剧场版《BanG Dream! Ave Mujica prima aurora》上映 |
+| 2027-01 | 续篇 TV 动画放送（日本电视台系全国 30 家电视台），[官方网站](https://anime.bang-dream.com/mygo-avemujica/) |
+
+**剧场版《Ave Mujica prima aurora》**——监督柿本广大，动画制作 NICHIKA LINE。舞台设在 Ave Mujica 再出道半年多之后的春天：乐队人气进一步上升，成员各自的活动也步入正轨，担任键盘与演出构成的丰川祥子提议以「会员制假面舞会」作为乐队的下一个舞台。电影官网的角色页确认初华与祥子同住，这是初祥关系在 TV 动画之后的新进展。
+
+@[bilibili](BV1xtYC6UEwN "剧场版「BanG Dream! Ave Mujica prima aurora」主 PV")
+
+@[bilibili](BV18ZPTzhEK6 "续篇 TV 动画 2027 年 1 月播出告知")
+
+---
+
+## 三、初祥
+
+> 三角初华 × 丰川祥子 · 断档式热门
+
+@[gallery]
+![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
+![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
+@[/gallery]
+@[bilibili](BV1Ep91YPEQo "Ave Mujica《Imprisoned XII》官方 MV（第 10 话插曲）")
+
+### 磕点核心
+
+初华对祥子的情感被官方访谈定性为"刻印效应"——源于记忆太少所以无比执着。《Imprisoned XII》被广泛解读为初华献给祥子的情书，在"现实"中无法言说的禁忌依恋编码为一首歌。第12集后初音能由衷说出"我最喜欢你了"，被视为关系的重要转折。但祥子对初华的态度在整部剧中始终带有利用色彩——视初华为"家臣"式的无条件政治忠诚关系。 [NGA / B站 / 豆瓣]
 
 ### 补充磕点细节
 
@@ -62,8 +111,6 @@
 - **翻墙跑路与"补上缺憾"（确证）**：第10-11话，回到东京后祥子和初华翻墙进丰川家收拾行李跑路，面对祖父施压初华决心已定要和祥子走；祥子嘲讽祖父后在花园陪初华捉虫戏水，"补上了幼年时的缺憾"。 [剧情总纲 2.10节]
 - **剧场版开场引语（确证）**："言ったでしょう？残りの人生、わたくしに下さいと"（我说过吧？请把余生交给我）——祥子对初华/全员的誓言，是理解初祥关系"执念"的关键官方文本。 [确证汇总 第二章 / 祥子人设汇总 第十章]
 
-### 社区采集补充
-
 初华看起来像是会被骗买水晶的类型，为了小时候只有一面之缘的小祥从小岛勇闯大城市，愿意成为祥子永远的归所。连柿本都很难理解为什么初华会对祥子有如此执念（于是他解释为侄女和小姨的血缘关系）。初华明明重力那么大却什么坏事都没有干，偏偏是不争不抢的她最后大赢特赢。当初访谈翻译错误："インプリンティング"（Imprinting→刻印效应）被译者误看为"インプリーディング"（inbreeding→近亲繁殖）——刻印效应即"第一次见到的东西，会深深地影响你后来的选择和感觉"，比如初恋刻印：很多人对初恋对象念念不忘，是因为第一次恋爱的经历在心理上留下了"刻印"。楼层补充万葉橘的回复：『初华，让我忘掉一切吧』和初华珍藏祥子短信童年回忆都很好磕。前冠军睦祥被现任冠军初祥甩了100+票。（万葉橘，2025-11-09）
 
 **早期预测（2023-09-22）**：初华是一个沉默的炸弹，如果坚持的守候却等不来一次回眸，她或许会炸得比任何人都要刻骨铭心。而这一次，一直以来习惯于抛弃和掌控他人的祥子，或许将会第一次感受到被他人抛弃的绝望。追妻火葬场的戏码，可以说是最适合在这两人之间上演了。（贴吧"个人向CP关系与趋势的主观总结"帖，2023-09-22）
@@ -74,16 +121,22 @@
 
 ---
 
-## 三、若麦×睦/Mortis（喵睦）
+## 四、喵睦
 
-### 磕点核心（第七章主体）
+> 祐天寺若麦 × 若叶睦／Mortis · 爱憎羁绊
 
-**【主流解读】** 若麦的主轴是睦。监督访谈定调"爱憎/因縁"——官方框的是若麦与睦/Mujica的强情感关系，但没有任何恋爱定性。"喵睦"读成恋爱是同人解读。核心戏：断线表演的起源→骂墨缇丝"恶心"→重组条件"把睦头带来再说"→后台表白"嫉妒你爱怜你"→舞台"爱之不尽"→错位感（话说给墨缇丝但应该给小睦）。 [官方访谈 / NGA / 贴吧]
+@[gallery]
+![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
+![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
+@[/gallery]
+### 磕点核心
+
+若麦的主轴是睦。监督访谈定调"爱憎/因縁"——官方框的是若麦与睦/Mujica的强情感关系，但没有任何恋爱定性。"喵睦"读成恋爱是同人解读。核心戏：断线表演的起源→骂墨缇丝"恶心"→重组条件"把睦头带来再说"→后台表白"嫉妒你爱怜你"→舞台"爱之不尽"→错位感（话说给墨缇丝但应该给小睦）。 [官方访谈 / NGA / 贴吧]
 
 ### 补充磕点细节
 
 - **"幕间剧"揭示——被宠爱到玩坏然后抛弃**：若麦在幕间剧中的定位被解读为"被宠爱到玩坏然后抛弃"——与睦/Mortis 的关系暗合这一结构。 [B站/NGA]
-- **喵梦和和睦的镜像关系——"主体缺失之人"**：若麦与睦同为"主体缺失之人"——若麦靠流量/关注定义自己，睦靠才能/他人定义自己；两者互为镜像，因此若麦能一眼看穿"墨缇丝在扮演睦"。 [B站/NGA]
+- **喵梦与睦的镜像关系——"主体缺失之人"**：若麦与睦同为"主体缺失之人"——若麦靠流量/关注定义自己，睦靠才能/他人定义自己；两者互为镜像，因此若麦能一眼看穿"墨缇丝在扮演睦"。 [B站/NGA]
 - **断线表演——执念的起源（确证）**：第2-3话睦的吉他弹错后像提线木偶断线般坐倒在地，若麦在舞台上亲眼目睹被深深震撼，羡慕、嫉妒与仰慕三种情感由此生根。柿本确认若麦"对他人才能敏感"，与睦的母亲森美奈美（南）相似。
 - **重组条件（确证）**：第8话若麦对重组 Ave Mujica 提出的条件原话大意是"把睦头带来再说"——睦的存在是重组的前提。
 - **骂"恶心"（确证）**：第9话结尾跨至第10话开头，若麦当众对着扮成睦的墨缇丝骂出"恶心"——看穿了墨缇丝拙劣的演技和试图取代睦本身的意图。
@@ -92,8 +145,6 @@
 - **官方定调澄清**：柿本完结访谈用"爱憎/因縁"框定若麦与睦/Ave Mujica 的强烈情感羁绊，但**没有任何恋爱定性**——把"喵睦"读成恋爱 CP 是同人解读，不是官方设定。
 - **断线表演后的主动接近（确证）**：若麦在断线表演后第二天来到练习室找睦要社交账号，拉她拍视频，甚至提议两人个人一同退出乐队。睦以"祥子会生气""祥子快坏掉了"拒绝，若麦断言祥子已成为睦的绊脚石（第2-3话）。 [剧情总纲 2.3节]
 - **重组后舞台剧对手戏（推测）**：重组后舞台剧中喵睦对手戏份大量增加，有推测认为这些戏份可能是若麦和墨缇丝在舞台上自由发挥的产物，呼应若麦作为演员的本能。 [若麦人设汇总 第十一章]
-
-### 社区采集补充
 
 **喵睦暗恋线全梳理（豹海豹，2025-03-27）**：一条充满单箭头的暗恋线，是Mujica剧情中的暗线。发帖背景是"邦多利传来噩耗，mujica团内cp定制亚军居然是喵睦？玩笑归玩笑，喵睦cp确实有说法"。1-2集喵梦对睦没有感情，眼中只有事业。第二集结尾惊天一坐是喵梦对睦暗恋的开始——化妆室远离睦沉默审视，心境变化。经过长达半集思考后选择暗恋者常有心理活动——神话对方，认为睦子演技是真货，将爱慕歪曲为对演技的崇拜。随后迈出攻势第一步试图和睦搞好关系，却得知睦对祥子的箭头，露出明显失望表情。从此展开重力，对祥子示出明显敌意，开启让Mujica走向解散的路线之争。然而对于喵梦来说，却不存在什么路线之争——她无法直面自己的感情，也因此说了谎话，路线之争的本质是喵梦用来满足私欲的借口。第三集彩排分镜中画面只有祥子、喵梦与睦三人，喵梦全程只看舞台上的睦——"来宾期待看到什么"实际是站在台下的自己想看到什么，她渴望再次看到睦的表演，认为这才是睦的正确道路。这份扭曲的感情导致睦的分裂，也因为说谎，在黑刀之夜2中面对墨的提问给出了逃避的眼神。跳车解散Mujica或许能让睦远离祥子，自己也从睦身边逃离。但事与愿违，睦还是无法脱离祥子的影响，自己也无法逃避暗恋的心——Mujica解散后还在练曲，可以看作是因为Mujica的曲子是她和睦最后一层联系，而这一切被喵梦扭曲成了对睦演技的恐惧。经美奈美开导后正视感情，借初华对祥子摊牌直指对强制灵魂伴侣（祥睦关系）的不满，最终促成重组。借着排练台词扭捏对睦表达真心，暗恋线完全回收，告白转明恋。喵睦线是Amoris塑造的核心——不知道如何去爱，无论如何去爱都无法爱上也无法得到爱。自我扭曲的感情认知让她成为mujica中不亚于初音的重女。作者置顶评论补充：喵梦的感情线是avemujica剧情中的一条暗线，正如同喵梦对睦的情感一样被藏在表面的剧情之下——mujica的初次炸团可以说是因为喵梦的欲望所推动的，了解喵梦的心路历程也有利于理解mujica前期的谜团。（评论区有人称此帖"喵睦圣经"："喵梦的角色塑造和喵睦的关系性都是很好品但是很难品——需要认真代入角色视角分析心理"。）
 
@@ -109,11 +160,17 @@ mujica播出前有人预测喵祥必火。预测者列举的热度背景：mygo�
 
 ---
 
-## 四、祥子×睦（祥睦）
+## 五、祥睦
 
-### 磕点核心（第七章主体）
+> 丰川祥子 × 若叶睦 · 青梅竹马、创伤羁绊
 
-**【主流解读】** 祥子是睦人格机制形成的关键外因。睦的锚点是吉他和祥子。祥子以"送吉他"（未实锤但可推测）、压力拉爆、撰写世界观"三大贡献"创造了Mortis。祥子多次想让墨缇丝叫出小睦，最后一次在第10话——但那时小睦已经跌下内心世界舞台。
+@[gallery]
+![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
+![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
+@[/gallery]
+### 磕点核心
+
+祥子是睦人格机制形成的关键外因。睦的锚点是吉他和祥子。祥子以"送吉他"（未实锤但可推测）、压力拉爆、撰写世界观"三大贡献"创造了Mortis。祥子多次想让墨缇丝叫出小睦，最后一次在第10话——但那时小睦已经跌下内心世界舞台。
 
 在车站大战中，祥子对睦说"我只剩下Ave Mujica了"成为压倒睦的最后一击。祥子不把睦当作独立的他者，而是"政治盟友"式的工具性定义，这是两人关系的核心创伤根源。 [NGA / 豆瓣]
 
@@ -130,8 +187,6 @@ mujica播出前有人预测喵祥必火。预测者列举的热度背景：mygo�
 - **祥子主动留守照料（确证）**：祥子主动留在睦家照料睦，几天没上学陪睦补功课，随后建议睦一起出去走走（第2.9话）。 [剧情总纲 2.9节]
 - **卡拉OK与重组CRYCHIC请求（确证）**：祥子被睦带领来到当年CRYCHIC聚会的卡拉OK。睦唱完当年的歌后提出重组CRYCHIC的请求，但墨缇丝立刻反对（第2.9话）。 [剧情总纲 2.9节]
 - **对抗祖父时仍带和睦在身边（确证）**：祥子与祖父对峙时"拉着睦离开"——祥子在对抗祖父时仍带和睦在身边（第2.10话）。 [剧情总纲 2.10节]
-
-### 社区采集补充
 
 **甜美幼驯染（Atiiehs，2024-10-13）**：和初祥不同的是，睦祥属于彼此知根知底的关系，在家世地位等方面两人是同等的位置，相处毫无客套表演痕迹。隐藏糖点：黑祥对别人——"让你加乐队是因为你合适劳资看上你了，少犹豫了，你的人生劳资负责"；黑祥对睦——"仔细考虑，这是我们的一辈子"。睦对乐队其他人：开心从未、重组乐队、我没说过。睦对祥子：乐队no，祥子yes，所以祥子的乐队yes。惊世一跪中，祥子知道soyo拉睦组乐队时心情毫无波澜，有种"我的女人你抢不走"的自信。一个要坏了一个要爆了的阴间骨科。
 
@@ -174,11 +229,17 @@ mujica吧以"睦祥不是mujica CP"为由封禁睦祥相关，引发讨论。有
 
 ---
 
-## 五、海铃×睦（海睦）
+## 六、海睦
 
-### 磕点核心（第七章主体）
+> 八幡海铃 × 若叶睦 · 守护者／安全网
 
-**【推测】** 海铃是睦在Mujica中唯一的"安全网"——她陪同睦去看MyGO演出、在睦精神崩塌后成为重组Mujica的推动者。有解读认为海铃对睦有一种"保护者"意识，源于她自己不愿投入情感的"旁观者"身份使她能更清晰地看到睦的困境。但这段关系在剧中缺乏系统展开。 [NGA]
+@[gallery]
+![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
+![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
+@[/gallery]
+### 磕点核心
+
+海铃是睦在Mujica中唯一的"安全网"——她陪同睦去看MyGO演出、在睦精神崩塌后成为重组Mujica的推动者。有解读认为海铃对睦有一种"保护者"意识，源于她自己不愿投入情感的"旁观者"身份使她能更清晰地看到睦的困境。但这段关系在剧中缺乏系统展开。 [NGA]
 
 ### 补充磕点细节
 
@@ -190,7 +251,14 @@ mujica吧以"睦祥不是mujica CP"为由封禁睦祥相关，引发讨论。有
 
 ---
 
-## 六、睦×墨缇丝（睦墨）——水仙
+## 七、睦墨
+
+> 若叶睦 × 墨缇丝（Mortis）· 水仙
+
+@[gallery]
+![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
+@[/gallery]
+@[bilibili](BV14iZ3YcEZw "《天球(そら)のMúsica》（第 13 话插曲）")
 
 ### 磕点核心
 
@@ -202,10 +270,14 @@ mujica吧以"睦祥不是mujica CP"为由封禁睦祥相关，引发讨论。有
 
 ---
 
-## 七、海铃×立希（海希）——冷美人×傲娇
+## 八、海希
 
-> 跨团CP（AveMujica × MyGO）
+> 八幡海铃 × 椎名立希 · 分属 Ave Mujica 与 MyGO!!!!! · 冷美人 × 傲娇
 
+@[gallery]
+![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
+![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
+@[/gallery]
 ### 磕点核心
 
 海铃双手接包看立希的小眼神，再接直球发言。饮料从蜜柑味变成立希喜欢的熊猫巧克力。海铃对乐队雇佣兵态度、人际关系疏离——到底发生了什么才把这对冷美人凑一起的，总不会真是一见钟情误终身吧。（西西弗斯石，2025-01-10）
@@ -214,10 +286,14 @@ P站投稿量1623，Lofter投稿量8371，在P站热度相较更高。（Sky，2
 
 ---
 
-## 八、灯×祥子（灯祥）——便利贴羁绊
+## 九、灯祥
 
-> 跨团CP（AveMujica × MyGO）
+> 高松灯 × 丰川祥子 · CRYCHIC 旧队友，现分属两团 · 便利贴羁绊
 
+@[gallery]
+![高松灯官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松灯 · Vo.")
+![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
+@[/gallery]
 ### 磕点核心
 
 "是我不知道的，小祥的呐喊。"灯得知祥子退出C团重组Mujica时，第一反应不是责怪而是关心。灯从未怀疑与怪罪过这位将她从不断凋零的春季拉入阳光普照世界的重要之人。能打碎祥子"心之壁"的一定是灯的那张便利贴——只有细腻敏感又电波系的灯，能穿透祥子"拆团暴君"的面具直接从歌声中感受挣扎和痛苦。（西西弗斯石，2025-01-10）
@@ -234,10 +310,14 @@ P站投稿量1623，Lofter投稿量8371，在P站热度相较更高。（Sky，2
 
 ---
 
-## 九、素世×祥子（素祥）——BE美学
+## 十、素祥
 
-> 跨团CP（AveMujica × MyGO）
+> 长崎素世 × 丰川祥子 · CRYCHIC 旧队友，现分属两团 · BE 美学
 
+@[gallery]
+![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
+![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
+@[/gallery]
 ### 磕点核心
 
 坏心思的神明为我带来了礼物，我想我一辈子都不会忘记，这就是对我而言的命运的相遇。没能发出去的"我能过去"，没能收到的"我想见你"。从初见"长崎同学"到祥子收到素世短信时温柔的"soyo"，大雨一直在下，我们再也回不去了。（万葉橘，2025-11-09）
@@ -250,10 +330,14 @@ Lofter参与量9188（评论补充数据，但素祥实际参与量不好说因�
 
 ---
 
-## 十、素世×睦（素睦）——扭曲关系
+## 十一、素睦
 
-> 跨团CP（AveMujica × MyGO）
+> 长崎素世 × 若叶睦 · CRYCHIC 旧队友，现分属两团 · 扭曲关系
 
+@[gallery]
+![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
+![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
+@[/gallery]
 ### 磕点核心
 
 素睦是重量级扭曲关系。肤浅看是母女文学，其实一个太拧巴一个没嘴巴，总是处于误会中不自知的互相伤害。在MyGO里soyo压力睦找祥有点像PUA，但睦何尝不贪恋着soyo的温暖。在soyo视角里睦确实一直在做违背她和伤害她的事，而睦难以表达真实想法，两人关系才这么痛苦。（海苔肉松卷，2025-08-18）
@@ -278,6 +362,7 @@ P站投稿量938，Lofter投稿量8276。（Sky，2025-08-04）
 
 ## 来源索引
 
+
 | 标题 | 作者 | 时间 | 平台 |
 |------|------|------|------|
 | 个人向CP关系与趋势主观总结 | 贴吧 | 2023-09-22 | 贴吧 |
@@ -293,12 +378,8 @@ P站投稿量938，Lofter投稿量8276。（Sky，2025-08-04）
 | 吃的我一嘴玻璃渣 | 海苔肉松卷 | 2025-08-18 | 小红书 |
 | 调查 mujica完结后祥推在磕哪对产品 | 万葉橘 | 2025-11-09 | 小红书 |
 | Crychic CP vs MyGO CP之争 | 贴吧 | 2024-04-06 | 贴吧 |
-| 个人向CP关系与趋势主观总结 | 贴吧 | 2023-09-22 | 贴吧 |
 | 论素世和睦在mygo结尾的关系 | 贴吧 | 2024-12-17 | 贴吧 |
 | 某些mujica粉丝差不多得了（sumimi vs 初祥争议） | 贴吧 | 2024-12-26 | 贴吧 |
-| 明白的告诉睦祥uu为什么睦祥不是mujica cp | 贴吧 | 2025-07-23 | 贴吧 |
-| 预测一波后期喵祥必火 | 贴吧 | 2025-01-04 | 贴吧 |
-| 睦厨看Mujica真的好难受啊 | 贴吧 | 2025-08-29 | 贴吧 |
 | [Ave Mujica 动画剧情总纲](../02_AveMujica动画/AveMujica_剧情总纲_整合版.md) | 社区整理 | — | 站内资料 |
 | [Ave Mujica 官方访谈与设定汇总](../05_官方访谈与设定/AveMujica_确证内容汇总.md) | 官方资料整理 | — | 站内资料 |
 | [丰川祥子人设汇总](../../10_丰川祥子/人设汇总_丰川祥子.md) | 社区整理 | — | 站内资料 |
