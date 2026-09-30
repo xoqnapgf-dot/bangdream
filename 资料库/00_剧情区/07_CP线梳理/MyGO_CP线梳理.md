@@ -84,6 +84,8 @@ CP 讨论的走向和官方供给高度绑定，以下为截至 2026 年 9 月�
 
 **剧场版《Ave Mujica prima aurora》**——监督柿本广大，动画制作 NICHIKA LINE。舞台设在 Ave Mujica 再出道半年多之后的春天：乐队人气进一步上升，成员各自的活动也步入正轨，担任键盘与演出构成的丰川祥子提议以「会员制假面舞会」作为乐队的下一个舞台。同时公开了成员的全新便服插画。
 
+![续篇 TV 动画 · MyGO!!!!! 官方主视觉](https://anime.bang-dream.com/mygo-avemujica/wordpress/wp-content/themes/mygo-avemujica/assets/webp/sp/index/img_kv_mg.webp "续篇 TV 动画 · MyGO!!!!! 官方主视觉（2027 年 1 月放送）")
+
 @[bilibili](BV1xtYC6UEwN "剧场版「BanG Dream! Ave Mujica prima aurora」主 PV")
 
 **续篇 TV 动画**——2025 年 3 月《Ave Mujica》完结当晚官宣制作决定，2026 年 3 月确定 2027 年 1 月放送，制作组曾赴北欧取材。
