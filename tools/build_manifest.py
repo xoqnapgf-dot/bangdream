@@ -19,11 +19,27 @@ INDEX_HTML = ROOT / "index.html"
 
 TEXT_EXT = {".md", ".txt"}
 BEIJING_TZ = datetime.timezone(datetime.timedelta(hours=8))
-PINNED_DISPLAY_PATHS = {
-    "00_剧情区/04_漫画游戏/MyGO_漫画游戏情节汇总.md",
-    "00_剧情区/05_官方访谈与设定/MyGO_确证内容汇总.md",
-    "00_剧情区/06_社区解析_推测/MyGO_分析推测汇总.md",
-    "00_剧情区/07_CP线梳理/MyGO_CP线梳理.md",
+# 不改文件名和内部相对链接，只固定读者看到的专题顺序：先 MyGO!!!!!，
+# 后 Ave Mujica，再放跨作品或辅助资料。这里同时用于网站清单与文件大纲。
+DISPLAY_FILE_ORDER = {
+    path: rank
+    for rank, path in enumerate((
+        "00_剧情区/03_剧场版/MyGO剧场版_资料汇总.md",
+        "00_剧情区/03_剧场版/AveMujica剧场版_prima_aurora资料汇总.md",
+        "00_剧情区/04_漫画游戏/MyGO_漫画游戏情节汇总.md",
+        "00_剧情区/04_漫画游戏/MyGO剧情对白_英文版.md",
+        "00_剧情区/04_漫画游戏/少女乐团派对_MyGO相关活动剧情对白_中文版.md",
+        "00_剧情区/04_漫画游戏/AveMujica漫画游戏情节汇总.md",
+        "00_剧情区/04_漫画游戏/少女乐团派对_AveMujica相关剧情对白_中文版.md",
+        "00_剧情区/04_漫画游戏/OurNotes内测社区反馈汇总.md",
+        "00_剧情区/05_官方访谈与设定/MyGO_确证内容汇总.md",
+        "00_剧情区/05_官方访谈与设定/AveMujica_确证内容汇总.md",
+        "00_剧情区/06_社区解析_推测/MyGO_分析推测汇总.md",
+        "00_剧情区/06_社区解析_推测/AveMujica_分析推测汇总.md",
+        "00_剧情区/06_社区解析_推测/Yamaryo_個體化的擺盪與認同的放手.md",
+        "00_剧情区/07_CP线梳理/MyGO_CP线梳理.md",
+        "00_剧情区/07_CP线梳理/AveMujica_CP线梳理.md",
+    ))
 }
 
 
@@ -70,12 +86,22 @@ def natural_key(name: str):
     return [int(x) if x.isdigit() else x for x in parts]
 
 
+def display_key(path: pathlib.Path):
+    """专题文件按策划顺序显示，其余条目仍按自然文件名排序。"""
+    try:
+        rel = path.relative_to(LIB).as_posix()
+    except ValueError:
+        rel = path.as_posix()
+    rank = DISPLAY_FILE_ORDER.get(rel)
+    return (0, rank) if rank is not None else (1, natural_key(path.name))
+
+
 def outline_lines(d: pathlib.Path, depth: int = 0):
     """按资料库里的真实层级列出目录与文件，供 项目文件大纲.txt 使用。"""
     lines = []
     entries = sorted(
         (e for e in d.iterdir() if not e.name.startswith(".")),
-        key=lambda p: natural_key(p.name),
+        key=display_key,
     )
     subdirs = [e for e in entries if e.is_dir()]
     files = [
@@ -116,7 +142,7 @@ def write_outline():
 
 def walk(d: pathlib.Path):
     dirs, files = [], []
-    for entry in sorted(d.iterdir(), key=lambda p: natural_key(p.name)):
+    for entry in sorted(d.iterdir(), key=display_key):
         if entry.name.startswith("."):
             continue
         if entry.is_dir():
@@ -145,23 +171,6 @@ def walk(d: pathlib.Path):
     }
 
 
-def pin_summaries_for_display(node):
-    """让指定总览在清单与前端排序中都稳定置顶。"""
-    if node.get("type") != "dir":
-        return
-    dirs = [child for child in node["children"] if child["type"] == "dir"]
-    files = [child for child in node["children"] if child["type"] == "file"]
-    files.sort(
-        key=lambda child: (
-            child["path"] not in PINNED_DISPLAY_PATHS,
-            natural_key(child["name"]),
-        )
-    )
-    node["children"] = dirs + files
-    for child in dirs:
-        pin_summaries_for_display(child)
-
-
 def count(node):
     f = d = 0
     for c in node["children"]:
@@ -181,7 +190,6 @@ def main():
     # 先刷新大纲，再扫描，保证清单里记录的是大纲的最新体积。
     write_outline()
     tree = walk(LIB)
-    pin_summaries_for_display(tree)
     nf, nd = count(tree)
     total = sum(p.stat().st_size for p in LIB.rglob("*") if p.is_file())
     now = datetime.datetime.now(BEIJING_TZ)

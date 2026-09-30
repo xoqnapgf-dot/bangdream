@@ -25,7 +25,7 @@
 └── 项目文件大纲.txt          逐级文件清单（脚本生成）
 ```
 
-完整的逐级文件清单见 `项目文件大纲.txt`（由 `tools/build_manifest.py` 随资料库内容一起生成，请勿手工修改）。目录和文件数量以网站首页及 `assets/manifest.json` 为准。
+完整的逐级文件清单见 `项目文件大纲.txt`（由 `tools/build_manifest.py` 随资料库内容一起生成，请勿手工修改）。成对专题按 MyGO!!!!! → Ave Mujica 显示；漫画游戏区在两作资料之后再列跨作品辅助文件。目录和文件数量以网站首页及 `assets/manifest.json` 为准。
 
 ## 阅读注意事项
 

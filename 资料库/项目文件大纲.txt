@@ -24,25 +24,25 @@ MyGO!!!!! × Ave Mujica 资料库 项目文件大纲
     故事情节（睦视角）.txt
     故事情节（祥子视角）.txt
   03_剧场版/
-    AveMujica剧场版_prima_aurora资料汇总.md
     MyGO剧场版_资料汇总.md
+    AveMujica剧场版_prima_aurora资料汇总.md
   04_漫画游戏/
-    AveMujica漫画游戏情节汇总.md
     MyGO_漫画游戏情节汇总.md
     MyGO剧情对白_英文版.md
-    OurNotes内测社区反馈汇总.md
-    少女乐团派对_AveMujica相关剧情对白_中文版.md
     少女乐团派对_MyGO相关活动剧情对白_中文版.md
+    AveMujica漫画游戏情节汇总.md
+    少女乐团派对_AveMujica相关剧情对白_中文版.md
+    OurNotes内测社区反馈汇总.md
   05_官方访谈与设定/
-    AveMujica_确证内容汇总.md
     MyGO_确证内容汇总.md
+    AveMujica_确证内容汇总.md
   06_社区解析_推测/
-    AveMujica_分析推测汇总.md
     MyGO_分析推测汇总.md
+    AveMujica_分析推测汇总.md
     Yamaryo_個體化的擺盪與認同的放手.md
   07_CP线梳理/
-    AveMujica_CP线梳理.md
     MyGO_CP线梳理.md
+    AveMujica_CP线梳理.md
 
 01_高松灯/
   人设汇总_高松灯.md
