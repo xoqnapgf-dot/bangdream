@@ -494,6 +494,63 @@
     });
   }
 
+  /* 剧本 txt：说话人、场景提示与旁注分开排版。不改动资料库里的原文，
+     只是把「姓名：台词」这样的纯文本行渲染成可读的对白。 */
+  function renderScript(src) {
+    var lines = String(src).replace(/\r\n?/g, '\n').split('\n');
+    var out = [], gap = false;
+    function push(cls, html) { out.push('<p class="' + cls + (gap ? ' is-break' : '') + '">' + html + '</p>'); gap = false; }
+    for (var i = 0; i < lines.length; i++) {
+      var line = lines[i].replace(/\s+$/, '');
+      if (!line.trim()) { gap = true; continue; }
+      var t = line.trim(), m;
+      if ((m = /^\*{2,3}(.+?)\*{2,3}$/.exec(t))) {          // ***整段说明***
+        push('sc-note', esc(m[1]));
+      } else if ((m = /^#\s*(.*)$/.exec(t))) {               // # 灯的旁白（第 3 集）
+        push('sc-aside', esc(m[1]));
+      } else if ((m = /^\*\s*(.*)$/.exec(t))) {              // * 笔记本上的字（第 3 集）
+        push('sc-memo', esc(m[1]));
+      } else if (/^[（(]/.test(t)) {                         // （动作、镜头、画面内文字）
+        push('sc-act', esc(t));
+      } else if ((m = /^([^：:，。！？\s]{1,24})[：:](.*)$/.exec(line))) {
+        out.push('<p class="sc-line' + (gap ? ' is-break' : '') + '"><span class="sc-who">' +
+          esc(m[1]) + '</span><span class="sc-say">' + esc(m[2].trim()) + '</span></p>');
+        gap = false;
+      } else {                                               // 场景、时间、地点
+        push('sc-scene', esc(t));
+      }
+    }
+    return '<div class="script">' + out.join('') + '</div>';
+  }
+
+  /* 剧本文件的头部：官方场面图、话数标题、梗概与制作名单。
+     数据来自 assets/episode-meta.json。 */
+  function renderEpisodeHead(meta, title) {
+    if (!meta) return '';
+    var shots = (meta.images || []).map(function (src) {
+      return '<figure class="media-card"><img src="' + esc(src) + '" alt="' +
+        esc(title + ' 场面图') + '" loading="lazy" referrerpolicy="no-referrer"></figure>';
+    }).join('');
+    var staff = '';
+    if (meta.staff) {
+      staff = Object.keys(meta.staff).map(function (k) {
+        return '<div><dt>' + esc(k) + '</dt><dd>' + esc(meta.staff[k]) + '</dd></div>';
+      }).join('');
+      staff = '<dl class="ep-staff">' + staff + '</dl>';
+    }
+    return '<header class="ep-head">' +
+      (meta.ep ? '<div class="ep-no">第 ' + esc(String(meta.ep)) + ' 集</div>' : '') +
+      '<h1 class="ep-title">' + esc(title) + '</h1>' +
+      (meta.titleJa ? '<div class="ep-title-ja">' + esc(meta.titleJa) + '</div>' : '') +
+      (shots ? '<div class="image-gallery ep-shots">' + shots + '</div>' : '') +
+      (meta.synopsis ? '<p class="ep-syn">' + esc(meta.synopsis) + '</p>' : '') +
+      (meta.quote ? '<blockquote class="ep-quote">' + esc(meta.quote) + '</blockquote>' : '') +
+      staff +
+      (meta.source ? '<a class="ep-src" href="' + esc(meta.source) +
+        '" target="_blank" rel="noopener">官方网站 Story 页</a>' : '') +
+      '</header>';
+  }
+
   function guardImages(container) {
     container.querySelectorAll('img').forEach(function (img) {
       // 视频封面在 <button> 里，替换掉会破坏点击播放；它自身有底板兜底。
@@ -817,10 +874,18 @@
         buildToc(box);
         resolveHeadingLinks(box);
       } else {
-        box.className = 'content';
-        box.innerHTML = '<h1 style="font-size:22px;margin:4px 0 14px">' +
-          esc(displayName(node)) + '</h1>' +
-          '<div class="txt">' + esc(text) + '</div>';
+        var epMeta = (state.episodeMeta || {})[node.path];
+        var plainTitle = displayName(node).replace(/^第\d+集\s*·\s*/, '');
+        if (epMeta) {
+          box.className = 'content script-view';
+          box.innerHTML = renderEpisodeHead(epMeta, plainTitle) + renderScript(text);
+          guardImages(box);
+        } else {
+          box.className = 'content';
+          box.innerHTML = '<h1 style="font-size:22px;margin:4px 0 14px">' +
+            esc(displayName(node)) + '</h1>' +
+            '<div class="txt">' + esc(text) + '</div>';
+        }
         $('toc').innerHTML = '';
       }
       restoreScroll(node.path);
@@ -1144,7 +1209,7 @@
 
     var offlineData = window.__BD_OFFLINE_DATA__;
     var startup = offlineData
-      ? Promise.resolve([offlineData.manifest, offlineData.videoMeta || {}])
+      ? Promise.resolve([offlineData.manifest, offlineData.videoMeta || {}, offlineData.episodeMeta || {}])
       : Promise.all([
           fetch('assets/manifest.json').then(function (r) {
             if (!r.ok) throw new Error('HTTP ' + r.status);
@@ -1152,12 +1217,16 @@
           }),
           fetch('assets/video-meta.json').then(function (r) {
             return r.ok ? r.json() : {};
+          }).catch(function () { return {}; }),
+          fetch('assets/episode-meta.json').then(function (r) {
+            return r.ok ? r.json() : {};
           }).catch(function () { return {}; })
         ]);
 
     startup.then(function (data) {
         var m = data[0];
         state.videoMeta = data[1];
+        state.episodeMeta = data[2] || {};
         state.manifest = m;
         buildIndex(m.tree, '');
         buildTree();

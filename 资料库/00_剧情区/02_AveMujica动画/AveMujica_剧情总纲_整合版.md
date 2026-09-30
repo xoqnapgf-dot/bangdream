@@ -4,9 +4,9 @@
 >
 > 按时间顺序叙述剧情本身，不含解读与评价。公演名沿用动画中的拉丁语原名。
 >
-> 「」内为剧中原话，均经字幕核对，方法见文末「台词核对方法」。
+> 「」内为剧中原话。小节标题的话数为《Ave Mujica》TV 动画播出话数，全 13 话；跨两话的写成「第 5–6 话」。
 >
-> 小节标题上的话数指《Ave Mujica》TV 动画的**播出话数**（全 13 话），按逐帧字幕的时间码判定，不按剧情主题推断；跨两话的小节写成「第 5–6 话」这样的区间。MyGO!!!!! 本篇 13 话的逐集剧情另见 [01_MyGO动画](../01_MyGO动画/) 目录。
+> MyGO!!!!! 本篇 13 话的逐集剧情见 [01_MyGO动画](../01_MyGO动画/)。
 - [祥子视角剧情](故事情节（祥子视角）.txt)
 - [睦视角剧情](故事情节（睦视角）.txt)
 - [Ave Mujica 官方访谈与设定](../05_官方访谈与设定/AveMujica_确证内容汇总.md)
@@ -45,8 +45,7 @@
 - [游戏线剧情节点](#游戏线剧情节点)
 - [剧中台词摘录（附日文原文与出处）](#剧中台词摘录（附日文原文与出处）)
 - [各话标题](#各话标题)
-- [台词核对方法](#台词核对方法)
-- [图片与数据来源](#图片与数据来源)
+- [资料来源](#资料来源)
 
 ---
 
@@ -458,22 +457,10 @@ Ave Mujica 那边，五人先像人偶一样摇晃着出场，灯光转红，《
 | 12 | Fluctuat nec mergitur. | 风吹浪打，亦不沉没 |
 | 13 | Per aspera ad astra. | 循此苦旅，终抵繁星 |
 
-## 台词核对方法
 
-正文「」内的台词按以下两个来源核对，两边指向同一句时才采用：
+## 资料来源
 
-1. [日文五十音练习所 · Ave Mujica 经典台词](https://www.japanese50sounds.com/anime/ave-mujica/)——提供说话人、话数与日文原文，即上方台词摘录表。
-2. [phillychi3/MyGo-Meme](https://github.com/phillychi3/MyGo-Meme)——逐帧 OCR 的字幕数据，覆盖 Ave Mujica 第 1–9 话共 8,164 条，带时间戳，可定位到「第几话第几分秒」。该数据为机器识别、存在错字，只用于定位与比对，不直接照抄。
-
-采用标准：第 1–9 话须在来源 2 的字幕里检索到原句；第 10–13 话没有字幕数据，须有两处互相独立的公开记录写出同一句。只有单一出处或查无实据的，正文一律改为转述、不加引号（例如若麦提出的重组条件、第 13 话剧中剧的部分对白）。
-
-本文小节按播出话数划分，每一节对应的话数以逐帧字幕的时间码为准，而不是按剧情主题推断。需要注意，每话开头约一分半的「前情提要」会重复上一话的台词，定位时应取后一次出现的时间码。
-
----
-
-## 图片与数据来源
-
-- **官方场面图**：[TV 动画官方网站](https://anime.bang-dream.com/avemujica/) 各话公开的场面图与主视觉，仓库不保存副本。
-- **第 7 话「舞台给你们用吧」、第 12 话「我可是 Ave Mujica 的 Oblivionis」两图**：取自同人素材整理库 [Furinaaa-Cancan/mygo-mujica-archive](https://github.com/Furinaaa-Cancan/mygo-mujica-archive)（CC0 / 非商业同人授权），经 jsDelivr 固定到 commit `d3074c0`。
-- **逐帧字幕数据**：[phillychi3/MyGo-Meme](https://github.com/phillychi3/MyGo-Meme)。
-- **各话拉丁语标题**：[动画官方网站 Story 页](https://anime.bang-dream.com/avemujica/story/)。
+- [TV 动画官方网站](https://anime.bang-dream.com/avemujica/) —— 各话场面图、主视觉与[各话拉丁语标题](https://anime.bang-dream.com/avemujica/story/)
+- [日文五十音练习所 · Ave Mujica 经典台词](https://www.japanese50sounds.com/anime/ave-mujica/) —— 台词的说话人、话数与日文原文
+- [phillychi3/MyGo-Meme](https://github.com/phillychi3/MyGo-Meme) —— 逐帧 OCR 字幕，第 1–9 话共 8,164 条，带时间戳
+- [Furinaaa-Cancan/mygo-mujica-archive](https://github.com/Furinaaa-Cancan/mygo-mujica-archive) —— 第 7 话、第 12 话两张场景图的出处

@@ -14,6 +14,7 @@ OUTLINE = LIB / "项目文件大纲.txt"
 OUT = ROOT / "assets" / "manifest.json"
 OFFLINE_OUT = ROOT / "assets" / "offline-data.js"
 VIDEO_META = ROOT / "assets" / "video-meta.json"
+EPISODE_META = ROOT / "assets" / "episode-meta.json"
 INDEX_HTML = ROOT / "index.html"
 
 TEXT_EXT = {".md", ".txt"}
@@ -198,13 +199,19 @@ def main():
     )
 
     video_meta = json.loads(VIDEO_META.read_text("utf-8")) if VIDEO_META.is_file() else {}
+    episode_meta = json.loads(EPISODE_META.read_text("utf-8")) if EPISODE_META.is_file() else {}
     content = {
         p.relative_to(LIB).as_posix(): read_text(p)
         for p in LIB.rglob("*")
         if p.is_file() and p.suffix.lower() in TEXT_EXT
     }
     offline = json.dumps(
-        {"manifest": data, "videoMeta": video_meta, "content": content},
+        {
+            "manifest": data,
+            "videoMeta": video_meta,
+            "episodeMeta": episode_meta,
+            "content": content,
+        },
         ensure_ascii=False,
         separators=(",", ":"),
     ).replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
