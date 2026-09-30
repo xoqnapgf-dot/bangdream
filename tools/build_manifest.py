@@ -13,6 +13,7 @@ LIB = ROOT / "资料库"
 OUT = ROOT / "assets" / "manifest.json"
 OFFLINE_OUT = ROOT / "assets" / "offline-data.js"
 VIDEO_META = ROOT / "assets" / "video-meta.json"
+INDEX_HTML = ROOT / "index.html"
 
 TEXT_EXT = {".md", ".txt"}
 BEIJING_TZ = datetime.timezone(datetime.timedelta(hours=8))
@@ -162,10 +163,11 @@ def main():
     pin_summaries_for_display(tree)
     nf, nd = count(tree)
     total = sum(p.stat().st_size for p in LIB.rglob("*") if p.is_file())
+    now = datetime.datetime.now(BEIJING_TZ)
     data = {
         "root": LIB.name,
         # 固定使用北京时间，避免生成环境的本地时区影响页面显示。
-        "generated": datetime.datetime.now(BEIJING_TZ).strftime("%Y-%m-%d %H:%M"),
+        "generated": now.strftime("%Y-%m-%d %H:%M"),
         "stats": {"files": nf, "dirs": nd, "bytes": total},
         "tree": tree,
     }
@@ -187,6 +189,17 @@ def main():
         separators=(",", ":"),
     ).replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
     OFFLINE_OUT.write_text("window.__BD_OFFLINE_DATA__=" + offline + ";\n", encoding="utf-8")
+
+    # 每次重建内容时同步更新静态资源版本，避免部署站点继续使用旧离线包。
+    if INDEX_HTML.is_file():
+        index = INDEX_HTML.read_text("utf-8")
+        version = now.strftime("%Y%m%d%H%M%S")
+        index = re.sub(
+            r"(assets/(?:style\.css|offline-data\.js|app\.js)\?v=)[^\"']+",
+            rf"\g<1>{version}",
+            index,
+        )
+        INDEX_HTML.write_text(index, encoding="utf-8")
 
     print(
         f"✅ {OUT.relative_to(ROOT)}  —  {nf} 个文件 / {nd} 个目录 / {total/1024:.0f} KB\n"
