@@ -49,6 +49,8 @@ def main() -> None:
     assert "return (children || []).slice();" in frontend
 
     # 每个资料文件都必须带北京时间分钟时间；前端列表和阅读页都要展示。
+    file_updates: list[str] = []
+
     def check_updated(node: dict) -> None:
         for child in node.get("children", []):
             updated = child.get("updated")
@@ -56,8 +58,11 @@ def main() -> None:
             assert updated[4] == "-" and updated[7] == "-" and updated[10] == " " and updated[13] == ":"
             if child["type"] == "dir":
                 check_updated(child)
+            else:
+                file_updates.append(updated)
 
     check_updated(tree)
+    assert len(set(file_updates)) > 5, "逐文件更新时间被错误地同步成同一时间"
     assert "北京时间 ' + esc(f.updated)" in frontend, "文件清单未显示北京时间"
     assert "更新于北京时间 ' + node.updated" in frontend, "文件阅读页未显示更新时间"
 
@@ -65,12 +70,22 @@ def main() -> None:
     mygo_community = (community_dir / "MyGO_分析推测汇总.md").read_text(encoding="utf-8")
     ave_community = (community_dir / "AveMujica_分析推测汇总.md").read_text(encoding="utf-8")
     yamaryo = (community_dir / "Yamaryo_個體化的擺盪與認同的放手.md").read_text(encoding="utf-8")
-    for text in (mygo_community, ave_community):
-        assert "双向情感障碍自杀率" not in text
-        assert "系统自动/豆瓣" not in text
-        assert "★★★★★" not in text
+    # 社区原帖的诊断式猜测和尖锐措辞可以保留，但必须明确归属；
+    # 相同全文不再散落到人物与 CP 文件。
+    assert "双向情感障碍自杀率较高" in mygo_community
+    assert "以下按采集稿完整保留社区回答" in mygo_community
+    assert "DSM-5诊断" in ave_community
+    assert ave_community.count("以下保留社区作者的诊断式猜测") >= 4
+    for duplicate_path in [
+        LIB / "10_丰川祥子/人设汇总_丰川祥子.md",
+        LIB / "04_长崎素世/人设汇总_长崎素世.md",
+        LIB / "00_剧情区/07_CP线梳理/MyGO_CP线梳理.md",
+    ]:
+        assert "双向情感障碍自杀率较高" not in duplicate_path.read_text(encoding="utf-8")
     assert "不是 `Mujica` 的拉丁语词源" in ave_community
-    assert "非完整转载" in yamaryo and "缺少原站第 3、4 章" in yamaryo
+    assert "### 6. 接上理論把手——社會層" in yamaryo
+    assert "### 6. 接上理論把手——合奏的個體化" in yamaryo
+    assert "早期存檔曾遺漏的第 3、4 章" in yamaryo
 
     synopsis = (LIB / "00_剧情区/02_AveMujica动画/AveMujica_剧情总纲_整合版.md").read_text(encoding="utf-8")
     required = [
