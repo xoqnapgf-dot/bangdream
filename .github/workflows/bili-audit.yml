@@ -11,9 +11,12 @@ jobs:
       - name: Download review copy
         run: |
           python -m pip install -q yt-dlp
-          yt-dlp --no-playlist -f 'best[ext=mp4]/best' -o avem13.mp4 'https://www.bilibili.com/video/BV19oLBzQE2n/'
+          yt-dlp --verbose --no-playlist -f 'best[ext=mp4]/best' -o avem13.mp4 'https://www.bilibili.com/video/BV19oLBzQE2n/' > yt.log 2>&1 || true
       - uses: actions/upload-artifact@v4
         with:
           name: avem13-review
-          path: avem13.mp4
+          path: |
+            avem13.mp4
+            yt.log
+          if-no-files-found: warn
           retention-days: 1
