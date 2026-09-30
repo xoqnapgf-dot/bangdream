@@ -1,5 +1,11 @@
 # 乐奈 × 素世（乐奈攻 × 素世受 / らなそよ / 乐素）
 
+
+@[gallery]
+![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
+![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
+@[/gallery]
+
 > 双向成对文件：本文件为乐奈攻向视角；素世攻向视角见《素世x乐奈》（そよらな/素乐）。素乐的核心读法是"猫与饲养员"，乐素向即"猫视角"——猫从不认为自己被养，饲养员只是恰好出现的仆人。
 
 ## 〇、两人对照速查
@@ -78,6 +84,6 @@
 - MyGO 剧本：05_我没有逃避.txt:23、07_就算今天的演唱会结束.txt:146-235、09_解散.txt:306、10_一直迷失着.txt:423、11:479、12_It's_my_go.txt:83
 - Ave Mujica 总纲：2.7（嫉妒乐奈）
 - 库内：乐奈人设、素世人设第七节（×乐奈条）、素世x爱音.md（抹茶芭菲卡面转引）
-- 联网：moegirl《长崎爽世》、Tumblr priscirat 投稿、Pixiv tag 观察
+- 联网：moegirl《长崎素世》、Tumblr priscirat 投稿、Pixiv tag 观察
 
 对齐账号：`04_长崎素世/素世x乐奈.md`

@@ -10,9 +10,11 @@ import datetime
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 LIB = ROOT / "资料库"
+OUTLINE = LIB / "项目文件大纲.txt"
 OUT = ROOT / "assets" / "manifest.json"
 OFFLINE_OUT = ROOT / "assets" / "offline-data.js"
 VIDEO_META = ROOT / "assets" / "video-meta.json"
+EPISODE_META = ROOT / "assets" / "episode-meta.json"
 INDEX_HTML = ROOT / "index.html"
 
 TEXT_EXT = {".md", ".txt"}
@@ -68,6 +70,50 @@ def natural_key(name: str):
     return [int(x) if x.isdigit() else x for x in parts]
 
 
+def outline_lines(d: pathlib.Path, depth: int = 0):
+    """按资料库里的真实层级列出目录与文件，供 项目文件大纲.txt 使用。"""
+    lines = []
+    entries = sorted(
+        (e for e in d.iterdir() if not e.name.startswith(".")),
+        key=lambda p: natural_key(p.name),
+    )
+    subdirs = [e for e in entries if e.is_dir()]
+    files = [
+        e for e in entries
+        if e.is_file() and e.suffix.lower() in TEXT_EXT and e != OUTLINE
+    ]
+    for sub in subdirs:
+        child = outline_lines(sub, depth + 1)
+        if not child:
+            continue
+        if depth == 0 and lines:
+            lines.append("")
+        lines.append("  " * depth + sub.name + "/")
+        lines.extend(child)
+    if files and subdirs and depth == 0:
+        lines.append("")
+    for f in files:
+        lines.append("  " * depth + f.name)
+    return lines
+
+
+def write_outline():
+    """大纲随资料库内容一起生成，避免手工维护后与真实目录脱节。"""
+    body = outline_lines(LIB)
+    title = "MyGO!!!!! × Ave Mujica 资料库 项目文件大纲"
+    text = "\n".join([
+        title,
+        "=" * 46,
+        "",
+        "本文件由 tools/build_manifest.py 生成，请勿手工修改。",
+        f"内容与 {LIB.name}/ 下的真实目录结构一致（不含本文件）。",
+        "",
+        *body,
+        "",
+    ])
+    OUTLINE.write_text(text, encoding="utf-8")
+
+
 def walk(d: pathlib.Path):
     dirs, files = [], []
     for entry in sorted(d.iterdir(), key=lambda p: natural_key(p.name)):
@@ -97,32 +143,6 @@ def walk(d: pathlib.Path):
         "path": d.relative_to(LIB).as_posix() if d != LIB else "",
         "children": dirs + files,
     }
-
-
-def relocate_for_display(tree):
-    """只调整网站目录展示，不移动资料库中的原文件。"""
-    story_root = next(
-        (n for n in tree["children"] if n.get("path") == "00_剧情区"), None
-    )
-    if not story_root:
-        return
-    mygo_dir = next(
-        (n for n in story_root["children"] if n.get("path") == "00_剧情区/01_MyGO动画"), None
-    )
-    game_dir = next(
-        (n for n in story_root["children"] if n.get("path") == "00_剧情区/04_漫画游戏"), None
-    )
-    if not mygo_dir or not game_dir:
-        return
-
-    dialogue_path = "00_剧情区/04_漫画游戏/MyGO剧情对白_英文版.md"
-    dialogue = next(
-        (n for n in game_dir["children"] if n.get("path") == dialogue_path), None
-    )
-    if dialogue:
-        game_dir["children"].remove(dialogue)
-        # 文件无数字前缀，前端自然排序会把它固定在第 13 集之后。
-        mygo_dir["children"].append(dialogue)
 
 
 def pin_summaries_for_display(node):
@@ -158,8 +178,9 @@ def count(node):
 def main():
     if not LIB.is_dir():
         raise SystemExit(f"找不到资料库目录: {LIB}")
+    # 先刷新大纲，再扫描，保证清单里记录的是大纲的最新体积。
+    write_outline()
     tree = walk(LIB)
-    relocate_for_display(tree)
     pin_summaries_for_display(tree)
     nf, nd = count(tree)
     total = sum(p.stat().st_size for p in LIB.rglob("*") if p.is_file())
@@ -178,13 +199,19 @@ def main():
     )
 
     video_meta = json.loads(VIDEO_META.read_text("utf-8")) if VIDEO_META.is_file() else {}
+    episode_meta = json.loads(EPISODE_META.read_text("utf-8")) if EPISODE_META.is_file() else {}
     content = {
         p.relative_to(LIB).as_posix(): read_text(p)
         for p in LIB.rglob("*")
         if p.is_file() and p.suffix.lower() in TEXT_EXT
     }
     offline = json.dumps(
-        {"manifest": data, "videoMeta": video_meta, "content": content},
+        {
+            "manifest": data,
+            "videoMeta": video_meta,
+            "episodeMeta": episode_meta,
+            "content": content,
+        },
         ensure_ascii=False,
         separators=(",", ":"),
     ).replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")

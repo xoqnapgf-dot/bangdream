@@ -1,5 +1,8 @@
 # 若叶睦 × 丰川祥子（睦祥 / 睦攻向）
 
+
+![祥子与睦击掌 · TV 动画场面截图](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E5%B0%8F%E7%A5%A5%E8%88%87%E5%B0%8F%E7%9D%A6%E6%8B%8D%E6%89%8B.jpg "祥子与睦击掌 · TV 动画场面截图")
+
 > 幼驯染，CRYCHIC 与 Ave Mujica 两团共通的轴。本文件为睦攻向视角：把这对读成"睦被祥子拖着走了一路，但她从没真正挣开"。祥子攻向见 `10_丰川祥子/祥子x睦.md`。
 
 ## 〇、两人对照速查

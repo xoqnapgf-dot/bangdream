@@ -1,5 +1,11 @@
 # 若叶睦 × 椎名立希（むつたき / 希睦）
 
+
+@[gallery]
+![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
+![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
+@[/gallery]
+
 > 旧 CRYCHIC 吉他与鼓。本文件为睦攻向视角：那个从不道歉的立希，为什么唯独对睦低下了头——从睦这一侧看"胜者之对"的另一半。立希攻向见 `../05_椎名立希/立希x睦.md`。
 
 ## 〇、两人对照速查
@@ -25,7 +31,7 @@
 - **第9话→睦线**：立希判断只有睦知道内情（09行182）、向睦发消息问素世家在哪（行212，社区解读）；睦对立希的消息秒回（NGA 帖观察）。
 - **Mujica 前期（传话筒线）**：睦退团后经立希的 line 请托转达；后期睦直接回答立希"不做传话筒"，转而自己面对灯（睦人设 行360；CP线梳理 行774）。
 - **Mujica 中期**：睦家门外，立希与祥子冲突后彆扭道歉；睦家三人谈话中立希说出"姐姐真希也在羽丘，并不想被天天说是真希的妹妹"（萌百立希条目）——睦全程在场，听着与自己处境同构的告白。
-- **CRYCHIC 终演**：睦被海铃带来台下，立希泪流满面（萌百）。
+- **CRYCHIC 终演**：睦与立希同在台上——睦弹爱音借出的吉他，立希打鼓。演奏结束后立希泪流满面（萌百）；睦向爱音道谢时，立希正被素世追着递手帕。
 
 ## 三、核心磕点体系（观点层）
 
@@ -55,7 +61,7 @@
 ## 七、信息来源
 
 - MyGO!!!!! 动画剧本第3/9话（00_剧情区/01_MyGO动画/）
-- Mujica总纲 行117（睦家门外）
+- Mujica总纲「第 7 话 · 重逢与 CRYCHIC 终演」（睦家门外）
 - 睦人设（07_若叶睦/人设汇总_若叶睦.md）行88/360；立希人设
 - MyGO_CP线梳理.md 行774
 - 萌娘百科 椎名立希 条目

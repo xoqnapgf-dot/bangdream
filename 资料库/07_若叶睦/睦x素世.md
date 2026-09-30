@@ -1,5 +1,8 @@
 # 睦 × 素世（睦攻 × 素世受 / むつそよ / 睦素）
 
+
+![睦看着跪在地上的素世 · 飞鸟山之夜](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E5%B0%8F%E7%9D%A6%E7%9C%8B%E8%91%97%E8%B7%AA%E5%9C%B0%E4%B8%8A%E7%9A%84%E7%88%BD%E4%B8%96.jpg "睦看着跪在地上的素世 · 飞鸟山之夜")
+
 > 双向成对文件：本文件为睦攻向视角（むつそよ）；素世攻向视角见《素世x睦》（そよむつ/素睦）。素睦是双向热度接近对半的稀有 CP，两向共享"扭曲关系"共识。
 
 ## 〇、两人对照速查
@@ -81,6 +84,6 @@
 - MyGO 剧本：12_It's_my_go.txt:392-416（含官方括注）
 - Ave Mujica 总纲：2.6/2.7/2.9/2.10/2.11 章节
 - 库内：睦人设、素世人设第七节（×睦条）
-- 联网：moegirl《长崎爽世》、はてな mikanayuip 断案（2025-01）、annict、NGA 百合部、lastbreath Mujica 感想、B站用户提供 tag 数据（社区口径）
+- 联网：moegirl《长崎素世》、はてな mikanayuip 断案（2025-01）、annict、NGA 百合部、lastbreath Mujica 感想、B站用户提供 tag 数据（社区口径）
 
 对齐账号：本文件为むつそよ（睦攻向）；对向文件为《素世x睦》（そよむつ/素世攻向），路径 04_长崎素世/素世x睦.md。同睦侧另见《睦x祥子》《睦x若麦》。

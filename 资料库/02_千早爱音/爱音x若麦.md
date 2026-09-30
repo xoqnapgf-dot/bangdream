@@ -1,5 +1,11 @@
 # 千早爱音 × 祐天寺若麦（爱喵 / 双向粉丝线）
 
+
+@[gallery]
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
+@[/gallery]
+
 > 网红与追星的喜剧线：全库唯一一条"互为观众"的爱音关系。本文件为爱音攻向视角；若麦攻向见 `09_祐天寺若麦/若麦x爱音.md`。
 
 ## 〇、两人对照速查
@@ -20,7 +26,7 @@
 
 ## 二、原作糖点与关键节点（事实层）
 
-**MyGO 第11话 · 爱音家（00_剧情区/01_MyGO动画/MyGO第11话 250-270行）**：
+**MyGO 第11话 · 爱音家（00_剧情区/01_MyGO动画/11_即使如此.txt 250-270行）**：
 - 队名提案全灭，爱音发牢骚："哎？明明「ANON TOKYO」是最佳选择吧，她们真没品味。"（爱音的网红自我意识名场面）
 - 订阅更新提示，爱音："喵梦亲！（点开视频）"——**"喵梦亲"是爱音对若麦的专属昵称**，全团独一份。
 - 喵梦视频内容："虽然有点突然，不过我买了电子鼓哦。之后我也会上传练习视频，我要好好努力喵姆。"
@@ -66,7 +72,7 @@
 
 ## 七、信息来源
 
-- MyGO!!!!! 动画剧本第11话爱音家（00_剧情区/01_MyGO动画/MyGO第11话 250-270行）
+- MyGO!!!!! 动画剧本第11话爱音家（00_剧情区/01_MyGO动画/11_即使如此.txt 250-270行）
 - 若麦人设第53、68、131-132行（09_祐天寺若麦/人设汇总_祐天寺若麦.md）
 - MyGO_CP线梳理.md 冷门/邪教CP节（2024-07-30）
 - 网络检索（2026-09-25）：冷门CP帖、B站叫法清单

@@ -1,5 +1,8 @@
 # 乐奈x立希（乐奈攻 × 立希受 / らなたき・变体 / 猫希逆位）
 
+
+![乐奈握住立希的手 · 动画片尾场面截图](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E6%A8%82%E5%A5%88%E6%8F%A1%E4%BD%8F%E7%AB%8B%E5%B8%8C%E7%9A%84%E6%89%8B.jpg "乐奈握住立希的手 · 动画片尾场面截图")
+
 > 本文件为乐奈攻向（猫反过来拿捏饲主的构图）。日文圈主流方向为 たきらな（立希在前），见 `../05_椎名立希/立希x乐奈.md`。
 > 素材口径：事实层仅收录官方内容并标注话数；社区观点一律挂来源；无官方素材支撑的解读标注"推演"。
 

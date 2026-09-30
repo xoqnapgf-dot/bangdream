@@ -1,5 +1,11 @@
 # 乐奈x初华（乐奈攻 × 初华受 / らなはる・无统一tag / 零接触对）
 
+
+@[gallery]
+![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
+![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
+@[/gallery]
+
 > 本文件为乐奈攻向。初华攻向视角见 `../06_三角初华/初华x乐奈.md`。
 > 素材口径：事实层仅收录官方内容并标注话数；社区观点一律挂来源；无官方素材支撑的解读标注"推演"。
 > **冷门度声明**：两人全程零对话；《Ave Mujica》2.9 RiNG 争吵场乐奈在场，初华是否同场以总纲记录为准（总纲未列入初华，按零同场处理）。官方素材为零，本文件如实写薄，磕点均为基于官方关系的合理推演。

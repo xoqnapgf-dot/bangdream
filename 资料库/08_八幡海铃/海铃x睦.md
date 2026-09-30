@@ -1,5 +1,8 @@
 # 八幡海铃 × 若叶睦（海睦 / 海铃攻向）
 
+
+![海铃与睦 · Ave Mujica 舞台](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots-best/%5B%E7%84%A1%E8%A9%9E%5D%E6%B5%B7%E7%8E%B2%E8%88%87%E5%B0%8F%E7%9D%A6.jpg "海铃与睦 · Ave Mujica 舞台")
+
 > Ave Mujica 团内，安全网与保护者。本文件为海铃攻向视角。睦攻向见 `07_若叶睦/睦x海铃.md`。
 
 ## 〇、两人对照速查

@@ -1,5 +1,11 @@
 # 高松灯 × 三角初华（灯初 / 灯攻向）
 
+
+@[gallery]
+![高松灯官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松灯 · Vo.")
+![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
+@[/gallery]
+
 > MyGO 主唱与 Ave Mujica 主唱，隔着祥子的两面镜子。本文件为灯攻向视角：把这对读成"两种歌词的碰面，一句都没说破"。初华攻向见 `06_三角初华/初华x灯.md`。
 
 ## 〇、两人对照速查

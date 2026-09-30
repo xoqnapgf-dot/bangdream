@@ -1,5 +1,11 @@
 # 若叶睦 × 千早爱音（睦爱 / 沉默的一侧）
 
+
+@[gallery]
+![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+@[/gallery]
+
 > 月之森的吉他与羽丘的吉他。本文件为睦攻向视角：一个几乎不会主动的人，她的"主动"长什么样。爱音攻向见 `02_千早爱音/爱音x睦.md`。
 
 ## 〇、两人对照速查

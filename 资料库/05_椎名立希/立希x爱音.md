@@ -1,5 +1,8 @@
 # 椎名立希 × 千早爱音（立希攻向 / "孽缘"的另一面）
 
+
+![立希与爱音 · TV 动画场面截图](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E7%AB%8B%E5%B8%8C%E8%88%87%E6%84%9B%E9%9F%B3.jpg "立希与爱音 · TV 动画场面截图")
+
 > 同队鼓手与节奏吉他手。本文件为立希攻向视角，把镜头调转：不是"爱音怎么招惹立希"，而是"立希为什么放不下爱音"。爱音攻向见 `02_千早爱音/爱音x立希.md`。
 
 ## 〇、两人对照速查

@@ -77,9 +77,6 @@
     var path = typeof file === 'string' ? '' : (file.path || '');
     var m = /^00_剧情区\/01_MyGO动画\/(\d{2})_(.+)\.(md|txt)$/i.exec(path);
     if (m) return '第' + m[1] + '集 · ' + m[2];
-    if (path === '00_剧情区/04_漫画游戏/MyGO剧情对白_英文版.md') {
-      return 'MyGO!!!!! 剧情对白（英文版）';
-    }
     return prettyName(name);
   }
 
@@ -109,7 +106,8 @@
   var CURATED_PROTECTED_HINT = '社区解析资料 · 请谨慎修改';
   var PARTIAL_PROTECTED_DIRS = [
     '00_剧情区/03_剧场版',
-    '00_剧情区/04_漫画游戏'
+    '00_剧情区/04_漫画游戏',
+    '00_剧情区/07_CP线梳理'
   ];
   var PARTIAL_PROTECTED_HINT = '阶段性整理 · 内容将随新资料继续更新';
 
@@ -134,8 +132,9 @@
     s = s.replace(/`([^`]+)`/g, function (_, c) {
       codes.push(c); return '\u0000C' + (codes.length - 1) + '\u0000';
     });
+    // no-referrer：部分图床按 Referer 做防盗链，去掉来源头能显著提高外链成功率
     s = s.replace(/!\[([^\]]*)\]\(([^)\s]+)[^)]*\)/g,
-      '<img src="$2" alt="$1" loading="lazy">');
+      '<img src="$2" alt="$1" loading="lazy" referrerpolicy="no-referrer">');
     s = s.replace(/\[([^\]]+)\]\(([^)\s]+)[^)]*\)/g, function (_, t, h) {
       var ext = /^(https?:)?\/\//.test(h) ? ' target="_blank" rel="noopener"' : '';
       return '<a href="' + esc(h) + '"' + ext + '>' + t + '</a>';
@@ -219,6 +218,29 @@
         continue;
       }
 
+      // 可折叠区块：@[details](摘要标题) … @[/details]
+      // 用于「概述 + 长篇原文折叠」，默认收起，避免大段转载淹没正文。
+      // 内部内容递归走同一套 Markdown 渲染，支持嵌套。
+      var fold = /^@\[(?:details|折叠)\]\(([^)]*)\)\s*$/.exec(line);
+      if (fold) {
+        var foldTitle = fold[1].trim() || '展开全文';
+        var foldBuf = [], foldDepth = 1;
+        i++;
+        while (i < lines.length) {
+          var foldLine = lines[i].trim();
+          if (/^@\[(?:details|折叠)\]\(/.test(foldLine)) foldDepth++;
+          else if (/^@\[\/(?:details|折叠)\]$/.test(foldLine)) {
+            foldDepth--;
+            if (!foldDepth) break;
+          }
+          foldBuf.push(lines[i]); i++;
+        }
+        if (i < lines.length) i++;
+        out.push('<details class="fold"><summary>' + esc(foldTitle) + '</summary>' +
+          '<div class="fold-body">' + renderMarkdown(foldBuf.join('\n')) + '</div></details>');
+        continue;
+      }
+
       // 图片画廊：围栏内只接受 HTTPS Markdown 图片，避免注入任意 HTML。
       if (/^@\[gallery\]\s*$/.test(line)) {
         var gallery = [];
@@ -238,8 +260,8 @@
         if (gallery.length) {
           out.push('<div class="image-gallery">' + gallery.map(function (image) {
             return '<figure class="media-card"><img src="' + esc(image.src) + '" alt="' +
-              esc(image.alt) + '" loading="lazy"><figcaption>' + esc(image.caption) +
-              '</figcaption></figure>';
+              esc(image.alt) + '" loading="lazy" referrerpolicy="no-referrer">' +
+              '<figcaption>' + esc(image.caption) + '</figcaption></figure>';
           }).join('') + '</div>');
         }
         continue;
@@ -252,15 +274,23 @@
         var bvid = bili[1];
         var meta = state.videoMeta[bvid] || {};
         var videoTitle = bili[2] || meta.title || 'Bilibili 视频';
+        // autoplay 不写进基础参数：播放器要等用户点了封面才创建，届时再追加 autoplay=1
         var playerParams = ['isOutside=true', 'bvid=' + encodeURIComponent(bvid), 'p=1',
-          'autoplay=0', 'high_quality=1', 'danmaku=0'];
+          'high_quality=1', 'danmaku=0'];
         // aid/cid 直接定位首个分 P，避免外链播放器仅凭 BV 号解析失败。
         if (meta.aid) playerParams.push('aid=' + encodeURIComponent(meta.aid));
         if (meta.cid) playerParams.push('cid=' + encodeURIComponent(meta.cid));
+        var playerUrl = 'https://player.bilibili.com/player.html?' + playerParams.join('&');
+        // 先只渲染封面占位，点击后才插入 iframe：
+        // 一来站外播放器自身的封面时有时无，二来一页多个视频时可省掉成片的 iframe 开销。
+        var poster = meta.cover
+          ? '<img class="poster-img" src="' + esc(meta.cover) + '" alt="" loading="lazy" ' +
+            'referrerpolicy="no-referrer">'
+          : '';
         out.push('<figure class="video-embed">' +
-          '<iframe src="https://player.bilibili.com/player.html?' + playerParams.join('&amp;') +
-          '" title="' + esc(videoTitle) + '" loading="lazy" scrolling="no" frameborder="0" ' +
-          'allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>' +
+          '<button type="button" class="video-poster" data-player="' + esc(playerUrl) +
+          '" aria-label="播放：' + esc(videoTitle) + '">' + poster +
+          '<span class="poster-play" aria-hidden="true"></span></button>' +
           '<figcaption><a href="https://www.bilibili.com/video/' + encodeURIComponent(bvid) +
           '/" target="_blank" rel="noopener">' + esc(videoTitle) + ' · 在 B 站打开</a>' +
           '</figcaption></figure>');
@@ -464,8 +494,129 @@
     });
   }
 
+  /* 把配图铺到正文里：优先落在场景切换处，避免一次性堆在开头。 */
+  function spreadImages(blocks, breaks, images) {
+    if (!images || !images.length) return blocks.join('');
+    var slots = [], used = {};
+    for (var n = 0; n < images.length; n++) {
+      var want = Math.round(blocks.length * (n + 1) / (images.length + 1));
+      var limit = Math.max(6, Math.round(blocks.length * 0.08));   // 就近吸附，但不许跑太远
+      var best = -1, dist = Infinity;
+      for (var k = 0; k < breaks.length; k++) {
+        var d = Math.abs(breaks[k] - want);
+        if (!used[breaks[k]] && d < dist) { dist = d; best = breaks[k]; }
+      }
+      if (best < 0 || dist > limit) best = want;
+      used[best] = 1;
+      slots.push({ at: best, img: images[n] });
+    }
+    slots.sort(function (x, y) { return y.at - x.at; });
+    slots.forEach(function (sl) {
+      var src = typeof sl.img === 'string' ? sl.img : sl.img.src;
+      var cap = typeof sl.img === 'string' ? '' : (sl.img.caption || '');
+      blocks.splice(Math.max(0, Math.min(sl.at, blocks.length)), 0,
+        '<figure class="sc-figure"><img src="' + esc(src) + '" alt="' + esc(cap || '场面图') +
+        '" loading="lazy" referrerpolicy="no-referrer">' +
+        (cap ? '<figcaption>' + esc(cap) + '</figcaption>' : '') + '</figure>');
+    });
+    return blocks.join('');
+  }
+
+  /* 视角叙述 txt：整段整段的长文，按段落排，短行当阶段小标题。 */
+  function renderProse(src, images) {
+    var lines = String(src).replace(/\r\n?/g, '\n').split('\n'), out = [], breaks = [];
+    for (var i = 0; i < lines.length; i++) {
+      var t = lines[i].trim();
+      if (!t) continue;
+      if (t.length <= 16 && !/[。！？，、]/.test(t)) {
+        breaks.push(out.length);
+        out.push('<h2 class="pr-h">' + esc(t) + '</h2>');
+      } else {
+        breaks.push(out.length);
+        out.push('<p class="pr-p">' + esc(t) + '</p>');
+      }
+    }
+    return '<div class="prose">' + spreadImages(out, breaks, images) + '</div>';
+  }
+
+  /* 剧本 txt：说话人、场景提示与旁注分开排版。不改动资料库里的原文，
+     只是把「姓名：台词」这样的纯文本行渲染成可读的对白。 */
+  function renderScript(src, images) {
+    var lines = String(src).replace(/\r\n?/g, '\n').split('\n');
+    var out = [], breaks = [], gap = false;
+    function push(cls, html) {
+      out.push('<p class="' + cls + (gap ? ' is-break' : '') + '">' + html + '</p>');
+      gap = false;
+    }
+    for (var i = 0; i < lines.length; i++) {
+      var line = lines[i].replace(/\s+$/, '');
+      if (!line.trim()) { gap = true; continue; }
+      var t = line.trim(), m;
+      if ((m = /^\*{2,3}(.+?)\*{2,3}$/.exec(t))) {            // ***整段说明***
+        push('sc-note', esc(m[1]));
+      } else if ((m = /^#\s*(.+)$/.exec(t))) {                 // 行首 # ：独白
+        push('sc-aside', esc(m[1]));
+      } else if ((m = /^\*\s*(.+)$/.exec(t))) {                // 行首 * ：笔记本上的字
+        push('sc-memo', esc(m[1]));
+      } else if (/^[（(]/.test(t)) {                           // （动作、镜头、画面内文字）
+        if (gap) breaks.push(out.length);
+        push('sc-act', esc(t));
+      } else if ((m = /^([^：:，。！？\s]{1,24})[：:](.*)$/.exec(line))) {
+        var body = m[2].trim(), inner = '';
+        /* 「姓名：#……」「姓名：（动作）#……」是心里话。
+           注意 F# 这类和弦不能误伤——# 必须紧跟在冒号或右括号之后。 */
+        var mono = /^([（(][^）)]*[）)])?\s*#\s*(.+)$/.exec(body);
+        if (mono) { inner = ' is-inner'; body = (mono[1] || '') + mono[2]; }
+        out.push('<p class="sc-line' + inner + (gap ? ' is-break' : '') + '"><span class="sc-who">' +
+          esc(m[1]) + '</span><span class="sc-say">' + esc(body) + '</span></p>');
+        gap = false;
+      } else {                                                 // 场景、时间、地点
+        if (gap) breaks.push(out.length);
+        push('sc-scene', esc(t));
+      }
+    }
+    return '<div class="script">' + spreadImages(out, breaks, images) + '</div>';
+  }
+
+  /* 剧本文件的头部：官方场面图、话数标题、梗概与制作名单。
+     数据来自 assets/episode-meta.json。 */
+  function renderEpisodeHead(meta, title) {
+    if (!meta) return '';
+    var cover = (meta.images || [])[0];
+    var shots = '';
+    if (cover) {
+      var coverSrc = typeof cover === 'string' ? cover : cover.src;
+      shots = '<figure class="ep-cover"><img src="' + esc(coverSrc) + '" alt="' +
+        esc(title) + '" loading="lazy" referrerpolicy="no-referrer"></figure>';
+    }
+    var links = (meta.links || []).map(function (l) {
+      return '<a class="ep-link" href="' + esc(l.href) + '">' + esc(l.text) + '</a>';
+    }).join('');
+    var staff = '';
+    if (meta.staff) {
+      staff = Object.keys(meta.staff).map(function (k) {
+        return '<div><dt>' + esc(k) + '</dt><dd>' + esc(meta.staff[k]) + '</dd></div>';
+      }).join('');
+      staff = '<dl class="ep-staff">' + staff + '</dl>';
+    }
+    return '<header class="ep-head">' +
+      (meta.ep ? '<div class="ep-no">第 ' + esc(String(meta.ep)) + ' 集</div>' : '') +
+      '<h1 class="ep-title">' + esc(title) + '</h1>' +
+      (meta.titleJa ? '<div class="ep-title-ja">' + esc(meta.titleJa) + '</div>' : '') +
+      shots +
+      (meta.synopsis ? '<p class="ep-syn">' + esc(meta.synopsis) + '</p>' : '') +
+      (meta.quote ? '<blockquote class="ep-quote">' + esc(meta.quote) + '</blockquote>' : '') +
+      staff +
+      (links ? '<nav class="ep-links">' + links + '</nav>' : '') +
+      (meta.source ? '<a class="ep-src" href="' + esc(meta.source) +
+        '" target="_blank" rel="noopener">官方网站 Story 页</a>' : '') +
+      '</header>';
+  }
+
   function guardImages(container) {
     container.querySelectorAll('img').forEach(function (img) {
+      // 视频封面在 <button> 里，替换掉会破坏点击播放；它自身有底板兜底。
+      if (img.closest('.video-poster')) return;
       img.addEventListener('error', function () {
         if (img.dataset.failed) return;
         img.dataset.failed = '1';
@@ -474,7 +625,11 @@
         a.href = img.src;
         a.target = '_blank';
         a.rel = 'noopener';
-        a.textContent = '配图暂时无法载入，点击打开原图';
+        // 带上图注，图挂了也知道这里本来是什么
+        var label = (img.getAttribute('alt') || '').trim();
+        a.textContent = label
+          ? label + '（图片未能载入，点击打开原图）'
+          : '配图暂时无法载入，点击打开原图';
         img.replaceWith(a);
       });
     });
@@ -653,9 +808,7 @@
     var el = $('crumb');
     var html = '<a href="#/">' + esc(LIB) + '</a>';
     if (path) {
-      var crumbPath = path === '00_剧情区/04_漫画游戏/MyGO剧情对白_英文版.md'
-        ? '00_剧情区/01_MyGO动画/MyGO剧情对白_英文版.md' : path;
-      var parts = crumbPath.split('/'), acc = [];
+      var parts = path.split('/'), acc = [];
       parts.forEach(function (p, k) {
         acc.push(p);
         var last = k === parts.length - 1;
@@ -783,10 +936,22 @@
         buildToc(box);
         resolveHeadingLinks(box);
       } else {
-        box.className = 'content';
-        box.innerHTML = '<h1 style="font-size:22px;margin:4px 0 14px">' +
-          esc(displayName(node)) + '</h1>' +
-          '<div class="txt">' + esc(text) + '</div>';
+        var epMeta = (state.episodeMeta || {})[node.path];
+        var plainTitle = displayName(node).replace(/^第\d+集\s*·\s*/, '');
+        if (epMeta) {
+          var prose = epMeta.layout === 'prose';
+          box.className = 'content script-view' + (prose ? ' prose-view' : '');
+          var bodyImages = (epMeta.images || []).slice(1);
+          box.innerHTML = renderEpisodeHead(epMeta, epMeta.title || plainTitle) +
+            (prose ? renderProse(text, bodyImages) : renderScript(text, bodyImages));
+          guardImages(box);
+          resolveContentLinks(box, node.path);
+        } else {
+          box.className = 'content';
+          box.innerHTML = '<h1 style="font-size:22px;margin:4px 0 14px">' +
+            esc(displayName(node)) + '</h1>' +
+            '<div class="txt">' + esc(text) + '</div>';
+        }
         $('toc').innerHTML = '';
       }
       restoreScroll(node.path);
@@ -859,9 +1024,15 @@
       return (s || '').toLowerCase().replace(/[\s—–·・:：，,。！？!?（）()【】\[\]"'“”‘’&]/g, '');
     }
     var contentsHead = heads.find(function (h) { return key(h.textContent) === '目录'; });
+    // 行内目录条目多时会占掉大半屏，给它挂个类，宽屏下分栏排版
+    if (contentsHead) {
+      var tocList = contentsHead.nextElementSibling;
+      if (tocList && tocList.tagName === 'UL') tocList.classList.add('inline-toc');
+    }
     var contentsFab = $('contentsFab');
     contentsFab.hidden = !contentsHead;
     contentsFab.onclick = contentsHead ? function () {
+      dropSameDocJumps();
       $('main').scrollTo({ top: contentsHead.offsetTop - 52, behavior: 'smooth' });
     } : null;
     box.querySelectorAll('a[href^="#"]:not([href^="#/"])').forEach(function (a) {
@@ -884,6 +1055,7 @@
       a.href = '#' + target.id;
       a.addEventListener('click', function (e) {
         e.preventDefault();
+        pushJump(true);
         $('main').scrollTo({ top: target.offsetTop - 52, behavior: 'smooth' });
       });
       if (contentsHead && target !== contentsHead && !target.querySelector('.section-return')) {
@@ -894,6 +1066,7 @@
         back.addEventListener('click', function (e) {
           e.preventDefault();
           e.stopPropagation();
+          dropSameDocJumps();
           $('main').scrollTo({ top: contentsHead.offsetTop - 52, behavior: 'smooth' });
         });
         target.appendChild(back);
@@ -910,6 +1083,62 @@
     tocLinks.forEach(function (a, k) { a.classList.toggle('on', k === cur); });
   }
 
+  /* ─────────── 右下角按需返回 ───────────
+     正文里发生跳转时才记一笔，供窄屏右下角的返回按钮使用：
+       · 本页跳转（目录 → 章节）→「返回」，回到跳转前的滚动位置
+       · 跨文件跳转（交叉引用）→「上一页」，回到来源文件及其滚动位置
+     从侧栏、搜索、面包屑或浏览器后退进入的页面不算跳转，记录随即清空。 */
+
+  var jumpStack = [];   // { path, top, label, sameDoc }
+  var navByRef = false; // 本次 route() 是否由正文跳转链接触发
+
+  function currentLabel() {
+    var f = state.byPath[state.current];
+    return f ? displayName(f) : (state.current || '首页');
+  }
+
+  function updateBackFab() {
+    var fab = $('backFab');
+    if (!fab) return;
+    var last = jumpStack[jumpStack.length - 1];
+    if (!last) { fab.hidden = true; return; }
+    var tip = last.sameDoc ? '返回跳转前的位置' : '返回上一页：' + last.label;
+    fab.hidden = false;
+    fab.textContent = last.sameDoc ? '返回' : '上一页';
+    fab.title = tip;
+    fab.setAttribute('aria-label', tip);
+  }
+
+  function pushJump(sameDoc) {
+    jumpStack.push({
+      path: state.current,
+      top: $('main').scrollTop,
+      label: currentLabel(),
+      sameDoc: !!sameDoc
+    });
+    if (jumpStack.length > 20) jumpStack.shift();
+    updateBackFab();
+  }
+
+  /* 已用行内「返回目录」或目录按钮回到原处，同文件的跳转记录就失效了 */
+  function dropSameDocJumps() {
+    while (jumpStack.length && jumpStack[jumpStack.length - 1].sameDoc) jumpStack.pop();
+    updateBackFab();
+  }
+
+  function popJump() {
+    var last = jumpStack.pop();
+    updateBackFab();
+    if (!last) return;
+    if (last.path === state.current) {
+      $('main').scrollTo({ top: last.top, behavior: 'smooth' });
+    } else {
+      state.scrolls[last.path] = last.top;
+      navByRef = true;   // 返回本身不应清空更早的跳转记录
+      go(last.path);
+    }
+  }
+
   /* ─────────── 路由 ─────────── */
 
   function go(path) {
@@ -920,6 +1149,9 @@
     /* 页内标题锚点不属于文件路由；避免旧目录链接把正文误判成文件路径。 */
     if (location.hash && location.hash.indexOf('#/') !== 0) return;
     $('contentsFab').hidden = true;
+    if (!navByRef) jumpStack.length = 0;
+    navByRef = false;
+    updateBackFab();
     if (state.current !== null) state.scrolls[state.current] = $('main').scrollTop;
     var raw = location.hash.replace(/^#\/?/, '');
     var path = '';
@@ -976,6 +1208,36 @@
     });
     $('scrim').addEventListener('click', closeNav);
 
+    $('backFab').addEventListener('click', popJump);
+
+    /* 正文里跳去其它资料前记下来源；委托绑定，交叉引用与显式链接都能覆盖。 */
+    // 点击视频封面 → 换成真正的播放器（带 autoplay，等同于直接点了播放）
+    $('content').addEventListener('click', function (e) {
+      var btn = e.target && e.target.closest ? e.target.closest('.video-poster') : null;
+      if (!btn) return;
+      var src = btn.getAttribute('data-player');
+      if (!src) return;
+      var frame = document.createElement('iframe');
+      frame.src = src + '&autoplay=1';
+      frame.title = btn.getAttribute('aria-label') || 'Bilibili 视频';
+      frame.setAttribute('scrolling', 'no');
+      frame.setAttribute('frameborder', '0');
+      frame.setAttribute('allow', 'autoplay; fullscreen; picture-in-picture');
+      frame.setAttribute('allowfullscreen', '');
+      btn.replaceWith(frame);
+    });
+
+    $('content').addEventListener('click', function (e) {
+      var el = e.target;
+      var a = el && el.closest ? el.closest('a[href^="#/"]') : null;
+      if (!a || !$('content').contains(a)) return;
+      var target = a.getAttribute('href').replace(/^#\//, '');
+      try { target = decodeURIComponent(target); } catch (_) {}
+      if (!target || target === state.current) return;
+      navByRef = true;
+      pushJump(false);
+    });
+
     var t;
     $('search').addEventListener('input', function (e) {
       clearTimeout(t);
@@ -1013,7 +1275,7 @@
 
     var offlineData = window.__BD_OFFLINE_DATA__;
     var startup = offlineData
-      ? Promise.resolve([offlineData.manifest, offlineData.videoMeta || {}])
+      ? Promise.resolve([offlineData.manifest, offlineData.videoMeta || {}, offlineData.episodeMeta || {}])
       : Promise.all([
           fetch('assets/manifest.json').then(function (r) {
             if (!r.ok) throw new Error('HTTP ' + r.status);
@@ -1021,12 +1283,16 @@
           }),
           fetch('assets/video-meta.json').then(function (r) {
             return r.ok ? r.json() : {};
+          }).catch(function () { return {}; }),
+          fetch('assets/episode-meta.json').then(function (r) {
+            return r.ok ? r.json() : {};
           }).catch(function () { return {}; })
         ]);
 
     startup.then(function (data) {
         var m = data[0];
         state.videoMeta = data[1];
+        state.episodeMeta = data[2] || {};
         state.manifest = m;
         buildIndex(m.tree, '');
         buildTree();

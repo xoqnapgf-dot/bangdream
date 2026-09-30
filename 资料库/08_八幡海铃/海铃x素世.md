@@ -1,5 +1,11 @@
 # 海铃 × 素世（海铃攻 × 素世受 / 海素）
 
+
+@[gallery]
+![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
+![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
+@[/gallery]
+
 > 双向成对文件：本文件为海铃攻向视角；素世攻向视角见《素世x海铃》（素海）。**官方素材极薄：两人无直接对话，本文件如实整理，不编造。**
 
 ## 〇、两人对照速查
@@ -59,7 +65,7 @@ MyGO!!!!!×Ave Mujica 联动活动全团认知场景——素世与海铃的间�
 - MyGO 剧本：12_It's_my_go.txt:402-418（素世在门内告别/海铃在门外接走）
 - Ave Mujica 总纲：187行（雇佣兵排练）、2.x 系列海铃照顾睦线
 - 库内：海铃人设（0 条素世记录，如实注明）
-- 联网：moegirl《长崎爽世》《八幡海铃》、NGA 百合部（「海素才是无人问津」原话）、Ave Mujica 百科词条
+- 联网：moegirl《长崎素世》《八幡海铃》、NGA 百合部（「海素才是无人问津」原话）、Ave Mujica 百科词条
 - 说明：无直接对话系依据 MyGO 13 话与 Ave Mujica 全部章节剧本的逐话核对（素世×海铃关键词无同场对话记录）。
 
 对齐账号：本文件为海素向（海铃视角）；对向文件为《素世x海铃》（素海向/素世视角），路径 04_长崎素世/素世x海铃.md。同海铃侧另见《睦x海铃》《初华x海铃》《海铃x立希》。

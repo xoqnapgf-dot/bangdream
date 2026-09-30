@@ -1,5 +1,8 @@
 # 丰川祥子 × 三角初华（祥初 / 祥子攻向）
 
+
+![初华从背后抱住祥子 · 渡轮之夜](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots-best/%5B%E7%84%A1%E8%A9%9E%5D%E5%88%9D%E8%8F%AF%E5%BE%9E%E5%BE%8C%E6%8A%B1%E8%91%97%E5%B0%8F%E7%A5%A5_1.jpg "初华从背后抱住祥子 · 渡轮之夜")
+
 > 幼驯染到同居。本文件为祥子攻向视角：把这对读成"祥子人生里唯一一个没敢回头看、却也没能走远的关系"。初华攻向见 `06_三角初华/初华x祥子.md`。
 
 ## 〇、两人对照速查

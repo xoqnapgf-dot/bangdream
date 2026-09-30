@@ -1,5 +1,8 @@
 # 灯 × 素世（灯攻 × 素世受 / ともそよ / 灯素）
 
+
+![素世走向长椅上的灯 · 第 13 话夜晚公园](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots-best/%E5%83%8F%E6%98%AF%E8%AC%9D%E8%AC%9D%E6%88%96%E8%AC%9D%E8%AC%9D%E9%82%84%E6%9C%89%E8%AC%9D%E8%AC%9D%E5%95%8A.jpg "素世走向长椅上的灯 · 第 13 话夜晚公园")
+
 > 双向成对文件：本文件为灯攻向视角（ともそよ，日文主流方向）；素世攻向视角见《素世x灯》（そよとも/素灯）。
 
 ## 〇、两人对照速查
@@ -81,6 +84,6 @@ CP线梳理灯素节定调：灯把真心捧出来（歌词直给、行动直给
 
 - MyGO 剧本：04_一辈子哦.txt:99-139、09_解散.txt:243-251、10_一直迷失着.txt:406-456/498/533、12_It's_my_go.txt:392-393、13_唯一能相信的只有自己.txt:77-114
 - 库内：灯人设57/65行（想要挽留的手）、素世人设第七节（×灯条）、CP线梳理灯素节 144-159
-- 联网：moegirl《长崎爽世》、nryx 维基、はてな mikanayuip 断案（2025-03-29）、Tumblr priscirat、nijiani.blog.jp
+- 联网：moegirl《长崎素世》、nryx 维基、はてな mikanayuip 断案（2025-03-29）、Tumblr priscirat、nijiani.blog.jp
 
 对齐账号：本文件为ともそよ（灯攻向）；对向文件为《素世x灯》（そよとも/素世攻向），路径 04_长崎素世/素世x灯.md。同灯侧另见《灯x祥子》《灯x爱音》《灯x立希》。

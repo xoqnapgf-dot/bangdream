@@ -1,5 +1,11 @@
 # 素世 × 若麦（素世攻 × 若麦受 / 素若）
 
+
+@[gallery]
+![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
+![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
+@[/gallery]
+
 > 双向成对文件：本文件为素世攻向视角；若麦攻向视角见《若麦x素世》。
 > **体量说明：本对官方素材极薄——素世与若麦正片零直接对话，人设侧若麦条目无素世记录。本文件如实整理，不编造。**
 
@@ -58,7 +64,7 @@ MyGO!!!!!×Ave Mujica 联动活动全团认知场景——素世与若麦的间�
 
 - Ave Mujica 总纲：2.9/2.10（若麦揭穿墨缇丝→素世搀扶墨缇丝回家，moegirl 素世条目转录）、261行（游戏活动全团认知）
 - 库内：若麦人设（0 条素世记录，如实注明）
-- 联网：moegirl《长崎爽世》、Animedia 2025-05 号成员介绍（微博转录）、Ave Mujica 百科词条
+- 联网：moegirl《长崎素世》、Animedia 2025-05 号成员介绍（微博转录）、Ave Mujica 百科词条
 - 说明：正片零直接对话系依据 MyGO 13 话与 Ave Mujica 全部章节剧本的逐话核对（素世×若麦/喵梦关键词无同场对话记录）。
 
 对齐账号：本文件为素若向（素世视角）；对向文件为《若麦x素世》，路径 09_祐天寺若麦/若麦x素世.md。同素世侧另见《素世x睦》（素若结构的共同底料）。

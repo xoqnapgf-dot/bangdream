@@ -1,5 +1,11 @@
 # 千早爱音 × 三角初华（初爱 / 头号粉丝线）
 
+
+@[gallery]
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
+@[/gallery]
+
 > sumimi 与 MyGO 的双主唱吉他组。这对的原作关系清晰得罕见：**爱音是初华的粉丝**（官方级设定），第13话天文馆外一段完整对手戏把"追星成功"拍成了官方糖。本文件为爱音攻向视角；初华攻向见 `06_三角初华/初华x爱音.md`。
 
 ## 〇、两人对照速查
@@ -22,9 +28,9 @@
 
 ## 二、原作糖点与关键节点（事实层）
 
-**MyGO 第1话 · 卡拉OK（00_剧情区/01_MyGO动画/MyGO第1话_七名 heraldic.txt 372-392行）**：爱音拉灯唱歌，"会唱sumimi的歌吗？""我来唱初华""你来唱真奈的部分吧""你不认识sumimi？"——爱音张口就唱**初华的部分**。她加入 MyGO 之前，sumimi 就在她的 K 歌榜上。这是粉丝关系在正片的第一次落地。
+**MyGO 第1话 · 卡拉OK（00_剧情区/01_MyGO动画/01_羽丘的不可思议女孩.txt 372-392行）**：爱音拉灯唱歌，"会唱sumimi的歌吗？""我来唱初华""你来唱真奈的部分吧""你不认识sumimi？"——爱音张口就唱**初华的部分**。她加入 MyGO 之前，sumimi 就在她的 K 歌榜上。这是粉丝关系在正片的第一次落地。
 
-**MyGO 第13话 · 天文馆外（MyGO第13话_唯一能相信的只有自己.txt 196-245行）**：全套追星现场——
+**MyGO 第13话 · 天文馆外（13_唯一能相信的只有自己.txt 196-245行）**：全套追星现场——
 - 爱音认出本人："啊！是sumimi的初华…！啊对不起 现在是私人时间吧"（粉丝的边界感）
 - 初华回应："你能认识sumimi 我很高兴哦"（偶像对粉丝的温柔）
 - 爱音背过身偷笑："好温柔 她人真的这么好啊""怎么办 好开心"

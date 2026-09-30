@@ -1,5 +1,11 @@
 # 初华 × 素世（初华攻 × 素世受 / 初素）
 
+
+@[gallery]
+![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
+![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
+@[/gallery]
+
 > 双向成对文件：本文件为初华攻向视角；素世攻向视角见《素世x初华》（素初）。**官方素材极薄：两人零直接对话，本文件如实整理，不编造。**
 
 ## 〇、两人对照速查
@@ -58,7 +64,7 @@ MyGO!!!!!×Ave Mujica 联动活动全团认知场景——素世与初华的间�
 
 - Ave Mujica 总纲：2.9/2.11 章节（素世拒绝祥子→初华侧接住的结构位）、261行（游戏活动全团认知）
 - 库内：初华人设（0 条素世记录，如实注明）
-- 联网：moegirl《长崎爽世》《三角初华》、Ave Mujica 百科词条
+- 联网：moegirl《长崎素世》《三角初华》、Ave Mujica 百科词条
 - 说明：零直接对话系依据 MyGO 13 话与 Ave Mujica 全部章节剧本的逐话核对（素世×初华关键词无同场对话记录）。
 
 对齐账号：本文件为初素向（初华视角）；对向文件为《素世x初华》（素初向/素世视角），路径 04_长崎素世/素世x初华.md。同初华侧另见《祥子x初华》《初华x海铃》《初华x若麦》。

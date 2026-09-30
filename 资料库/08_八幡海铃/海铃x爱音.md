@@ -1,5 +1,11 @@
 # 八幡海铃 × 千早爱音（海爱 / 恒定值的例外）
 
+
+@[gallery]
+![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+@[/gallery]
+
 > 兼职三十个乐队的贝斯手与唯一没跟上她节奏的吉他手。本文件为海铃攻向视角：一个对谁都恒定的人，例外会是什么样。爱音攻向见 `02_千早爱音/爱音x海铃.md`。
 
 ## 〇、两人对照速查
@@ -22,7 +28,7 @@
 
 ## 二、原作糖点与关键节点（事实层·海铃视角）
 
-**MyGO 第9话 · RiNG排练室（00_剧情区/01_MyGO动画/MyGO第9话 355-395行）**：
+**MyGO 第9话 · RiNG排练室（00_剧情区/01_MyGO动画/09_解散.txt 355-395行）**：
 - 她在 MyGO 第一次排练前试弹的是《碧天伴走》——这个乐队的歌她提前摸过了。兼职者的职业素养，在爱音耳朵里是另一种信号：她认真对待过我们。
 - 自我介绍流程极简："我大概兼职30来个乐队……只要提前一周联系我，我就可以尽量参加。""请多关照。"——海铃对爱音的付出是标准浓度。
 - 收拾离场时的评价"看来她还忘不掉前任的成员"与对灯的"我会为你加油的"——海铃当着爱音的面完成了一次对 MyGO 内情的精准判读，然后把祝福给灯、把背影给爱音。

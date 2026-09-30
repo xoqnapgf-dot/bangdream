@@ -1,5 +1,11 @@
 # 千早爱音 × 八幡海铃（爱海 / 节奏差）
 
+
+@[gallery]
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
+@[/gallery]
+
 > 全库节奏差最大的一对：一个需要观众，一个不需要任何人。原作只有一场自我介绍，社区连 CP 群都没有建——但正因如此，这对是爱音关系网里唯一"零张力"的样本。本文件为爱音攻向视角；海铃攻向见 `08_八幡海铃/海铃x爱音.md`。
 
 ## 〇、两人对照速查
@@ -22,7 +28,7 @@
 
 ## 二、原作糖点与关键节点（事实层）
 
-**MyGO 第9话 · RiNG排练室（00_剧情区/01_MyGO动画/MyGO第9话 355-395行）**：唯一同框——
+**MyGO 第9话 · RiNG排练室（00_剧情区/01_MyGO动画/09_解散.txt 355-395行）**：唯一同框——
 - 海铃在调音，试弹的是《碧天伴走》——爱音所在乐队的曲子。
 - 海铃自我介绍："我大概兼职30来个乐队……只要提前一周联系我，我就可以尽量参加。"
 - 爱音"那个 我是千早爱音""她是小灯"；海铃"请多关照"。

@@ -4,8 +4,6 @@
 
 ![《BanG Dream! Ave Mujica prima aurora》官方主视觉图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/index/img_kv_02.webp)
 
-### 官方主 PV（Bilibili）
-
 @[bilibili](BV1xtYC6UEwN "《BanG Dream! Ave Mujica prima aurora》官方主 PV")
 
 ---

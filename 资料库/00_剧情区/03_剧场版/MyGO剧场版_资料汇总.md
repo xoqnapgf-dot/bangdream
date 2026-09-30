@@ -26,7 +26,7 @@
 ### 官方角色图
 
 @[gallery]
-![高松燈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松燈 · Vo.")
+![高松灯官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松灯 · Vo.")
 ![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
 ![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
 ![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
@@ -111,15 +111,15 @@
 
 后篇的新增内容主要集中在以下段落：
 
-- 燈独自站上 RiNG 舞台进行诗朗诵/独演的过程得到延展，不再只是迅速通往《詩超絆》的过场。
-- RiNG 工作区增加凛凛子与工作人员谈论燈持续独自登台的场景，补足 live house 为她保留舞台空间的幕后视角。
-- 立希在乐队崩溃期无心作曲、躺在房间里的状态得到补写，使她后来重新响应燈的过程更连贯。
-- 燈、立希、乐奈三人登台的过程获得额外演出段落；观众解读多把它视作乐奈用吉他回应燈的声音，并与前篇“音乐使人找到居所”形成前后呼应。
+- 灯独自站上 RiNG 舞台进行诗朗诵/独演的过程得到延展，不再只是迅速通往《詩超絆》的过场。
+- RiNG 工作区增加凛凛子与工作人员谈论灯持续独自登台的场景，补足 live house 为她保留舞台空间的幕后视角。
+- 立希在乐队崩溃期无心作曲、躺在房间里的状态得到补写，使她后来重新响应灯的过程更连贯。
+- 灯、立希、乐奈三人登台的过程获得额外演出段落；观众解读多把它视作乐奈用吉他回应灯的声音，并与前篇“音乐使人找到居所”形成前后呼应。
 - 乐奈与诗船的家庭场景继续出现，前篇建立的乐奈线并未在后篇消失。
 
 ### 4.2 结尾重构
 
-TV 动画第 13 集把大量篇幅交给 Ave Mujica 的成立与首次演出，并以祥子的家庭线制造续作悬念。剧场版后篇则压低了这条预告性质的支线，把终点放回 MyGO!!!!! 本身：燈与爱音在水族馆再次回应“一辈子组乐队”的约定，随后进入片尾曲《歩拾道》。
+TV 动画第 13 集把大量篇幅交给 Ave Mujica 的成立与首次演出，并以祥子的家庭线制造续作悬念。剧场版后篇则压低了这条预告性质的支线，把终点放回 MyGO!!!!! 本身：灯与爱音在水族馆再次回应“一辈子组乐队”的约定，随后进入片尾曲《歩拾道》。
 
 因此，两种版本的事件基础相同，收束功能却不同：
 
@@ -176,7 +176,7 @@ Dolby Atmos 版本面向音乐平台；电影 Blu-ray 收录的是 Linear PCM 2.
 - 角色设计：信泽收、もちぷよ
 - 音乐：藤田淳平、藤间仁（Elements Garden）
 - 动画制作：SANZIGEN
-- 主要出演：羊宫妃那（高松燈）、立石凛（千早爱音）、青木阳菜（要乐奈）、小日向美香（长崎素世）、林鼓子（椎名立希）
+- 主要出演：羊宫妃那（高松灯）、立石凛（千早爱音）、青木阳菜（要乐奈）、小日向美香（长崎素世）、林鼓子（椎名立希）
 
 ---
 
@@ -188,11 +188,11 @@ Dolby Atmos 版本面向音乐平台；电影 Blu-ray 收录的是 Linear PCM 2.
 
 ### 6.2 乐奈线的补完
 
-TV 版让乐奈像猫一样来去，动机大多要从行动反推。前篇把 SPACE、诗船、吉他和“居所”连在一起后，她为何接近燈、为何留在 MyGO!!!!! 变得更清楚：她自己经历过失去居所，所以会被仍在寻找容身之所的人吸引。
+TV 版让乐奈像猫一样来去，动机大多要从行动反推。前篇把 SPACE、诗船、吉他和“居所”连在一起后，她为何接近灯、为何留在 MyGO!!!!! 变得更清楚：她自己经历过失去居所，所以会被仍在寻找容身之所的人吸引。
 
 ### 6.3 结尾重心不同
 
-TV 第 13 集还要引出《Ave Mujica》，电影则需要完成 MyGO!!!!! 前后篇自身的收束，因此重新把燈与爱音的“一辈子组乐队”放到最后。两版没有互相取代，只是强调的终点不同。
+TV 第 13 集还要引出《Ave Mujica》，电影则需要完成 MyGO!!!!! 前后篇自身的收束，因此重新把灯与爱音的“一辈子组乐队”放到最后。两版没有互相取代，只是强调的终点不同。
 
 ---
 

@@ -1,5 +1,11 @@
 # 三角初华 × 八幡海铃（初海 / 初华攻向）
 
+
+@[gallery]
+![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
+![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
+@[/gallery]
+
 > 花咲川同班前后桌，Ave Mujica 团员。本文件为初华攻向视角：素材整体偏薄，如实记录，不虚构磕点。海铃攻向见 `08_八幡海铃/海铃x初华.md`。
 
 ## 〇、两人对照速查

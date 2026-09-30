@@ -1,9 +1,21 @@
-# MyGO!!!!! 剧情对白（英文版）
+# MyGO!!!!! 乐队故事对白（英文版 · 手游 41 章）
 
-> MyGO!!!!! 剧情对白的英文文本，共 41 章，按章节和场景逐行收录人物对话。
-> 文本来源：BanG Dream! Wiki（bandori.miraheze.org）。
+这是《BanG Dream! 少女乐团派对！》（GBP）手游中 MyGO!!!!! 乐队故事的英文对白，共 41 章。在 BanG Dream! Wiki 上它的条目名是 **MyGO!!!!!/Band Story**，页内标注为 *It's MyGO!!!!! Event Story Chapter N*——即手游的活动剧情，动画在同一 Wiki 上是另一套 Episode 页面。
 
+剧情改编自电视动画的结成篇，章节标题因此与动画高度重合（Haneoka's Weirdo Girl、CRYCHIC、Haruhikage、It's My Go……），很容易被当成动画剧本。但两者是不同的文本：
 
+| 对照项 | 电视动画 | 本文（手游乐队故事） |
+| --- | --- | --- |
+| 分段 | 13 话 | 41 章 |
+| 对白量 | 4,506 句 | 2,442 句（约 54%） |
+| 第 10 话天文馆·灯与初华相遇 | 有 | 无 |
+| 三角初华登场 | 有 | 无（全文仅一次提及，是爱音在卡拉 OK 的玩笑） |
+| 第 13 话「祝你幸福」结尾 | 有 | 无——乐队故事在相当于第 12 话处收尾 |
+| 独白与场面指示 | 有 | 无，只有对白与场景名 |
+
+动画本身的中文剧本另存于 `00_剧情区/01_MyGO动画/`，例如[第 1 话《羽丘的不可思议女孩》](../01_MyGO动画/01_羽丘的不可思议女孩.txt)。
+
+> 按章节和场景逐行收录人物对话。文本来源：[BanG Dream! Wiki · MyGO!!!!!/Band Story](https://bandori.miraheze.org/wiki/It%27s_MyGO!!!!!/Event_Story)；人物原话以游戏内当前文本为准。
 ---
 
 ## Chapter 1：Returns - Cold Rain

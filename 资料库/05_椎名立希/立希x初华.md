@@ -1,5 +1,11 @@
 # 椎名立希 × 三角初华（たきはな / 希华）
 
+
+@[gallery]
+![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
+![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
+@[/gallery]
+
 > 花咲川 1-B 同班同学，前后桌关系。本文件为立希攻向视角：素材极薄但官方盖章存在感的一对——Mujica 12 话那罐递错的果汁，让"同班同学"第一次有了剧情重量。初华攻向见 `../06_三角初华/初华x立希.md`。
 
 ## 〇、两人对照速查

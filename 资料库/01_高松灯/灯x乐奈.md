@@ -1,5 +1,11 @@
 # 灯x乐奈（灯攻 × 乐奈受 / ともらな / 猫灯逆位）
 
+
+@[gallery]
+![高松灯官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松灯 · Vo.")
+![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
+@[/gallery]
+
 > 本文件为灯攻向（灯给出接纳与归处的构图为主线）。乐奈攻向视角见 `../03_要乐奈/乐奈x灯.md`。
 > 素材口径：事实层仅收录官方内容并标注话数；社区观点一律挂来源；无官方素材支撑的解读标注"推演"。
 

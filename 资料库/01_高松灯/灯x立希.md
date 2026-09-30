@@ -1,5 +1,11 @@
 # 高松灯 × 椎名立希（ともたき / 希灯）
 
+
+@[gallery]
+![高松灯官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松灯 · Vo.")
+![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
+@[/gallery]
+
 > CRYCHIC 唯二幸存者的六年。本文件为灯攻向视角：立希对灯而言是"把自己写成歌的人"，也是压得她喘不过气的重量——ともたき作为环境第一大热对的双向记录，这是灯的版本。立希攻向见 `../05_椎名立希/立希x灯.md`。
 
 ## 〇、两人对照速查

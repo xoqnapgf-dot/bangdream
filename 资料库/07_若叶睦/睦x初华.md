@@ -1,5 +1,11 @@
 # 若叶睦 × 三角初华（睦初 / 睦攻向）
 
+
+@[gallery]
+![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
+![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
+@[/gallery]
+
 > Ave Mujica 团内关系，天文馆外的正面交错。本文件为睦攻向视角：素材整体偏薄，如实记录，不虚构磕点。初华攻向见 `06_三角初华/初华x睦.md`。
 
 ## 〇、两人对照速查

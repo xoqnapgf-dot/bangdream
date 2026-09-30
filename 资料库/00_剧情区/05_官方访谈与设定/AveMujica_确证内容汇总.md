@@ -46,6 +46,8 @@ Ave Mujica 的“假面乐队”方案在企划中一度被搁置，后来重新
 
 ## 舞台世界与音乐
 
+@[bilibili](BV18LjB6eEYm "Ave Mujica《The Whole Blue World》官方 MV")
+
 ### 月、人偶与 Masquerade
 
 《It's MyGO!!!!!》第 13 话确立了 Ave Mujica 的舞台语汇：月光、齿轮、人偶、假面与舞台剧。祥子不仅负责键盘和作曲，也负责 Live 演出设计。成员以舞台名进入故事角色，再由歌曲接续舞台叙事。
@@ -86,7 +88,21 @@ Mortis 代表睦压倒性的表演才能，睦则保留脆弱、难以表达的�
 
 若麦同时是鼓手、视频创作者，并在电影时间点以演员身份活动。她会直接挑战祥子的决定，也最早把成员身份公开。监督并未把这种行动简单归为破坏乐队，而是把她写成始终考虑观众、粉丝与乐队生存方式的人；她与睦之间则由羡慕、嫉妒和爱憎交织，官方没有把两人的关系定性为恋爱。
 
+## 第 11 话独角戏的制作方式
+
+![Ave Mujica 第 11 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/03/11111859/%E2%91%A0-1-1024x576.png "Ave Mujica · 第 11 话「Te ustus amem.」官方场面图")
+
+第 11 话几乎整集是三角初音一个人的舞台，这段戏的形体表演不是常规做法。ED 名单里单列了一行「一人芝居：桐山桂奈」。
+
+动画制作人、SANZIGEN 社长松浦裕暁在该集播出当晚（2025 年 3 月 13 日）于 X 上说明了经过：独角戏请舞台剧演员桐山桂奈协助演出，称她把脚本理解得十分透彻、台词也全部到位，是位了不起的演员；表演在立川工作室用 **5 台摄影机**同时收录，再据此制作动画。他形容这对 SANZIGEN 而言也是一次颇具挑战、很受启发的制作方式。
+
+配音方面，佐佐木李子一人撑完近 20 分钟的独白。
+
+Ave Mujica 演奏场面的动作捕捉另有一套流程：乐曲完成后先拍演奏动捕，让角色在舞台上完整演奏一遍，再据此设计运镜；担任动捕的演员本身都是乐手，会先把曲子练到能弹下来再进现场。饰演初华演奏动作的那位从《BanG Dream! 2nd Season》起就一直参与。
+
 ## 2026 年音乐与现场
+
+@[bilibili](BV1sNdGYWEvv "《焚音打（Tanebi）》（Ave Mujica 第 13 话插曲）")
 
 Best Album《Ave Música》于 2026 年 6 月 17 日发售，收录 15 首歌曲，其中《The Whole Blue World》为新曲。电影插入曲《A Song Of Romance》于 9 月 14 日先行配信；9 月 24 日又上线 Lady Gaga 原曲《Abracadabra》的翻唱版。
 
@@ -124,6 +140,9 @@ Ave Mujica 7th LIVE「Virtus」定于 10 月 24—25 日在京王 Arena TOKYO �
 - BanG Dream! Project，持续更新：[Ave Mujica 官方艺人页、成员、音乐与演出信息](https://bang-dream.com/artist/avemujica/)
 - TV 动画官网，2025：[《BanG Dream! Ave Mujica》官方网站](https://anime.bang-dream.com/avemujica/)
 - Animate Times，2025-03-06：[柿本广大监督长篇访谈——第 9 话前的制作过程](https://www.animatetimes.com/news/details.php?id=1741242390)
+- ITmedia NEWS，2025-04-18：[柿本广大与松浦裕暁谈《Ave Mujica》的「彻底内制化」](https://www.itmedia.co.jp/news/article/2504/18/1250418111/4)
+- Wikipedia（英），持续更新：[BanG Dream! Ave Mujica · Production](https://en.wikipedia.org/wiki/BanG_Dream!_Ave_Mujica#Production)（第 11 话独角戏由舞台演员桐山桂奈协助、5 台摄影机收录）
+- アニメ！アニメ！，2025-03-13：[第 11 话「Te ustus amem.」剧情简介与先行卡](https://animeanime.jp/article/2025/03/13/89818.html)
 - Febri，2025-03-31：[柿本广大回顾《Ave Mujica》制作幕后①](https://febri.jp/topics/https-febri-jp-topics-topics-bang-dream_ave_mujica_1/)
 - Febri，2025-04-01：[柿本广大回顾《Ave Mujica》制作幕后②](https://febri.jp/topics/https-febri-jp-topics-topics-bang-dream_ave_mujica_2/)
 - Febri，2025-04-02：[柿本广大回顾《Ave Mujica》制作幕后③](https://febri.jp/topics/https-febri-jp-topics-topics-bang-dream_ave_mujica_3/)

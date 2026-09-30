@@ -1,5 +1,8 @@
 # 千早爱音 × 椎名立希（爱希 / 拌嘴冤家）
 
+
+![立希与爱音 · TV 动画场面截图](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E7%AB%8B%E5%B8%8C%E8%88%87%E6%84%9B%E9%9F%B3.jpg "立希与爱音 · TV 动画场面截图")
+
 > 同队节奏吉他手与鼓手。全团相处时间最长、争吵次数最多的两人；从入队第一天互瞪到最后一场演出后互相请客，是 MyGO!!!!! 里少有的"全程在场"关系。本文件为爱音攻向视角；立希攻向见 `05_椎名立希/立希x爱音.md`。
 
 ## 〇、两人对照速查

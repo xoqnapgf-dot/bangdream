@@ -1,5 +1,11 @@
 # 素世 × 海铃（素世攻 × 海铃受 / 素海）
 
+
+@[gallery]
+![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
+![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
+@[/gallery]
+
 > 双向成对文件：本文件为素世攻向视角；海铃攻向视角见《海铃x素世》（海素）。
 > **体量说明：本对官方素材极薄——素世与海铃无一句直接对话，人设侧海铃条目仅 1 条间接记载。本文件如实整理，不编造。**
 

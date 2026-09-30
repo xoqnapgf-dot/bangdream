@@ -1,5 +1,8 @@
 # 爱音 × 素世（爱音攻 × 素世受 / ansy）
 
+
+![素世与爱音 · TV 动画场面截图](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E7%88%BD%E4%B8%96%E4%B8%8D%E7%88%BD%E5%9C%B0%E7%9C%8B%E8%91%97%E6%84%9B%E9%9F%B3.jpg "素世与爱音 · TV 动画场面截图")
+
 > CP位：千早爱音（攻/左位） × 长崎素世（受/右位）
 > 主tag：ansy（中文圈主tag，默认攻受位）、AnonSoyo（日文圈）、アノソヨ（日文）
 > 反向tag：syan / 素爱（素世攻×爱音受）→ 详见《04_长崎素世/素世x爱音.md》
@@ -327,7 +330,6 @@ ansy向的关系推进是经典的"三道门"结构：
 - 《00_剧情区/01_MyGO动画/09~13_*.txt》（本文件台词出处）
 - 《00_剧情区/04_漫画游戏/MyGO剧情对白_英文版.md》（Ch36《Soyorin》）
 - 《00_剧情区/05_官方访谈与设定/MyGO_确证内容汇总.md》
-- 《00_剧情区/06_公式书FOOTPRINTS_勿动/FOOTPRINTS_公式书内容整理.md》（生日/身高/爱好/喜恶）
 - 《00_剧情区/07_CP线梳理/MyGO_CP线梳理.md》爱素节
 
 **社区（观点层，含争议原样呈现）**

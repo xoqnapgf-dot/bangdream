@@ -1,5 +1,11 @@
 # 三角初华 × 椎名立希（はなたき / 华希）
 
+
+@[gallery]
+![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
+![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
+@[/gallery]
+
 > 同班前后桌。本文件为初华攻向视角：Mujica 全员里唯一与立希共享教室的人——她记得立希喜欢的口味，并在最坏的时机把这份体贴递了出去。立希攻向见 `../05_椎名立希/立希x初华.md`。
 
 ## 〇、两人对照速查
