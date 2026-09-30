@@ -4,6 +4,21 @@
 
 本文合计 **10 期活动、76 章、4,706 行人物对白**。整期保留而不是只摘出 MyGO!!!!! 的台词，避免丢失混合活动中的问答对象和前后情境。
 
+## 目录
+
+- [Event 240：《与君相伴 息息相随》](#event-240-与君相伴-息息相随)
+- [Event 250：《渗入雨滴的颜色》](#event-250-渗入雨滴的颜色)
+- [Event 253：《SAKURA CiRCRiNG PARTY!》](#event-253-sakura-circring-party)
+- [Event 262：《Battle of R》](#event-262-battle-of-r)
+- [Event 271：《真白梦游仙境》](#event-271-真白梦游仙境)
+- [Event 277：《在咖啡飘香的窗边》](#event-277-在咖啡飘香的窗边)
+- [Event 286：《漂泊猫旅・序曲》](#event-286-漂泊猫旅-序曲)
+- [Event 289：《SPRING STARS ∞ SINGALONG!》](#event-289-spring-stars-singalong)
+- [Event 313：《传递给大家吧！KAWAII♡Happy Party!Part2♡》](#event-313-传递给大家吧-kawaii-happy-partypart2)
+- [Event 325：《All☆Stars CiRCRiNG Fes!》](#event-325-allstars-circring-fes)
+
+选择活动后会直接跳到对应正文；每期标题旁都有“返回目录”按钮，移动端右下角也会显示返回入口。
+
 | 年份 | 活动 ID | 国服活动名 | MyGO!!!!! 相关范围 | 章节 | 人物对白 |
 | ---: | ---: | --- | --- | ---: | ---: |
 | 2023 | 240 | 《与君相伴 息息相随》 | MyGO!!!!! 全员；立希、乐奈中心 | 7 | 453 |
