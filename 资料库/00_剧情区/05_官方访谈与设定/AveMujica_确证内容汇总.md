@@ -90,7 +90,7 @@ Mortis 代表睦压倒性的表演才能，睦则保留脆弱、难以表达的�
 
 ## 第 11 话独角戏的制作方式
 
-![Ave Mujica 第 11 话先行卡](https://animeanime.jp/imgs/zoom/753189.jpg "Ave Mujica · 第 11 话「Te ustus amem.」官方先行卡")
+![Ave Mujica 第 11 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/03/11111859/%E2%91%A0-1-1024x576.png "Ave Mujica · 第 11 话「Te ustus amem.」官方场面图")
 
 第 11 话几乎整集是三角初音一个人的舞台，这段戏的形体表演不是常规做法。ED 名单里单列了一行「一人芝居：桐山桂奈」。
 
