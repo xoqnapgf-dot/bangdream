@@ -41,7 +41,7 @@
 - [第 12 话 · 再出发：从赤脚到神](#第 12 话 · 再出发：从赤脚到神)
 - [第 13 话 · 终章：两场演出（Per aspera ad astra）](#第 13 话 · 终章：两场演出（Per aspera ad astra）)
 - [乐队设定：分工、面具与花语](#乐队设定：分工、面具与花语)
-- [剧场版《Ave Mujica prima aurora》后续剧情](#剧场版《Ave Mujica prima aurora》后续剧情)
+- [剧场版《Ave Mujica prima aurora》上映前情报（2026-10-16 上映）](#剧场版《Ave Mujica prima aurora》上映前情报（2026-10-16 上映）)
 - [游戏线剧情节点](#游戏线剧情节点)
 - [剧中台词摘录（附日文原文与出处）](#剧中台词摘录（附日文原文与出处）)
 - [各话标题](#各话标题)
@@ -340,11 +340,11 @@ Ave Mujica 那边，五人先像人偶一样摇晃着出场，灯光转红，《
 
 ---
 
-## 剧场版《Ave Mujica prima aurora》后续剧情
+## 剧场版《Ave Mujica prima aurora》上映前情报（2026-10-16 上映）
 
 @[bilibili](BV1xtYC6UEwN "剧场版「BanG Dream! Ave Mujica prima aurora」主 PV")
 
-> 来源：官方电影官网 avemujica-movie.bang-dream.com（introduction 页 / character 页）、官方预告片报道交叉核实。属官方确定/公开信息，非推测。
+> 本片尚未上映。以下为官方在上映前公开的情报，来源为官方电影官网 avemujica-movie.bang-dream.com（introduction 页 / character 页）与官方预告片报道交叉核实，属官方确定信息，非推测；正片剧情不在其中。
 
 - **片名与档期**：BanG Dream! Ave Mujica prima aurora；日本上映 2026 年 10 月 16 日；首支预告片 + 主视觉于 2026 年 7 月 30 日公开。
 - **定位**：不是总集篇、不是单纯 MV 剪辑，而是 Ave Mujica 动画的**剧情续作**，承接 2027 年 1 月的 MyGO/Ave Mujica 续篇 TV 动画，起桥接作用。
