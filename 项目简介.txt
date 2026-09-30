@@ -68,7 +68,8 @@
 - Hash 路由，可分享具体文件地址
 - 浏览器后退或前进时恢复离开前的阅读位置
 - 完整仓库可直接双击 `index.html` 离线阅读
-- 窄屏右下角按需出现浮动返回按钮（详见「四、5 页内跳转与返回按钮」）
+- 窄屏右下角按需出现浮动返回按钮（详见「四、6 页内跳转与返回按钮」）
+- 长篇转载可收进折叠区块，默认收起（详见「四、5 可折叠区块语法」）
 
 项目为纯静态网站，使用原生 HTML、CSS 和 JavaScript，不依赖前端框架，也不需要打包构建。
 
@@ -136,6 +137,19 @@ python3 -m http.server 8080 --bind 0.0.0.0
 
 渲染器只接受 BV 号，并生成 Bilibili 官方站外播放器。不要直接向资料正文加入任意 iframe。
 
+新增视频时必须同时在 `assets/video-meta.json` 里补一条记录，四个字段缺一不可：
+
+```json
+"BV1xxxxxxxxx": {
+  "aid": 447482327,
+  "cid": 1238132939,
+  "cover": "https://archive.biliimg.com/bfs/archive/<hash>.jpg",
+  "title": "视频标题"
+}
+```
+
+只写 BV 号而缺 `aid` / `cid` 时，站外播放器会解析失败——页面上表现为播放区域空白、封面也不出来，只剩下方的「在 B 站打开」链接可用。这几个字段取自 `https://api.bilibili.com/x/web-interface/view?bvid=BV号` 返回的 `data.aid`、`data.cid`、`data.pic`（`pic` 换成 `archive.biliimg.com` 域名以与既有记录一致）。该文件为手工维护，`tools/build_manifest.py` 只读取、不会自动抓取。
+
 ### 4. 图片画廊语法
 
 ```markdown
@@ -147,7 +161,19 @@ python3 -m http.server 8080 --bind 0.0.0.0
 
 画廊只接受 HTTPS 图片地址。剧场版页面优先使用电影官网和 BanG Dream! 官方网站提供的图片。
 
-### 5. 页内跳转与返回按钮
+配图要能确认画面里是谁。动画各话的场面图无法仅凭文件名判断人物，容易配错；涉及具体角色时优先用电影官网的角色立绘（`mygo-movie` 与 `avemujica-movie` 两站的 character 目录），它们与角色一一对应，不会认错。
+
+### 5. 可折叠区块语法
+
+```markdown
+@[details](展开原文)
+这里是默认收起的内容，支持完整 Markdown，可以嵌套。
+@[/details]
+```
+
+用于「概述在外、长篇原文收起」的场合，例如整段转载的外部讨论。默认收起，点击标题展开。转载他人长文时的推荐写法是：先用自己的话概述几条主要观点，给出原帖链接，再把原文放进折叠块——既不丢原文，也不会让转载内容淹没正文。
+
+### 6. 页内跳转与返回按钮
 
 正文里出现跳转时，窄屏（宽度 1180 像素以下，右侧大纲已隐藏）右下角会按需浮出返回按钮；没有跳转就不出现，不占版面。宽屏用右侧「本文大纲」即可，因此不显示。
 
@@ -166,7 +192,7 @@ python3 -m http.server 8080 --bind 0.0.0.0
 
 相关逻辑集中在 `assets/app.js` 的「右下角按需返回」一节，配合 `resolveHeadingLinks` 与 `resolveContentLinks`。新增或改写资料时只要使用上述两种写法，返回按钮会自动跟上，不需要在正文里加任何额外标记；如果今后引入其他形式的跳转，需要同步确认右下角返回按钮仍然可用。
 
-### 6. 提交前检查
+### 7. 提交前检查
 
 ```bash
 node --check assets/app.js
@@ -179,11 +205,13 @@ git diff --check
 - 首页和目录是否能够打开
 - 修改后的文件是否能正常读取
 - 图片画廊在桌面与手机宽度下是否正常
-- Bilibili 播放器是否能识别视频
+- Bilibili 播放器是否真的出画面：新增视频要确认 `assets/video-meta.json` 里 aid / cid / cover / title 齐全，缺 aid 或 cid 会只剩一块空白
+- 折叠区块是否默认收起、点击能展开
+- 配图里的人物是否与正文小节对得上
 - 普通来源链接是否可点击
 - 新增跳转的文件：窄屏下点跳转后，右下角「返回 / 上一页」是否出现并能回到原处
 
-### 7. GitHub Pages 与预览链接
+### 8. GitHub Pages 与预览链接
 
 GitHub Pages 从 `main` 分支根目录部署，合并后网站才会更新。
 
@@ -201,11 +229,11 @@ GitHub Pages 从 `main` 分支根目录部署，合并后网站才会更新。
 | 文件 | 用途 |
 | --- | --- |
 | `index.html` | 页面结构 |
-| `assets/style.css` | 页面样式、主题、移动端布局、画廊与播放器样式 |
-| `assets/app.js` | 目录、路由、搜索、Markdown 渲染、图片画廊、视频嵌入与按需返回按钮 |
+| `assets/style.css` | 页面样式、主题、移动端布局、画廊、折叠区块与播放器样式 |
+| `assets/app.js` | 目录、路由、搜索、Markdown 渲染、图片画廊、可折叠区块、视频嵌入与按需返回按钮 |
 | `assets/manifest.json` | 网站部署时使用的资料目录清单 |
 | `assets/offline-data.js` | 本地双击时使用的目录、正文与视频元数据 |
-| `assets/video-meta.json` | Bilibili 视频标题、封面等展示元数据 |
+| `assets/video-meta.json` | Bilibili 视频的 aid / cid / 封面 / 标题，手工维护 |
 | `tools/build_manifest.py` | Manifest、离线包、文件大纲及缓存版本生成脚本 |
 | `README.md` | 仓库首页简介 |
 | `项目简介.txt` | 项目说明、阅读与维护注意事项 |

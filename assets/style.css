@@ -402,6 +402,30 @@ html[data-theme="dark"] .ico-moon { display: block; }
 }
 .md .broken-ref { color: var(--tx-faint); border-bottom-style: dashed; cursor: help; }
 
+/* 可折叠区块（@[details]）：概述在外，长篇原文收起 */
+.md details.fold {
+  margin: 16px 0; overflow: hidden;
+  background: var(--bg-soft);
+  border: 1px solid var(--line); border-radius: var(--radius);
+}
+.md details.fold > summary {
+  display: flex; align-items: center; gap: 8px;
+  padding: 10px 14px; cursor: pointer; user-select: none;
+  font-size: 13.5px; font-weight: 620; color: var(--tx-dim);
+  list-style: none; transition: background .12s, color .12s;
+}
+.md details.fold > summary::-webkit-details-marker { display: none; }
+.md details.fold > summary::before {
+  content: "▶"; display: inline-block; flex: none;
+  font-size: 9px; color: var(--tx-faint);
+  transition: transform .16s ease;
+}
+.md details.fold[open] > summary::before { transform: rotate(90deg); }
+.md details.fold > summary:hover { color: var(--tx); background: var(--bg-sink); }
+.md details.fold[open] > summary { border-bottom: 1px solid var(--line); }
+.md .fold-body { padding: 4px 16px 14px; background: var(--bg); }
+.md .fold-body > :first-child { margin-top: 12px; }
+
 .md strong { font-weight: 680; color: var(--tx); }
 .md em { font-style: normal; color: var(--accent-2); font-weight: 560; }
 

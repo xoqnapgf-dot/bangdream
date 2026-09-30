@@ -219,6 +219,29 @@
         continue;
       }
 
+      // 可折叠区块：@[details](摘要标题) … @[/details]
+      // 用于「概述 + 长篇原文折叠」，默认收起，避免大段转载淹没正文。
+      // 内部内容递归走同一套 Markdown 渲染，支持嵌套。
+      var fold = /^@\[(?:details|折叠)\]\(([^)]*)\)\s*$/.exec(line);
+      if (fold) {
+        var foldTitle = fold[1].trim() || '展开全文';
+        var foldBuf = [], foldDepth = 1;
+        i++;
+        while (i < lines.length) {
+          var foldLine = lines[i].trim();
+          if (/^@\[(?:details|折叠)\]\(/.test(foldLine)) foldDepth++;
+          else if (/^@\[\/(?:details|折叠)\]$/.test(foldLine)) {
+            foldDepth--;
+            if (!foldDepth) break;
+          }
+          foldBuf.push(lines[i]); i++;
+        }
+        if (i < lines.length) i++;
+        out.push('<details class="fold"><summary>' + esc(foldTitle) + '</summary>' +
+          '<div class="fold-body">' + renderMarkdown(foldBuf.join('\n')) + '</div></details>');
+        continue;
+      }
+
       // 图片画廊：围栏内只接受 HTTPS Markdown 图片，避免注入任意 HTML。
       if (/^@\[gallery\]\s*$/.test(line)) {
         var gallery = [];
