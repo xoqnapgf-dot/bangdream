@@ -236,7 +236,7 @@ Ave Mujica 全国巡演（Continuatio Festi）的第一站，睦赶到现场时�
 
 ## 第 6 话 · 唤醒之路：乐奈的吉他与 MyGO 的介入（Animum reges.）
 
-![Ave Mujica 第 6 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/02/04100457/%E2%91%A1%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B9-01.00_04_18_16.%E9%9D%99%E6%AD%A2%E7%94%BB022-1024x576.png "Ave Mujica · 第 6 话官方场面图")
+![Ave Mujica 第 6 话公开场面图](https://img2.animatetimes.com/2025/02/998b0daf5463c02aeb2aac7df41d4ffc67a1b20dd73e50_74529874_ce3caf9f26d76adc1e4aa32db2f6e0018ecd2200.jpg "Ave Mujica · 第 6 话公开场面图（Animate Times）")
 
 第三天，素世带着墨缇丝前往 RiNG，遇上刚结束排练的 MyGO!!!!!。爱音一开始仍把她当成睦，兴奋地说真人好可爱；墨缇丝像戒备的猫一样躲到素世身后。乐奈却直接说：「睡着了。里面有两个人。」墨缇丝追问她是否知道小睦，乐奈只答「在」，随后为了赶去 SPACE 的猫集会转身离开。墨缇丝抱着吉他一路追了过去。
 
@@ -727,6 +727,7 @@ Oblivionis 持剑现身，先为 Timoris 与 Amoris 行授剑礼，却告诉 Dol
 - [日文五十音练习所 · Ave Mujica 经典台词](https://www.japanese50sounds.com/anime/ave-mujica/) —— 台词的说话人、话数与日文原文
 - [phillychi3/MyGo-Meme @ b64d3f8](https://github.com/phillychi3/MyGo-Meme/tree/b64d3f880a7f725469b9d31fb19dd6f6906b5e1d/static/ave) —— 带时间戳的逐帧 OCR 字幕，第 1–9 话共 8,164 条；OCR 误识别只作定位线索，不单独作为定稿依据
 - [Furinaaa-Cancan/mygo-mujica-archive @ d3074c0](https://github.com/Furinaaa-Cancan/mygo-mujica-archive/tree/d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica) —— 场景截图与素材索引；正文中的第 7、12 话截图固定到此版本
+- [Animate Times · 第 6 话场面写真](https://www.animatetimes.com/news/details.php?id=1738649936) —— 官网已删除的第 6 话第二张图片改用该报道转载的公开场面图
 - [剧场版官网 Introduction](https://avemujica-movie.bang-dream.com/introduction/)与[角色页](https://avemujica-movie.bang-dream.com/character/) —— 仅用于“上映前情报”，不以预告画面推断尚未公开的正片情节
 
 ### 逐话场景记录／二次核对素材
