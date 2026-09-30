@@ -1,8 +1,23 @@
 # Ave Mujica 社区解析——CP线梳理
 
-> Ave Mujica内部CP + 跨团CP（含AveMujica角色侧）
-> 来源：NGA、百合会、B站、贴吧、豆瓣、小红书及官方访谈（柿本广大/绫奈由仁子）
-> 标注：【主流解读】= 多人共识或有访谈依据；【推测】= 个人猜测或延伸推理；官方确认部分单独标注。
+> 更新至 2026 年 9 月 30 日
+> 来源：NGA、百合会、B站、贴吧、豆瓣、小红书及主创访谈
+
+@[gallery]
+![Ave Mujica TV 动画主视觉](https://anime.bang-dream.com/avemujica/wordpress/wp-content/themes/avemujica_0102/assets/images/common/index/img_hero.png "Ave Mujica · TV 动画官方主视觉")
+![Ave Mujica Visual Change](https://anime.bang-dream.com/avemujica/wordpress/wp-content/themes/avemujica_0102/assets/images/common/index/img_hero_3.jpg "Ave Mujica · TV 动画 Visual Change")
+@[/gallery]
+
+@[bilibili](BV1xtYC6UEwN "电影《BanG Dream! Ave Mujica prima aurora》官方主 PV")
+
+## 站内关联资料
+
+- [Ave Mujica 官方访谈与设定汇总](../05_官方访谈与设定/AveMujica_确证内容汇总.md)
+- [Ave Mujica 动画剧情总纲](../02_AveMujica动画/AveMujica_剧情总纲_整合版.md)
+- [Ave Mujica 漫画与游戏剧情汇总](../04_漫画游戏/AveMujica漫画游戏情节汇总.md)
+- [Ave Mujica 社区解析与推测](../06_社区解析_推测/AveMujica_分析推测汇总.md)
+- [三角初华人设汇总](../../06_三角初华/人设汇总_三角初华.md) · [丰川祥子人设汇总](../../10_丰川祥子/人设汇总_丰川祥子.md)
+- [若叶睦人设汇总](../../07_若叶睦/人设汇总_若叶睦.md) · [祐天寺若麦人设汇总](../../09_祐天寺若麦/人设汇总_祐天寺若麦.md)
 
 ---
 
@@ -22,7 +37,6 @@
 
 > Lofter投稿量：爱灯8532＞海铃立希8371＞素睦8276。P站投稿量：海铃立希1623＞素睦938＞爱灯898。爱素主tag是ansy参与量3w；爱祥9744参与，素祥9188参与。（Sky，2025-08-04）
 
-> 说明：讨论热度为社区讨论量与传播度综合判断（NGA/贴吧/B站/百合会）。初祥因贯穿主线+官方访谈背书居首；喵睦、祥睦均有官方定调或名场面支撑；海睦属小众但有原作场景支撑的关系线。
 
 ---
 
@@ -262,10 +276,6 @@ P站投稿量938，Lofter投稿量8276。（Sky，2025-08-04）
 
 ---
 
-> ⚠️ 标注说明：【主流解读】= 多人共识或有访谈依据；【推测】= 个人猜测或延伸推理；"确证"标注 = 官方访谈/原作剧情/官网可确认的事实。
-
----
-
 ## 来源索引
 
 | 标题 | 作者 | 时间 | 平台 |
@@ -289,7 +299,7 @@ P站投稿量938，Lofter投稿量8276。（Sky，2025-08-04）
 | 明白的告诉睦祥uu为什么睦祥不是mujica cp | 贴吧 | 2025-07-23 | 贴吧 |
 | 预测一波后期喵祥必火 | 贴吧 | 2025-01-04 | 贴吧 |
 | 睦厨看Mujica真的好难受啊 | 贴吧 | 2025-08-29 | 贴吧 |
-| 剧情总纲（Ave Mujica 分话剧情整理） | 社区整理 | — | 多平台 |
-| 确证汇总（第二章） | 社区整理 | — | 多平台 |
-| 祥子人设汇总（第十章） | 社区整理 | — | 多平台 |
-| 若麦人设汇总（第十一章） | 社区整理 | — | 多平台 |
+| [Ave Mujica 动画剧情总纲](../02_AveMujica动画/AveMujica_剧情总纲_整合版.md) | 社区整理 | — | 站内资料 |
+| [Ave Mujica 官方访谈与设定汇总](../05_官方访谈与设定/AveMujica_确证内容汇总.md) | 官方资料整理 | — | 站内资料 |
+| [丰川祥子人设汇总](../../10_丰川祥子/人设汇总_丰川祥子.md) | 社区整理 | — | 站内资料 |
+| [祐天寺若麦人设汇总](../../09_祐天寺若麦/人设汇总_祐天寺若麦.md) | 社区整理 | — | 站内资料 |

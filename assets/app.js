@@ -14,6 +14,8 @@
     byPath: {},       // path -> node
     dirByPath: {},    // path -> dir node
     cache: {},        // path -> 文本内容
+    videoMeta: {},    // BVID -> 播放所需 aid / cid / 封面
+    scrolls: {},      // path -> 主阅读区滚动位置
     current: null
   };
 
@@ -22,14 +24,15 @@
     '高松灯': '#77BBDD', '千早爱音': '#FF8899', '要乐奈': '#77DD77',
     '长崎素世': '#FFDD88', '椎名立希': '#7777AA', '三角初华': '#BB9955',
     '若叶睦': '#779977', '八幡海铃': '#335566', '祐天寺若麦': '#AA4477',
-    '丰川祥子': '#7799CC'
+    '丰川祥子': '#7799CC', '纯田真奈': '#D6A84B'
   };
   var BAND = {
     '高松灯': 'MyGO!!!!! · 主唱', '千早爱音': 'MyGO!!!!! · 节奏吉他',
     '要乐奈': 'MyGO!!!!! · 主音吉他', '长崎素世': 'MyGO!!!!! · 贝斯',
     '椎名立希': 'MyGO!!!!! · 鼓 / 作曲', '三角初华': 'Ave Mujica · 主唱兼吉他',
     '若叶睦': 'Ave Mujica · 节奏吉他', '八幡海铃': 'Ave Mujica · 贝斯',
-    '祐天寺若麦': 'Ave Mujica · 鼓', '丰川祥子': 'Ave Mujica · 键盘 / 作曲'
+    '祐天寺若麦': 'Ave Mujica · 鼓', '丰川祥子': 'Ave Mujica · 键盘 / 作曲',
+    '纯田真奈': 'sumimi · 主唱'
   };
 
   function colorFor(name) {
@@ -63,6 +66,10 @@
     return n.replace(/\.(md|txt)$/i, '').replace(/^\d{2}_/, '');
   }
 
+  function displayDirName(name) {
+    return name.replace(/^\d+_/, '').replace(/^次要角色_/, '');
+  }
+
   /* MyGO 动画剧本用文件名前缀表示集数；展示时明确写成“第 X 集”，
      但不改动资料库里的原始文件名和正文。 */
   function displayName(file) {
@@ -70,6 +77,9 @@
     var path = typeof file === 'string' ? '' : (file.path || '');
     var m = /^00_剧情区\/01_MyGO动画\/(\d{2})_(.+)\.(md|txt)$/i.exec(path);
     if (m) return '第' + m[1] + '集 · ' + m[2];
+    if (path === '00_剧情区/04_漫画游戏/MyGO剧情对白_英文版.md') {
+      return 'MyGO!!!!! 剧情对白（英文版）';
+    }
     return prettyName(name);
   }
 
@@ -79,21 +89,40 @@
     txt:  '<svg class="fico" viewBox="0 0 24 24"><path d="M14 3H7a2 2 0 00-2 2v14a2 2 0 002 2h10a2 2 0 002-2V8z"/><path d="M14 3v5h5"/><path d="M9 13h6M9 16.5h4"/></svg>',
     chev: '<svg class="chev" viewBox="0 0 24 24"><path d="M9 6l6 6-6 6"/></svg>',
     lock: '<svg class="lock" viewBox="0 0 24 24"><rect x="5" y="11" width="14" height="9" rx="2"/>' +
-          '<path d="M8 11V7.5a4 4 0 018 0V11"/></svg>'
+          '<path d="M8 11V7.5a4 4 0 018 0V11"/></svg>',
+    halfLock: '<svg class="lock half-lock" viewBox="0 0 24 24"><rect x="5" y="11" width="14" height="9" rx="2"/>' +
+              '<path d="M9 11V8a4 4 0 017.7-1.5"/></svg>'
   };
   function fileIcon(ext) { return ext === 'txt' ? SVG.txt : SVG.md; }
 
-  /* 受保护目录：官方原始资料，目录栏加一枚小锁作为视觉提示。
-     只是提示「这是原始资料、不要随意改动」，不影响点击和阅读。 */
+  /* 目录状态标记：原始资料显示小锁，仍会随新资料更新的目录显示半锁。
+     两种图标都只作提示，不影响点击和阅读。 */
   var PROTECTED_DIRS = [
     '00_剧情区/01_MyGO动画',
     '00_剧情区/02_AveMujica动画',
     '00_剧情区/05_官方访谈与设定'
   ];
+  var CURATED_PROTECTED_DIRS = [
+    '00_剧情区/06_社区解析_推测'
+  ];
   var PROTECTED_HINT = '原始资料 · 请勿随意修改';
+  var CURATED_PROTECTED_HINT = '社区解析资料 · 请谨慎修改';
+  var PARTIAL_PROTECTED_DIRS = [
+    '00_剧情区/03_剧场版',
+    '00_剧情区/04_漫画游戏'
+  ];
+  var PARTIAL_PROTECTED_HINT = '阶段性整理 · 内容将随新资料继续更新';
 
   function isProtectedDir(path) {
     return PROTECTED_DIRS.indexOf(path) >= 0;
+  }
+
+  function isCuratedProtectedDir(path) {
+    return CURATED_PROTECTED_DIRS.indexOf(path) >= 0;
+  }
+
+  function isPartialProtectedDir(path) {
+    return PARTIAL_PROTECTED_DIRS.indexOf(path) >= 0;
   }
 
   /* ─────────── Markdown 渲染 ─────────── */
@@ -190,6 +219,54 @@
         continue;
       }
 
+      // 图片画廊：围栏内只接受 HTTPS Markdown 图片，避免注入任意 HTML。
+      if (/^@\[gallery\]\s*$/.test(line)) {
+        var gallery = [];
+        i++;
+        while (i < lines.length && !/^@\[\/gallery\]\s*$/.test(lines[i].trim())) {
+          var galleryImage = /^!\[([^\]]*)\]\((https:\/\/[^\s)]+)(?:\s+"([^"]+)")?\)\s*$/.exec(lines[i].trim());
+          if (galleryImage) {
+            gallery.push({
+              alt: galleryImage[1],
+              src: galleryImage[2],
+              caption: galleryImage[3] || galleryImage[1]
+            });
+          }
+          i++;
+        }
+        if (i < lines.length) i++;
+        if (gallery.length) {
+          out.push('<div class="image-gallery">' + gallery.map(function (image) {
+            return '<figure class="media-card"><img src="' + esc(image.src) + '" alt="' +
+              esc(image.alt) + '" loading="lazy"><figcaption>' + esc(image.caption) +
+              '</figcaption></figure>';
+          }).join('') + '</div>');
+        }
+        continue;
+      }
+
+      // Bilibili 视频：@[bilibili](BV号 "标题")
+      // 只接受 BV 号，避免把任意 HTML / iframe 注入资料正文。
+      var bili = /^@\[(?:bilibili|哔哩哔哩)\]\((BV[0-9A-Za-z]+)(?:\s+"([^"]+)")?\)\s*$/.exec(line);
+      if (bili) {
+        var bvid = bili[1];
+        var meta = state.videoMeta[bvid] || {};
+        var videoTitle = bili[2] || meta.title || 'Bilibili 视频';
+        var playerParams = ['isOutside=true', 'bvid=' + encodeURIComponent(bvid), 'p=1',
+          'autoplay=0', 'high_quality=1', 'danmaku=0'];
+        // aid/cid 直接定位首个分 P，避免外链播放器仅凭 BV 号解析失败。
+        if (meta.aid) playerParams.push('aid=' + encodeURIComponent(meta.aid));
+        if (meta.cid) playerParams.push('cid=' + encodeURIComponent(meta.cid));
+        out.push('<figure class="video-embed">' +
+          '<iframe src="https://player.bilibili.com/player.html?' + playerParams.join('&amp;') +
+          '" title="' + esc(videoTitle) + '" loading="lazy" scrolling="no" frameborder="0" ' +
+          'allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>' +
+          '<figcaption><a href="https://www.bilibili.com/video/' + encodeURIComponent(bvid) +
+          '/" target="_blank" rel="noopener">' + esc(videoTitle) + ' · 在 B 站打开</a>' +
+          '</figcaption></figure>');
+        i++; continue;
+      }
+
       // 标题
       var h = /^(#{1,6})\s+(.*)$/.exec(line);
       if (h) {
@@ -250,7 +327,7 @@
       // 段落
       var p = [];
       while (i < lines.length && lines[i].trim() &&
-             !/^(#{1,6}\s|\s*>|\s*([-*+]|\d+[.)])\s|\s*(```|~~~))/.test(lines[i]) &&
+             !/^(#{1,6}\s|\s*>|\s*([-*+]|\d+[.)])\s|\s*(```|~~~)|@\[(?:bilibili|哔哩哔哩)\]\(|@\[gallery\]\s*$)/.test(lines[i]) &&
              !/^\s*([-*_])\s*(\1\s*){2,}$/.test(lines[i])) {
         p.push(lines[i].trim()); i++;
       }
@@ -272,7 +349,7 @@
     (node.children || []).forEach(function (c) { buildIndex(c, node.path); });
   }
 
-  /* 把内容里提到的文件路径变成可点链接 */
+  /* 把正文中的资料文件名和裸 URL 变成可点链接。 */
   function linkifyRefs(container) {
     var baseMap = {};
     state.index.forEach(function (f) {
@@ -297,13 +374,132 @@
         el.replaceWith(a);
       }
     });
+
+    var names = Object.keys(baseMap).filter(function (name) {
+      return /\.(?:md|txt)$/i.test(name);
+    }).sort(function (a, b) { return b.length - a.length; });
+    var escapeRe = function (s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); };
+    var filePart = names.map(escapeRe).join('|');
+    var plainRef = new RegExp('https?:\\/\\/[^\\s<>"”）)\\]}，。；、]+|' + filePart, 'g');
+    var walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT);
+    var textNodes = [];
+    while (walker.nextNode()) {
+      var parent = walker.currentNode.parentElement;
+      if (!parent || parent.closest('a, code, pre, script, style')) continue;
+      if (plainRef.test(walker.currentNode.nodeValue)) textNodes.push(walker.currentNode);
+      plainRef.lastIndex = 0;
+    }
+    textNodes.forEach(function (node) {
+      var text = node.nodeValue;
+      var frag = document.createDocumentFragment();
+      var last = 0;
+      text.replace(plainRef, function (match, offset) {
+        frag.appendChild(document.createTextNode(text.slice(last, offset)));
+        var a = document.createElement('a');
+        a.textContent = match;
+        if (/^https?:\/\//i.test(match)) {
+          a.href = match;
+          a.target = '_blank';
+          a.rel = 'noopener';
+        } else {
+          a.href = '#/' + baseMap[match];
+          a.className = 'ref-link';
+        }
+        frag.appendChild(a);
+        last = offset + match.length;
+        return match;
+      });
+      frag.appendChild(document.createTextNode(text.slice(last)));
+      node.replaceWith(frag);
+      plainRef.lastIndex = 0;
+    });
+  }
+
+  function normalizeRelativePath(baseFile, href) {
+    var raw = href.split('#')[0].split('?')[0];
+    try { raw = decodeURIComponent(raw); } catch (_) {}
+    if (raw.indexOf('资料库/') === 0) return raw.slice('资料库/'.length);
+    var parts = baseFile.split('/');
+    parts.pop();
+    raw.split('/').forEach(function (part) {
+      if (!part || part === '.') return;
+      if (part === '..') parts.pop();
+      else parts.push(part);
+    });
+    return parts.join('/');
+  }
+
+  function repositoryFilePath(href) {
+    if (!/^https?:\/\//i.test(href)) return '';
+    var url;
+    try { url = new URL(href); } catch (_) { return ''; }
+    var path = url.pathname;
+    try { path = decodeURIComponent(path); } catch (_) {}
+    var marker = '/资料库/';
+    var at = path.indexOf(marker);
+    if (at < 0) return '';
+    var target = path.slice(at + marker.length);
+    return /\.(?:md|txt)$/i.test(target) ? target : '';
+  }
+
+  /* 库内资料一律走站内路由；即使旧正文留下 GitHub Raw 地址，也不离开当前网站。 */
+  function resolveContentLinks(container, currentPath) {
+    container.querySelectorAll('a[href]').forEach(function (a) {
+      var href = a.getAttribute('href') || '';
+      if (!href || /^(?:mailto:|#\/|\/\/)/i.test(href)) return;
+      if (href.charAt(0) === '#') return;
+      var target = repositoryFilePath(href);
+      if (!target && !/^https?:\/\//i.test(href)) target = normalizeRelativePath(currentPath, href);
+      if (!target) return;
+      if (state.byPath[target]) {
+        a.href = '#/' + target;
+        a.removeAttribute('target');
+        a.removeAttribute('rel');
+        a.classList.add('ref-link');
+      } else if (!/^https?:\/\//i.test(href)) {
+        a.removeAttribute('href');
+        a.classList.add('broken-ref');
+        a.title = '资料库中未找到目标文件：' + target;
+      }
+    });
+  }
+
+  function guardImages(container) {
+    container.querySelectorAll('img').forEach(function (img) {
+      img.addEventListener('error', function () {
+        if (img.dataset.failed) return;
+        img.dataset.failed = '1';
+        var a = document.createElement('a');
+        a.className = 'media-fallback';
+        a.href = img.src;
+        a.target = '_blank';
+        a.rel = 'noopener';
+        a.textContent = '配图暂时无法载入，点击打开原图';
+        img.replaceWith(a);
+      });
+    });
   }
 
   /* ─────────── 侧栏树 ─────────── */
 
+  /* 总览文件固定排在同级文件最前面；只调整展示顺序，不移动原文件。 */
+  var PINNED_FILES = [
+    '00_剧情区/04_漫画游戏/MyGO_漫画游戏情节汇总.md',
+    '00_剧情区/05_官方访谈与设定/MyGO_确证内容汇总.md',
+    '00_剧情区/06_社区解析_推测/MyGO_分析推测汇总.md',
+    '00_剧情区/07_CP线梳理/MyGO_CP线梳理.md'
+  ];
+  function pinRank(node) {
+    if (node.type !== 'file') return 1;
+    if (/^人设汇总/.test(node.name)) return 0;
+    return PINNED_FILES.indexOf(node.path) >= 0 ? 0 : 1;
+  }
+
   // 前端再次按目录 / 文件名中的数字排序，避免清单来源变化后集数乱序。
   function compareNodes(a, b) {
     if (a.type !== b.type) return a.type === 'dir' ? -1 : 1;
+    var ap = pinRank(a), bp = pinRank(b);
+    if (ap !== bp) return ap - bp;
     var am = /^(\d+)/.exec(a.name), bm = /^(\d+)/.exec(b.name);
     if (am && bm && +am[1] !== +bm[1]) return +am[1] - +bm[1];
     if (am && !bm) return -1;
@@ -334,15 +530,21 @@
 
     if (node.type === 'dir') {
       var n = countFiles(node);
-      var locked = isProtectedDir(node.path);
+      var originalLocked = isProtectedDir(node.path);
+      var curatedLocked = isCuratedProtectedDir(node.path);
+      var locked = originalLocked || curatedLocked;
+      var partialLocked = isPartialProtectedDir(node.path);
+      var lockHint = originalLocked ? PROTECTED_HINT :
+        (curatedLocked ? CURATED_PROTECTED_HINT : (partialLocked ? PARTIAL_PROTECTED_HINT : ''));
+      var lockIcon = locked ? SVG.lock : SVG.halfLock;
       row.innerHTML = SVG.chev + SVG.dir +
         '<span class="label">' + esc(node.name) + '</span>' +
-        (locked ? '<span class="lock-wrap" title="' + PROTECTED_HINT + '" aria-label="' +
-                  PROTECTED_HINT + '">' + SVG.lock + '</span>' : '') +
+        (lockHint ? '<span class="lock-wrap" title="' + lockHint + '" aria-label="' +
+                    lockHint + '">' + lockIcon + '</span>' : '') +
         '<span class="count">' + n + '</span>';
-      if (locked) {
-        row.classList.add('locked');
-        row.title = node.name + ' — ' + PROTECTED_HINT;
+      if (lockHint) {
+        row.classList.add(locked ? 'locked' : 'partially-locked');
+        row.title = node.name + ' — ' + lockHint;
       }
       var kids = document.createElement('div');
       kids.className = 'children';
@@ -382,7 +584,9 @@
       r.classList.remove('active');
     });
     if (!path) return;
-    var row = document.querySelector('.row[data-path="' + CSS.escape(path) + '"]');
+    var row = Array.prototype.find.call(document.querySelectorAll('.row[data-path]'), function (el) {
+      return el.dataset.path === path;
+    });
     if (!row) return;
     row.classList.add('active');
     var p = row.closest('.node');
@@ -449,7 +653,9 @@
     var el = $('crumb');
     var html = '<a href="#/">' + esc(LIB) + '</a>';
     if (path) {
-      var parts = path.split('/'), acc = [];
+      var crumbPath = path === '00_剧情区/04_漫画游戏/MyGO剧情对白_英文版.md'
+        ? '00_剧情区/01_MyGO动画/MyGO剧情对白_英文版.md' : path;
+      var parts = crumbPath.split('/'), acc = [];
       parts.forEach(function (p, k) {
         acc.push(p);
         var last = k === parts.length - 1;
@@ -463,10 +669,18 @@
     el.innerHTML = html;
   }
 
+  function restoreScroll(path) {
+    var key = path || '';
+    var top = Object.prototype.hasOwnProperty.call(state.scrolls, key) ? state.scrolls[key] : 0;
+    requestAnimationFrame(function () {
+      if (state.current === key) $('main').scrollTop = top;
+    });
+  }
+
   /* ─────────── 视图：首页 ─────────── */
 
   function viewHome() {
-    crumb('', state.manifest.generated + ' 生成');
+    crumb('', '北京时间 ' + state.manifest.generated + ' 生成');
     var s = state.manifest.stats;
     var kids = state.manifest.tree.children || [];
     var dirs = kids.filter(function (c) { return c.type === 'dir'; });
@@ -483,7 +697,7 @@
       '<div class="stat"><b>' + s.files + '</b><span>个文件</span></div>' +
       '<div class="stat"><b>' + s.dirs + '</b><span>个目录</span></div>' +
       '<div class="stat"><b>' + (s.bytes / 1048576).toFixed(1) + '</b><span>MB 文本</span></div>' +
-      '<div class="stat"><b>10</b><span>位角色</span></div>' +
+      '<div class="stat"><b>' + chars.length + '</b><span>位角色</span></div>' +
       '</div>';
 
     function cards(list) {
@@ -492,7 +706,7 @@
         var role = roleFor(d.name);
         return '<a class="card" href="#/' + esc(d.path) + '"' +
           (c ? ' style="--cc:' + c + '"' : '') + '>' +
-          '<span class="cn">' + esc(d.name.replace(/^\d+_/, '')) + '</span>' +
+          '<span class="cn">' + esc(displayDirName(d.name)) + '</span>' +
           '<span class="cs">' + (role ? esc(role) + ' · ' : '') + countFiles(d) + ' 个文件</span>' +
           '</a>';
       }).join('') + '</div>';
@@ -509,7 +723,7 @@
     $('content').innerHTML = h;
     $('toc').innerHTML = '';
     highlightTree(null);
-    $('main').scrollTop = 0;
+    restoreScroll('');
   }
 
   function fileRow(f) {
@@ -526,7 +740,7 @@
     var c = colorFor(node.name);
     var role = roleFor(node.name);
 
-    var h = '<div class="hero"><h1>' + esc(node.name.replace(/^\d+_/, '')) + '</h1>';
+    var h = '<div class="hero"><h1>' + esc(displayDirName(node.name)) + '</h1>';
     if (role) h += '<p class="lede">' + esc(role) + '</p>';
     h += '</div>';
 
@@ -537,7 +751,7 @@
       h += '<div class="sec-h">子目录</div><div class="cards">' + dirs.map(function (d) {
         return '<a class="card" href="#/' + esc(d.path) + '"' +
           (c ? ' style="--cc:' + c + '"' : '') + '>' +
-          '<span class="cn">' + esc(d.name.replace(/^\d+_/, '')) + '</span>' +
+          '<span class="cn">' + esc(displayDirName(d.name)) + '</span>' +
           '<span class="cs">' + countFiles(d) + ' 个文件</span></a>';
       }).join('') + '</div>';
     }
@@ -549,7 +763,7 @@
     $('content').innerHTML = h;
     $('toc').innerHTML = '';
     highlightTree(node.path);
-    $('main').scrollTop = 0;
+    restoreScroll(node.path);
   }
 
   /* ─────────── 视图：文件 ─────────── */
@@ -557,7 +771,6 @@
   function viewFile(node) {
     crumb(node.path, fmtSize(node.size) + ' · ' + node.chars.toLocaleString() + ' 字');
     highlightTree(node.path);
-    $('main').scrollTop = 0;
 
     function paint(text) {
       var box = $('content');
@@ -565,7 +778,10 @@
         box.className = 'content md';
         box.innerHTML = renderMarkdown(text);
         linkifyRefs(box);
+        resolveContentLinks(box, node.path);
+        guardImages(box);
         buildToc(box);
+        resolveHeadingLinks(box);
       } else {
         box.className = 'content';
         box.innerHTML = '<h1 style="font-size:22px;margin:4px 0 14px">' +
@@ -573,10 +789,18 @@
           '<div class="txt">' + esc(text) + '</div>';
         $('toc').innerHTML = '';
       }
+      restoreScroll(node.path);
     }
 
     if (state.cache[node.path]) { paint(state.cache[node.path]); return; }
+    var offlineContent = window.__BD_OFFLINE_DATA__ && window.__BD_OFFLINE_DATA__.content;
+    if (offlineContent && Object.prototype.hasOwnProperty.call(offlineContent, node.path)) {
+      state.cache[node.path] = offlineContent[node.path];
+      paint(offlineContent[node.path]);
+      return;
+    }
 
+    $('main').scrollTop = 0;
     $('content').className = 'content';
     $('content').innerHTML = '<div class="loading"><i class="spin"></i>载入中…</div>';
     $('toc').innerHTML = '';
@@ -586,8 +810,12 @@
         if (!r.ok) throw new Error('HTTP ' + r.status);
         return r.text();
       })
-      .then(function (t) { state.cache[node.path] = t; paint(t); })
+      .then(function (t) {
+        state.cache[node.path] = t;
+        if (state.current === node.path) paint(t);
+      })
       .catch(function (e) {
+        if (state.current !== node.path) return;
         $('content').innerHTML = '<div class="errbox">载入失败：' + esc(e.message) +
           '<br><small style="color:var(--tx-faint)">' + esc(node.path) + '</small></div>';
       });
@@ -625,6 +853,54 @@
     spy();
   }
 
+  function resolveHeadingLinks(box) {
+    var heads = Array.prototype.slice.call(box.querySelectorAll('h2, h3, h4'));
+    function key(s) {
+      return (s || '').toLowerCase().replace(/[\s—–·・:：，,。！？!?（）()【】\[\]"'“”‘’&]/g, '');
+    }
+    var contentsHead = heads.find(function (h) { return key(h.textContent) === '目录'; });
+    var contentsFab = $('contentsFab');
+    contentsFab.hidden = !contentsHead;
+    contentsFab.onclick = contentsHead ? function () {
+      $('main').scrollTo({ top: contentsHead.offsetTop - 52, behavior: 'smooth' });
+    } : null;
+    box.querySelectorAll('a[href^="#"]:not([href^="#/"])').forEach(function (a) {
+      var wanted = key(a.textContent);
+      function findHead(needle) {
+        if (!needle) return null;
+        return heads.find(function (h) { return key(h.textContent) === needle; }) ||
+          heads.find(function (h) {
+            var heading = key(h.textContent);
+            return heading.indexOf(needle) === 0 || needle.indexOf(heading) === 0;
+          });
+      }
+      var target = findHead(wanted);
+      if (!target) {
+        var raw = a.getAttribute('href').slice(1);
+        try { raw = decodeURIComponent(raw); } catch (_) {}
+        target = findHead(key(raw));
+      }
+      if (!target) return;
+      a.href = '#' + target.id;
+      a.addEventListener('click', function (e) {
+        e.preventDefault();
+        $('main').scrollTo({ top: target.offsetTop - 52, behavior: 'smooth' });
+      });
+      if (contentsHead && target !== contentsHead && !target.querySelector('.section-return')) {
+        var back = document.createElement('button');
+        back.type = 'button';
+        back.className = 'section-return';
+        back.textContent = '返回目录';
+        back.addEventListener('click', function (e) {
+          e.preventDefault();
+          e.stopPropagation();
+          $('main').scrollTo({ top: contentsHead.offsetTop - 52, behavior: 'smooth' });
+        });
+        target.appendChild(back);
+      }
+    });
+  }
+
   function spy() {
     if (!tocLinks.length) return;
     var top = $('main').scrollTop + 70, cur = 0;
@@ -641,6 +917,10 @@
   }
 
   function route() {
+    /* 页内标题锚点不属于文件路由；避免旧目录链接把正文误判成文件路径。 */
+    if (location.hash && location.hash.indexOf('#/') !== 0) return;
+    $('contentsFab').hidden = true;
+    if (state.current !== null) state.scrolls[state.current] = $('main').scrollTop;
     var raw = location.hash.replace(/^#\/?/, '');
     var path = '';
     try { path = decodeURIComponent(raw); } catch (e) { path = raw; }
@@ -658,7 +938,7 @@
     if (state.dirByPath[path]) {
       var d = state.dirByPath[path];
       viewDir(d);
-      document.title = d.name.replace(/^\d+_/, '') + ' — 资料库';
+      document.title = displayDirName(d.name) + ' — 资料库';
       return;
     }
     crumb(path);
@@ -731,12 +1011,22 @@
 
     window.addEventListener('hashchange', route);
 
-    fetch('assets/manifest.json')
-      .then(function (r) {
-        if (!r.ok) throw new Error('HTTP ' + r.status);
-        return r.json();
-      })
-      .then(function (m) {
+    var offlineData = window.__BD_OFFLINE_DATA__;
+    var startup = offlineData
+      ? Promise.resolve([offlineData.manifest, offlineData.videoMeta || {}])
+      : Promise.all([
+          fetch('assets/manifest.json').then(function (r) {
+            if (!r.ok) throw new Error('HTTP ' + r.status);
+            return r.json();
+          }),
+          fetch('assets/video-meta.json').then(function (r) {
+            return r.ok ? r.json() : {};
+          }).catch(function () { return {}; })
+        ]);
+
+    startup.then(function (data) {
+        var m = data[0];
+        state.videoMeta = data[1];
         state.manifest = m;
         buildIndex(m.tree, '');
         buildTree();
@@ -747,8 +1037,7 @@
       })
       .catch(function (e) {
         $('content').innerHTML = '<div class="errbox">目录清单载入失败：' + esc(e.message) +
-          '<br><small style="color:var(--tx-faint)">若在本地直接双击打开 index.html，' +
-          '浏览器会因 CORS 限制拒绝读取文件，请用本地服务器访问。</small></div>';
+          '<br><small style="color:var(--tx-faint)">本地阅读请完整下载项目，并保留 index.html 与 assets、资料库目录的相对位置。</small></div>';
       });
   }
 

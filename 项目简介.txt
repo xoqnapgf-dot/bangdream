@@ -1,883 +1,198 @@
-# 一、项目是什么
-+
-+把一份 **MyGO!!!!! × Ave Mujica 同人资料库**（135 个 md/txt 文件）做成
-+**网页版文件浏览器** —— 左边文件夹树，点开在右边看内容。
-+
-+- **仓库**：`xoqnapgf-dot/bangdream`（public，默认分支 `main`）
-+- **线上**：https://xoqnapgf-dot.github.io/bangdream/
-+- **状态**：PR #1 已合并（`ee02768`），网站已上线
-+
-+---
-+
-+## 二、当前仓库结构
-+
-+```
-+bangdream/
-+├── index.html                 页面骨架
-+├── .nojekyll                  关闭 Jekyll，保证中文路径可访问（勿删）
-+├── README.md
-+├── NEXT_SESSION.md            本文件
-+├── assets/
-+│   ├── style.css              样式，CSS 变量控制深浅色主题
-+│   ├── app.js                 文件树 / 路由 / Markdown 渲染器 / 搜索
-+│   └── manifest.json          目录清单（59 KB，由脚本生成，勿手改）
-+├── tools/
-+│   └── build_manifest.py      扫描 资料库/ 重新生成 manifest.json
-+└── 资料库/                     135 个文件 / 19 个目录 / 约 2.2 MB
-+    ├── 00_剧情区/
-+    │   ├── 01_MyGO动画/           13 集逐集剧情（txt，剧本体，CRLF）
-+    │   ├── 02_AveMujica动画/      剧情总纲 + 睦/祥子双视角
-+    │   ├── 03_剧场版/             prima aurora
-+    │   ├── 04_漫画游戏/           ガルパ乐队故事全章节翻译（156 KB，最大的文件）
-+    │   ├── 05_官方访谈与设定/     确证内容汇总
-+    │   ├── 06_社区解析_推测/
-+    │   └── 07_CP线梳理/
-+    ├── 01_高松灯/ … 10_丰川祥子/   每人：1 份人设汇总 + 9 份 CP 关系梳理
-+    └── 11_次要角色_纯田真奈/
-+```
-+
-+**技术选型**：纯静态，**零依赖、零构建步骤**。原生 HTML/CSS/JS，
-+Markdown 渲染器是手写的（在 `app.js` 里）。内容用 `fetch()` 按需加载，
-+首屏只读 59 KB 的 manifest。
-+
-+---
-+
-+## 三、已实现的功能
-+
-+| 功能 | 实现位置 |
-+| --- | --- |
-+| 文件夹树导航，可展开/收起，带文件数角标 | `app.js` → `buildTree()` / `nodeEl()` |
-+| Markdown 渲染（标题/表格/引用/嵌套列表/代码/分隔线） | `app.js` → `renderMarkdown()` / `inline()` |
-+| `.txt` 按剧本格式等宽呈现 | `app.js` → `viewFile()` |
-+| 全库搜索（`/` 或 `Ctrl/⌘+K`） | `app.js` → `runSearch()` |
-+| 右侧本文大纲 + 滚动高亮 | `app.js` → `buildToc()` / `spy()` |
-+| 正文里的 `灯x祥子.md` 自动转可点链接 | `app.js` → `linkifyRefs()` |
-+| 角色卡片用各自代表色 | `app.js` → `COLORS` / `BAND` 常量 |
-+| 深浅色主题（跟随系统 + 手动切换 + localStorage） | `app.js` → `initTheme()` |
-+| 响应式，移动端侧栏变抽屉 | `style.css` → `@media (max-width: 860px)` |
-+| hash 路由 `#/路径`，可分享/可后退 | `app.js` → `route()` / `go()` |
-+
-+### 角色代表色（取自各自人设汇总，已硬编码在 app.js）
-+
-+| 角色 | 色值 | 担当 |
-+| --- | --- | --- |
-+| 高松灯 | `#77BBDD` | MyGO!!!!! 主唱 |
-+| 千早爱音 | `#FF8899` | MyGO!!!!! 节奏吉他 |
-+| 要乐奈 | `#77DD77` | MyGO!!!!! 主音吉他 |
-+| 长崎素世 | `#FFDD88` | MyGO!!!!! 贝斯 |
-+| 椎名立希 | `#7777AA` | MyGO!!!!! 鼓 / 作曲 |
-+| 三角初华 | `#BB9955` | Ave Mujica 主唱兼吉他 |
-+| 若叶睦 | `#779977` | Ave Mujica 节奏吉他 |
-+| 八幡海铃 | `#335566` | Ave Mujica 贝斯 |
-+| 祐天寺若麦 | `#AA4477` | Ave Mujica 鼓 |
-+| 丰川祥子 | `#7799CC` | Ave Mujica 键盘 / 作曲 |
-+
-+---
-+
-+## 四、⚠️ 已知问题（下次优先修）
-+
-+### 1. 图片不会出现在文件树里
-+`tools/build_manifest.py` 第 17 行只索引文本：
-+```python
-+TEXT_EXT = {".md", ".txt"}
-+```
-+往 `资料库/` 里放图片，文件浏览器**不会列出**。
-+**要做**：加图片扩展名 + 在 `app.js` 里写个图片查看器分支（类似 `viewFile()` 里对 `ext` 的判断）。
-+
-+### 2. Markdown 里的相对图片路径会裂 🔴
-+`资料库/01_高松灯/x.md` 里写 `![](图片/灯.png)`，浏览器会去**站点根目录**找，
-+而不是 md 所在目录，图片显示不出来。
-+
-+**修法**：`viewFile()` 里渲染完之后，把 `img[src]` 的相对路径按当前文件所在目录重写。
-+大概就是在 `linkifyRefs(box)` 旁边再加一个 `fixRelativeSrc(box, node.path)`。
-+
-+**临时绕过**：md 里写从站点根算起的完整路径
-+```markdown
-+![灯](资料库/01_高松灯/图片/灯.png)
-+```
-+
-+### 3. CP 内容全网公开（未决策）
-+105 个角色文件里 **90 个是 CP 向内容**（带攻受向解读）。仓库是 public，
-+现在这些**全部公开可访问**。当时问过用户，没给答复，默认全放了。
-+如果后续想改：在 `build_manifest.py` 里加个过滤，或在前端加开关。
-+
-+---
-+
-+## 五、操作手册
-+
-+### 增删资料后重新生成清单
-+```bash
-+python3 tools/build_manifest.py
-+```
-+
-+### 本地预览
-+```bash
-+python3 -m http.server 8080 --bind 0.0.0.0
-+```
-+> 直接双击 `index.html` 会因 CORS 读不到文件，**必须走服务器**。
-+
-+### 测试 Markdown 渲染器（抠出函数用 node 跑）
-+```bash
-+node -e "
-+const fs=require('fs');const src=fs.readFileSync('assets/app.js','utf8');
-+const grab=(a,b)=>src.slice(src.indexOf(a),src.indexOf(b));
-+eval(grab('function esc(','function encPath(')+grab('function inline(','/* ─────────── 索引'));
-+console.log(renderMarkdown('| a | b |\n| --- | --- |\n| 1 | 2 |'));
-+"
-+```
-+上次全量测试结果：**118 个 md 渲染耗时 143 ms，无报错，标签全部平衡**。
-+
-+---
-+
-+## 六、环境限制（踩过的坑，别再踩）
-+
-+### 沙盒网络是白名单制
-+```
-+github.com                 ✅ 通（git / gh 用）
-+raw.githubusercontent.com  ❌
-+drive.google.com           ❌
-+pan.baidu.com              ❌
-+```
-+**"让用户传网盘、agent 用 curl 下载"这条路走不通。**
-+
-+### Arena 附件上传限制
-+白名单：`png webp jpeg gif txt md csv html xml css js json pdf` ——
-+**没有 zip**。而且附件是**走内容通道进上下文，不落盘到沙盒**
-+（`/home/user/uploads/` 实际不存在）。
-+
-+- 改后缀伪装成 pdf → 平台解析失败，文件根本进不来 ❌
-+- base64 成 txt → 会把巨大字符串塞进上下文，不可行 ❌
-+- **✅ 正解：让用户把文件传到 GitHub 仓库，agent 用 `git fetch` 取**
-+
-+### zip 中文文件名要特殊处理
-+GitHub 上传的 zip 没带 UTF-8 标志位，`unzip` 出来是 `#U8d44#U6599` 乱码。
-+用 Python 按 cp437 → utf-8/gbk 重新解码（见当时的解压脚本思路）。
-+
-+### Agent 的 GitHub 权限范围
-+```
-+✅ 代码读写、git push、开 PR
-+❌ 开启 Pages（403 Resource not accessible by integration）
-+❌ 读写 Actions 设置（403）
-+```
-+**仓库设置类操作必须用户自己在网页上点。**
-+
-+### GitHub Pages 已配置
-+```json
-+{ "source": { "branch": "main", "path": "/" }, "build_type": "legacy",
-+  "https_enforced": true }
-+```
-+合并到 main 会自动重新部署，1–3 分钟生效。手机浏览器缓存很顽固，要强制刷新。
-+
-+---
-+
-+## 七、容量限额（用户问过，会加图片）
-+
-+| 项目 | 限额 | 性质 |
-+| --- | --- | --- |
-+| 单个文件 | **100 MB** | 硬限制，push 直接拒 |
-+| 单个文件（网页拖拽） | 25 MB | 硬限制 |
-+| 仓库大小 | 建议 < 1 GB，强烈建议 < 5 GB | 软限制 |
-+| **Pages 发布站点** | **1 GB** | 真正的天花板 |
-+| Pages 月流量 | 100 GB | 软限制 |
-+| Pages 构建 | 10 次/小时 | 软限制 |
-+
-+**当前占用约 3 MB**（资料库 2.6 MB + .git 2.8 MB），用掉 1 GB 的 0.3%。
-+剩余空间约能放 **7,000 张 WebP**（150 KB/张）或 **680 张未压缩 PNG**。
-+
-+⚠️ **Git 历史永久保留删除的文件** —— 传大图前先压好，别指望删掉能瘦身。
-+（历史里还躺着最初那个 1.1 MB 的 zip。）
-+
-+加图建议：
-+```bash
-+cwebp -q 82 -resize 1600 0 原图.png -o 图.webp
-+```
-+
-+---
-+
-+## 八、Arena 平台机制（用户问过，已查证）
-+
-+**Agent Mode 不是固定模型**，每个 session 随机路由给一个模型，
-+会话中途一般不变（除非某次回复可能失败，系统会自动切换）。
-+反馈后**不揭示模型身份**。
-+
-+**Agent 排行榜**用「因果追踪（Causal Tracing）」而非 Elo/Bradley-Terry，
-+得分是相对平均模型的**净改善度**。5 个等权信号：
-+
-+| 信号 | 含义 | 方向 |
-+| --- | --- | --- |
-+| Confirmed Success | 用户点「是/否」按钮（取任务轨迹**最终**那次） | 越高越好 |
-+| Praise vs Complaint | 用户自然语言里夸奖 vs 抱怨 | 越高越好 |
-+| Steerability | 用户纠正后能否改对 | 越高越好 |
-+| Bash Recovery | 命令报错后几轮恢复 | 越少越好 |
-+| Tool Hallucination | 有没有瞎编不存在的工具 | 越低越好 |
-+
-+文档：https://arena.ai/blog/agent-arena-methodology
-+
-+### 🔑 最重要的一条：session = PR 生命周期
-+
-+```
-+建分支 → 改 → push → 改 → push …   ← 合并前迭代次数不限
-+                        ↓
-+                     合并 PR
-+                        ↓
-+                  session 结束，推送通道关闭
-+```
-+
-+**教训：别急着点 Merge。** 上次用户第一版交付后立刻合并，
-+导致后续想改都推不上去了。
-+
-+**想在合并前看线上效果**：`Settings → Pages → Branch` 下拉里能选**任意分支**，
-+开发期间临时指向工作分支，push 就自动部署；满意后再切回 `main` 并合并。
-+
-+---
-+
-+## 九、下次开工清单
-+
-+1. **修相对图片路径**（`viewFile()` 里加 `fixRelativeSrc`）—— 优先级最高
-+2. **支持图片索引与预览**（改 `TEXT_EXT` + 写图片查看器）
-+3. 跟用户确认 **CP 内容是否公开**
-+4. 可选增强：全文搜索（现在只搜文件名/标题）、角色关系图可视化、
-+   剧情时间线、CRYCHIC 前史专题页
-+
-+**记得**：改完 `资料库/` 一定要跑 `python3 tools/build_manifest.py`。
-diff --git a/README.md b/README.md
-index ad9fb1f..ab73a9b 100644
---- a/README.md
-+++ b/README.md
-@@ -1,2 +1,77 @@
--# bangdream
--A website project created with agent collaboration
-+# MyGO!!!!! × Ave Mujica 资料库
-+
-+把 `资料库/` 这个文件夹做成可以在网页上浏览的样子 —— 左边文件树，点开就能读。
-+
-+**在线访问：** https://xoqnapgf-dot.github.io/bangdream/
-+
-+---
-+
-+## 功能
-+
-+- **文件夹树导航** —— 完整保留原始目录结构，可展开/收起
-+- **Markdown 渲染** —— 标题、表格、引用、嵌套列表都正常显示
-+- **纯文本查看** —— 剧情 `.txt` 按剧本格式等宽呈现
-+- **全库搜索** —— 按 `/` 或 `Ctrl/⌘ + K` 唤起，即时过滤 135 个文件
-+- **本文大纲** —— 右侧自动生成目录，带滚动高亮
-+- **交叉引用跳转** —— 正文里提到的 `灯x祥子.md` 这类文件名自动变成可点链接
-+- **角色代表色** —— 卡片配色取自各角色人设（灯 `#77BBDD`、祥子 `#7799CC`…）
-+- **深浅色主题** —— 跟随系统，也可手动切换
-+- **响应式** —— 手机上侧栏变抽屉
-+
-+## 资料库内容
-+
-+```
-+资料库/
-+├── 00_剧情区/
-+│   ├── 01_MyGO动画/          13 集逐集剧情
-+│   ├── 02_AveMujica动画/     剧情总纲 + 睦/祥子双视角
-+│   ├── 03_剧场版/            prima aurora
-+│   ├── 04_漫画游戏/          ガルパ乐队故事全章节翻译
-+│   ├── 05_官方访谈与设定/    确证内容汇总
-+│   ├── 06_社区解析_推测/
-+│   └── 07_CP线梳理/
-+├── 01_高松灯/ … 10_丰川祥子/  每人 1 份人设汇总 + 9 份关系梳理
-+└── 11_次要角色_纯田真奈/
-+```
-+
-+共 **135 个文件 / 19 个目录 / 约 2.2 MB** 文本。
-+
-+## 技术说明
-+
-+纯静态站点，**没有构建步骤、没有外部依赖**，直接用原生 HTML/CSS/JS：
-+
-+| 文件 | 作用 |
-+| --- | --- |
-+| `index.html` | 页面骨架 |
-+| `assets/style.css` | 样式（CSS 变量控制主题） |
-+| `assets/app.js` | 文件树、路由、Markdown 渲染器、搜索 |
-+| `assets/manifest.json` | 目录清单，由脚本生成 |
-+| `tools/build_manifest.py` | 扫描 `资料库/` 重新生成清单 |
-+| `.nojekyll` | 关闭 Jekyll，确保中文路径正常提供 |
-+
-+内容通过 `fetch()` 按需加载，首屏只读 59 KB 的清单。
-+
-+### 增删资料后
-+
-+```bash
-+python3 tools/build_manifest.py
-+```
-+
-+重新生成 `assets/manifest.json` 即可，无需其它操作。
-+
-+### 本地预览
-+
-+```bash
-+python3 -m http.server 8080
-+# 打开 http://localhost:8080
-+```
-+
-+> 直接双击 `index.html` 会因浏览器的 CORS 限制读不到文件，必须走本地服务器。
-+
-+## 部署
-+
-+GitHub Pages 已配置为从 `main` 分支根目录部署。合并到 `main` 后会自动重新发布。
-+
-+---
-+
-+*资料库内容为同人整理，版权归 BanG Dream! 项目及 Bushiroad 所有。*
-diff --git a/assets/app.js b/assets/app.js
-new file mode 100644
-index 0000000..ded6038
---- /dev/null
-+++ b/assets/app.js
-@@ -0,0 +1,712 @@
-+/* ============================================================
-+   MyGO!!!!! × Ave Mujica 资料库  —  网页文件浏览器
-+   纯静态 · 零依赖
-+   ============================================================ */
-+(function () {
-+  'use strict';
-+
-+  var LIB = '资料库';
-+  var $ = function (id) { return document.getElementById(id); };
-+
-+  var state = {
-+    manifest: null,
-+    index: [],        // 扁平文件列表
-+    byPath: {},       // path -> node
-+    dirByPath: {},    // path -> dir node
-+    cache: {},        // path -> 文本内容
-+    current: null
-+  };
-+
-+  /* 角色代表色（取自各自的人设汇总） */
-+  var COLORS = {
-+    '高松灯': '#77BBDD', '千早爱音': '#FF8899', '要乐奈': '#77DD77',
-+    '长崎素世': '#FFDD88', '椎名立希': '#7777AA', '三角初华': '#BB9955',
-+    '若叶睦': '#779977', '八幡海铃': '#335566', '祐天寺若麦': '#AA4477',
-+    '丰川祥子': '#7799CC'
-+  };
-+  var BAND = {
-+    '高松灯': 'MyGO!!!!! · 主唱', '千早爱音': 'MyGO!!!!! · 节奏吉他',
-+    '要乐奈': 'MyGO!!!!! · 主音吉他', '长崎素世': 'MyGO!!!!! · 贝斯',
-+    '椎名立希': 'MyGO!!!!! · 鼓 / 作曲', '三角初华': 'Ave Mujica · 主唱兼吉他',
-+    '若叶睦': 'Ave Mujica · 节奏吉他', '八幡海铃': 'Ave Mujica · 贝斯',
-+    '祐天寺若麦': 'Ave Mujica · 鼓', '丰川祥子': 'Ave Mujica · 键盘 / 作曲'
-+  };
-+
-+  function colorFor(name) {
-+    for (var k in COLORS) if (name.indexOf(k) >= 0) return COLORS[k];
-+    return null;
-+  }
-+  function roleFor(name) {
-+    for (var k in BAND) if (name.indexOf(k) >= 0) return BAND[k];
-+    return null;
-+  }
-+
-+  /* ─────────── 工具 ─────────── */
-+
-+  function esc(s) {
-+    return String(s).replace(/[&<>"']/g, function (c) {
-+      return { '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' }[c];
-+    });
-+  }
-+
-+  function encPath(p) {
-+    return p.split('/').map(encodeURIComponent).join('/');
-+  }
-+
-+  function fmtSize(b) {
-+    if (b < 1024) return b + ' B';
-+    if (b < 1024 * 1024) return (b / 1024).toFixed(1) + ' KB';
-+    return (b / 1048576).toFixed(2) + ' MB';
-+  }
-+
-+  function prettyName(n) {
-+    return n.replace(/\.(md|txt)$/i, '').replace(/^\d{2}_/, '');
-+  }
-+
-+  var SVG = {
-+    dir:  '<svg class="fico" viewBox="0 0 24 24"><path d="M3 7a2 2 0 012-2h4l2 2h8a2 2 0 012 2v8a2 2 0 01-2 2H5a2 2 0 01-2-2z"/></svg>',
-+    md:   '<svg class="fico" viewBox="0 0 24 24"><path d="M14 3H7a2 2 0 00-2 2v14a2 2 0 002 2h10a2 2 0 002-2V8z"/><path d="M14 3v5h5"/><path d="M8.5 16v-3l1.6 1.8L11.7 13v3"/></svg>',
-+    txt:  '<svg class="fico" viewBox="0 0 24 24"><path d="M14 3H7a2 2 0 00-2 2v14a2 2 0 002 2h10a2 2 0 002-2V8z"/><path d="M14 3v5h5"/><path d="M9 13h6M9 16.5h4"/></svg>',
-+    chev: '<svg class="chev" viewBox="0 0 24 24"><path d="M9 6l6 6-6 6"/></svg>'
-+  };
-+  function fileIcon(ext) { return ext === 'txt' ? SVG.txt : SVG.md; }
-+
-+  /* ─────────── Markdown 渲染 ─────────── */
-+
-+  function inline(s) {
-+    s = esc(s);
-+    // 行内代码（先占位，避免内部被其它规则改写）
-+    var codes = [];
-+    s = s.replace(/`([^`]+)`/g, function (_, c) {
-+      codes.push(c); return '\u0000C' + (codes.length - 1) + '\u0000';
-+    });
-+    s = s.replace(/!\[([^\]]*)\]\(([^)\s]+)[^)]*\)/g,
-+      '<img src="$2" alt="$1" loading="lazy">');
-+    s = s.replace(/\[([^\]]+)\]\(([^)\s]+)[^)]*\)/g, function (_, t, h) {
-+      var ext = /^(https?:)?\/\//.test(h) ? ' target="_blank" rel="noopener"' : '';
-+      return '<a href="' + esc(h) + '"' + ext + '>' + t + '</a>';
-+    });
-+    s = s.replace(/\*\*\*([^*]+)\*\*\*/g, '<strong><em>$1</em></strong>');
-+    s = s.replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>');
-+    s = s.replace(/(^|[^*])\*([^*\n]+)\*/g, '$1<em>$2</em>');
-+    s = s.replace(/~~([^~]+)~~/g, '<del>$1</del>');
-+    s = s.replace(/\u0000C(\d+)\u0000/g, function (_, i) {
-+      return '<code>' + codes[+i] + '</code>';
-+    });
-+    return s;
-+  }
-+
-+  function splitRow(line) {
-+    var t = line.trim().replace(/^\|/, '').replace(/\|$/, '');
-+    return t.split('|').map(function (c) { return c.trim(); });
-+  }
-+
-+  function renderMarkdown(src) {
-+    var lines = src.replace(/\r\n?/g, '\n').split('\n');
-+    var out = [], i = 0;
-+
-+    function listBlock() {
-+      // 收集连续的列表行（含缩进嵌套）
-+      var items = [];
-+      while (i < lines.length) {
-+        var m = /^(\s*)([-*+]|\d+[.)])\s+(.*)$/.exec(lines[i]);
-+        if (!m) {
-+          // 允许列表项内的续行
-+          if (items.length && /^\s+\S/.test(lines[i]) && lines[i].trim()) {
-+            items[items.length - 1].text += ' ' + lines[i].trim();
-+            i++; continue;
-+          }
-+          break;
-+        }
-+        items.push({
-+          indent: m[1].replace(/\t/g, '    ').length,
-+          ordered: /\d/.test(m[2]),
-+          text: m[3]
-+        });
-+        i++;
-+      }
-+      if (!items.length) return '';
-+
-+      var html = '', stack = [];
-+      items.forEach(function (it) {
-+        while (stack.length && it.indent < stack[stack.length - 1].indent) {
-+          html += '</li></' + stack.pop().tag + '>';
-+        }
-+        if (!stack.length || it.indent > stack[stack.length - 1].indent) {
-+          var tag = it.ordered ? 'ol' : 'ul';
-+          if (stack.length) html += '<' + tag + '>';
-+          else html += '<' + tag + '>';
-+          stack.push({ indent: it.indent, tag: tag, first: true });
-+        } else {
-+          html += '</li>';
-+        }
-+        html += '<li>' + inline(it.text);
-+      });
-+      while (stack.length) html += '</li></' + stack.pop().tag + '>';
-+      return html;
-+    }
-+
-+    while (i < lines.length) {
-+      var line = lines[i];
-+
-+      // 空行
-+      if (!line.trim()) { i++; continue; }
-+
-+      // 围栏代码
-+      var fence = /^\s*(```|~~~)(.*)$/.exec(line);
-+      if (fence) {
-+        var mark = fence[1], buf = [];
-+        i++;
-+        while (i < lines.length && !new RegExp('^\\s*' + mark).test(lines[i])) {
-+          buf.push(lines[i]); i++;
-+        }
-+        i++;
-+        out.push('<pre><code>' + esc(buf.join('\n')) + '</code></pre>');
-+        continue;
-+      }
-+
-+      // 标题
-+      var h = /^(#{1,6})\s+(.*)$/.exec(line);
-+      if (h) {
-+        var lv = h[1].length;
-+        out.push('<h' + lv + '>' + inline(h[2].replace(/\s*#+\s*$/, '')) + '</h' + lv + '>');
-+        i++; continue;
-+      }
-+
-+      // 分隔线
-+      if (/^\s*([-*_])\s*(\1\s*){2,}$/.test(line)) {
-+        out.push('<hr>'); i++; continue;
-+      }
-+
-+      // 表格
-+      if (/\|/.test(line) && i + 1 < lines.length &&
-+          /^\s*\|?[\s:|-]+\|[\s:|-]*$/.test(lines[i + 1]) && /-/.test(lines[i + 1])) {
-+        var head = splitRow(line);
-+        var align = splitRow(lines[i + 1]).map(function (c) {
-+          if (/^:.*:$/.test(c)) return ' style="text-align:center"';
-+          if (/:$/.test(c)) return ' style="text-align:right"';
-+          return '';
-+        });
-+        i += 2;
-+        var body = [];
-+        while (i < lines.length && /\|/.test(lines[i]) && lines[i].trim()) {
-+          body.push(splitRow(lines[i])); i++;
-+        }
-+        var t = '<table><thead><tr>';
-+        head.forEach(function (c, k) { t += '<th' + (align[k] || '') + '>' + inline(c) + '</th>'; });
-+        t += '</tr></thead><tbody>';
-+        body.forEach(function (r) {
-+          t += '<tr>';
-+          for (var k = 0; k < head.length; k++) {
-+            t += '<td' + (align[k] || '') + '>' + inline(r[k] || '') + '</td>';
-+          }
-+          t += '</tr>';
-+        });
-+        out.push(t + '</tbody></table>');
-+        continue;
-+      }
-+
-+      // 引用
-+      if (/^\s*>/.test(line)) {
-+        var q = [];
-+        while (i < lines.length && /^\s*>/.test(lines[i])) {
-+          q.push(lines[i].replace(/^\s*>\s?/, '')); i++;
-+        }
-+        out.push('<blockquote>' + renderMarkdown(q.join('\n')) + '</blockquote>');
-+        continue;
-+      }
-+
-+      // 列表
-+      if (/^(\s*)([-*+]|\d+[.)])\s+/.test(line)) {
-+        out.push(listBlock());
-+        continue;
-+      }
-+
-+      // 段落
-+      var p = [];
-+      while (i < lines.length && lines[i].trim() &&
-+             !/^(#{1,6}\s|\s*>|\s*([-*+]|\d+[.)])\s|\s*(```|~~~))/.test(lines[i]) &&
-+             !/^\s*([-*_])\s*(\1\s*){2,}$/.test(lines[i])) {
-+        p.push(lines[i].trim()); i++;
-+      }
-+      if (p.length) out.push('<p>' + inline(p.join(' ')) + '</p>');
-+      else i++;
-+    }
-+    return out.join('\n');
-+  }
-+
-+  /* ─────────── 索引 ─────────── */
-+
-+  function buildIndex(node, parentPath) {
-+    if (node.type === 'file') {
-+      state.index.push(node);
-+      state.byPath[node.path] = node;
-+      return;
-+    }
-+    if (node.path !== undefined) state.dirByPath[node.path] = node;
-+    (node.children || []).forEach(function (c) { buildIndex(c, node.path); });
-+  }
-+
-+  /* 把内容里提到的文件路径变成可点链接 */
-+  function linkifyRefs(container) {
-+    var baseMap = {};
-+    state.index.forEach(function (f) {
-+      baseMap[f.name] = f.path;
-+      baseMap[f.stem] = f.path;
-+    });
-+
-+    container.querySelectorAll('code').forEach(function (el) {
-+      var t = el.textContent.trim();
-+      var target = null;
-+      if (state.byPath[t]) target = t;
-+      else if (baseMap[t]) target = baseMap[t];
-+      else {
-+        var cleaned = t.replace(/^[《`]|[》`]$/g, '');
-+        if (baseMap[cleaned]) target = baseMap[cleaned];
-+      }
-+      if (target) {
-+        var a = document.createElement('a');
-+        a.href = '#/' + target;
-+        a.textContent = t;
-+        a.className = 'ref-link';
-+        el.replaceWith(a);
-+      }
-+    });
-+  }
-+
-+  /* ─────────── 侧栏树 ─────────── */
-+
-+  function buildTree() {
-+    var root = $('tree');
-+    root.innerHTML = '';
-+    (state.manifest.tree.children || []).forEach(function (c) {
-+      root.appendChild(nodeEl(c, 0));
-+    });
-+  }
-+
-+  function nodeEl(node, depth) {
-+    var wrap = document.createElement('div');
-+    wrap.className = 'node';
-+    wrap.dataset.path = node.path;
-+
-+    var row = document.createElement('div');
-+    row.className = 'row ' + (node.type === 'dir' ? 'dir' : 'file');
-+    row.dataset.path = node.path;
-+
-+    if (node.type === 'dir') {
-+      var n = countFiles(node);
-+      row.innerHTML = SVG.chev + SVG.dir +
-+        '<span class="label">' + esc(node.name) + '</span>' +
-+        '<span class="count">' + n + '</span>';
-+      var kids = document.createElement('div');
-+      kids.className = 'children';
-+      (node.children || []).forEach(function (c) { kids.appendChild(nodeEl(c, depth + 1)); });
-+      row.addEventListener('click', function (e) {
-+        e.stopPropagation();
-+        wrap.classList.toggle('open');
-+        go(node.path);
-+      });
-+      wrap.appendChild(row);
-+      wrap.appendChild(kids);
-+      if (depth === 0 && /^00_/.test(node.name)) wrap.classList.add('open');
-+    } else {
-+      row.innerHTML = '<span style="width:13px;flex:none"></span>' + fileIcon(node.ext) +
-+        '<span class="label">' + esc(prettyName(node.name)) + '</span>';
-+      row.title = node.title || node.name;
-+      row.addEventListener('click', function (e) {
-+        e.stopPropagation();
-+        go(node.path);
-+        if (window.matchMedia('(max-width:860px)').matches) closeNav();
-+      });
-+      wrap.appendChild(row);
-+    }
-+    return wrap;
-+  }
-+
-+  function countFiles(node) {
-+    var n = 0;
-+    (node.children || []).forEach(function (c) {
-+      n += c.type === 'file' ? 1 : countFiles(c);
-+    });
-+    return n;
-+  }
-+
-+  function highlightTree(path) {
-+    document.querySelectorAll('.row.active').forEach(function (r) {
-+      r.classList.remove('active');
-+    });
-+    if (!path) return;
-+    var row = document.querySelector('.row[data-path="' + CSS.escape(path) + '"]');
-+    if (!row) return;
-+    row.classList.add('active');
-+    var p = row.closest('.node');
-+    while (p) {
-+      if (p.classList.contains('node')) p.classList.add('open');
-+      p = p.parentElement ? p.parentElement.closest('.node') : null;
-+    }
-+    var box = $('tree'), r = row.getBoundingClientRect(), b = box.getBoundingClientRect();
-+    if (r.top < b.top + 8 || r.bottom > b.bottom - 8) {
-+      row.scrollIntoView({ block: 'center' });
-+    }
-+  }
-+
-+  /* ─────────── 搜索 ─────────── */
-+
-+  function runSearch(q) {
-+    q = q.trim().toLowerCase();
-+    var tree = $('tree');
-+    $('clearBtn').hidden = !q;
-+
-+    if (!q) { buildTree(); highlightTree(state.current); return; }
-+
-+    var hits = state.index.filter(function (f) {
-+      return (f.name + ' ' + f.path + ' ' + (f.title || '')).toLowerCase().indexOf(q) >= 0;
-+    });
-+
-+    tree.innerHTML = '';
-+    if (!hits.length) {
-+      tree.innerHTML = '<div class="empty">没有匹配「' + esc(q) + '」的文件</div>';
-+      return;
-+    }
-+
-+    hits.slice(0, 120).forEach(function (f) {
-+      var row = document.createElement('div');
-+      row.className = 'row file';
-+      row.dataset.path = f.path;
-+      var nm = prettyName(f.name);
-+      var k = nm.toLowerCase().indexOf(q);
-+      var label = k >= 0
-+        ? esc(nm.slice(0, k)) + '<span class="hit">' + esc(nm.slice(k, k + q.length)) +
-+          '</span>' + esc(nm.slice(k + q.length))
-+        : esc(nm);
-+      row.innerHTML = '<span style="width:13px;flex:none"></span>' + fileIcon(f.ext) +
-+        '<span class="label">' + label + '</span>';
-+      row.title = f.path;
-+      row.addEventListener('click', function () {
-+        go(f.path);
-+        if (window.matchMedia('(max-width:860px)').matches) closeNav();
-+      });
-+      tree.appendChild(row);
-+    });
-+
-+    if (hits.length > 120) {
-+      var more = document.createElement('div');
-+      more.className = 'empty';
-+      more.textContent = '还有 ' + (hits.length - 120) + ' 条结果…';
-+      tree.appendChild(more);
-+    }
-+  }
-+
-+  /* ─────────── 面包屑 ─────────── */
-+
-+  function crumb(path, extra) {
-+    var el = $('crumb');
-+    var html = '<a href="#/">' + esc(LIB) + '</a>';
-+    if (path) {
-+      var parts = path.split('/'), acc = [];
-+      parts.forEach(function (p, k) {
-+        acc.push(p);
-+        var last = k === parts.length - 1;
-+        html += '<span class="sep">/</span>';
-+        html += last
-+          ? '<span class="cur">' + esc(last && /\.(md|txt)$/i.test(p) ? p : p) + '</span>'
-+          : '<a href="#/' + esc(acc.join('/')) + '">' + esc(p) + '</a>';
-+      });
-+    }
-+    if (extra) html += '<span class="meta">' + esc(extra) + '</span>';
-+    el.innerHTML = html;
-+  }
-+
-+  /* ─────────── 视图：首页 ─────────── */
-+
-+  function viewHome() {
-+    crumb('', state.manifest.generated + ' 生成');
-+    var s = state.manifest.stats;
-+    var kids = state.manifest.tree.children || [];
-+    var dirs = kids.filter(function (c) { return c.type === 'dir'; });
-+    var files = kids.filter(function (c) { return c.type === 'file'; });
-+
-+    var chars = dirs.filter(function (d) { return colorFor(d.name); });
-+    var others = dirs.filter(function (d) { return !colorFor(d.name); });
-+
-+    var h = '<div class="hero">' +
-+      '<h1>MyGO!!!!! × Ave Mujica 资料库</h1>' +
-+      '<p class="lede">角色人设、剧情逐集、官方设定与社区解析 —— 按文件夹结构浏览。</p>' +
-+      '</div>' +
-+      '<div class="stats">' +
-+      '<div class="stat"><b>' + s.files + '</b><span>个文件</span></div>' +
-+      '<div class="stat"><b>' + s.dirs + '</b><span>个目录</span></div>' +
-+      '<div class="stat"><b>' + (s.bytes / 1048576).toFixed(1) + '</b><span>MB 文本</span></div>' +
-+      '<div class="stat"><b>10</b><span>位角色</span></div>' +
-+      '</div>';
-+
-+    function cards(list) {
-+      return '<div class="cards">' + list.map(function (d) {
-+        var c = colorFor(d.name);
-+        var role = roleFor(d.name);
-+        return '<a class="card" href="#/' + esc(d.path) + '"' +
-+          (c ? ' style="--cc:' + c + '"' : '') + '>' +
-+          '<span class="cn">' + esc(d.name.replace(/^\d+_/, '')) + '</span>' +
-+          '<span class="cs">' + (role ? esc(role) + ' · ' : '') + countFiles(d) + ' 个文件</span>' +
-+          '</a>';
-+      }).join('') + '</div>';
-+    }
-+
-+    if (others.length) h += '<div class="sec-h">剧情与总览</div>' + cards(others);
-+    if (chars.length) h += '<div class="sec-h">角色</div>' + cards(chars);
-+
-+    if (files.length) {
-+      h += '<div class="sec-h">根目录文件</div><ul class="filelist">' +
-+        files.map(fileRow).join('') + '</ul>';
-+    }
-+
-+    $('content').innerHTML = h;
-+    $('toc').innerHTML = '';
-+    highlightTree(null);
-+    $('main').scrollTop = 0;
-+  }
-+
-+  function fileRow(f) {
-+    return '<li><a href="#/' + esc(f.path) + '">' + fileIcon(f.ext) +
-+      '<span class="fn"><b>' + esc(prettyName(f.name)) + '</b>' +
-+      (f.summary ? '<span>' + esc(f.summary) + '</span>' : '') +
-+      '</span><span class="fsz">' + fmtSize(f.size) + '</span></a></li>';
-+  }
-+
-+  /* ─────────── 视图：文件夹 ─────────── */
-+
-+  function viewDir(node) {
-+    crumb(node.path, countFiles(node) + ' 个文件');
-+    var c = colorFor(node.name);
-+    var role = roleFor(node.name);
-+
-+    var h = '<div class="hero"><h1>' + esc(node.name.replace(/^\d+_/, '')) + '</h1>';
-+    if (role) h += '<p class="lede">' + esc(role) + '</p>';
-+    h += '</div>';
-+
-+    var dirs = (node.children || []).filter(function (x) { return x.type === 'dir'; });
-+    var files = (node.children || []).filter(function (x) { return x.type === 'file'; });
-+
-+    if (dirs.length) {
-+      h += '<div class="sec-h">子目录</div><div class="cards">' + dirs.map(function (d) {
-+        return '<a class="card" href="#/' + esc(d.path) + '"' +
-+          (c ? ' style="--cc:' + c + '"' : '') + '>' +
-+          '<span class="cn">' + esc(d.name.replace(/^\d+_/, '')) + '</span>' +
-+          '<span class="cs">' + countFiles(d) + ' 个文件</span></a>';
-+      }).join('') + '</div>';
-+    }
-+    if (files.length) {
-+      h += '<div class="sec-h">文件</div><ul class="filelist">' +
-+        files.map(fileRow).join('') + '</ul>';
-+    }
-+
-+    $('content').innerHTML = h;
-+    $('toc').innerHTML = '';
-+    highlightTree(node.path);
-+    $('main').scrollTop = 0;
-+  }
-+
-+  /* ─────────── 视图：文件 ─────────── */
-+
-+  function viewFile(node) {
-+    crumb(node.path, fmtSize(node.size) + ' · ' + node.chars.toLocaleString() + ' 字');
-+    highlightTree(node.path);
-+    $('main').scrollTop = 0;
-+
-+    function paint(text) {
-+      var box = $('content');
-+      if (node.ext === 'md') {
-+        box.className = 'content md';
-+        box.innerHTML = renderMarkdown(text);
-+        linkifyRefs(box);
-+        buildToc(box);
-+      } else {
-+        box.className = 'content';
-+        box.innerHTML = '<h1 style="font-size:22px;margin:4px 0 14px">' +
-+          esc(prettyName(node.name)) + '</h1>' +
-+          '<div class="txt">' + esc(text) + '</div>';
-+        $('toc').innerHTML = '';
-+      }
-+    }
-+
-+    if (state.cache[node.path]) { paint(state.cache[node.path]); return; }
-+
-+    $('content').className = 'content';
-+    $('content').innerHTML = '<div class="loading"><i class="spin"></i>载入中…</div>';
-+    $('toc').innerHTML = '';
-+
-+    fetch(LIB + '/' + encPath(node.path))
-+      .then(function (r) {
-+        if (!r.ok) throw new Error('HTTP ' + r.status);
-+        return r.text();
-+      })
-+      .then(function (t) { state.cache[node.path] = t; paint(t); })
-+      .catch(function (e) {
-+        $('content').innerHTML = '<div class="errbox">载入失败：' + esc(e.message) +
-+          '
-<small style="color:var(--tx-faint)">' + esc(node.path) + '</small></div>';
-+      });
-+  }
-+
-，
+# MyGO!!!!! × Ave Mujica 资料库
+
+一个围绕《BanG Dream! It's MyGO!!!!!》与《BanG Dream! Ave Mujica》整理的中文资料库，收录动画剧情、角色资料、官方访谈、漫画与游戏内容、剧场版资料、社区解析及角色关系梳理。
+
+仓库地址：https://github.com/xoqnapgf-dot/bangdream
+
+在线网站：https://xoqnapgf-dot.github.io/bangdream/
+
+网站采用文件浏览器形式展示资料：桌面端左侧为目录树，移动端可从菜单打开目录；点击文件即可阅读正文。
+
+---
+
+## 一、资料库内容
+
+```text
+资料库/
+├── 00_剧情区/
+│   ├── 01_MyGO动画/          《It's MyGO!!!!!》13 集台词与剧情底稿
+│   ├── 02_AveMujica动画/     《Ave Mujica》剧情总纲与角色视角整理
+│   ├── 03_剧场版/            MyGO!!!!! 前后篇与《prima aurora》资料
+│   ├── 04_漫画游戏/          漫画、游戏资料与 MyGO!!!!! 剧情对白英文版
+│   ├── 05_官方访谈与设定/    官方访谈、设定与确证内容
+│   ├── 06_社区解析_推测/     剧情分析、考据与社区观点
+│   └── 07_CP线梳理/          角色关系与 CP 向内容
+├── 01_高松灯/ ～ 10_丰川祥子/
+│   └── 人设汇总与角色关系文件
+├── 11_次要角色_纯田真奈/
+└── README_资料库说明.md
+```
+
+当前目录清单为 134 个文件、19 个目录。实际数量以 `assets/manifest.json` 为准。
+
+### 剧场版资料
+
+`资料库/00_剧情区/03_剧场版/` 当前包含两份综合资料：
+
+- `MyGO剧场版_资料汇总.md`
+  - 前篇《春の陽だまり、迷い猫》
+  - 后篇《うたう、僕らになれるうた & FILM LIVE》
+  - 上映与发行信息
+  - 新规镜头、重剪差异与 FILM LIVE
+  - 片尾曲、专辑及 Blu-ray 资料
+- `AveMujica剧场版_prima_aurora资料汇总.md`
+  - 官方 Introduction 与角色近况
+  - 日本、台湾及香港发行信息
+  - 制作阵容、插曲、专辑与场刊
+  - 标题、Secret Masquerade、“神”与责任等主题内容
+
+两份资料均加入官方远程主视觉、角色图、歌曲封面、专辑封面或 Blu-ray 封面，并嵌入官方 Bilibili 预告片。
+
+---
+
+## 二、网站功能
+
+- 文件夹树导航，可展开或收起目录
+- 角色目录内优先显示 `人设汇总_*.md`
+- Markdown 与纯文本阅读
+- 标题、引用、表格、列表、代码块与普通图片渲染
+- Bilibili 视频站内播放
+- 响应式图片画廊
+- 文件名与标题搜索
+- 正文大纲与滚动定位
+- 文件交叉引用跳转
+- 深色、浅色主题切换
+- 桌面与移动端响应式布局
+- 原始剧情和访谈目录的锁标记，以及剧场版目录的阶段性半锁标记
+- Hash 路由，可分享具体文件地址
+- 浏览器后退或前进时恢复离开前的阅读位置
+- 完整仓库可直接双击 `index.html` 离线阅读
+- 含手写文内目录的长文提供浮动“目录”按钮
+
+项目为纯静态网站，使用原生 HTML、CSS 和 JavaScript，不依赖前端框架，也不需要打包构建。
+
+---
+
+## 三、阅读注意事项
+
+### 1. 剧透
+
+资料库包含完整剧情、角色经历、剧场版新增段落、结尾及人物关系分析。阅读动画、剧场版和角色文件时可能遇到大量剧透。
+
+### 2. 官方内容与社区观点
+
+官方剧情、设定、访谈和商品信息，与社区解析、考据、推测及 CP 向内容属于不同类型。社区观点不代表 Bushiroad、BanG Dream! Project、动画制作团队或出演者的官方结论。
+
+### 3. 原始底稿
+
+动画台词、剧本、访谈原文及公式书整理属于资料底稿。维护时应尽量保持原貌；目录排序、显示名称和阅读体验优先通过前端处理。
+
+### 4. 图片与视频
+
+剧场版页面使用电影官网、BanG Dream! 官方网站及官方 Bilibili 账号的远程资源，仓库不保存这些图片和视频的副本。
+
+远程资源可能因官方改版、地址调整、地区限制或平台播放策略而暂时无法加载。图片或视频失效时，应优先更新为新的官方地址，不要改用来源不明的转载资源。
+
+### 5. 来源链接
+
+普通来源以可点击链接集中列在相应文件末尾。引用资料时，建议继续查看原始页面，尤其是访谈、影院档期、商品规格和社区分析。
+
+### 6. 版权
+
+本项目为非官方资料整理。作品名称、角色、图片、视频、音乐及相关版权归 BanG Dream! Project、Bushiroad 及各权利方所有。
+
+---
+
+## 四、维护注意事项
+
+### 1. 重新生成目录清单
+
+增删或修改 `资料库/` 内文件后，运行：
+
+```bash
+python3 tools/build_manifest.py
+```
+
+`assets/manifest.json` 与 `assets/offline-data.js` 由脚本生成，不应手工修改。脚本也会更新 `index.html` 中的静态资源版本号，避免浏览器继续使用旧缓存。页面显示的清单生成时间固定使用北京时间（UTC+8），不跟随运行脚本的服务器时区。
+
+### 2. 本地阅读与预览
+
+下载完整仓库并保持目录结构后，可直接双击 `index.html`。页面通过 `assets/offline-data.js` 读取目录、正文及视频元数据，不依赖本地服务器。
+
+如需用 HTTP 环境检查，也可运行：
+
+```bash
+python3 -m http.server 8080 --bind 0.0.0.0
+```
+
+然后打开 `http://localhost:8080/`。
+
+### 3. Bilibili 视频语法
+
+```markdown
+@[bilibili](BV1xxxxxxxxx "视频标题")
+```
+
+渲染器只接受 BV 号，并生成 Bilibili 官方站外播放器。不要直接向资料正文加入任意 iframe。
+
+### 4. 图片画廊语法
+
+```markdown
+@[gallery]
+![图片一](https://example.com/1.jpg "图片一说明")
+![图片二](https://example.com/2.jpg "图片二说明")
+@[/gallery]
+```
+
+画廊只接受 HTTPS 图片地址。剧场版页面优先使用电影官网和 BanG Dream! 官方网站提供的图片。
+
+### 5. 提交前检查
+
+```bash
+node --check assets/app.js
+python3 tools/build_manifest.py
+git diff --check
+```
+
+还应分别通过本地双击和 HTTP 环境检查：
+
+- 首页和目录是否能够打开
+- 修改后的文件是否能正常读取
+- 图片画廊在桌面与手机宽度下是否正常
+- Bilibili 播放器是否能识别视频
+- 普通来源链接是否可点击
+
+### 6. GitHub Pages 与预览链接
+
+GitHub Pages 从 `main` 分支根目录部署，合并后网站才会更新。
+
+包含 commit ID 的 RawGitHack 链接是固定版本链接。它不会随着分支继续更新；查看新改动时需要打开新 commit 对应的预览地址。
+
+---
+
+## 五、主要文件
+
+| 文件 | 用途 |
+| --- | --- |
+| `index.html` | 页面结构 |
+| `assets/style.css` | 页面样式、主题、移动端布局、画廊与播放器样式 |
+| `assets/app.js` | 目录、路由、搜索、Markdown 渲染、图片画廊与视频嵌入 |
+| `assets/manifest.json` | 网站部署时使用的资料目录清单 |
+| `assets/offline-data.js` | 本地双击时使用的目录、正文与视频元数据 |
+| `assets/video-meta.json` | Bilibili 视频标题、封面等展示元数据 |
+| `tools/build_manifest.py` | Manifest、离线包及缓存版本生成脚本 |
+| `README.md` | 仓库首页简介 |
+| `项目简介.txt` | 项目说明、阅读与维护注意事项 |
+| `资料库/README_资料库说明.md` | 资料库定位、阅读注意事项与整理原则 |
+
+---
+
+## 六、更新原则
+
+- 优先采用官网、官方公告、正式商品页和可访问的原始来源。
+- 剧情事实、官方设定和社区观点保持清楚的内容归属。
+- 不把推测写成官方剧情。
+- 相似内容不等于重复内容，删改前应确认是否存在信息差异。
+- 概括用于帮助阅读，不代替需要保留的原始文本。
+- 图片和视频只选与正文直接相关的官方素材，避免堆砌。
+- 页面正文面向读者展示内容，不写核验过程、内部修改记录或反复自我说明。

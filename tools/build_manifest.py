@@ -11,8 +11,18 @@ import datetime
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 LIB = ROOT / "资料库"
 OUT = ROOT / "assets" / "manifest.json"
+OFFLINE_OUT = ROOT / "assets" / "offline-data.js"
+VIDEO_META = ROOT / "assets" / "video-meta.json"
+INDEX_HTML = ROOT / "index.html"
 
 TEXT_EXT = {".md", ".txt"}
+BEIJING_TZ = datetime.timezone(datetime.timedelta(hours=8))
+PINNED_DISPLAY_PATHS = {
+    "00_剧情区/04_漫画游戏/MyGO_漫画游戏情节汇总.md",
+    "00_剧情区/05_官方访谈与设定/MyGO_确证内容汇总.md",
+    "00_剧情区/06_社区解析_推测/MyGO_分析推测汇总.md",
+    "00_剧情区/07_CP线梳理/MyGO_CP线梳理.md",
+}
 
 
 def read_text(p: pathlib.Path) -> str:
@@ -89,6 +99,49 @@ def walk(d: pathlib.Path):
     }
 
 
+def relocate_for_display(tree):
+    """只调整网站目录展示，不移动资料库中的原文件。"""
+    story_root = next(
+        (n for n in tree["children"] if n.get("path") == "00_剧情区"), None
+    )
+    if not story_root:
+        return
+    mygo_dir = next(
+        (n for n in story_root["children"] if n.get("path") == "00_剧情区/01_MyGO动画"), None
+    )
+    game_dir = next(
+        (n for n in story_root["children"] if n.get("path") == "00_剧情区/04_漫画游戏"), None
+    )
+    if not mygo_dir or not game_dir:
+        return
+
+    dialogue_path = "00_剧情区/04_漫画游戏/MyGO剧情对白_英文版.md"
+    dialogue = next(
+        (n for n in game_dir["children"] if n.get("path") == dialogue_path), None
+    )
+    if dialogue:
+        game_dir["children"].remove(dialogue)
+        # 文件无数字前缀，前端自然排序会把它固定在第 13 集之后。
+        mygo_dir["children"].append(dialogue)
+
+
+def pin_summaries_for_display(node):
+    """让指定总览在清单与前端排序中都稳定置顶。"""
+    if node.get("type") != "dir":
+        return
+    dirs = [child for child in node["children"] if child["type"] == "dir"]
+    files = [child for child in node["children"] if child["type"] == "file"]
+    files.sort(
+        key=lambda child: (
+            child["path"] not in PINNED_DISPLAY_PATHS,
+            natural_key(child["name"]),
+        )
+    )
+    node["children"] = dirs + files
+    for child in dirs:
+        pin_summaries_for_display(child)
+
+
 def count(node):
     f = d = 0
     for c in node["children"]:
@@ -106,11 +159,15 @@ def main():
     if not LIB.is_dir():
         raise SystemExit(f"找不到资料库目录: {LIB}")
     tree = walk(LIB)
+    relocate_for_display(tree)
+    pin_summaries_for_display(tree)
     nf, nd = count(tree)
     total = sum(p.stat().st_size for p in LIB.rglob("*") if p.is_file())
+    now = datetime.datetime.now(BEIJING_TZ)
     data = {
         "root": LIB.name,
-        "generated": datetime.datetime.now().strftime("%Y-%m-%d %H:%M"),
+        # 固定使用北京时间，避免生成环境的本地时区影响页面显示。
+        "generated": now.strftime("%Y-%m-%d %H:%M"),
         "stats": {"files": nf, "dirs": nd, "bytes": total},
         "tree": tree,
     }
@@ -119,7 +176,35 @@ def main():
         json.dumps(data, ensure_ascii=False, separators=(",", ":")),
         encoding="utf-8",
     )
-    print(f"✅ {OUT.relative_to(ROOT)}  —  {nf} 个文件 / {nd} 个目录 / {total/1024:.0f} KB")
+
+    video_meta = json.loads(VIDEO_META.read_text("utf-8")) if VIDEO_META.is_file() else {}
+    content = {
+        p.relative_to(LIB).as_posix(): read_text(p)
+        for p in LIB.rglob("*")
+        if p.is_file() and p.suffix.lower() in TEXT_EXT
+    }
+    offline = json.dumps(
+        {"manifest": data, "videoMeta": video_meta, "content": content},
+        ensure_ascii=False,
+        separators=(",", ":"),
+    ).replace("\u2028", "\\u2028").replace("\u2029", "\\u2029")
+    OFFLINE_OUT.write_text("window.__BD_OFFLINE_DATA__=" + offline + ";\n", encoding="utf-8")
+
+    # 每次重建内容时同步更新静态资源版本，避免部署站点继续使用旧离线包。
+    if INDEX_HTML.is_file():
+        index = INDEX_HTML.read_text("utf-8")
+        version = now.strftime("%Y%m%d%H%M%S")
+        index = re.sub(
+            r"(assets/(?:style\.css|offline-data\.js|app\.js)\?v=)[^\"']+",
+            rf"\g<1>{version}",
+            index,
+        )
+        INDEX_HTML.write_text(index, encoding="utf-8")
+
+    print(
+        f"✅ {OUT.relative_to(ROOT)}  —  {nf} 个文件 / {nd} 个目录 / {total/1024:.0f} KB\n"
+        f"✅ {OFFLINE_OUT.relative_to(ROOT)}  —  本地双击备用数据 {OFFLINE_OUT.stat().st_size/1024:.0f} KB"
+    )
 
 
 if __name__ == "__main__":
