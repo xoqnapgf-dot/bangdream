@@ -134,8 +134,9 @@
     s = s.replace(/`([^`]+)`/g, function (_, c) {
       codes.push(c); return '\u0000C' + (codes.length - 1) + '\u0000';
     });
+    // no-referrer：部分图床按 Referer 做防盗链，去掉来源头能显著提高外链成功率
     s = s.replace(/!\[([^\]]*)\]\(([^)\s]+)[^)]*\)/g,
-      '<img src="$2" alt="$1" loading="lazy">');
+      '<img src="$2" alt="$1" loading="lazy" referrerpolicy="no-referrer">');
     s = s.replace(/\[([^\]]+)\]\(([^)\s]+)[^)]*\)/g, function (_, t, h) {
       var ext = /^(https?:)?\/\//.test(h) ? ' target="_blank" rel="noopener"' : '';
       return '<a href="' + esc(h) + '"' + ext + '>' + t + '</a>';
@@ -261,8 +262,8 @@
         if (gallery.length) {
           out.push('<div class="image-gallery">' + gallery.map(function (image) {
             return '<figure class="media-card"><img src="' + esc(image.src) + '" alt="' +
-              esc(image.alt) + '" loading="lazy"><figcaption>' + esc(image.caption) +
-              '</figcaption></figure>';
+              esc(image.alt) + '" loading="lazy" referrerpolicy="no-referrer">' +
+              '<figcaption>' + esc(image.caption) + '</figcaption></figure>';
           }).join('') + '</div>');
         }
         continue;

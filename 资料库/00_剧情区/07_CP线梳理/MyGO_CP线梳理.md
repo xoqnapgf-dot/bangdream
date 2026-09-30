@@ -206,10 +206,7 @@ Ave Mujica 动画前期冷遇爱素的同时，手游 2025 年素世生日回与
 
 > 千早爱音 × 高松灯 · 动画主线
 
-@[gallery]
-![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
-![高松灯官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松灯 · Vo.")
-@[/gallery]
+![爱音与灯 · 官方应援插画](https://anime.bang-dream.com/mygo/wordpress/wp-content/uploads/2023/07/14175500/5_anon_tomori.png "爱音与灯 · 动画第 5 话放送纪念应援插画　Illustration：成海七海")
 
 ### 磕点核心
 
