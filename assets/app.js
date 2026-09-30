@@ -858,11 +858,19 @@
     }
     box.querySelectorAll('a[href^="#"]:not([href^="#/"])').forEach(function (a) {
       var wanted = key(a.textContent);
-      var target = heads.find(function (h) { return key(h.textContent) === wanted; });
+      function findHead(needle) {
+        if (!needle) return null;
+        return heads.find(function (h) { return key(h.textContent) === needle; }) ||
+          heads.find(function (h) {
+            var heading = key(h.textContent);
+            return heading.indexOf(needle) === 0 || needle.indexOf(heading) === 0;
+          });
+      }
+      var target = findHead(wanted);
       if (!target) {
         var raw = a.getAttribute('href').slice(1);
         try { raw = decodeURIComponent(raw); } catch (_) {}
-        target = heads.find(function (h) { return key(h.textContent) === key(raw); });
+        target = findHead(key(raw));
       }
       if (!target) return;
       a.href = '#' + target.id;
@@ -889,6 +897,8 @@
   }
 
   function route() {
+    /* 页内标题锚点不属于文件路由；避免旧目录链接把正文误判成文件路径。 */
+    if (location.hash && location.hash.indexOf('#/') !== 0) return;
     if (state.current !== null) state.scrolls[state.current] = $('main').scrollTop;
     var raw = location.hash.replace(/^#\/?/, '');
     var path = '';
