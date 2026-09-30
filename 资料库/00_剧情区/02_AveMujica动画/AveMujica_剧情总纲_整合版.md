@@ -5,6 +5,8 @@
 > 按时间顺序叙述剧情本身，不含解读与评价。公演名沿用动画中的拉丁语原名。
 >
 > 「」内为剧中原话，均经字幕核对，方法见文末「台词核对方法」。
+>
+> 小节标题上的话数指《Ave Mujica》TV 动画的**播出话数**（全 13 话），按逐帧字幕的时间码判定，不按剧情主题推断；跨两话的小节写成「第 5–6 话」这样的区间。MyGO!!!!! 本篇 13 话的逐集剧情另见 [01_MyGO动画](../01_MyGO动画/) 目录。
 - [祥子视角剧情](故事情节（祥子视角）.txt)
 - [睦视角剧情](故事情节（睦视角）.txt)
 - [Ave Mujica 官方访谈与设定](../05_官方访谈与设定/AveMujica_确证内容汇总.md)
@@ -22,22 +24,22 @@
 
 ## 目录
 
-- [前史：CRYCHIC 的成立与瓦解](#前史：CRYCHIC 的成立与瓦解)
-- [武道馆首演与揭面（Nostri Noctis）](#武道馆首演与揭面（Nostri Noctis）)
-- [揭面之后：身份曝光与睦的压力](#揭面之后：身份曝光与睦的压力)
-- [全国巡演（Continuatio Festi）：睦的崩溃与 Mortis 登场](#全国巡演（Continuatio Festi）：睦的崩溃与 Mortis 登场)
-- [Mortis 时期：假面下的裂缝](#Mortis 时期：假面下的裂缝)
-- [福冈公演与乐队解散](#福冈公演与乐队解散)
-- [解散之后：祥子回家、睦沉睡](#解散之后：祥子回家、睦沉睡)
-- [唤醒之路：乐奈的吉他与 MyGO 的介入](#唤醒之路：乐奈的吉他与 MyGO 的介入)
-- [重逢与 CRYCHIC 终演](#重逢与 CRYCHIC 终演)
-- [海铃的推动与母亲的证言](#海铃的推动与母亲的证言)
-- [天文馆与墨缇丝的抉择（Ne vivam si abis）](#天文馆与墨缇丝的抉择（Ne vivam si abis）)
-- [重组与初音真相（Odi et amo）](#重组与初音真相（Odi et amo）)
-- [初音的独白（Te ustus amem.）](#初音的独白（Te ustus amem.）)
-- [小岛重逢与出走（Fluctuat nec mergitur）](#小岛重逢与出走（Fluctuat nec mergitur）)
-- [再出发：从赤脚到神](#再出发：从赤脚到神)
-- [终章：两场演出（Per aspera ad astra）](#终章：两场演出（Per aspera ad astra）)
+- [第 1 话 · 前史：CRYCHIC 的成立与瓦解](#第 1 话 · 前史：CRYCHIC 的成立与瓦解)
+- [第 1 话 · 武道馆首演与揭面（Nostri Noctis）](#第 1 话 · 武道馆首演与揭面（Nostri Noctis）)
+- [第 2 话 · 揭面之后：身份曝光与睦的压力](#第 2 话 · 揭面之后：身份曝光与睦的压力)
+- [第 3 话 · 全国巡演（Continuatio Festi）：睦的崩溃与 Mortis 登场](#第 3 话 · 全国巡演（Continuatio Festi）：睦的崩溃与 Mortis 登场)
+- [第 4 话 · Mortis 时期：假面下的裂缝](#第 4 话 · Mortis 时期：假面下的裂缝)
+- [第 5 话 · 福冈公演与乐队解散](#第 5 话 · 福冈公演与乐队解散)
+- [第 5–6 话 · 解散之后：祥子回家、睦沉睡](#第 5–6 话 · 解散之后：祥子回家、睦沉睡)
+- [第 6–7 话 · 唤醒之路：乐奈的吉他与 MyGO 的介入](#第 6–7 话 · 唤醒之路：乐奈的吉他与 MyGO 的介入)
+- [第 7 话 · 重逢与 CRYCHIC 终演](#第 7 话 · 重逢与 CRYCHIC 终演)
+- [第 8 话 · 海铃的推动与母亲的证言](#第 8 话 · 海铃的推动与母亲的证言)
+- [第 9 话 · 重组之路：天文馆与墨缇丝的抉择（Ne vivam si abis）](#第 9 话 · 重组之路：天文馆与墨缇丝的抉择（Ne vivam si abis）)
+- [第 10 话 · 重组与初音真相（Odi et amo）](#第 10 话 · 重组与初音真相（Odi et amo）)
+- [第 11 话 · 初音的独白（Te ustus amem.）](#第 11 话 · 初音的独白（Te ustus amem.）)
+- [第 12 话 · 小岛重逢与出走（Fluctuat nec mergitur）](#第 12 话 · 小岛重逢与出走（Fluctuat nec mergitur）)
+- [第 12 话 · 再出发：从赤脚到神](#第 12 话 · 再出发：从赤脚到神)
+- [第 13 话 · 终章：两场演出（Per aspera ad astra）](#第 13 话 · 终章：两场演出（Per aspera ad astra）)
 - [乐队设定：分工、面具与花语](#乐队设定：分工、面具与花语)
 - [剧场版《Ave Mujica prima aurora》后续剧情](#剧场版《Ave Mujica prima aurora》后续剧情)
 - [游戏线剧情节点](#游戏线剧情节点)
@@ -48,7 +50,7 @@
 
 ---
 
-## 前史：CRYCHIC 的成立与瓦解
+## 第 1 话 · 前史：CRYCHIC 的成立与瓦解
 
 ![Ave Mujica 第 1 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2024/12/15183835/%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B9-01.00_02_16_23.%E9%9D%99%E6%AD%A2%E7%94%BB010-1024x576.png "Ave Mujica · 第 1 话官方场面图")
 
@@ -74,7 +76,7 @@ CRYCHIC 第一次登台演出时，初华如约前来观看，但原定要来的
 
 ---
 
-## 武道馆首演与揭面（Nostri Noctis）
+## 第 1 话 · 武道馆首演与揭面（Nostri Noctis）
 
 ![Ave Mujica 第 1 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2024/12/15183858/%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B9-01.00_07_25_04.%E9%9D%99%E6%AD%A2%E7%94%BB030-1024x576.png "Ave Mujica · 第 1 话官方场面图")
 
@@ -86,7 +88,7 @@ CRYCHIC 第一次登台演出时，初华如约前来观看，但原定要来的
 
 演出结束后，乐队众人登上了热搜，睦的排名最靠前，但此时睦已有了崩溃的预兆。祥子被媒体挖掘出了是丰川集团的大小姐，睦也被媒体挖掘出了是知名演员和搞笑艺人的女儿。回到学校后的睦被素世兴师问罪——「明明就不肯和我组乐团」——在压力下告诉了素世乐队的策划者是祥子。
 
-## 揭面之后：身份曝光与睦的压力
+## 第 2 话 · 揭面之后：身份曝光与睦的压力
 
 ![Ave Mujica 第 2 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/01/06190141/%E2%91%A0BDAVE_ep02_Haishin_Harding_ARI_241025.00_10_50_09.%E9%9D%99%E6%AD%A2%E7%94%BB078-1024x576.png "Ave Mujica · 第 2 话官方场面图")
 
@@ -100,7 +102,7 @@ CRYCHIC 第一次登台演出时，初华如约前来观看，但原定要来的
 
 由于假面已被揭开，祥子修改了原先的舞台剧本并在剧本里狠狠嘲讽了 Amoris 的自作主张行为。若麦则在更早的时候就提议把 Ave Mujica 的公演往舞台剧方向靠，这一提议引起了祥子的不满。然而祥子以及众人似乎都没有注意到睦此时身心已经趋于崩溃。
 
-## 全国巡演（Continuatio Festi）：睦的崩溃与 Mortis 登场
+## 第 3 话 · 全国巡演（Continuatio Festi）：睦的崩溃与 Mortis 登场
 
 ![Ave Mujica 第 3 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/01/14093829/BDAVE_ep02_Haishin_Harding_ARI_241025.00_01_02_07.%E9%9D%99%E6%AD%A2%E7%94%BB214-1024x576.png "Ave Mujica · 第 3 话官方场面图")
 
@@ -114,7 +116,7 @@ Ave Mujica 全国巡演（Continuatio Festi）的第一站，此时的睦连赶�
 
 出演"音乐空间"当天，若麦和祥子在上台前的广告间隙还在争吵是否要"表演"。这使得对乐队现状近乎绝望的睦彻底崩溃，在保护者人偶的劝诱下，睦将身心献给了她——"墨缇丝（Mortis）"。于是，在工作人员准备倒计时时，睦——或者说墨缇丝——突然站出来打断了原先的演出计划，以异乎往日的腔调来了一段话剧表演，并将吉他置于地面上，起身道：「所以，没事了。晚安，祝你有个好梦。」这段诡异的演出震撼到了祥子。
 
-## Mortis 时期：假面下的裂缝
+## 第 4 话 · Mortis 时期：假面下的裂缝
 
 ![Ave Mujica 第 4 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/01/21101052/BDAVE_ep04_Haishin_Harding_ARI_241025_00001-1024x576.png "Ave Mujica · 第 4 话官方场面图")
 
@@ -126,7 +128,7 @@ Ave Mujica 全国巡演（Continuatio Festi）的第一站，此时的睦连赶�
 
 在福冈公演前，墨缇丝才兴高采烈地透露自己的吉他"全~都不会弹"，此举让成员疑惑的同时还让忍无可忍的祥子拉她出去谈话。愤怒的祥子训斥了墨缇丝，墨缇丝则公布了自己的真实身份，直言自己对祥子的厌恶，并指出是因为祥子的过错导致了睦的沉睡，还说睦看到现在的她是不可能回来的，吓得祥子作出了防御动作。祥子通过她对自己的称谓（睦对祥子的称呼是祥（さき）/saki，而墨缇丝对祥子的称呼是祥子（さきこ）ちゃん/sakiko-chan）意识到了站在自己面前的并不是睦。墨缇丝讲述了睦沉睡的全过程——当年祥子训斥素世的回旋镖全砸在了祥子头上，指出她的言行伤害了睦，令祥子感到自责，无言以对。
 
-## 福冈公演与乐队解散
+## 第 5 话 · 福冈公演与乐队解散
 
 ![Ave Mujica 第 5 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/01/28100424/%E2%91%A0BDAVE_ep05_Haishin_Harding_ARI_241025.mp4.10_03_50_10.%E9%9D%99%E6%AD%A2%E7%94%BB011-1024x576.png "Ave Mujica · 第 5 话官方场面图")
 
@@ -138,7 +140,7 @@ Ave Mujica 全国巡演（Continuatio Festi）的第一站，此时的睦连赶�
 
 散场后台，海铃换好衣服说了句「辛苦了」便利落地先走；祥子仍穿着演出服呆立在原地；而墨缇丝一个人跪坐在空无一人的舞台上，久久没有离去。
 
-## 解散之后：祥子回家、睦沉睡
+## 第 5–6 话 · 解散之后：祥子回家、睦沉睡
 
 ![Ave Mujica 第 6 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/02/04100447/%E2%91%A0%E3%82%B7%E3%83%BC%E3%82%B1%E3%83%B3%E3%82%B9-01.00_01_13_07.%E9%9D%99%E6%AD%A2%E7%94%BB010-1024x576.png "Ave Mujica · 第 6 话官方场面图")
 
@@ -158,7 +160,7 @@ Ave Mujica 全国巡演（Continuatio Festi）的第一站，此时的睦连赶�
 
 冷静下来的素世通过耐心交谈得知了墨缇丝的现状，还帮墨缇丝整理房间，但看到她又拿着"电话"求助医生后，拿起另一只鞋子装作接电话的医生劝她可以去学习吉他，或许能通过这样的方式刺激让睦醒来。
 
-## 唤醒之路：乐奈的吉他与 MyGO 的介入
+## 第 6–7 话 · 唤醒之路：乐奈的吉他与 MyGO 的介入
 
 ![Ave Mujica 第 7 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/02/10205621/%E2%91%A0-1024x576.png "Ave Mujica · 第 7 话官方场面图")
 
@@ -172,7 +174,7 @@ Ave Mujica 全国巡演（Continuatio Festi）的第一站，此时的睦连赶�
 
 回到家中，墨缇丝告诉素世一切都是那个"讨厌的丰川祥子"干的，并在素世询问祥子住址时给出了祥子父亲的住址。在素世离开后小睦询问墨缇丝为什么要告诉素世祥子的事情和住址，请求墨缇丝阻止素世去找祥子，只不过最后还是被墨缇丝推进了玩偶堆里面。而墨缇丝转头也陷入"自己到底是为了什么才做这些"的虚无感之中。
 
-## 重逢与 CRYCHIC 终演
+## 第 7 话 · 重逢与 CRYCHIC 终演
 
 ![椎名立希把彩排的舞台让给 CRYCHIC](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots-best/%E8%88%9E%E5%8F%B0%E7%B5%A6%E5%A6%B3%E5%80%91%E7%94%A8%E5%90%A7.jpg "Ave Mujica · 第 7 话　椎名立希在 RiNG 把彩排的舞台让给 CRYCHIC")
 
@@ -198,7 +200,7 @@ Ave Mujica 全国巡演（Continuatio Festi）的第一站，此时的睦连赶�
 
 走到大厅时，两人被海铃拦下。海铃先道贺「你们重修旧好了，真是太好了呢」，紧接着问出那句「可以也和我重修旧好吗？」——意思是再做一次 Ave Mujica。祥子的回答是「Ave Mujica 已经……」，最终还是拒绝了。
 
-## 海铃的推动与母亲的证言
+## 第 8 话 · 海铃的推动与母亲的证言
 
 ![Ave Mujica 第 8 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/02/18111422/%E2%91%A0-1-1024x576.png "Ave Mujica · 第 8 话官方场面图")
 
@@ -210,7 +212,7 @@ Ave Mujica 全国巡演（Continuatio Festi）的第一站，此时的睦连赶�
 
 若麦对重组提出的条件，大意是要先把睦带来再谈。为了获取若麦信任，海铃在群聊中发出了重组 Ave Mujica 的邀请，得到了睦的回信。海铃把睦带回了自己家，并看出来此时主导身体的是墨缇丝——她要从零开始教这具「人偶」。墨缇丝认为自己如果不组 Mujica 就会消失，海铃便把自己的吉他交给她，尝试教她假弹吉他——「你只要模仿真正的演奏就行了」——于是墨缇丝开始努力练习。这一方面激起了睦的不满，另一方面又给来拜访的祥子一个错误信号——练习吉他的是睦，她确实想重组 CRYCHIC。向海铃报告"学会三首了"以后，海铃认为墨缇丝依然需要"演得更像一些"。
 
-## 天文馆与墨缇丝的抉择（Ne vivam si abis）
+## 第 9 话 · 重组之路：天文馆与墨缇丝的抉择（Ne vivam si abis）
 
 ![Ave Mujica 第 9 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/02/25113743/%E2%91%A0-2-1024x576.png "Ave Mujica · 第 9 话官方场面图")
 
@@ -222,7 +224,7 @@ Ave Mujica 全国巡演（Continuatio Festi）的第一站，此时的睦连赶�
 
 于是，当 Ave Mujica 众人在 RiNG 为未来目标而争吵的时候，看到祥子仍坚定地认为只有重组 CRYCHIC 才能让睦幸福，墨缇丝模仿睦，对祥子说："不是 CRYCHIC 也可以，只要能和祥组乐队就好。"这句话获得了乐奈"有趣的女孩子"的称赞。随后到场的海铃更是对祥子"让睦幸福"的理由不以为然，认为祥子的行为是对墨缇丝的见死不救。而一旁的若麦对墨缇丝拙劣的演技感到"恶心"，当场揭穿了她。被揭穿的墨缇丝先是机械地复读，随后承认了"小睦"已经消失，继而跪地大哭。素世扶着她回家，而海铃则被立希命令陪护她。墨缇丝和海铃离开后祥子也离开了，没有对其他成员的发言作出回应。
 
-## 重组与初音真相（Odi et amo）
+## 第 10 话 · 重组与初音真相（Odi et amo）
 
 ![Ave Mujica 第 10 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/03/04093944/%E2%91%A0-1024x576.png "Ave Mujica · 第 10 话官方场面图")
 
@@ -238,7 +240,7 @@ Ave Mujica 全国巡演（Continuatio Festi）的第一站，此时的睦连赶�
 
 此后祥子被祖父接走并禁足，定下送往瑞士。她试图联系初华却毫无音讯；海铃打电话来时，祥子才得知初华早已离开了住所。
 
-## 初音的独白（Te ustus amem.）
+## 第 11 话 · 初音的独白（Te ustus amem.）
 
 ![Ave Mujica 第 11 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/03/11111859/%E2%91%A0-1-1024x576.png "Ave Mujica · 第 11 话官方场面图")
 
@@ -260,7 +262,7 @@ Ave Mujica 全国巡演（Continuatio Festi）的第一站，此时的睦连赶�
 
 独白的最后，她在自我拷问中崩塌——「喜欢祥酱？真的吗？全是谎话。可怜的我，悲剧的女主角」。这一集结束时，初音独自站在故乡小岛的海边，月光照在海面上。
 
-## 小岛重逢与出走（Fluctuat nec mergitur）
+## 第 12 话 · 小岛重逢与出走（Fluctuat nec mergitur）
 
 ![Ave Mujica 第 12 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/03/18112833/%E2%91%A0-2-1024x576.png "Ave Mujica · 第 12 话官方场面图")
 
@@ -282,7 +284,7 @@ Ave Mujica 全国巡演（Continuatio Festi）的第一站，此时的睦连赶�
 
 走到花园里，祥子想起刚才祖父错愕的表情，忍不住放声大笑，拉着初华在园中捉虫戏水，把幼年时缺掉的那一天补了回来。
 
-## 再出发：从赤脚到神
+## 第 12 话 · 再出发：从赤脚到神
 
 ![丰川祥子](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots-best/%E6%88%91%E6%98%AFAve%20Mujica%E7%9A%84Oblivionis.jpg "Ave Mujica · 第 12 话　丰川祥子：我可是 Ave Mujica 的 Oblivionis")
 
@@ -296,7 +298,7 @@ Ave Mujica 五人再次聚首于 RiNG。祥子定下尽快再出道的目标，�
 
 另有一次，工作完的祥子在 KTV 外遇到素世，两人结伴散步小叙。素世问候了祥子与 Mujica 的近况，提出想正式邀请她来看 MyGO!!!!! 的 Live；祥子因时间安排紧张婉拒了，歉疚地笑着反问「如果又产生留恋的话该怎么办」，最后说能一起聊天真好，约素世下次一起喝茶。
 
-## 终章：两场演出（Per aspera ad astra）
+## 第 13 话 · 终章：两场演出（Per aspera ad astra）
 
 ![Ave Mujica 第 13 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/03/25111139/%E2%91%A0%E3%83%89%E3%83%AD%E3%83%AA%E3%82%B9-1024x576.png "Ave Mujica · 第 13 话官方场面图")
 

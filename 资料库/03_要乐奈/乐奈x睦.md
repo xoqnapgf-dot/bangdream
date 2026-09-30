@@ -29,8 +29,8 @@
 
 ## 二、原作糖点与关键节点（事实层）
 
-- **2.7 看穿戏（RiNG）**：素世陪护墨缇丝前往 RiNG，遇上刚结束排练的 MyGO 众人——乐奈一眼看出眼前的人不是睦："一个身体有两个灵魂，另一个正在沉睡"（总纲行101；miraheze BanG Dream! Wiki：she was quickly able to sense that there are two people within Mutsumi's body when she met Mortis for the first time）。乐奈离开后，墨缇丝抱着吉他一路跟随她来到 SPACE 旧址。
-- **2.7《迷星叫》唤醒戏**：次日再集结时，乐奈站在咖啡厅小舞台弹起《迷星叫》——CRYCHIC 与 MyGO 的分界之歌，吉他的"歌唱"让睦本体苏醒（总纲行103）。官方场景明示这首歌是唤醒睦的关键（MyGO 12-13 话同曲旋律的回收）。
+- **2.7 看穿戏（RiNG）**：素世陪护墨缇丝前往 RiNG，遇上刚结束排练的 MyGO 众人——乐奈一眼看出眼前的人不是睦："一个身体有两个灵魂，另一个正在沉睡"（总纲「第 6–7 话 · 唤醒之路：乐奈的吉他与 MyGO 的介入」；miraheze BanG Dream! Wiki：she was quickly able to sense that there are two people within Mutsumi's body when she met Mortis for the first time）。乐奈离开后，墨缇丝抱着吉他一路跟随她来到 SPACE 旧址。
+- **2.7《迷星叫》唤醒戏**：次日再集结时，乐奈站在咖啡厅小舞台弹起《迷星叫》——CRYCHIC 与 MyGO 的分界之歌，吉他的"歌唱"让睦本体苏醒（总纲「第 6–7 话 · 唤醒之路：乐奈的吉他与 MyGO 的介入」）。官方场景明示这首歌是唤醒睦的关键（MyGO 12-13 话同曲旋律的回收）。
 - **2.9《Fields of flowers》**：墨缇丝模仿睦在 RiNG 演出"复归"，乐奈一眼看穿换人与模仿，笑称"有趣的女孩子"（miraheze：seeing through Mortis switching and mimicking Mutsumi during Ave Mujica's "reunion" at RiNG, leading to Raana smirking and calling her an interesting girl）。
 - **2.8**：乐奈缺席（"乐奈不知道跑到哪里去了"，总纲记录）——她对 A 型墨缇丝（模仿睦等待海铃救援）无反应，对"有趣的"演技形态（2.9 墨缇丝）才有反应。这是乐奈式判定的原始样本：她回应的不是"睦"，是"能骗到她的东西"。
 - **声优层彩蛋**（社区收录）：睦役渡瀬結月×乐奈役青木陽菜——断案文点出这一组合"隐约可见深川瑠华（D4DJ）的影子"（渡瀬結月与青木陽菜在 D4DJ 的关联企划背景），日文圈通行的声优层补注。
