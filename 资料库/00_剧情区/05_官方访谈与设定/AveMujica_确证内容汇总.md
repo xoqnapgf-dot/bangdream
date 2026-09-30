@@ -46,6 +46,8 @@ Ave Mujica 的“假面乐队”方案在企划中一度被搁置，后来重新
 
 ## 舞台世界与音乐
 
+@[bilibili](BV18LjB6eEYm "Ave Mujica《The Whole Blue World》官方 MV")
+
 ### 月、人偶与 Masquerade
 
 《It's MyGO!!!!!》第 13 话确立了 Ave Mujica 的舞台语汇：月光、齿轮、人偶、假面与舞台剧。祥子不仅负责键盘和作曲，也负责 Live 演出设计。成员以舞台名进入故事角色，再由歌曲接续舞台叙事。
@@ -87,6 +89,8 @@ Mortis 代表睦压倒性的表演才能，睦则保留脆弱、难以表达的�
 若麦同时是鼓手、视频创作者，并在电影时间点以演员身份活动。她会直接挑战祥子的决定，也最早把成员身份公开。监督并未把这种行动简单归为破坏乐队，而是把她写成始终考虑观众、粉丝与乐队生存方式的人；她与睦之间则由羡慕、嫉妒和爱憎交织，官方没有把两人的关系定性为恋爱。
 
 ## 2026 年音乐与现场
+
+@[bilibili](BV1sNdGYWEvv "《焚音打（Tanebi）》（Ave Mujica 第 13 话插曲）")
 
 Best Album《Ave Música》于 2026 年 6 月 17 日发售，收录 15 首歌曲，其中《The Whole Blue World》为新曲。电影插入曲《A Song Of Romance》于 9 月 14 日先行配信；9 月 24 日又上线 Lady Gaga 原曲《Abracadabra》的翻唱版。
 

@@ -121,6 +121,8 @@
 
 ## 二、丰川祥子深度解读
 
+![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
+
 ### 2.1 "六个阶段失去"说
 
 祥子行为可概括为："受困于高贵的出身，不愿承认软弱和错误，不愿接受好意，被往日幻影蒙蔽双眼"。六个阶段失去：失去金钱→失去理想→失去羁绊→失去亲情→失去权威→失去理解和善良。
@@ -158,6 +160,8 @@ MyGO是"无数个瞬间连接起来"，Mujica是"把一个瞬间变成永恒"。
 ---
 
 ## 三、若叶睦 & Mortis 深度解读
+
+![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
 
 ### 3.1 人格机制全解析——从小睦到Mortis的诞生与演化
 
@@ -202,6 +206,8 @@ MyGO是"无数个瞬间连接起来"，Mujica是"把一个瞬间变成永恒"。
 
 ## 四、三角初华/初音深度解读
 
+![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
+
 ### 4.1 "太阳意象"——燃烧自己的偶像初华
 
 Sumimi中的初华是"照亮众人的太阳"，但第4集彩蛋中甜圈走后立刻卸下伪装，非常疲惫——"太阳的燃烧自己"。夏季大三角（牛郎星、织女星、天津四）与三角初华的关联：初华是牛郎、祥子是织女、灯是天津四（鹊桥/渡口）——灯是祥子和初华相遇的契机。初华有意接近灯——她"研究敌情"开盒灯和祥子的关系。引用《利兹与青鸟》解读初祥关系：初华认为祥子是自己的青鸟，但两人之前是"一年见一次面的牛郎与织女"。（NGA 2023-09-27，追番期预测帖，极具前瞻性）
@@ -234,6 +240,8 @@ Sumimi中的初华是"照亮众人的太阳"，但第4集彩蛋中甜圈走后�
 
 ## 五、八幡海铃深度解读
 
+![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
+
 ### 5.1 "恐惧的逃避者"——软糯本质
 
 海铃的冷峻外表和成熟能力下是逃避——妄图通过不投入过多情感来避免痛苦。被命名为Timoris（拉丁语"恐惧"）暗示本质是胆怯的逃避者。在重建Mujica过程中直面曾经的恐惧，开始了真正意义上的成长。（B 站 2025-03-07）
@@ -259,6 +267,8 @@ DSM-5框架下推测：恐惧-回避型依恋，甚至可能对应恐惧型焦�
 ---
 
 ## 六、祐天寺若麦（喵梦）深度解读
+
+![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
 
 ### 6.1 "幕间剧"揭示——被宠爱到玩坏然后抛弃
 
@@ -311,6 +321,8 @@ NGA社区有人指出：喵梦角色在丰川家对峙那幕的形象与前期�
 ---
 
 ## 八、世界观与符号体系
+
+@[bilibili](BV1Zh5Yz3EzV "《八芒星ダンス（Octagram Dance）》（第 13 话插曲）")
 
 ### 8.1 团名多重含义
 

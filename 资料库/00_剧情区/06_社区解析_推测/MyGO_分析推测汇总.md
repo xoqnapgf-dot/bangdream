@@ -69,6 +69,14 @@
 
 ## 二、角色深度分析
 
+@[gallery]
+![高松灯官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松灯 · Vo.")
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
+![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
+![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
+@[/gallery]
+
 ### 高松灯
 
 **共识（多平台一致）**：MyGO的心脏，所有人认可。自闭+自我中心，隐晦的傲慢感，但出发点纯粹。
@@ -205,6 +213,8 @@
 ---
 
 ## 八、《春日影》歌词学深度解读
+
+@[bilibili](BV1JHLUz4EUy "MyGO!!!!!《春日影（MyGO!!!!! ver.）》官方 MV")
 
 > 来源：豆瓣影评 はるのLeeベル，★★★★★
 
