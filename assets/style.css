@@ -509,6 +509,15 @@ html[data-theme="dark"] .errbox { color: #f08a7e; }
 
 ::selection { background: var(--sel); }
 
+.section-return {
+  margin-left: 10px; padding: 2px 7px;
+  border: 1px solid var(--line); border-radius: 999px;
+  color: var(--tx-faint); background: transparent;
+  font: inherit; font-size: 11px; font-weight: 500;
+  vertical-align: 2px; cursor: pointer;
+}
+.section-return:hover { color: var(--accent); border-color: var(--accent); }
+
 /* ───────────── 响应式 ───────────── */
 @media (max-width: 1180px) {
   .toc { display: none; }

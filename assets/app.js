@@ -856,6 +856,7 @@
     function key(s) {
       return (s || '').toLowerCase().replace(/[\s—–·・:：，,。！？!?（）()【】\[\]"'“”‘’&]/g, '');
     }
+    var contentsHead = heads.find(function (h) { return key(h.textContent) === '目录'; });
     box.querySelectorAll('a[href^="#"]:not([href^="#/"])').forEach(function (a) {
       var wanted = key(a.textContent);
       function findHead(needle) {
@@ -878,6 +879,18 @@
         e.preventDefault();
         $('main').scrollTo({ top: target.offsetTop - 52, behavior: 'smooth' });
       });
+      if (contentsHead && target !== contentsHead && !target.querySelector('.section-return')) {
+        var back = document.createElement('button');
+        back.type = 'button';
+        back.className = 'section-return';
+        back.textContent = '返回目录';
+        back.addEventListener('click', function (e) {
+          e.preventDefault();
+          e.stopPropagation();
+          $('main').scrollTo({ top: contentsHead.offsetTop - 52, behavior: 'smooth' });
+        });
+        target.appendChild(back);
+      }
     });
   }
 
