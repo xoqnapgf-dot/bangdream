@@ -100,10 +100,7 @@ CP 讨论的走向和官方供给高度绑定，以下为截至 2026 年 9 月�
 
 > 千早爱音 × 长崎素世 · 断档式热门
 
-@[gallery]
-![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-@[/gallery]
+![素世与爱音 · TV 动画场面截图](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E7%88%BD%E4%B8%96%E4%B8%8D%E7%88%BD%E5%9C%B0%E7%9C%8B%E8%91%97%E6%84%9B%E9%9F%B3.jpg "素世与爱音 · TV 动画场面截图")
 
 ### 磕点核心
 
@@ -237,10 +234,7 @@ Ave Mujica 动画前期冷遇爱素的同时，手游 2025 年素世生日回与
 
 > 高松灯 × 长崎素世
 
-@[gallery]
-![高松灯官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松灯 · Vo.")
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-@[/gallery]
+![素世走向长椅上的灯 · 第 13 话夜晚公园](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots-best/%E5%83%8F%E6%98%AF%E8%AC%9D%E8%AC%9D%E6%88%96%E8%AC%9D%E8%AC%9D%E9%82%84%E6%9C%89%E8%AC%9D%E8%AC%9D%E5%95%8A.jpg "素世走向长椅上的灯 · 第 13 话夜晚公园")
 
 ### 磕点核心
 
@@ -264,10 +258,7 @@ Ave Mujica 动画前期冷遇爱素的同时，手游 2025 年素世生日回与
 
 > 千早爱音 × 椎名立希
 
-@[gallery]
-![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
-![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
-@[/gallery]
+![立希与爱音 · TV 动画场面截图](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E7%AB%8B%E5%B8%8C%E8%88%87%E6%84%9B%E9%9F%B3.jpg "立希与爱音 · TV 动画场面截图")
 
 ### 磕点核心
 
@@ -296,10 +287,7 @@ Ave Mujica 动画前期冷遇爱素的同时，手游 2025 年素世生日回与
 
 > 要乐奈 × 椎名立希
 
-@[gallery]
-![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
-![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
-@[/gallery]
+![乐奈握住立希的手 · 动画片尾场面截图](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E6%A8%82%E5%A5%88%E6%8F%A1%E4%BD%8F%E7%AB%8B%E5%B8%8C%E7%9A%84%E6%89%8B.jpg "乐奈握住立希的手 · 动画片尾场面截图")
 
 ### 磕点核心
 
@@ -319,10 +307,7 @@ Ave Mujica 动画前期冷遇爱素的同时，手游 2025 年素世生日回与
 
 > 长崎素世 × 丰川祥子 · BE 美学
 
-@[gallery]
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
-@[/gallery]
+![素世跪地握住祥子的手 · 飞鸟山之夜](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E7%88%BD%E4%B8%96%E8%B7%AA%E8%91%97%E6%8F%A1%E4%BD%8F%E5%B0%8F%E7%A5%A5%E7%9A%84%E6%89%8B.jpg "素世跪地握住祥子的手 · 飞鸟山之夜")
 
 ### 磕点核心
 
@@ -344,7 +329,7 @@ Ave Mujica 动画前期冷遇爱素的同时，手游 2025 年素世生日回与
 
 > 长崎素世 × 若叶睦 · CRYCHIC 旧队友，现分属 MyGO!!!!! 与 Ave Mujica · 扭曲关系
 
-![素世与墨缇丝 · Ave Mujica 第 6 话](https://img.anitubu.com/imgs/2025/02/07/OXkZYlCzclkH9hx.jpg "素世与墨缇丝 · Ave Mujica 第 6 话，素世拿起另一只鞋配合墨缇丝「打电话」")
+![睦看着跪在地上的素世 · 飞鸟山之夜](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E5%B0%8F%E7%9D%A6%E7%9C%8B%E8%91%97%E8%B7%AA%E5%9C%B0%E4%B8%8A%E7%9A%84%E7%88%BD%E4%B8%96.jpg "睦看着跪在地上的素世 · 飞鸟山之夜")
 
 ### 磕点核心
 
@@ -400,10 +385,7 @@ P 站投稿量 938，Lofter 投稿量 8276。（Sky，2025-08-04）
 
 > 高松灯 × 丰川祥子 · CRYCHIC 旧队友，现分属 MyGO!!!!! 与 Ave Mujica · 便利贴羁绊
 
-@[gallery]
-![高松灯官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松灯 · Vo.")
-![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
-@[/gallery]
+![灯留给祥子的便利贴：「小祥，你幸福吗？」](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots-best/%28%E5%B0%8F%E7%A5%A5%EF%BC%8C%E5%A6%B3%E5%B9%B8%E7%A6%8F%E5%97%8E%29.jpg "灯留给祥子的便利贴：「小祥，你幸福吗？」")
 
 ### 磕点核心
 
@@ -437,10 +419,7 @@ P 站投稿量 938，Lofter 投稿量 8276。（Sky，2025-08-04）
 
 > 八幡海铃 × 椎名立希 · 分属 Ave Mujica 与 MyGO!!!!! · 冷美人 × 傲娇
 
-@[gallery]
-![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
-![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
-@[/gallery]
+![海铃看着立希 · TV 动画场面截图](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E6%B5%B7%E7%8E%B2%E7%9C%8B%E8%91%97%E7%AB%8B%E5%B8%8C.jpg "海铃看着立希 · TV 动画场面截图")
 
 ### 磕点核心
 

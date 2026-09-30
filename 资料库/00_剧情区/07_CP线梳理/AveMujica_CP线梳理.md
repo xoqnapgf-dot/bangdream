@@ -87,7 +87,7 @@ CP 讨论的走向和官方供给高度绑定，以下为截至 2026 年 9 月�
 
 > 三角初华 × 丰川祥子 · 断档式热门
 
-![初华与祥子 · 第 10 话小岛重逢](https://img.anitubu.com/imgs/2025/03/06/YPmUeznE0hdrwQZ.jpg "初华与祥子 · Ave Mujica 第 10 话，祥子逃到小岛找到初华")
+![初华从背后抱住祥子 · 渡轮之夜](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots-best/%5B%E7%84%A1%E8%A9%9E%5D%E5%88%9D%E8%8F%AF%E5%BE%9E%E5%BE%8C%E6%8A%B1%E8%91%97%E5%B0%8F%E7%A5%A5_1.jpg "初华从背后抱住祥子 · 渡轮之夜")
 @[bilibili](BV1Ep91YPEQo "Ave Mujica《Imprisoned XII》官方 MV（第 10 话插曲）")
 
 ### 磕点核心
@@ -134,10 +134,7 @@ CP 讨论的走向和官方供给高度绑定，以下为截至 2026 年 9 月�
 
 > 祐天寺若麦 × 若叶睦／Mortis · 爱憎羁绊
 
-@[gallery]
-![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
-![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
-@[/gallery]
+![若麦注视着睦 · TV 动画场面截图](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots-best/%5B%E7%84%A1%E8%A9%9E%5D%E5%96%B5%E5%A4%A2%E7%9C%8B%E8%91%97%E5%B0%8F%E7%9D%A6.jpg "若麦注视着睦 · TV 动画场面截图")
 ### 磕点核心
 
 若麦的主轴是睦。监督访谈定调"爱憎/因縁"——官方框的是若麦与睦/Mujica的强情感关系，但没有任何恋爱定性。"喵睦"读成恋爱是同人解读。核心戏：断线表演的起源→骂墨缇丝"恶心"→重组条件"把睦头带来再说"→后台表白"嫉妒你爱怜你"→舞台"爱之不尽"→错位感（话说给墨缇丝但应该给小睦）。 （官方访谈／NGA／贴吧）
@@ -195,10 +192,7 @@ mujica播出前有人预测喵祥必火。预测者列举的热度背景：mygo�
 
 > 丰川祥子 × 若叶睦 · 青梅竹马、创伤羁绊
 
-@[gallery]
-![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
-![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
-@[/gallery]
+![祥子与睦击掌 · TV 动画场面截图](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E5%B0%8F%E7%A5%A5%E8%88%87%E5%B0%8F%E7%9D%A6%E6%8B%8D%E6%89%8B.jpg "祥子与睦击掌 · TV 动画场面截图")
 ### 磕点核心
 
 祥子是睦人格机制形成的关键外因。睦的锚点是吉他和祥子。祥子以"送吉他"（未实锤但可推测）、压力拉爆、撰写世界观"三大贡献"创造了Mortis。祥子多次想让墨缇丝叫出小睦，最后一次在第10话——但那时小睦已经跌下内心世界舞台。
@@ -286,10 +280,7 @@ mujica吧以"睦祥不是mujica CP"为由封禁睦祥相关，引发讨论。有
 
 > 八幡海铃 × 若叶睦 · 守护者／安全网
 
-@[gallery]
-![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
-![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
-@[/gallery]
+![海铃与睦 · Ave Mujica 舞台](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots-best/%5B%E7%84%A1%E8%A9%9E%5D%E6%B5%B7%E7%8E%B2%E8%88%87%E5%B0%8F%E7%9D%A6.jpg "海铃与睦 · Ave Mujica 舞台")
 ### 磕点核心
 
 海铃是睦在Mujica中唯一的"安全网"——她陪同睦去看MyGO演出、在睦精神崩塌后成为重组Mujica的推动者。有解读认为海铃对睦有一种"保护者"意识，源于她自己不愿投入情感的"旁观者"身份使她能更清晰地看到睦的困境。但这段关系在剧中缺乏系统展开。 （NGA）
@@ -310,9 +301,7 @@ mujica吧以"睦祥不是mujica CP"为由封禁睦祥相关，引发讨论。有
 
 > 若叶睦 × 墨缇丝（Mortis）· 水仙
 
-@[gallery]
-![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
-@[/gallery]
+![睦与镜中的 Mortis · 动画片尾场面截图](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E5%B0%8F%E7%9D%A6%E8%88%87%E9%8F%A1%E4%B8%ADMortis.jpg "睦与镜中的 Mortis · 动画片尾场面截图")
 @[bilibili](BV14iZ3YcEZw "《天球(そら)のMúsica》（第 13 话插曲）")
 
 ### 磕点核心
@@ -331,10 +320,7 @@ mujica吧以"睦祥不是mujica CP"为由封禁睦祥相关，引发讨论。有
 
 > 八幡海铃 × 椎名立希 · 分属 Ave Mujica 与 MyGO!!!!! · 冷美人 × 傲娇
 
-@[gallery]
-![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
-![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
-@[/gallery]
+![海铃看着立希 · TV 动画场面截图](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E6%B5%B7%E7%8E%B2%E7%9C%8B%E8%91%97%E7%AB%8B%E5%B8%8C.jpg "海铃看着立希 · TV 动画场面截图")
 ### 磕点核心
 
 海铃双手接包看立希的小眼神，再接直球发言。饮料从蜜柑味变成立希喜欢的熊猫巧克力。海铃对乐队雇佣兵态度、人际关系疏离——到底发生了什么才把这对冷美人凑一起的，总不会真是一见钟情误终身吧。（西西弗斯石，2025-01-10）
@@ -349,10 +335,7 @@ P站投稿量1623，Lofter投稿量8371，在P站热度相较更高。（Sky，2
 
 > 高松灯 × 丰川祥子 · CRYCHIC 旧队友，现分属两团 · 便利贴羁绊
 
-@[gallery]
-![高松灯官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松灯 · Vo.")
-![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
-@[/gallery]
+![灯留给祥子的便利贴：「小祥，你幸福吗？」](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots-best/%28%E5%B0%8F%E7%A5%A5%EF%BC%8C%E5%A6%B3%E5%B9%B8%E7%A6%8F%E5%97%8E%29.jpg "灯留给祥子的便利贴：「小祥，你幸福吗？」")
 ### 磕点核心
 
 "是我不知道的，小祥的呐喊。"灯得知祥子退出C团重组Mujica时，第一反应不是责怪而是关心。灯从未怀疑与怪罪过这位将她从不断凋零的春季拉入阳光普照世界的重要之人。能打碎祥子"心之壁"的一定是灯的那张便利贴——只有细腻敏感又电波系的灯，能穿透祥子"拆团暴君"的面具直接从歌声中感受挣扎和痛苦。（西西弗斯石，2025-01-10）
@@ -375,10 +358,7 @@ P站投稿量1623，Lofter投稿量8371，在P站热度相较更高。（Sky，2
 
 > 长崎素世 × 丰川祥子 · CRYCHIC 旧队友，现分属两团 · BE 美学
 
-@[gallery]
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
-@[/gallery]
+![素世跪地握住祥子的手 · 飞鸟山之夜](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E7%88%BD%E4%B8%96%E8%B7%AA%E8%91%97%E6%8F%A1%E4%BD%8F%E5%B0%8F%E7%A5%A5%E7%9A%84%E6%89%8B.jpg "素世跪地握住祥子的手 · 飞鸟山之夜")
 ### 磕点核心
 
 坏心思的神明为我带来了礼物，我想我一辈子都不会忘记，这就是对我而言的命运的相遇。没能发出去的"我能过去"，没能收到的"我想见你"。从初见"长崎同学"到祥子收到素世短信时温柔的"soyo"，大雨一直在下，我们再也回不去了。（万葉橘，2025-11-09）
@@ -397,7 +377,7 @@ Lofter参与量9188（评论补充数据，但素祥实际参与量不好说因�
 
 > 长崎素世 × 若叶睦 · CRYCHIC 旧队友，现分属两团 · 扭曲关系
 
-![素世与墨缇丝 · 第 6 话](https://img.anitubu.com/imgs/2025/02/07/OXkZYlCzclkH9hx.jpg "素世与墨缇丝 · Ave Mujica 第 6 话，素世拿起另一只鞋配合墨缇丝「打电话」")
+![睦看着跪在地上的素世 · 飞鸟山之夜](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E5%B0%8F%E7%9D%A6%E7%9C%8B%E8%91%97%E8%B7%AA%E5%9C%B0%E4%B8%8A%E7%9A%84%E7%88%BD%E4%B8%96.jpg "睦看着跪在地上的素世 · 飞鸟山之夜")
 ### 磕点核心
 
 素睦是重量级扭曲关系。肤浅看是母女文学，其实一个太拧巴一个没嘴巴，总是处于误会中不自知的互相伤害。在MyGO里soyo压力睦找祥有点像PUA，但睦何尝不贪恋着soyo的温暖。在soyo视角里睦确实一直在做违背她和伤害她的事，而睦难以表达真实想法，两人关系才这么痛苦。（海苔肉松卷，2025-08-18）
@@ -421,6 +401,8 @@ P站投稿量938，Lofter投稿量8276。（Sky，2025-08-04）
 > **延伸阅读**：[人设汇总 · 长崎素世](../../04_长崎素世/人设汇总_长崎素世.md) · [人设汇总 · 若叶睦](../../07_若叶睦/人设汇总_若叶睦.md) · [Ave Mujica 动画剧情总纲](../02_AveMujica动画/AveMujica_剧情总纲_整合版.md)
 
 ---
+
+> 动画场面截图来自同人素材整理库 [Furinaaa-Cancan/mygo-mujica-archive](https://github.com/Furinaaa-Cancan/mygo-mujica-archive)（CC0 / 非商业同人使用），经 jsDelivr 固定版本引用；角色立绘与主视觉来自官方网站。
 
 ## 来源索引
 
