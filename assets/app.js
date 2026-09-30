@@ -109,7 +109,8 @@
   var CURATED_PROTECTED_HINT = '社区解析资料 · 请谨慎修改';
   var PARTIAL_PROTECTED_DIRS = [
     '00_剧情区/03_剧场版',
-    '00_剧情区/04_漫画游戏'
+    '00_剧情区/04_漫画游戏',
+    '00_剧情区/07_CP线梳理'
   ];
   var PARTIAL_PROTECTED_HINT = '阶段性整理 · 内容将随新资料继续更新';
 
