@@ -1,5 +1,11 @@
 # 要乐奈 × 千早爱音（猫爱 / 猫占的地方）
 
+
+@[gallery]
+![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+@[/gallery]
+
 > MyGO!!!!! 主音吉他与节奏吉他。本文件为乐奈攻向视角：猫不迁就任何人，但它选了爱音的家。爱音攻向见 `02_千早爱音/爱音x乐奈.md`。
 
 ## 〇、两人对照速查

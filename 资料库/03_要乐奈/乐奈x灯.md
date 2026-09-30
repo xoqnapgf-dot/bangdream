@@ -1,5 +1,11 @@
 # 乐奈x灯（乐奈攻 × 灯受 / らなとも・らーとも / 猫灯）
 
+
+@[gallery]
+![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
+![高松灯官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松灯 · Vo.")
+@[/gallery]
+
 > 本文件为乐奈攻向（乐奈主动贴灯的构图为主线）。灯攻向视角见 `../01_高松灯/灯x乐奈.md`。
 > 素材口径：事实层仅收录官方动画/剧场版/公式书可查内容并标注话数；社区观点一律挂来源；无官方素材支撑的解读标注"推演"。
 

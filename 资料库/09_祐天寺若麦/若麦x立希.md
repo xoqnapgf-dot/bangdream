@@ -1,5 +1,11 @@
 # 祐天寺若麦 × 椎名立希（わかたき / 麦希）
 
+
+@[gallery]
+![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
+![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
+@[/gallery]
+
 > 全库唯一零直接互动的对（若麦侧）。本文件为若麦攻向视角：与立希攻向版共享同一事实基底——空白。若麦攻向同样没有素材红利，记录本身即内容。立希攻向见 `../05_椎名立希/立希x若麦.md`。
 
 ## 〇、两人对照速查

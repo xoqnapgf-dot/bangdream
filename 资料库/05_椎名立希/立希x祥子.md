@@ -1,5 +1,11 @@
 # 椎名立希 × 丰川祥子（たきさき / 希祥）
 
+
+@[gallery]
+![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
+![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
+@[/gallery]
+
 > CRYCHIC 作曲与键盘， disbanded 后的两种走向。本文件为立希攻向视角：祥子是立希自卑感的具象，也是立希全篇唯一动过粗、又唯一彆扭道歉的"不和解和解"。祥子攻向见 `../10_丰川祥子/祥子x立希.md`。
 
 ## 〇、两人对照速查

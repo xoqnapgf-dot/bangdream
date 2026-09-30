@@ -1,5 +1,11 @@
 # 千早爱音 × 祐天寺若麦（爱喵 / 双向粉丝线）
 
+
+@[gallery]
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
+@[/gallery]
+
 > 网红与追星的喜剧线：全库唯一一条"互为观众"的爱音关系。本文件为爱音攻向视角；若麦攻向见 `09_祐天寺若麦/若麦x爱音.md`。
 
 ## 〇、两人对照速查

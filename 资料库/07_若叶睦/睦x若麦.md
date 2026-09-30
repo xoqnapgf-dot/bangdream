@@ -1,5 +1,8 @@
 # 若叶睦 × 祐天寺若麦（睦喵 / 睦攻向）
 
+
+![若麦注视着睦 · TV 动画场面截图](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots-best/%5B%E7%84%A1%E8%A9%9E%5D%E5%96%B5%E5%A4%A2%E7%9C%8B%E8%91%97%E5%B0%8F%E7%9D%A6.jpg "若麦注视着睦 · TV 动画场面截图")
+
 > Ave Mujica 复杂情感/爱憎羁绊，官方访谈定调"愛憎/因縁"。本文件为睦攻向视角。若麦攻向见 `09_祐天寺若麦/若麦x睦.md`。
 
 ## 〇、两人对照速查

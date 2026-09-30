@@ -1,5 +1,11 @@
 # 素世 × 乐奈（素世攻 × 乐奈受 / そよらな / 素乐）
 
+
+@[gallery]
+![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
+![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
+@[/gallery]
+
 > 双向成对文件：本文件为素世攻向视角；乐奈攻向视角见《乐奈x素世》（らなそよ/乐素）。
 
 ## 〇、两人对照速查

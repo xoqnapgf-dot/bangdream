@@ -1,5 +1,11 @@
 # 祐天寺若麦 × 千早爱音（喵爱 / 头号订阅者）
 
+
+@[gallery]
+![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+@[/gallery]
+
 > Nyamuchi Channel 的主播与她的订阅者——只是这个订阅者后来成了她的鼓手同事，还是最先看穿她面具的人之一。本文件为若麦攻向视角；爱音攻向见 `02_千早爱音/爱音x若麦.md`。
 
 ## 〇、两人对照速查

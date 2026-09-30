@@ -1,5 +1,11 @@
 # 丰川祥子 × 椎名立希（さきたき / 祥希）
 
+
+@[gallery]
+![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
+![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
+@[/gallery]
+
 > CRYCHIC 键盘与鼓，两任"实质队长"。本文件为祥子攻向视角：招募她的、夸她的、被她撞破心结又反过来给她一拳的——从祥子这一侧看这段"相亲软件式初见"的延续。立希攻向见 `../05_椎名立希/立希x祥子.md`。
 
 ## 〇、两人对照速查

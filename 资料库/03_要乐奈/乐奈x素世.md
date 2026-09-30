@@ -1,5 +1,11 @@
 # 乐奈 × 素世（乐奈攻 × 素世受 / らなそよ / 乐素）
 
+
+@[gallery]
+![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
+![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
+@[/gallery]
+
 > 双向成对文件：本文件为乐奈攻向视角；素世攻向视角见《素世x乐奈》（そよらな/素乐）。素乐的核心读法是"猫与饲养员"，乐素向即"猫视角"——猫从不认为自己被养，饲养员只是恰好出现的仆人。
 
 ## 〇、两人对照速查

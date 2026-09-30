@@ -1,5 +1,11 @@
 # 椎名立希 × 高松灯（たきとも / 灯希）
 
+
+@[gallery]
+![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
+![高松灯官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松灯 · Vo.")
+@[/gallery]
+
 > 同队鼓手兼作曲与主唱兼作词。本文件为立希攻向视角：不是"灯被守护了多少"，而是"立希为什么把一切都押在灯身上"。灯攻向见 `../01_高松灯/灯x立希.md`。
 
 ## 〇、两人对照速查

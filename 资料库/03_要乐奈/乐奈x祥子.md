@@ -1,5 +1,11 @@
 # 乐奈x祥子（乐奈攻 × 祥子受 / らなさき・无统一tag / 春日影双所有权）
 
+
+@[gallery]
+![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
+![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
+@[/gallery]
+
 > 本文件为乐奈攻向。祥子攻向视角见 `../10_丰川祥子/祥子x乐奈.md`。
 > 素材口径：事实层仅收录官方内容并标注话数；社区观点一律挂来源；无官方素材支撑的解读标注"推演"。
 > **冷门度声明**：两人全程零对话、零直接互动，唯一同场为 2.9 RiNG 争吵场。官方素材极薄，本文件如实写薄，磕点均为基于官方关系的合理推演。

@@ -1,5 +1,11 @@
 # 八幡海铃 × 祐天寺若麦（海喵 / 海铃攻向）
 
+
+@[gallery]
+![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
+![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
+@[/gallery]
+
 > 断案2024"非CP但最好关系"赏得主。本文件为海铃攻向视角：把这对读成"距离感bug与图章社交的双人舞"。若麦攻向见 `09_祐天寺若麦/若麦x海铃.md`。
 
 ## 〇、两人对照速查

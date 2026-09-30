@@ -1,5 +1,11 @@
 # 乐奈x睦（乐奈攻 × 睦受 / らなむつ・要楽奈×モーティス线 / 睦乐）
 
+
+@[gallery]
+![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
+![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
+@[/gallery]
+
 > 本文件为乐奈攻向（野性直觉识破与唤醒的构图）。睦攻向视角见 `../07_若叶睦/睦x乐奈.md`。
 > 素材口径：事实层仅收录官方内容并标注话数；社区观点一律挂来源；无官方素材支撑的解读标注"推演"。
 > 特别说明：TV《MyGO!!!!!》中两人全程零互动，本对全部素材集中在《Ave Mujica》动画 2.7 与 2.9。

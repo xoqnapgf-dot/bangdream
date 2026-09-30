@@ -1,5 +1,11 @@
 # 初华 × 素世（初华攻 × 素世受 / 初素）
 
+
+@[gallery]
+![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
+![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
+@[/gallery]
+
 > 双向成对文件：本文件为初华攻向视角；素世攻向视角见《素世x初华》（素初）。**官方素材极薄：两人零直接对话，本文件如实整理，不编造。**
 
 ## 〇、两人对照速查

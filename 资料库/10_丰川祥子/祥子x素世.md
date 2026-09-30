@@ -1,5 +1,8 @@
 # 祥子 × 素世（祥子攻 × 素世受 / さきそよ / 祥素）
 
+
+![素世跪地握住祥子的手 · 飞鸟山之夜](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E7%88%BD%E4%B8%96%E8%B7%AA%E8%91%97%E6%8F%A1%E4%BD%8F%E5%B0%8F%E7%A5%A5%E7%9A%84%E6%89%8B.jpg "素世跪地握住祥子的手 · 飞鸟山之夜")
+
 > 双向成对文件：本文件为祥子攻向视角；素世攻向视角见《素世x祥子》（そよさき/素祥）。素祥社区的攻受位随剧情阶段倒转，详见两文件对照。
 
 ## 〇、两人对照速查

@@ -1,5 +1,11 @@
 # 八幡海铃 × 千早爱音（海爱 / 恒定值的例外）
 
+
+@[gallery]
+![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+@[/gallery]
+
 > 兼职三十个乐队的贝斯手与唯一没跟上她节奏的吉他手。本文件为海铃攻向视角：一个对谁都恒定的人，例外会是什么样。爱音攻向见 `02_千早爱音/爱音x海铃.md`。
 
 ## 〇、两人对照速查

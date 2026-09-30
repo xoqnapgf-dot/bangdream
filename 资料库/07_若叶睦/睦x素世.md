@@ -1,5 +1,8 @@
 # 睦 × 素世（睦攻 × 素世受 / むつそよ / 睦素）
 
+
+![睦看着跪在地上的素世 · 飞鸟山之夜](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E5%B0%8F%E7%9D%A6%E7%9C%8B%E8%91%97%E8%B7%AA%E5%9C%B0%E4%B8%8A%E7%9A%84%E7%88%BD%E4%B8%96.jpg "睦看着跪在地上的素世 · 飞鸟山之夜")
+
 > 双向成对文件：本文件为睦攻向视角（むつそよ）；素世攻向视角见《素世x睦》（そよむつ/素睦）。素睦是双向热度接近对半的稀有 CP，两向共享"扭曲关系"共识。
 
 ## 〇、两人对照速查

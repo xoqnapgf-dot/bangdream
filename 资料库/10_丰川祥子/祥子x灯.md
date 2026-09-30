@@ -1,5 +1,8 @@
 # 丰川祥子 × 高松灯（祥灯 / 祥子攻向）
 
+
+![灯留给祥子的便利贴：「小祥，你幸福吗？」](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots-best/%28%E5%B0%8F%E7%A5%A5%EF%BC%8C%E5%A6%B3%E5%B9%B8%E7%A6%8F%E5%97%8E%29.jpg "灯留给祥子的便利贴：「小祥，你幸福吗？」")
+
 > CRYCHIC 队友，便利贴羁绊，断案定调"负けカプの美学"。本文件为祥子攻向视角：把这对读成"祥子把灯的话当轴，却用离开守护这个轴"。灯攻向见 `01_高松灯/灯x祥子.md`。
 
 ## 〇、两人对照速查

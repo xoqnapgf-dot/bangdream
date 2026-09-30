@@ -1,5 +1,8 @@
 # 灯 × 爱音（TomoAno / 灯爱）
 
+
+![爱音与灯 · 动画第 5 话放送纪念应援插画　Illustration：成海七海](https://anime.bang-dream.com/mygo/wordpress/wp-content/uploads/2023/07/14175500/5_anon_tomori.png "爱音与灯 · 动画第 5 话放送纪念应援插画　Illustration：成海七海")
+
 > 攻受位：**高松灯（攻）× 千早爱音（受）**，英文圈 tag **Tomori x Anon / TomoAno**，中文圈称「灯爱」（反向于主tag「爱灯」）。
 > 热度评级：★★★☆☆（灯爱是爱灯圈第二大派，总量低于 AnTomo 默认向，但有独立的原作立论与稳定创作群体）
 > 本文件收录灯爱方向（灯攻）的关系深度、原作支撑、社区观点、二创索引。主流向（爱音攻）见《02_千早爱音/爱音x灯.md》。

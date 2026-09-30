@@ -1,5 +1,11 @@
 # 椎名立希 × 祐天寺若麦（たきわか / 希麦）
 
+
+@[gallery]
+![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
+![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
+@[/gallery]
+
 > 全库唯一零直接互动的对。本文件为立希攻向视角：立希关系网里唯一的"空白格"——不写糖，只把这个空白本身记录清楚，并给出社区与设定允许的推演边界。若麦攻向见 `../09_祐天寺若麦/若麦x立希.md`。
 
 ## 〇、两人对照速查

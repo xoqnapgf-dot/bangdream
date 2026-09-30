@@ -1,5 +1,11 @@
 # 素世 × 若麦（素世攻 × 若麦受 / 素若）
 
+
+@[gallery]
+![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
+![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
+@[/gallery]
+
 > 双向成对文件：本文件为素世攻向视角；若麦攻向视角见《若麦x素世》。
 > **体量说明：本对官方素材极薄——素世与若麦正片零直接对话，人设侧若麦条目无素世记录。本文件如实整理，不编造。**
 

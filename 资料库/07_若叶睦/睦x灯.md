@@ -1,5 +1,11 @@
 # 若叶睦 × 高松灯（睦灯 / 睦攻向）
 
+
+@[gallery]
+![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
+![高松灯官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松灯 · Vo.")
+@[/gallery]
+
 > CRYCHIC 队友，Ave Mujica 时期的"嘴笨兄弟"。本文件为睦攻向视角：把这对读成"两个不会说话的人，用地点和动作完成了对话"。灯攻向见 `01_高松灯/灯x睦.md`。
 
 ## 〇、两人对照速查

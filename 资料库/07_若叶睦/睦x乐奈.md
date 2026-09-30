@@ -1,5 +1,11 @@
 # 睦x乐奈（睦攻 × 乐奈受 / むつらな・要楽奈×モーティス逆位 / 睦乐）
 
+
+@[gallery]
+![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
+![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
+@[/gallery]
+
 > 本文件为睦攻向（身体先于意识走向乐奈的构图）。乐奈攻向视角见 `../03_要乐奈/乐奈x睦.md`。
 > 素材口径：事实层仅收录官方内容并标注话数；社区观点一律挂来源；无官方素材支撑的解读标注"推演"。
 > 特别说明：两人全程零对话；睦攻向的主体事实均发生在墨缇丝（Mortis）主导期间，睦本体对乐奈的全部关系只有"被看穿"与"被叫醒"。

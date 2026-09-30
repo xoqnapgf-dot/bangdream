@@ -1,5 +1,11 @@
 # 椎名立希 × 若叶睦（たきむつ / 睦希）
 
+
+@[gallery]
+![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
+![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
+@[/gallery]
+
 > CRYCHIC 前队友。本文件为立希攻向视角：在全篇从不道歉的立希那里，睦是唯一明确谢罪的对象——这段关系是断案笔下的"胜者之对"。睦攻向见 `../07_若叶睦/睦x立希.md`。
 
 ## 〇、两人对照速查

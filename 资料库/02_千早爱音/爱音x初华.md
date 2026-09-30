@@ -1,5 +1,11 @@
 # 千早爱音 × 三角初华（初爱 / 头号粉丝线）
 
+
+@[gallery]
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
+@[/gallery]
+
 > sumimi 与 MyGO 的双主唱吉他组。这对的原作关系清晰得罕见：**爱音是初华的粉丝**（官方级设定），第13话天文馆外一段完整对手戏把"追星成功"拍成了官方糖。本文件为爱音攻向视角；初华攻向见 `06_三角初华/初华x爱音.md`。
 
 ## 〇、两人对照速查

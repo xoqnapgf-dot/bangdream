@@ -1,5 +1,11 @@
 # 高松灯 × 祐天寺若麦（灯喵 / 灯攻向）
 
+
+@[gallery]
+![高松灯官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松灯 · Vo.")
+![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
+@[/gallery]
+
 > MyGO 主唱与 Ave Mujica 鼓手，无直接对手戏的组合。本文件为灯攻向视角：素材最薄，如实记录设定层关联与结构对照，不虚构磕点。若麦攻向见 `09_祐天寺若麦/若麦x灯.md`。
 
 ## 〇、两人对照速查

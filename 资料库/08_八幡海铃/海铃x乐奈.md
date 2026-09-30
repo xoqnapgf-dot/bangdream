@@ -1,5 +1,11 @@
 # 海铃x乐奈（海铃攻 × 乐奈受 / うみらな・无统一tag / 雇佣兵与野猫逆位）
 
+
+@[gallery]
+![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
+![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
+@[/gallery]
+
 > 本文件为海铃攻向。乐奈攻向视角见 `../03_要乐奈/乐奈x海铃.md`。
 > 素材口径：事实层仅收录官方内容并标注出处；社区观点一律挂来源；无官方素材支撑的解读标注"推演"。
 > **冷门度声明**：两人有交集但零对话记录（唯一互动性交集为 MyGO 组建初期支援排练；2.9 同场无对话）。官方素材薄，本文件如实写薄，磕点均为基于官方关系的合理推演。

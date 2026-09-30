@@ -1,5 +1,11 @@
 # 素世 × 初华（素世攻 × 初华受 / 素初）
 
+
+@[gallery]
+![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
+![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
+@[/gallery]
+
 > 双向成对文件：本文件为素世攻向视角；初华攻向视角见《初华x素世》。
 > **体量说明：本对官方素材极薄——MyGO!!!!! 与 Ave Mujica 正片中素世与初华零直接共现、零直接对话，人设侧初华条目亦无素世记录。本文件如实整理全部间接关联，不编造。**
 

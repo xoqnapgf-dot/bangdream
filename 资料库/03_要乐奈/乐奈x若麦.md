@@ -1,5 +1,11 @@
 # 乐奈x若麦（乐奈攻 × 若麦受 / らなにゃむ・无统一tag / 双鉴伪）
 
+
+@[gallery]
+![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
+![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
+@[/gallery]
+
 > 本文件为乐奈攻向。若麦攻向视角见 `../09_祐天寺若麦/若麦x乐奈.md`。
 > 素材口径：事实层仅收录官方内容并标注出处；社区观点一律挂来源；无官方素材支撑的解读标注"推演"。
 > **冷门度声明**：两人唯一确认同场为 2.9 RiNG 争吵场，全程零对话。官方素材极薄，本文件如实写薄，磕点均为基于官方关系的合理推演。

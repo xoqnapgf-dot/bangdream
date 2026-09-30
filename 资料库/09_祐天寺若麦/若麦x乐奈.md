@@ -1,5 +1,11 @@
 # 若麦x乐奈（若麦攻 × 乐奈受 / にゃむらな・无统一tag / 双鉴伪逆位）
 
+
+@[gallery]
+![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
+![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
+@[/gallery]
+
 > 本文件为若麦攻向。乐奈攻向视角见 `../03_要乐奈/乐奈x若麦.md`。
 > 素材口径：事实层仅收录官方内容并标注出处；社区观点一律挂来源；无官方素材支撑的解读标注"推演"。
 > **冷门度声明**：两人唯一确认同场为 2.9，全程零对话。官方素材极薄，本文件如实写薄，磕点均为基于官方关系的合理推演。

@@ -1,5 +1,8 @@
 # 灯 × 素世（灯攻 × 素世受 / ともそよ / 灯素）
 
+
+![素世走向长椅上的灯 · 第 13 话夜晚公园](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots-best/%E5%83%8F%E6%98%AF%E8%AC%9D%E8%AC%9D%E6%88%96%E8%AC%9D%E8%AC%9D%E9%82%84%E6%9C%89%E8%AC%9D%E8%AC%9D%E5%95%8A.jpg "素世走向长椅上的灯 · 第 13 话夜晚公园")
+
 > 双向成对文件：本文件为灯攻向视角（ともそよ，日文主流方向）；素世攻向视角见《素世x灯》（そよとも/素灯）。
 
 ## 〇、两人对照速查

@@ -1,5 +1,11 @@
 # 若叶睦 × 椎名立希（むつたき / 希睦）
 
+
+@[gallery]
+![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
+![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
+@[/gallery]
+
 > 旧 CRYCHIC 吉他与鼓。本文件为睦攻向视角：那个从不道歉的立希，为什么唯独对睦低下了头——从睦这一侧看"胜者之对"的另一半。立希攻向见 `../05_椎名立希/立希x睦.md`。
 
 ## 〇、两人对照速查

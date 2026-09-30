@@ -1,5 +1,11 @@
 # 立希 × 素世（立希攻 × 素世受 / たきそよ / 立素）
 
+
+@[gallery]
+![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
+![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
+@[/gallery]
+
 > 双向成对文件：本文件为立希攻向视角（たきそよ，日文社区较常见方向）；素世攻向视角见《素世x立希》（そよたき/素立）。素立攻受位官方无明示，社区以"对等损友"为共识底色。
 
 ## 〇、两人对照速查

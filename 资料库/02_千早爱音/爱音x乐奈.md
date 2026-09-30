@@ -1,5 +1,11 @@
 # 千早爱音 × 要乐奈（爱猫 / 猫与投喂者）
 
+
+@[gallery]
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
+@[/gallery]
+
 > MyGO!!!!! 的吉他双吉他：节奏吉他（爱音）与主音吉他（乐奈）。一个是全队社交中心，一个是全队最自由的人——两人的相处被爱音自己定义为"猫爬架"：无压力，放养加利诱。本文件为爱音攻向视角；乐奈攻向见 `03_要乐奈/乐奈x爱音.md`。
 
 ## 〇、两人对照速查

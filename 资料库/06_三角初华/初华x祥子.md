@@ -1,5 +1,8 @@
 # 三角初华 × 丰川祥子（初祥 / 初华攻向）
 
+
+![初华从背后抱住祥子 · 渡轮之夜](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots-best/%5B%E7%84%A1%E8%A9%9E%5D%E5%88%9D%E8%8F%AF%E5%BE%9E%E5%BE%8C%E6%8A%B1%E8%91%97%E5%B0%8F%E7%A5%A5_1.jpg "初华从背后抱住祥子 · 渡轮之夜")
+
 > 幼驯染到同居，Ave Mujica 主线情感。本文件为初华攻向视角：这对是社区断档第一热度（Mujica_CP线梳理 ★★★★★），初华的单箭头执念贯穿全剧。祥子攻向见 `10_丰川祥子/祥子x初华.md`。
 
 ## 〇、两人对照速查

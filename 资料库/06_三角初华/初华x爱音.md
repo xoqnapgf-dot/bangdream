@@ -1,5 +1,11 @@
 # 三角初华 × 千早爱音（爱华 / 偶像的目光）
 
+
+@[gallery]
+![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+@[/gallery]
+
 > sumimi 与 MyGO。本文件为初华攻向视角：这段粉丝关系的另一半——偶像不仅接住了粉丝，还主动关注了回去。爱音攻向见 `02_千早爱音/爱音x初华.md`。
 
 ## 〇、两人对照速查

@@ -1,5 +1,11 @@
 # 八幡海铃 × 丰川祥子（海祥 / 海铃攻向）
 
+
+@[gallery]
+![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
+![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
+@[/gallery]
+
 > Ave Mujica 队长与贝斯手。本文件为海铃攻向视角：素材整体偏薄，如实记录，不虚构磕点。祥子攻向见 `10_丰川祥子/祥子x海铃.md`。
 
 ## 〇、两人对照速查

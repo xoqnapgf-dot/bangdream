@@ -1,5 +1,11 @@
 # 丰川祥子 × 千早爱音（祥爱 / 白月光的注视）
 
+
+@[gallery]
+![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+@[/gallery]
+
 > 羽丘同学。本文件为祥子攻向视角：把这对读成"祥子一直在看爱音，只是她只敢用余光"。爱音攻向见 `02_千早爱音/爱音x祥子.md`。
 
 ## 〇、两人对照速查

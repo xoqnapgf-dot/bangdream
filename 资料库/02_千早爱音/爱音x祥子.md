@@ -1,5 +1,11 @@
 # 千早爱音 × 丰川祥子（爱祥 / 小太阳与白月光）
 
+
+@[gallery]
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
+@[/gallery]
+
 > 羽丘同学。一个是编入生里的社交中心，一个是退学大小姐的钢琴亡灵——原作里两人几乎只在音乐教室的余音里交叠，却成了社区口径里爱音跨团 CP 的"版本答案"。本文件为爱音攻向视角；祥子攻向见 `10_丰川祥子/祥子x爱音.md`。
 
 ## 〇、两人对照速查

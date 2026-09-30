@@ -1,5 +1,11 @@
 # 八幡海铃 × 高松灯（海灯 / 海铃攻向）
 
+
+@[gallery]
+![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
+![高松灯官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松灯 · Vo.")
+@[/gallery]
+
 > MyGO 主唱与自由贝斯手，"一辈子"一词的对话两端。本文件为海铃攻向视角：素材薄，如实记录，不虚构磕点。灯攻向见 `01_高松灯/灯x海铃.md`。
 
 ## 〇、两人对照速查

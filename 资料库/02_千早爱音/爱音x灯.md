@@ -1,5 +1,8 @@
 # 爱音 × 灯（AnTomo / 爱灯）
 
+
+![爱音与灯 · 动画第 5 话放送纪念应援插画　Illustration：成海七海](https://anime.bang-dream.com/mygo/wordpress/wp-content/uploads/2023/07/14175500/5_anon_tomori.png "爱音与灯 · 动画第 5 话放送纪念应援插画　Illustration：成海七海")
+
 > 攻受位：**千早爱音（攻）× 高松灯（受）**，英文圈 tag **Anon x Tomori / AnTomo**，中文圈主 tag「爱灯」。
 > 本文件收录爱灯方向（爱音攻）的关系深度、原作糖点、社区观点、二创索引。反向（灯攻）见《01_高松灯/灯x爱音.md》。
 > 热度评级：★★★★☆（Lofter 8532，第二档；MyGO 的"王道线"，官方投入笔墨最多的一对）

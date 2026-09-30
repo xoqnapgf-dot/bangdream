@@ -1,5 +1,8 @@
 # 八幡海铃 × 椎名立希（うみたき / 海希）
 
+
+![海铃看着立希 · TV 动画场面截图](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E6%B5%B7%E7%8E%B2%E7%9C%8B%E8%91%97%E7%AB%8B%E5%B8%8C.jpg "海铃看着立希 · TV 动画场面截图")
+
 > 后桌与前排，救火贝斯与别扭雇主。本文件为海铃攻向视角：うみたき——Pixiv 第1、Lofter 第2的跨团大热对，环境前二的存在。这一侧是"只叫你名字"的懒猫版。立希攻向见 `../05_椎名立希/立希x海铃.md`。
 
 ## 〇、两人对照速查

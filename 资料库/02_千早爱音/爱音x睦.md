@@ -1,5 +1,11 @@
 # 千早爱音 × 若叶睦（爱睦 / 新起之秀）
 
+
+@[gallery]
+![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
+![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
+@[/gallery]
+
 > 从"全剧零见面"到"官方补考"的一对：2023 年正片里两人连面都没见过，二创先行把这对养成了"新起之秀"；直到 Ave Mujica 终演，爱音亲手把自己的吉他交给睦，这对才拿到第一场官方同框。本文件为爱音攻向视角；睦攻向见 `07_若叶睦/睦x爱音.md`。
 
 ## 〇、两人对照速查

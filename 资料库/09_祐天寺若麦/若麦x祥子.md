@@ -1,5 +1,11 @@
 # 祐天寺若麦 × 丰川祥子（喵祥 / 若麦攻向）
 
+
+@[gallery]
+![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
+![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
+@[/gallery]
+
 > Ave Mujica 队长与鼓手，团内冲突线。本文件为若麦攻向视角：把这对读成"若麦拿着祥子的承诺清单，两次上门讨说法"。祥子攻向见 `10_丰川祥子/祥子x若麦.md`。
 
 ## 〇、两人对照速查

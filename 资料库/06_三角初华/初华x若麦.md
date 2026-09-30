@@ -1,5 +1,11 @@
 # 三角初华 × 祐天寺若麦（初喵 / 初华攻向）
 
+
+@[gallery]
+![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
+![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
+@[/gallery]
+
 > Ave Mujica 队友（Doloris×Amoris）。两人无旧识、不同校，sumimi 与若麦无关——全部交集都发生在 Ave Mujica 结成之后。本文件为初华攻向视角，若麦攻向见 `09_祐天寺若麦/若麦x初华.md`。
 
 ## 〇、两人对照速查

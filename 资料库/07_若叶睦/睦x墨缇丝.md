@@ -1,5 +1,8 @@
 # 若叶睦 × 墨缇丝（睦墨 / 人格内关系档案）
 
+
+![睦与镜中的 Mortis · 动画片尾场面截图](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica/media/screenshots/%5B%E7%84%A1%E8%A9%9E%5D%E5%B0%8F%E7%9D%A6%E8%88%87%E9%8F%A1%E4%B8%ADMortis.jpg "睦与镜中的 Mortis · 动画片尾场面截图")
+
 > **特殊档案**：这不是通常意义的 CP——墨缇丝（Mortis）是若叶睦的第二人格，与睦共享同一具身体、同一份 CV（渡濑结月）。单独成档的原因：社区确有"睦墨"tag 且热度★★（CP线梳理第17行），双人格关系是 Ave Mujica 剧情的核心机制，睦侧大量 CP 文件（祥子x睦、素世x睦、海铃x睦、若麦x睦）都以"睦+墨缇丝"整体为对象。人设细节详见 `07_若叶睦/人设汇总_若叶睦.md`。
 
 ## 〇、基础信息对照（人格层面）
