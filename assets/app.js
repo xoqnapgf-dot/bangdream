@@ -584,7 +584,9 @@
       r.classList.remove('active');
     });
     if (!path) return;
-    var row = document.querySelector('.row[data-path="' + CSS.escape(path) + '"]');
+    var row = Array.prototype.find.call(document.querySelectorAll('.row[data-path]'), function (el) {
+      return el.dataset.path === path;
+    });
     if (!row) return;
     row.classList.add('active');
     var p = row.closest('.node');
