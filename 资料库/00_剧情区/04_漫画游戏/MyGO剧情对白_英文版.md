@@ -1,8 +1,10 @@
 # MyGO!!!!! 乐队故事对白（英文版 · 手游 41 章）
 
-这是《BanG Dream! 少女乐团派对！》（GBP）手游里 MyGO!!!!! 全 41 章乐队故事的英文对白。剧情以电视动画的结成篇为基础改编，章节标题因此与动画高度重合，但**它不是电视动画的剧本**——动画 13 话的中文剧本另存于 `00_剧情区/01_MyGO动画/`，例如[第 1 话《羽丘的不可思议女孩》](../01_MyGO动画/01_羽丘的不可思议女孩.txt)。
+这是《BanG Dream! 少女乐团派对！》（GBP）手游中 MyGO!!!!! 乐队故事的英文对白，共 41 章。在 BanG Dream! Wiki 上它的条目名是 **MyGO!!!!!/Band Story**，页内标注为 *It's MyGO!!!!! Event Story Chapter N*。
 
-> 按章节和场景逐行收录人物对话。文本来源：BanG Dream! Wiki（bandori.miraheze.org）；人物原话以游戏内当前文本为准。
+剧情以电视动画的结成篇为基础改编，章节标题因此与动画高度重合（Haneoka's Weirdo Girl、CRYCHIC、Haruhikage、It's My Go……），但**它不是电视动画的剧本**：全文 2,442 句对白，而动画 13 话剧本为 4,506 句；游戏文本省去了动画里的独白与场面指示，段落划分也不同。动画本身的中文剧本另存于 `00_剧情区/01_MyGO动画/`，例如[第 1 话《羽丘的不可思议女孩》](../01_MyGO动画/01_羽丘的不可思议女孩.txt)。
+
+> 按章节和场景逐行收录人物对话。文本来源：[BanG Dream! Wiki · MyGO!!!!!/Band Story](https://bandori.miraheze.org/wiki/MyGO!!!!!/Band_Story)；人物原话以游戏内当前文本为准。
 
 
 ---

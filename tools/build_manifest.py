@@ -144,32 +144,6 @@ def walk(d: pathlib.Path):
     }
 
 
-def relocate_for_display(tree):
-    """只调整网站目录展示，不移动资料库中的原文件。"""
-    story_root = next(
-        (n for n in tree["children"] if n.get("path") == "00_剧情区"), None
-    )
-    if not story_root:
-        return
-    mygo_dir = next(
-        (n for n in story_root["children"] if n.get("path") == "00_剧情区/01_MyGO动画"), None
-    )
-    game_dir = next(
-        (n for n in story_root["children"] if n.get("path") == "00_剧情区/04_漫画游戏"), None
-    )
-    if not mygo_dir or not game_dir:
-        return
-
-    dialogue_path = "00_剧情区/04_漫画游戏/MyGO剧情对白_英文版.md"
-    dialogue = next(
-        (n for n in game_dir["children"] if n.get("path") == dialogue_path), None
-    )
-    if dialogue:
-        game_dir["children"].remove(dialogue)
-        # 文件无数字前缀，前端自然排序会把它固定在第 13 集之后。
-        mygo_dir["children"].append(dialogue)
-
-
 def pin_summaries_for_display(node):
     """让指定总览在清单与前端排序中都稳定置顶。"""
     if node.get("type") != "dir":
@@ -206,7 +180,6 @@ def main():
     # 先刷新大纲，再扫描，保证清单里记录的是大纲的最新体积。
     write_outline()
     tree = walk(LIB)
-    relocate_for_display(tree)
     pin_summaries_for_display(tree)
     nf, nd = count(tree)
     total = sum(p.stat().st_size for p in LIB.rglob("*") if p.is_file())

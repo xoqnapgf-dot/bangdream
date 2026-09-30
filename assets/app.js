@@ -77,9 +77,6 @@
     var path = typeof file === 'string' ? '' : (file.path || '');
     var m = /^00_剧情区\/01_MyGO动画\/(\d{2})_(.+)\.(md|txt)$/i.exec(path);
     if (m) return '第' + m[1] + '集 · ' + m[2];
-    if (path === '00_剧情区/04_漫画游戏/MyGO剧情对白_英文版.md') {
-      return 'MyGO!!!!! 剧情对白（英文版）';
-    }
     return prettyName(name);
   }
 
@@ -692,9 +689,7 @@
     var el = $('crumb');
     var html = '<a href="#/">' + esc(LIB) + '</a>';
     if (path) {
-      var crumbPath = path === '00_剧情区/04_漫画游戏/MyGO剧情对白_英文版.md'
-        ? '00_剧情区/01_MyGO动画/MyGO剧情对白_英文版.md' : path;
-      var parts = crumbPath.split('/'), acc = [];
+      var parts = path.split('/'), acc = [];
       parts.forEach(function (p, k) {
         acc.push(p);
         var last = k === parts.length - 1;
