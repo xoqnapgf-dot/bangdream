@@ -734,7 +734,7 @@ Oblivionis 持剑现身，先为 Timoris 与 Amoris 行授剑礼，却告诉 Dol
 - [phillychi3/MyGo-Meme @ b64d3f8](https://github.com/phillychi3/MyGo-Meme/tree/b64d3f880a7f725469b9d31fb19dd6f6906b5e1d/static/ave) —— 带时间戳的逐帧 OCR 字幕，第 1–9 话共 8,164 条；OCR 误识别只作定位线索，不单独作为定稿依据
 - [Furinaaa-Cancan/mygo-mujica-archive @ d3074c0](https://github.com/Furinaaa-Cancan/mygo-mujica-archive/tree/d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/AveMujica) —— 场景截图与素材索引；正文中的第 7、12 话截图固定到此版本
 - [Animate Times · 第 6 话场面写真](https://www.animatetimes.com/news/details.php?id=1738649936) —— 此前第 6 话配图曾用该报道转载的场面图（与 5–6 话那张画面重复），现已换为官方站场面图，此条仅作参考
-- [用户提供的第 1 话字幕转写与逐条勘误截图](../../../avem第一集.pdf) —— 28 页图片型 PDF；以逐页图像提取和 OCR 辅助定位第 1–2 话边界与武道馆台词，再与带时间戳字幕交叉核对说话人。转写没有记下某个画面动作不能作为该动作不存在的证据；发帖者的猜测也不作为剧情事实
+- 用户提供的第 1 话字幕转写与逐条勘误截图（28 页图片型 PDF，用毕后已从仓库移除）—— 以逐页图像提取和 OCR 辅助定位第 1–2 话边界与武道馆台词，再与带时间戳字幕交叉核对说话人。转写没有记下某个画面动作不能作为该动作不存在的证据；发帖者的猜测也不作为剧情事实
 - [Bilibili · Mujica 1–13 集精简剧情](https://www.bilibili.com/video/BV19oLBzQE2n/) —— 用户补充的带画面字幕二次素材；用于定位待复核片段，不把视频作者的概括和评论当作正片事实
 - [剧场版官网 Introduction](https://avemujica-movie.bang-dream.com/introduction/)与[角色页](https://avemujica-movie.bang-dream.com/character/) —— 仅用于“上映前情报”，不以预告画面推断尚未公开的正片情节
 
