@@ -5,8 +5,15 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>MyGO!!!!! × Ave Mujica 资料库</title>
 <meta name="description" content="MyGO!!!!! 与 Ave Mujica 角色人设、剧情与设定资料库的网页浏览器。">
-<link rel="stylesheet" href="assets/style.css?v=20261001101056">
+<link rel="stylesheet" href="assets/style.css?v=20261001122452">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎸</text></svg>">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+<meta name="theme-color" content="#4a7fb5">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="MyGO×Mujica">
+<meta name="apple-mobile-web-app-status-bar-style" content="default">
 </head>
 <body>
 
@@ -69,7 +76,15 @@
 </div>
 
 <!-- 直接加载离线数据，兼容 file://、content:// 及浏览器的本地文件查看模式。 -->
-<script src="assets/offline-data.js?v=20261001101056"></script>
-<script src="assets/app.js?v=20261001101056"></script>
+<script src="assets/offline-data.js?v=20261001122452"></script>
+<script src="assets/app.js?v=20261001122452"></script>
+<script>
+/* 添加到主屏幕后的离线缓存；file:// 等本地打开方式不支持，会自动跳过。 */
+if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) {
+  window.addEventListener('load', function () {
+    navigator.serviceWorker.register('sw.js').catch(function () {});
+  });
+}
+</script>
 </body>
 </html>
