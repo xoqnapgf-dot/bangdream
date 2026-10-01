@@ -134,3 +134,4 @@ TV 动画共 13 话，监督、音响监督为柿本广大，系列构成是绫�
 - BanG Dream! Project，2026-07-15：[MyGO!!!!! 3rd Album《致並跡》](https://bang-dream.com/discographies/4165/)
 - BanG Dream! Project，2026-09：[MyGO!!!!! 9th Single《世点彩》](https://bang-dream.com/discographies/4236/)
 - BanG Dream! Project，2026-09：[9th LIVE 神户再景篇](https://bang-dream.com/events/mygo_9th_hyogo/)
+- 粉丝自制汇总（LynxKal 制作，多人维护），持续更新：[「MyGO!!!!! 资料汇总」腾讯文档](https://docs.qq.com/sheet/DVFdCS2JrWW9tYnJ5)——各官方主页与社交账号、广播节目「迷子集会」往期查漏、ONE MAN LIVE 与合同演出、物料检索；仅作线索索引，正文事实以官方资料为准
