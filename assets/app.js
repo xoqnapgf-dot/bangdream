@@ -87,15 +87,21 @@
     chev: '<svg class="chev" viewBox="0 0 24 24"><path d="M9 6l6 6-6 6"/></svg>',
     lock: '<svg class="lock" viewBox="0 0 24 24"><rect x="5" y="11" width="14" height="9" rx="2"/>' +
           '<path d="M8 11V7.5a4 4 0 018 0V11"/></svg>',
-    halfLock: '<svg class="lock half-lock" viewBox="0 0 24 24"><rect x="5" y="11" width="14" height="9" rx="2"/>' +
-              '<path d="M9 11V8a4 4 0 017.7-1.5"/></svg>'
+    halfLock: '<svg class="lock half-lock" viewBox="0 0 24 24"><rect x="3.5" y="10.5" width="12" height="10" rx="2"/>' +
+              '<path d="M6.5 10.5V8a3 3 0 016 0v2.5"/><path d="M14.5 21.5l.9-3.4 5.6-5.6a1.6 1.6 0 012.3 2.3l-5.6 5.6z"/></svg>'
   };
   function fileIcon(ext) { return ext === 'txt' ? SVG.txt : SVG.md; }
+  function oldTag(f) {
+    return f && f.deprecated ? '<span class="tag-old" title="' + esc(f.deprecated) + '">旧版·勿用</span>' : '';
+  }
 
   /* 目录状态标记：原始资料显示小锁，仍会随新资料更新的目录显示半锁。
      两种图标都只作提示，不影响点击和阅读。 */
+  var TRIPLE_LOCK_DIRS = [
+    '00_剧情区/01_MyGO动画'
+  ];
+  var TRIPLE_LOCK_HINT = '已定稿 · 剧本、配图与资料均已逐项核对，请勿随意修改';
   var PROTECTED_DIRS = [
-    '00_剧情区/01_MyGO动画',
     '00_剧情区/02_AveMujica动画',
     '00_剧情区/05_官方访谈与设定'
   ];
@@ -110,6 +116,10 @@
     '00_剧情区/07_CP线梳理'
   ];
   var PARTIAL_PROTECTED_HINT = '阶段性整理 · 内容将随新资料继续更新';
+
+  function isTripleLockDir(path) {
+    return TRIPLE_LOCK_DIRS.indexOf(path) >= 0;
+  }
 
   function isProtectedDir(path) {
     return PROTECTED_DIRS.indexOf(path) >= 0;
@@ -611,6 +621,7 @@
       staff = '<dl class="ep-staff">' + staff + '</dl>';
     }
     return '<header class="ep-head">' +
+      (meta.deprecated ? '<div class="ep-deprecated">⚠ ' + esc(meta.deprecated) + '</div>' : '') +
       (meta.ep ? '<div class="ep-no">第 ' + esc(String(meta.ep)) + ' 集</div>' : '') +
       '<h1 class="ep-title">' + esc(title) + '</h1>' +
       (meta.titleJa ? '<div class="ep-title-ja">' + esc(meta.titleJa) + '</div>' : '') +
@@ -676,16 +687,17 @@
 
     if (node.type === 'dir') {
       var n = countFiles(node);
+      var tripleLocked = isTripleLockDir(node.path);
       var originalLocked = isProtectedDir(node.path);
       var curatedLocked = isCuratedProtectedDir(node.path);
-      var locked = originalLocked || curatedLocked;
+      var locked = tripleLocked || originalLocked || curatedLocked;
       var partialLocked = isPartialProtectedDir(node.path);
-      var lockHint = originalLocked ? PROTECTED_HINT :
-        (curatedLocked ? CURATED_PROTECTED_HINT : (partialLocked ? PARTIAL_PROTECTED_HINT : ''));
-      var lockIcon = locked ? SVG.lock : SVG.halfLock;
+      var lockHint = tripleLocked ? TRIPLE_LOCK_HINT : (originalLocked ? PROTECTED_HINT :
+        (curatedLocked ? CURATED_PROTECTED_HINT : (partialLocked ? PARTIAL_PROTECTED_HINT : '')));
+      var lockIcon = tripleLocked ? SVG.lock + SVG.lock + SVG.lock : (locked ? SVG.lock : SVG.halfLock);
       row.innerHTML = SVG.chev + SVG.dir +
         '<span class="label">' + esc(node.name) + '</span>' +
-        (lockHint ? '<span class="lock-wrap" title="' + lockHint + '" aria-label="' +
+        (lockHint ? '<span class="lock-wrap' + (tripleLocked ? ' triple' : '') + '" title="' + lockHint + '" aria-label="' +
                     lockHint + '">' + lockIcon + '</span>' : '') +
         '<span class="count">' + n + '</span>';
       if (lockHint) {
@@ -705,7 +717,7 @@
       if (depth === 0 && /^00_/.test(node.name)) wrap.classList.add('open');
     } else {
       row.innerHTML = '<span style="width:13px;flex:none"></span>' + fileIcon(node.ext) +
-        '<span class="label">' + esc(displayName(node)) + '</span>';
+        '<span class="label">' + esc(displayName(node)) + '</span>' + oldTag(node);
       row.title = node.title || node.name;
       row.addEventListener('click', function (e) {
         e.stopPropagation();
@@ -872,7 +884,7 @@
 
   function fileRow(f) {
     return '<li><a href="#/' + esc(f.path) + '">' + fileIcon(f.ext) +
-      '<span class="fn"><b>' + esc(displayName(f)) + '</b>' +
+      '<span class="fn"><b>' + esc(displayName(f)) + '</b>' + oldTag(f) +
       (f.summary ? '<span>' + esc(f.summary) + '</span>' : '') +
       '</span><span class="fsz"><span>' + fmtSize(f.size) + '</span>' +
       (f.updated ? '<span>北京时间 ' + esc(f.updated) + '</span>' : '') +

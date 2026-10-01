@@ -20,9 +20,9 @@ MyGO!!!!! × Ave Mujica 资料库 项目文件大纲
     12_It's_my_go.txt
     13_唯一能相信的只有自己.txt
   02_AveMujica动画/
-    AveMujica_剧情总纲_整合版.md
     故事情节（睦视角）.txt
     故事情节（祥子视角）.txt
+    AveMujica_剧情总纲_整合版.md
   03_剧场版/
     MyGO剧场版_资料汇总.md
     AveMujica剧场版_prima_aurora资料汇总.md

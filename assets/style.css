@@ -200,7 +200,22 @@ html[data-theme="dark"] .ico-moon { display: block; }
   opacity: .75;
   transition: color .12s, opacity .12s;
 }
-.row .half-lock { color: var(--accent-2); opacity: .85; }
+.row .half-lock { color: var(--accent-2); opacity: .85; width: 13px; height: 13px; }
+.row .lock-wrap.triple .lock + .lock { margin-left: -3px; }
+/* 旧版本标记 */
+.tag-old {
+  flex: none; margin-left: 6px; padding: 0 5px; border-radius: 4px;
+  font-size: 10.5px; line-height: 16px; font-style: normal; font-weight: 600;
+  color: #b4432f; background: color-mix(in srgb, #b4432f 12%, transparent);
+  white-space: nowrap;
+}
+.filelist .fn b + .tag-old { vertical-align: 1px; }
+.ep-deprecated {
+  margin: 0 0 12px; padding: 7px 10px; border-radius: 6px;
+  font-size: 13px; font-weight: 600; color: #b4432f;
+  background: color-mix(in srgb, #b4432f 10%, transparent);
+  border: 1px solid color-mix(in srgb, #b4432f 35%, transparent);
+}
 .row:hover .lock,
 .row.active .lock { color: var(--accent-2); opacity: 1; }
 

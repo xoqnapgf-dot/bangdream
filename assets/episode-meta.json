@@ -586,7 +586,8 @@
     "href": "故事情节（睦视角）.txt"
    }
   ],
-  "source": "https://anime.bang-dream.com/avemujica/story/"
+  "source": "https://anime.bang-dream.com/avemujica/story/",
+  "deprecated": "旧版本，请勿使用"
  },
  "00_剧情区/02_AveMujica动画/故事情节（睦视角）.txt": {
   "layout": "prose",
@@ -620,6 +621,7 @@
     "href": "故事情节（祥子视角）.txt"
    }
   ],
-  "source": "https://anime.bang-dream.com/avemujica/story/"
+  "source": "https://anime.bang-dream.com/avemujica/story/",
+  "deprecated": "旧版本，请勿使用"
  }
 }
