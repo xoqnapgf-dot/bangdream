@@ -4,7 +4,8 @@
 
 - 开工前先同步 `main` 的最新状态，再改。
 - 在指定的工作分支上改动并推送，不直接改 `main`；改完通过 PR 合并进 `main`。
-- 合并后给出对应最新 commit 的 RawGitHack 固定预览链接：`https://raw.githack.com/xoqnapgf-dot/bangdream/<commit>/index.html`（仅用于审阅）。
+- 合并后给出 GitHub Pages 链接：`https://xoqnapgf-dot.github.io/bangdream/`（合并后需几分钟重新部署）。
+- 本文件只约束 Claude Code；`项目简介.txt` 中面向其他 agent 的约定（如 RawGitHack 预览）不在此处改动。
 - 改完资料后运行 `python3 tools/build_manifest.py`，提交前跑 `python3 tools/check_content.py`、`node --check assets/app.js`、`git diff --check`。
 
 ## 内容
