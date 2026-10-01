@@ -7,6 +7,7 @@ import os
 import re
 import pathlib
 import datetime
+import subprocess
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 LIB = ROOT / "资料库"
@@ -19,11 +20,27 @@ INDEX_HTML = ROOT / "index.html"
 
 TEXT_EXT = {".md", ".txt"}
 BEIJING_TZ = datetime.timezone(datetime.timedelta(hours=8))
-PINNED_DISPLAY_PATHS = {
-    "00_剧情区/04_漫画游戏/MyGO_漫画游戏情节汇总.md",
-    "00_剧情区/05_官方访谈与设定/MyGO_确证内容汇总.md",
-    "00_剧情区/06_社区解析_推测/MyGO_分析推测汇总.md",
-    "00_剧情区/07_CP线梳理/MyGO_CP线梳理.md",
+# 不改文件名和内部相对链接，只固定读者看到的专题顺序：先 MyGO!!!!!，
+# 后 Ave Mujica，再放跨作品或辅助资料。这里同时用于网站清单与文件大纲。
+DISPLAY_FILE_ORDER = {
+    path: rank
+    for rank, path in enumerate((
+        "00_剧情区/03_剧场版/MyGO剧场版_资料汇总.md",
+        "00_剧情区/03_剧场版/AveMujica剧场版_prima_aurora资料汇总.md",
+        "00_剧情区/04_漫画游戏/MyGO_漫画游戏情节汇总.md",
+        "00_剧情区/04_漫画游戏/AveMujica漫画游戏情节汇总.md",
+        "00_剧情区/04_漫画游戏/MyGO剧情对白_英文版.md",
+        "00_剧情区/04_漫画游戏/少女乐团派对_MyGO相关活动剧情对白_中文版.md",
+        "00_剧情区/04_漫画游戏/少女乐团派对_AveMujica相关剧情对白_中文版.md",
+        "00_剧情区/04_漫画游戏/OurNotes内测社区反馈汇总.md",
+        "00_剧情区/05_官方访谈与设定/MyGO_确证内容汇总.md",
+        "00_剧情区/05_官方访谈与设定/AveMujica_确证内容汇总.md",
+        "00_剧情区/06_社区解析_推测/MyGO_分析推测汇总.md",
+        "00_剧情区/06_社区解析_推测/AveMujica_分析推测汇总.md",
+        "00_剧情区/06_社区解析_推测/Yamaryo_個體化的擺盪與認同的放手.md",
+        "00_剧情区/07_CP线梳理/MyGO_CP线梳理.md",
+        "00_剧情区/07_CP线梳理/AveMujica_CP线梳理.md",
+    ))
 }
 
 
@@ -70,12 +87,22 @@ def natural_key(name: str):
     return [int(x) if x.isdigit() else x for x in parts]
 
 
+def display_key(path: pathlib.Path):
+    """专题文件按策划顺序显示，其余条目仍按自然文件名排序。"""
+    try:
+        rel = path.relative_to(LIB).as_posix()
+    except ValueError:
+        rel = path.as_posix()
+    rank = DISPLAY_FILE_ORDER.get(rel)
+    return (0, rank) if rank is not None else (1, natural_key(path.name))
+
+
 def outline_lines(d: pathlib.Path, depth: int = 0):
     """按资料库里的真实层级列出目录与文件，供 项目文件大纲.txt 使用。"""
     lines = []
     entries = sorted(
         (e for e in d.iterdir() if not e.name.startswith(".")),
-        key=lambda p: natural_key(p.name),
+        key=display_key,
     )
     subdirs = [e for e in entries if e.is_dir()]
     files = [
@@ -114,9 +141,61 @@ def write_outline():
     OUTLINE.write_text(text, encoding="utf-8")
 
 
+def git_update_times() -> dict[str, str]:
+    """返回资料库文件最后一次提交的北京时间（精确到分钟）。
+
+    检出、重置会批量改写文件系统 mtime，因此历史时间只取 Git。工作区中
+    已修改或未跟踪的文件尚无提交时间，明确使用本次生成时刻。
+    """
+    now = datetime.datetime.now(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
+    try:
+        history = subprocess.run(
+            ["git", "-c", "core.quotepath=false", "log", "--format=@@%ct",
+             "--name-only", "--no-renames", "--", LIB.name],
+            cwd=ROOT, check=True, capture_output=True, text=True, encoding="utf-8",
+        ).stdout
+        dirty_output = subprocess.run(
+            ["git", "-c", "core.quotepath=false", "status", "--porcelain", "-z", "--", LIB.name],
+            cwd=ROOT, check=True, capture_output=True,
+        ).stdout.decode("utf-8", errors="replace")
+    except (OSError, subprocess.CalledProcessError):
+        return {}
+
+    result: dict[str, str] = {}
+    stamp = None
+    for line in history.splitlines():
+        if line.startswith("@@"):
+            try:
+                stamp = datetime.datetime.fromtimestamp(int(line[2:]), BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
+            except ValueError:
+                stamp = None
+        elif stamp and line.startswith(LIB.name + "/"):
+            result.setdefault(line[len(LIB.name) + 1:], stamp)
+
+    # porcelain -z 的普通记录为“XY 路径”；重命名会多带一个 NUL 字段。
+    fields = dirty_output.split("\0")
+    i = 0
+    while i < len(fields):
+        record = fields[i]
+        i += 1
+        if not record:
+            continue
+        status, path = record[:2], record[3:]
+        if status[0] in "RC" or status[1] in "RC":
+            if i < len(fields):
+                i += 1
+        if path.startswith(LIB.name + "/"):
+            result[path[len(LIB.name) + 1:]] = now
+    return result
+
+
+UPDATE_TIMES: dict[str, str] = {}
+CURRENT_BUILD_TIME = ""
+
+
 def walk(d: pathlib.Path):
     dirs, files = [], []
-    for entry in sorted(d.iterdir(), key=lambda p: natural_key(p.name)):
+    for entry in sorted(d.iterdir(), key=display_key):
         if entry.name.startswith("."):
             continue
         if entry.is_dir():
@@ -136,30 +215,17 @@ def walk(d: pathlib.Path):
                 "chars": len(text),
                 "title": extract_title(entry, text),
                 "summary": summarize(text),
+                "updated": UPDATE_TIMES.get(rel, CURRENT_BUILD_TIME),
             })
+    children = dirs + files
+    updated = max((child.get("updated") or "" for child in children), default="") or None
     return {
         "type": "dir",
         "name": d.name,
         "path": d.relative_to(LIB).as_posix() if d != LIB else "",
-        "children": dirs + files,
+        "updated": updated,
+        "children": children,
     }
-
-
-def pin_summaries_for_display(node):
-    """让指定总览在清单与前端排序中都稳定置顶。"""
-    if node.get("type") != "dir":
-        return
-    dirs = [child for child in node["children"] if child["type"] == "dir"]
-    files = [child for child in node["children"] if child["type"] == "file"]
-    files.sort(
-        key=lambda child: (
-            child["path"] not in PINNED_DISPLAY_PATHS,
-            natural_key(child["name"]),
-        )
-    )
-    node["children"] = dirs + files
-    for child in dirs:
-        pin_summaries_for_display(child)
 
 
 def count(node):
@@ -176,12 +242,14 @@ def count(node):
 
 
 def main():
+    global UPDATE_TIMES, CURRENT_BUILD_TIME
     if not LIB.is_dir():
         raise SystemExit(f"找不到资料库目录: {LIB}")
     # 先刷新大纲，再扫描，保证清单里记录的是大纲的最新体积。
     write_outline()
+    CURRENT_BUILD_TIME = datetime.datetime.now(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
+    UPDATE_TIMES = git_update_times()
     tree = walk(LIB)
-    pin_summaries_for_display(tree)
     nf, nd = count(tree)
     total = sum(p.stat().st_size for p in LIB.rglob("*") if p.is_file())
     now = datetime.datetime.now(BEIJING_TZ)
