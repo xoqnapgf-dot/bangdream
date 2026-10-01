@@ -495,9 +495,19 @@
   }
 
   /* 把配图铺到正文里：优先落在场景切换处，避免一次性堆在开头。 */
-  function spreadImages(blocks, breaks, images) {
+  function spreadImages(blocks, breaks, images, anchors) {
     if (!images || !images.length) return blocks.join('');
     var slots = [], used = {};
+    /* 带 after 的图（after=剧本里的整行原文，nth=该行第几次出现，默认第 1 次）
+       直接落在那一行之后；找不到锚点的，退回下面的均匀分布。 */
+    var free = [];
+    images.forEach(function (img) {
+      var hit = img && typeof img === 'object' && img.after && anchors && anchors[img.after];
+      var at = hit ? hit[(img.nth || 1) - 1] : undefined;
+      if (at === undefined) { free.push(img); return; }
+      slots.push({ at: at + 1, img: img });
+    });
+    images = free;
     for (var n = 0; n < images.length; n++) {
       var want = Math.round(blocks.length * (n + 1) / (images.length + 1));
       var limit = Math.max(6, Math.round(blocks.length * 0.08));   // 就近吸附，但不许跑太远
@@ -543,7 +553,7 @@
      只是把「姓名：台词」这样的纯文本行渲染成可读的对白。 */
   function renderScript(src, images) {
     var lines = String(src).replace(/\r\n?/g, '\n').split('\n');
-    var out = [], breaks = [], gap = false;
+    var out = [], breaks = [], gap = false, anchors = {};
     function push(cls, html) {
       out.push('<p class="' + cls + (gap ? ' is-break' : '') + '">' + html + '</p>');
       gap = false;
@@ -551,7 +561,7 @@
     for (var i = 0; i < lines.length; i++) {
       var line = lines[i].replace(/\s+$/, '');
       if (!line.trim()) { gap = true; continue; }
-      var t = line.trim(), m;
+      var t = line.trim(), m, before = out.length;
       if ((m = /^\*{2,3}(.+?)\*{2,3}$/.exec(t))) {            // ***整段说明***
         push('sc-note', esc(m[1]));
       } else if ((m = /^#\s*(.+)$/.exec(t))) {                 // 行首 # ：独白
@@ -574,8 +584,9 @@
         if (gap) breaks.push(out.length);
         push('sc-scene', esc(t));
       }
+      if (out.length > before) (anchors[t] = anchors[t] || []).push(before);
     }
-    return '<div class="script">' + spreadImages(out, breaks, images) + '</div>';
+    return '<div class="script">' + spreadImages(out, breaks, images, anchors) + '</div>';
   }
 
   /* 剧本文件的头部：官方场面图、话数标题、梗概与制作名单。
