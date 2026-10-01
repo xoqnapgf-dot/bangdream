@@ -95,7 +95,7 @@ def main() -> None:
         "永远在一起",
         "爱音与乐奈在台前并肩弹出双吉他段落",
         "若麦几次把视线落在她身上",
-        "牵起她的手共舞", 
+        "牵起她的手共舞",
     ]
     for phrase in required:
         assert phrase in synopsis, f"剧情总纲缺少：{phrase}"
