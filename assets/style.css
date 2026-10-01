@@ -252,6 +252,12 @@ html[data-theme="dark"] .ico-moon { display: block; }
 .crumb .cur { color: var(--tx); font-weight: 600; }
 .crumb .meta { margin-left: auto; font-variant-numeric: tabular-nums; }
 
+/* 标题下的更新时间 */
+.file-stamp {
+  margin: 4px 0 14px; font-size: 12px; color: var(--tx-faint);
+  font-variant-numeric: tabular-nums;
+}
+
 .content {
   max-width: 780px;
   margin: 0 auto;
@@ -735,13 +741,13 @@ html[data-theme="dark"] .errbox { color: #f08a7e; }
 }
 .script-view .sc-say { color: var(--tx); min-width: 0; }
 .script-view .sc-scene {
-  margin: 0; padding: 7px 0 7px 14px;
-  border-left: 2px solid var(--line);
-  color: var(--tx-faint); font-size: 13px; letter-spacing: .01em;
+  margin: 0; padding: 3px 0 3px 10px;
+  border-left: 1px solid var(--line);
+  color: var(--tx-faint); font-size: 12px; line-height: 1.6; letter-spacing: .01em;
 }
 .script-view .sc-note {
-  margin: 0; padding: 7px 0;
-  color: var(--accent-2); font-size: 13px;
+  margin: 0; padding: 3px 0;
+  color: var(--accent-2); font-size: 12px; line-height: 1.6;
 }
 /* （动作、镜头、画面内出现的文字） */
 .script-view .sc-act {

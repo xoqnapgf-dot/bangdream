@@ -914,6 +914,16 @@
 
   /* ─────────── 视图：文件 ─────────── */
 
+  /* 每个文件页的标题下方写明最后更新时间（北京时间，精确到分钟）。
+     数据来自 manifest 的 updated 字段，由 tools/build_manifest.py 按 Git 历史生成。 */
+  function addStamp(box, node) {
+    if (!node.updated) return;
+    var html = '<p class="file-stamp">更新于北京时间 ' + esc(node.updated) + '</p>';
+    var anchor = box.querySelector('.ep-head') || box.querySelector('h1');
+    if (anchor) anchor.insertAdjacentHTML('afterend', html);
+    else box.insertAdjacentHTML('afterbegin', html);
+  }
+
   function viewFile(node) {
     crumb(node.path, fmtSize(node.size) + ' · ' + node.chars.toLocaleString() + ' 字' +
       (node.updated ? ' · 更新于北京时间 ' + node.updated : ''));
@@ -948,6 +958,7 @@
         }
         $('toc').innerHTML = '';
       }
+      addStamp(box, node);
       restoreScroll(node.path);
     }
 
