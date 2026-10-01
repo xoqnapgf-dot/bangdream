@@ -37,7 +37,25 @@
    "分镜": "柿本広大",
    "演出": "遠藤 求"
   },
-  "source": "https://anime.bang-dream.com/mygo/story/"
+  "source": "https://anime.bang-dream.com/mygo/story/",
+  "bili": {
+   "ep": 1183102,
+   "badge": "限免"
+  },
+  "videos": [
+   {
+    "bv": "BV1Lh411c7Ys",
+    "title": "片头曲 壱雫空（Hitoshizuku）· TV 动画 OP"
+   },
+   {
+    "bv": "BV1JM4y177od",
+    "title": "片尾曲 栞（Shiori）· TV 动画 ED"
+   },
+   {
+    "bv": "BV1na4y1c7bR",
+    "title": "栞（Shiori）· Official Music Video"
+   }
+  ]
  },
  "00_剧情区/01_MyGO动画/02_不会再邀请你了.txt": {
   "ep": 2,
@@ -78,7 +96,11 @@
    "分镜": "梅津朋美（エディッツ）",
    "演出": "遠藤 求"
   },
-  "source": "https://anime.bang-dream.com/mygo/story/"
+  "source": "https://anime.bang-dream.com/mygo/story/",
+  "bili": {
+   "ep": 1183103,
+   "badge": "会员"
+  }
  },
  "00_剧情区/01_MyGO动画/03_CRYCHIC.txt": {
   "ep": 3,
@@ -124,7 +146,18 @@
    "分镜": "柿本広大",
    "演出": "大森 大地、山之口 創"
   },
-  "source": "https://anime.bang-dream.com/mygo/story/"
+  "source": "https://anime.bang-dream.com/mygo/story/",
+  "bili": {
+   "ep": 1183104,
+   "badge": "会员"
+  },
+  "videos": [
+   {
+    "bv": "BV1nu411h7Bk",
+    "title": "春日影（CRYCHIC）· 第 3 话插曲",
+    "after": "***灯唱歌***"
+   }
+  ]
  },
  "00_剧情区/01_MyGO动画/04_一辈子哦.txt": {
   "ep": 4,
@@ -170,7 +203,11 @@
    "分镜": "林 翔子",
    "演出": "古賀 公一郎"
   },
-  "source": "https://anime.bang-dream.com/mygo/story/"
+  "source": "https://anime.bang-dream.com/mygo/story/",
+  "bili": {
+   "ep": 1183105,
+   "badge": "会员"
+  }
  },
  "00_剧情区/01_MyGO动画/05_我没有逃避.txt": {
   "ep": 5,
@@ -211,7 +248,11 @@
    "分镜": "森田 紘吏",
    "演出": "大森 大地"
   },
-  "source": "https://anime.bang-dream.com/mygo/story/"
+  "source": "https://anime.bang-dream.com/mygo/story/",
+  "bili": {
+   "ep": 1183106,
+   "badge": "会员"
+  }
  },
  "00_剧情区/01_MyGO动画/06_怎么事到如今.txt": {
   "ep": 6,
@@ -247,7 +288,11 @@
    "分镜": "岡 こずえ",
    "演出": "古賀 公一郎"
   },
-  "source": "https://anime.bang-dream.com/mygo/story/"
+  "source": "https://anime.bang-dream.com/mygo/story/",
+  "bili": {
+   "ep": 1183107,
+   "badge": "会员"
+  }
  },
  "00_剧情区/01_MyGO动画/07_就算今天的演唱会结束.txt": {
   "ep": 7,
@@ -283,7 +328,37 @@
    "分镜": "梅津朋美",
    "演出": "遠藤 求、宮田 拓実"
   },
-  "source": "https://anime.bang-dream.com/mygo/story/"
+  "source": "https://anime.bang-dream.com/mygo/story/",
+  "bili": {
+   "ep": 1183108,
+   "badge": "会员"
+  },
+  "videos": [
+   {
+    "bv": "BV1wm4y1j78i",
+    "title": "碧天伴走 · 第 7 话插曲",
+    "after": "***灯唱歌***",
+    "nth": 1
+   },
+   {
+    "bv": "BV1P8411U7mr",
+    "title": "碧天伴走 · Official Music Video",
+    "after": "***灯唱歌***",
+    "nth": 1
+   },
+   {
+    "bv": "BV1v14y1z7MV",
+    "title": "春日影（MyGO!!!!! 版）· 第 7 话插曲",
+    "after": "***灯唱歌***",
+    "nth": 2
+   },
+   {
+    "bv": "BV1JHLUz4EUy",
+    "title": "春日影（MyGO!!!!! ver.）· Official Music Video",
+    "after": "***灯唱歌***",
+    "nth": 2
+   }
+  ]
  },
  "00_剧情区/01_MyGO动画/08_为什么.txt": {
   "ep": 8,
@@ -329,7 +404,11 @@
    "分镜": "森田 紘吏",
    "演出": "古賀 公一郎"
   },
-  "source": "https://anime.bang-dream.com/mygo/story/"
+  "source": "https://anime.bang-dream.com/mygo/story/",
+  "bili": {
+   "ep": 1183109,
+   "badge": "会员"
+  }
  },
  "00_剧情区/01_MyGO动画/09_解散.txt": {
   "ep": 9,
@@ -375,7 +454,11 @@
    "分镜": "奥川 尚弥",
    "演出": "遠藤 求"
   },
-  "source": "https://anime.bang-dream.com/mygo/story/"
+  "source": "https://anime.bang-dream.com/mygo/story/",
+  "bili": {
+   "ep": 1183110,
+   "badge": "会员"
+  }
  },
  "00_剧情区/01_MyGO动画/10_一直迷失着.txt": {
   "ep": 10,
@@ -416,7 +499,23 @@
    "分镜": "梅津朋美（エディッツ）",
    "演出": "梅津朋美（エディッツ）"
   },
-  "source": "https://anime.bang-dream.com/mygo/story/"
+  "source": "https://anime.bang-dream.com/mygo/story/",
+  "bili": {
+   "ep": 1183111,
+   "badge": "会员"
+  },
+  "videos": [
+   {
+    "bv": "BV11j411i7z8",
+    "title": "詩超絆（Utakotoba）· 第 10 话插曲",
+    "after": "（立希敲鼓，开始演奏）"
+   },
+   {
+    "bv": "BV1kj411i7ZY",
+    "title": "詩超絆（Utakotoba）· Official Music Video",
+    "after": "（立希敲鼓，开始演奏）"
+   }
+  ]
  },
  "00_剧情区/01_MyGO动画/11_即使如此.txt": {
   "ep": 11,
@@ -462,7 +561,11 @@
    "分镜": "森田 紘吏",
    "演出": "古賀 公一郎"
   },
-  "source": "https://anime.bang-dream.com/mygo/story/"
+  "source": "https://anime.bang-dream.com/mygo/story/",
+  "bili": {
+   "ep": 1183112,
+   "badge": "会员"
+  }
  },
  "00_剧情区/01_MyGO动画/12_It's_my_go.txt": {
   "ep": 12,
@@ -506,7 +609,37 @@
    "分镜": "林 翔子",
    "演出": "大森 大地、山之口 創、鈴木 大介"
   },
-  "source": "https://anime.bang-dream.com/mygo/story/"
+  "source": "https://anime.bang-dream.com/mygo/story/",
+  "bili": {
+   "ep": 1183113,
+   "badge": "会员"
+  },
+  "videos": [
+   {
+    "bv": "BV1pu4y1Q7tQ",
+    "title": "迷星叫（Mayoiuta）· 第 12 话插曲",
+    "after": "***演奏开始***",
+    "nth": 1
+   },
+   {
+    "bv": "BV11n4y1974P",
+    "title": "迷星叫（Mayoiuta）· Chronicle Movie（Anime × Live）",
+    "after": "***演奏开始***",
+    "nth": 1
+   },
+   {
+    "bv": "BV1dN4y1R72B",
+    "title": "迷路日々（Melody）· 第 12 话插曲",
+    "after": "***演奏开始***",
+    "nth": 2
+   },
+   {
+    "bv": "BV11m4y1T7mS",
+    "title": "迷路日々（Melody）· Official Music Video",
+    "after": "***演奏开始***",
+    "nth": 2
+   }
+  ]
  },
  "00_剧情区/01_MyGO动画/13_唯一能相信的只有自己.txt": {
   "ep": 13,
@@ -552,7 +685,18 @@
    "分镜": "奥川 尚弥",
    "演出": "山之口 創、小川 浩太朗"
   },
-  "source": "https://anime.bang-dream.com/mygo/story/"
+  "source": "https://anime.bang-dream.com/mygo/story/",
+  "bili": {
+   "ep": 1183114,
+   "badge": "会员"
+  },
+  "videos": [
+   {
+    "bv": "BV1MP411h759",
+    "title": "Ave Mujica · Official Anime × Live Video",
+    "after": "***演奏环节***"
+   }
+  ]
  },
  "00_剧情区/02_AveMujica动画/故事情节（祥子视角）.txt": {
   "layout": "prose",
