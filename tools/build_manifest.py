@@ -8,6 +8,7 @@ import re
 import pathlib
 import datetime
 import subprocess
+import sys
 
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 LIB = ROOT / "资料库"
@@ -150,7 +151,7 @@ def git_update_times() -> dict[str, str]:
     now = datetime.datetime.now(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
     try:
         history = subprocess.run(
-            ["git", "-c", "core.quotepath=false", "log", "--format=@@%ct",
+            ["git", "-c", "core.quotepath=false", "log", "--no-merges", "--format=@@%ct%x09%s",
              "--name-only", "--no-renames", "--", LIB.name],
             cwd=ROOT, check=True, capture_output=True, text=True, encoding="utf-8",
         ).stdout
@@ -162,15 +163,19 @@ def git_update_times() -> dict[str, str]:
         return {}
 
     result: dict[str, str] = {}
-    stamp = None
+    stamp, subject = None, ""
     for line in history.splitlines():
         if line.startswith("@@"):
+            head, _, subject = line[2:].partition("\t")
             try:
-                stamp = datetime.datetime.fromtimestamp(int(line[2:]), BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
+                stamp = datetime.datetime.fromtimestamp(int(head), BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
             except ValueError:
                 stamp = None
         elif stamp and line.startswith(LIB.name + "/"):
-            result.setdefault(line[len(LIB.name) + 1:], stamp)
+            rel = line[len(LIB.name) + 1:]
+            if rel not in result:                      # 最新的提交最先出现
+                result[rel] = stamp
+                CHANGE_NOTES[rel] = subject.strip()
 
     # porcelain -z 的普通记录为“XY 路径”；重命名会多带一个 NUL 字段。
     fields = dirty_output.split("\0")
@@ -185,11 +190,54 @@ def git_update_times() -> dict[str, str]:
             if i < len(fields):
                 i += 1
         if path.startswith(LIB.name + "/"):
-            result[path[len(LIB.name) + 1:]] = now
+            rel = path[len(LIB.name) + 1:]
+            result[rel] = now
+            CHANGE_NOTES[rel] = BUILD_NOTE              # 还没提交：用构建时传入的说明
+    return result
+
+
+def meta_update_times() -> dict[str, tuple[str, str]]:
+    """剧本的配图、资料卡写在 assets/episode-meta.json 里，不改 .txt 本身。
+
+    逐次提交比对该文件里每个条目的内容：条目有变化，就把那次提交的北京时间
+    记给对应的资料文件；工作区里尚未提交的变化记为本次生成时刻。
+    """
+    rel_meta = EPISODE_META.relative_to(ROOT).as_posix()
+    now = datetime.datetime.now(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
+
+    def git(*args: str) -> str:
+        return subprocess.run(
+            ["git", "-c", "core.quotepath=false", *args], cwd=ROOT, check=True,
+            capture_output=True, text=True, encoding="utf-8",
+        ).stdout
+
+    result: dict[str, tuple[str, str]] = {}
+    prev: dict = {}
+    try:
+        revs = git("log", "--no-merges", "--format=%H %ct %s", "--reverse", "--", rel_meta).splitlines()
+        for line in revs:
+            if not line.strip():
+                continue
+            rev, ct, subject = (line.split(" ", 2) + [""])[:3]
+            cur = json.loads(git("show", f"{rev}:{rel_meta}"))
+            stamp = datetime.datetime.fromtimestamp(int(ct), BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
+            for key, value in cur.items():
+                if prev.get(key) != value:
+                    result[key] = (stamp, subject.strip())
+            prev = cur
+        if EPISODE_META.is_file():
+            cur = json.loads(EPISODE_META.read_text("utf-8"))
+            for key, value in cur.items():
+                if prev.get(key) != value:
+                    result[key] = (now, BUILD_NOTE)
+    except (OSError, ValueError, subprocess.CalledProcessError):
+        return result
     return result
 
 
 UPDATE_TIMES: dict[str, str] = {}
+CHANGE_NOTES: dict[str, str] = {}      # 文件 → 最近一次改动的说明（提交标题）
+BUILD_NOTE = ""                        # 本次尚未提交的改动的说明，由 --note 传入
 CURRENT_BUILD_TIME = ""
 
 
@@ -216,6 +264,7 @@ def walk(d: pathlib.Path):
                 "title": extract_title(entry, text),
                 "summary": summarize(text),
                 "updated": UPDATE_TIMES.get(rel, CURRENT_BUILD_TIME),
+                **({"changed": CHANGE_NOTES[rel][:90]} if CHANGE_NOTES.get(rel) else {}),
             })
     children = dirs + files
     updated = max((child.get("updated") or "" for child in children), default="") or None
@@ -242,13 +291,21 @@ def count(node):
 
 
 def main():
-    global UPDATE_TIMES, CURRENT_BUILD_TIME
+    global UPDATE_TIMES, CURRENT_BUILD_TIME, BUILD_NOTE
+    if "--note" in sys.argv:
+        k = sys.argv.index("--note")
+        BUILD_NOTE = " ".join(sys.argv[k + 1:k + 2]).strip()
     if not LIB.is_dir():
         raise SystemExit(f"找不到资料库目录: {LIB}")
     # 先刷新大纲，再扫描，保证清单里记录的是大纲的最新体积。
     write_outline()
     CURRENT_BUILD_TIME = datetime.datetime.now(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
     UPDATE_TIMES = git_update_times()
+    # 配图、资料卡的改动也算文件更新（取两者较晚的时间）
+    for key, (stamp, note) in meta_update_times().items():
+        if stamp > UPDATE_TIMES.get(key, ""):
+            UPDATE_TIMES[key] = stamp
+            CHANGE_NOTES[key] = note
     tree = walk(LIB)
     nf, nd = count(tree)
     total = sum(p.stat().st_size for p in LIB.rglob("*") if p.is_file())

@@ -918,7 +918,8 @@
      数据来自 manifest 的 updated 字段，由 tools/build_manifest.py 按 Git 历史生成。 */
   function addStamp(box, node) {
     if (!node.updated) return;
-    var html = '<p class="file-stamp">更新于北京时间 ' + esc(node.updated) + '</p>';
+    var html = '<p class="file-stamp">更新于北京时间 ' + esc(node.updated) +
+      (node.changed ? ' · 最近改动：' + esc(node.changed) : '') + '</p>';
     var anchor = box.querySelector('.ep-head') || box.querySelector('h1');
     if (anchor) anchor.insertAdjacentHTML('afterend', html);
     else box.insertAdjacentHTML('afterbegin', html);
