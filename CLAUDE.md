@@ -6,7 +6,7 @@
 - 在指定的工作分支上改动并推送，不直接改 `main`；改完通过 PR 合并进 `main`。
 - 合并后给出 GitHub Pages 链接：`https://xoqnapgf-dot.github.io/bangdream/`（合并后需几分钟重新部署）。
 - 本文件只约束 Claude Code；`项目简介.txt` 中面向其他 agent 的约定（如 RawGitHack 预览）不在此处改动。
-- 改完资料后运行 `python3 tools/build_manifest.py`，提交前跑 `python3 tools/check_content.py`、`node --check assets/app.js`、`git diff --check`。
+- 改完资料后运行 `python3 tools/build_manifest.py --note "本次提交标题"`（`--note` 会作为尚未提交的改动的「最近改动」说明，写成和提交标题一致），提交前跑 `python3 tools/check_content.py`、`node --check assets/app.js`、`git diff --check`。
 
 ## 内容
 
