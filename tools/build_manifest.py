@@ -88,6 +88,12 @@ def natural_key(name: str):
     return [int(x) if x.isdigit() else x for x in parts]
 
 
+# 排在所在目录最后的文件（顺序即这里的先后）。
+DISPLAY_LAST = (
+    "00_剧情区/02_AveMujica动画/AveMujica_剧情总纲_整合版.md",
+)
+
+
 def display_key(path: pathlib.Path):
     """专题文件按策划顺序显示，其余条目仍按自然文件名排序。"""
     try:
@@ -95,7 +101,11 @@ def display_key(path: pathlib.Path):
     except ValueError:
         rel = path.as_posix()
     rank = DISPLAY_FILE_ORDER.get(rel)
-    return (0, rank) if rank is not None else (1, natural_key(path.name))
+    if rank is not None:
+        return (0, rank)
+    if rel in DISPLAY_LAST:
+        return (2, DISPLAY_LAST.index(rel))
+    return (1, natural_key(path.name))
 
 
 def outline_lines(d: pathlib.Path, depth: int = 0):
@@ -235,6 +245,7 @@ def meta_update_times() -> dict[str, tuple[str, str]]:
     return result
 
 
+DEPRECATED: dict[str, str] = {}        # 文件 → 旧版本提示（episode-meta 里的 deprecated 字段）
 UPDATE_TIMES: dict[str, str] = {}
 CHANGE_NOTES: dict[str, str] = {}      # 文件 → 最近一次改动的说明（提交标题）
 BUILD_NOTE = ""                        # 本次尚未提交的改动的说明，由 --note 传入
@@ -265,6 +276,7 @@ def walk(d: pathlib.Path):
                 "summary": summarize(text),
                 "updated": UPDATE_TIMES.get(rel, CURRENT_BUILD_TIME),
                 **({"changed": CHANGE_NOTES[rel][:90]} if CHANGE_NOTES.get(rel) else {}),
+                **({"deprecated": DEPRECATED[rel]} if rel in DEPRECATED else {}),
             })
     children = dirs + files
     updated = max((child.get("updated") or "" for child in children), default="") or None
@@ -301,6 +313,10 @@ def main():
     write_outline()
     CURRENT_BUILD_TIME = datetime.datetime.now(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
     UPDATE_TIMES = git_update_times()
+    if EPISODE_META.is_file():
+        for key, entry in json.loads(EPISODE_META.read_text("utf-8")).items():
+            if isinstance(entry, dict) and entry.get("deprecated"):
+                DEPRECATED[key] = str(entry["deprecated"])
     # 配图、资料卡的改动也算文件更新（取两者较晚的时间）
     for key, (stamp, note) in meta_update_times().items():
         if stamp > UPDATE_TIMES.get(key, ""):
