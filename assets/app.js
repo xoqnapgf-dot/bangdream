@@ -133,6 +133,32 @@
     return PARTIAL_PROTECTED_DIRS.indexOf(path) >= 0;
   }
 
+  /* Bilibili 视频卡片：先渲染封面占位，点击后才插入播放器。资料正文与剧本页共用。 */
+  function videoFigure(bvid, titleOverride) {
+    var meta = state.videoMeta[bvid] || {};
+    var videoTitle = titleOverride || meta.title || 'Bilibili 视频';
+    // autoplay 不写进基础参数：播放器要等用户点了封面才创建，届时再追加 autoplay=1
+    var playerParams = ['isOutside=true', 'bvid=' + encodeURIComponent(bvid), 'p=1',
+      'high_quality=1', 'danmaku=0'];
+    // aid/cid 直接定位首个分 P，避免外链播放器仅凭 BV 号解析失败。
+    if (meta.aid) playerParams.push('aid=' + encodeURIComponent(meta.aid));
+    if (meta.cid) playerParams.push('cid=' + encodeURIComponent(meta.cid));
+    var playerUrl = 'https://player.bilibili.com/player.html?' + playerParams.join('&');
+    // 先只渲染封面占位，点击后才插入 iframe：
+    // 一来站外播放器自身的封面时有时无，二来一页多个视频时可省掉成片的 iframe 开销。
+    var poster = meta.cover
+      ? '<img class="poster-img" src="' + esc(meta.cover) + '" alt="" loading="lazy" ' +
+        'referrerpolicy="no-referrer">'
+      : '';
+    return '<figure class="video-embed">' +
+      '<button type="button" class="video-poster" data-player="' + esc(playerUrl) +
+      '" aria-label="播放：' + esc(videoTitle) + '">' + poster +
+      '<span class="poster-play" aria-hidden="true"></span></button>' +
+      '<figcaption><a href="https://www.bilibili.com/video/' + encodeURIComponent(bvid) +
+      '/" target="_blank" rel="noopener">' + esc(videoTitle) + ' · 在 B 站打开</a>' +
+      '</figcaption></figure>';
+  }
+
   /* ─────────── Markdown 渲染 ─────────── */
 
   function inline(s) {
@@ -281,29 +307,7 @@
       // 只接受 BV 号，避免把任意 HTML / iframe 注入资料正文。
       var bili = /^@\[(?:bilibili|哔哩哔哩)\]\((BV[0-9A-Za-z]+)(?:\s+"([^"]+)")?\)\s*$/.exec(line);
       if (bili) {
-        var bvid = bili[1];
-        var meta = state.videoMeta[bvid] || {};
-        var videoTitle = bili[2] || meta.title || 'Bilibili 视频';
-        // autoplay 不写进基础参数：播放器要等用户点了封面才创建，届时再追加 autoplay=1
-        var playerParams = ['isOutside=true', 'bvid=' + encodeURIComponent(bvid), 'p=1',
-          'high_quality=1', 'danmaku=0'];
-        // aid/cid 直接定位首个分 P，避免外链播放器仅凭 BV 号解析失败。
-        if (meta.aid) playerParams.push('aid=' + encodeURIComponent(meta.aid));
-        if (meta.cid) playerParams.push('cid=' + encodeURIComponent(meta.cid));
-        var playerUrl = 'https://player.bilibili.com/player.html?' + playerParams.join('&');
-        // 先只渲染封面占位，点击后才插入 iframe：
-        // 一来站外播放器自身的封面时有时无，二来一页多个视频时可省掉成片的 iframe 开销。
-        var poster = meta.cover
-          ? '<img class="poster-img" src="' + esc(meta.cover) + '" alt="" loading="lazy" ' +
-            'referrerpolicy="no-referrer">'
-          : '';
-        out.push('<figure class="video-embed">' +
-          '<button type="button" class="video-poster" data-player="' + esc(playerUrl) +
-          '" aria-label="播放：' + esc(videoTitle) + '">' + poster +
-          '<span class="poster-play" aria-hidden="true"></span></button>' +
-          '<figcaption><a href="https://www.bilibili.com/video/' + encodeURIComponent(bvid) +
-          '/" target="_blank" rel="noopener">' + esc(videoTitle) + ' · 在 B 站打开</a>' +
-          '</figcaption></figure>');
+        out.push(videoFigure(bili[1], bili[2]));
         i++; continue;
       }
 
@@ -508,14 +512,16 @@
   function spreadImages(blocks, breaks, images, anchors) {
     if (!images || !images.length) return blocks.join('');
     var slots = [], used = {};
-    /* 带 after 的图（after=剧本里的整行原文，nth=该行第几次出现，默认第 1 次）
-       直接落在那一行之后；找不到锚点的，退回下面的均匀分布。 */
+    /* 带 after 的图/视频（after=剧本里的整行原文，nth=该行第几次出现，默认第 1 次）
+       直接落在那一行之后；图找不到锚点就退回均匀分布，视频找不到锚点放到全文末尾。 */
     var free = [];
     images.forEach(function (img) {
-      var hit = img && typeof img === 'object' && img.after && anchors && anchors[img.after];
+      var obj = img && typeof img === 'object';
+      var hit = obj && img.after && anchors && anchors[img.after];
       var at = hit ? hit[(img.nth || 1) - 1] : undefined;
-      if (at === undefined) { free.push(img); return; }
-      slots.push({ at: at + 1, img: img });
+      if (at !== undefined) { slots.push({ at: at + 1, img: img, ord: slots.length }); return; }
+      if (obj && img.bv) { slots.push({ at: blocks.length, img: img, ord: slots.length }); return; }
+      free.push(img);
     });
     images = free;
     for (var n = 0; n < images.length; n++) {
@@ -528,16 +534,22 @@
       }
       if (best < 0 || dist > limit) best = want;
       used[best] = 1;
-      slots.push({ at: best, img: images[n] });
+      slots.push({ at: best, img: images[n], ord: slots.length });
     }
-    slots.sort(function (x, y) { return y.at - x.at; });
+    // 位置相同的按原顺序：先插后面的，前面的就会排在更前
+    slots.sort(function (x, y) { return (y.at - x.at) || (y.ord - x.ord); });
     slots.forEach(function (sl) {
-      var src = typeof sl.img === 'string' ? sl.img : sl.img.src;
-      var cap = typeof sl.img === 'string' ? '' : (sl.img.caption || '');
-      blocks.splice(Math.max(0, Math.min(sl.at, blocks.length)), 0,
-        '<figure class="sc-figure"><img src="' + esc(src) + '" alt="' + esc(cap || '场面图') +
-        '" loading="lazy" referrerpolicy="no-referrer">' +
-        (cap ? '<figcaption>' + esc(cap) + '</figcaption>' : '') + '</figure>');
+      var html;
+      if (sl.img && sl.img.bv) {
+        html = videoFigure(sl.img.bv, sl.img.title);
+      } else {
+        var src = typeof sl.img === 'string' ? sl.img : sl.img.src;
+        var cap = typeof sl.img === 'string' ? '' : (sl.img.caption || '');
+        html = '<figure class="sc-figure"><img src="' + esc(src) + '" alt="' + esc(cap || '场面图') +
+          '" loading="lazy" referrerpolicy="no-referrer">' +
+          (cap ? '<figcaption>' + esc(cap) + '</figcaption>' : '') + '</figure>';
+      }
+      blocks.splice(Math.max(0, Math.min(sl.at, blocks.length)), 0, html);
     });
     return blocks.join('');
   }
@@ -630,6 +642,9 @@
       (meta.quote ? '<blockquote class="ep-quote">' + esc(meta.quote) + '</blockquote>' : '') +
       staff +
       (links ? '<nav class="ep-links">' + links + '</nav>' : '') +
+      (meta.bili ? '<a class="ep-src" href="https://www.bilibili.com/bangumi/play/ep' +
+        encodeURIComponent(meta.bili.ep) + '" target="_blank" rel="noopener">B 站观看正片' +
+        (meta.bili.badge ? '（' + esc(meta.bili.badge) + '）' : '') + '</a>' : '') +
       (meta.source ? '<a class="ep-src" href="' + esc(meta.source) +
         '" target="_blank" rel="noopener">官方网站 Story 页</a>' : '') +
       '</header>';
@@ -958,7 +973,7 @@
         if (epMeta) {
           var prose = epMeta.layout === 'prose';
           box.className = 'content script-view' + (prose ? ' prose-view' : '');
-          var bodyImages = (epMeta.images || []).slice(1);
+          var bodyImages = (epMeta.images || []).slice(1).concat(epMeta.videos || []);
           box.innerHTML = renderEpisodeHead(epMeta, epMeta.title || plainTitle) +
             (prose ? renderProse(text, bodyImages) : renderScript(text, bodyImages));
           guardImages(box);
