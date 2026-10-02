@@ -215,7 +215,7 @@ RiNG 的咖啡厅里，灯把一叠叠花朵形状的便利贴摊在桌上。素
 
 ![第 1 话场面截图](https://cdn-ak.f.st-hatena.com/images/fotolife/L/Lastbreath/20250104/20250104175825.png "第 1 话场面截图 · 来源：イマワノキワ 第 1 话感想（lastbreath.hatenablog.com）")
 
-Amoris 迈着轻快的步子走到台前：「Amoris，我毋畏爱。」Oblivionis 双手交叠在胸前：「Oblivionis，我毋畏遗忘。」她在几把高背椅之间走动：「好了，观众也差不多快来了。」「谁要来了？」「Doloris，看向前方。」Mortis 低垂着眼。「是朋友。」「Mortis，你的头发都乱了。」漆黑的观众席上，零星亮起几点灯光。「即将成为我们新主人的人。」Oblivionis 替 Timoris 理了理领口：「Timoris，衣领要整理好。」Amoris 捂着嘴笑：「今天一定要让新主人找到我～」Oblivionis 走到她面前，托起她的下巴：「Amoris，你现在需要的，是完美的仪容举止与完美的笑容。你必须向观众们展现出最出色的自己。」「好～」
+Amoris 迈着轻快的步子走到台前：「Amoris，我毋畏爱。」Oblivionis 双手交叠在胸前：「Oblivionis，我毋畏遗忘。」她在几把高背椅之间走动：「好了，观众也差不多快来了。」「谁要来了？」「Doloris，看向前方。」Mortis 低着头说：「是朋友。」「Mortis，你的头发都乱了。」漆黑的观众席上，零星亮起几点灯光。「即将成为我们新主人的人。」Oblivionis 替 Timoris 理了理领口：「Timoris，衣领要整理好。」Amoris 捂着嘴笑：「今天一定要让新主人找到我～」Oblivionis 走到她面前，托起她的下巴：「Amoris，你现在需要的，是完美的仪容举止与完美的笑容。你必须向观众们展现出最出色的自己。」「好～」
 
 ![第 1 话场面截图](https://cdn-ak.f.st-hatena.com/images/fotolife/L/Lastbreath/20250104/20250104180123.png "第 1 话场面截图 · 来源：イマワノキワ 第 1 话感想（lastbreath.hatenablog.com）")
 
