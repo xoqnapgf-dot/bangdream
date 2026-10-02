@@ -90,7 +90,7 @@ def main() -> None:
     synopsis = (LIB / "00_剧情区/02_AveMujica动画/AveMujica_剧情总纲_整合版.md").read_text(encoding="utf-8")
     required = [
         "赤着一只脚继续冲出机场",
-        "若麦拒绝了自己替她推荐的舞台试镜",
+        "听说你把舞台的试镜推掉了？我好失望喔",
         "「上面」已经叫停",
         "永远在一起",
         "爱音与乐奈在台前并肩弹出双吉他段落",
