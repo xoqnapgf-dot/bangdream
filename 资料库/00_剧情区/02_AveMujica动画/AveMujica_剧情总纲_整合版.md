@@ -1191,7 +1191,7 @@ Doloris 抱着吉他：「欢迎来到 Ave Mujica 的世界。」
 
 ![Ave Mujica 第 3 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/01/14093829/BDAVE_ep02_Haishin_Harding_ARI_241025.00_01_02_07.%E9%9D%99%E6%AD%A2%E7%94%BB214-1024x576.png "Ave Mujica · 第 3 话官方场面图")
 
-巡演首日的舞台上，Mortis 弹错音后瘫坐在地，台上的音乐断了。观众席一片骚动。
+巡演首日的舞台上，Mortis 弹错音后瘫坐下来，台上的音乐断了。观众席一片骚动。
 
 一名观众小声问：「怎么了？」
 
