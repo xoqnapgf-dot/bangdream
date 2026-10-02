@@ -732,7 +732,7 @@
       if (depth === 0 && /^00_/.test(node.name)) wrap.classList.add('open');
     } else {
       row.innerHTML = '<span style="width:13px;flex:none"></span>' + fileIcon(node.ext) +
-        '<span class="label">' + esc(displayName(node)) + '</span>' + oldTag(node);
+        '<span class="label' + (node.deprecated ? ' is-old' : '') + '">' + esc(displayName(node)) + '</span>' + oldTag(node);
       row.title = node.title || node.name;
       row.addEventListener('click', function (e) {
         e.stopPropagation();
@@ -899,7 +899,7 @@
 
   function fileRow(f) {
     return '<li><a href="#/' + esc(f.path) + '">' + fileIcon(f.ext) +
-      '<span class="fn"><b>' + esc(displayName(f)) + '</b>' + oldTag(f) +
+      '<span class="fn"><b' + (f.deprecated ? ' class="is-old"' : '') + '>' + esc(displayName(f)) + '</b>' + oldTag(f) +
       (f.summary ? '<span>' + esc(f.summary) + '</span>' : '') +
       '</span><span class="fsz"><span>' + fmtSize(f.size) + '</span>' +
       (f.updated ? '<span>北京时间 ' + esc(f.updated) + '</span>' : '') +
