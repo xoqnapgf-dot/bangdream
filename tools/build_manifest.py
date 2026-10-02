@@ -91,6 +91,9 @@ def natural_key(name: str):
 # 排在所在目录最后的文件（顺序即这里的先后）。
 DISPLAY_LAST = (
     "00_剧情区/02_AveMujica动画/AveMujica_剧情总纲_整合版.md",
+    # 两份视角稿已标为旧版，放到最后。
+    "00_剧情区/02_AveMujica动画/故事情节（睦视角）.txt",
+    "00_剧情区/02_AveMujica动画/故事情节（祥子视角）.txt",
 )
 
 
