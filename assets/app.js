@@ -842,9 +842,9 @@
 
   function restoreScroll(path) {
     var key = path || '';
-    var top = Object.prototype.hasOwnProperty.call(state.scrolls, key) ? state.scrolls[key] : 0;
+    var pos = Object.prototype.hasOwnProperty.call(state.scrolls, key) ? state.scrolls[key] : 0;
     requestAnimationFrame(function () {
-      if (state.current === key) $('main').scrollTop = top;
+      if (state.current === key) restorePos(pos);
     });
   }
 
@@ -1051,26 +1051,59 @@
     spy();
   }
 
-  // 跳到标题：上方的懒加载图片会在跳转后才撑开，iOS Safari 没有滚动锚定，
+  // 跳到某个位置：上方的懒加载图片会在跳转后才撑开，iOS Safari 没有滚动锚定，
   // 落点会被顶偏。所以直接跳过去，再跟着目标位置校正，直到连续一段时间不再变化；
-  // 用户一碰屏幕就停
-  function scrollToHead(t) {
-    var m = $('main'), start = Date.now(), stableSince = start, stopped = false;
-    function stop() { stopped = true; }
+  // 用户一碰屏幕就停。wantTop 每次重新计算目标 scrollTop
+  var keepToken = 0;
+  function keepScroll(wantTop) {
+    var m = $('main'), start = Date.now(), stableSince = start, token = ++keepToken;
+    function stop() { if (token === keepToken) keepToken++; }
     m.addEventListener('touchstart', stop, { once: true, passive: true });
     m.addEventListener('wheel', stop, { once: true, passive: true });
     // .main 设了 scroll-behavior: smooth，这里必须显式用 instant，否则每次校正都会重新起一段动画
-    m.scrollTo({ top: t.offsetTop - 52, behavior: 'instant' });
+    var first = wantTop();
+    if (first !== null) m.scrollTo({ top: first, behavior: 'instant' });
     (function fix() {
       var now = Date.now();
-      if (stopped || now - start > 8000 || now - stableSince > 1000) return;
-      var want = t.offsetTop - 52;
-      if (Math.abs(want - m.scrollTop) > 2) {
+      if (token !== keepToken || now - start > 8000 || now - stableSince > 1000) return;
+      var want = wantTop();
+      // 目标在页底之下时滚不过去，按滚到底算作到位
+      if (want !== null) want = Math.max(0, Math.min(want, m.scrollHeight - m.clientHeight));
+      if (want !== null && Math.abs(want - m.scrollTop) > 2) {
         stableSince = now;
         m.scrollTo({ top: want, behavior: 'instant' });
       }
       setTimeout(fix, 100);
     })();
+  }
+
+  function scrollToHead(t) {
+    keepScroll(function () { return t.offsetTop - 52; });
+  }
+
+  /* 记住当前阅读位置：不存像素，存视口顶部第一个元素的序号和偏移，
+     这样重新渲染、图片尚未加载时也能回到同一段内容 */
+  function savePos() {
+    var m = $('main'), viewTop = m.getBoundingClientRect().top;
+    var els = $('content').querySelectorAll('*');
+    for (var i = 0; i < els.length; i++) {
+      var r = els[i].getBoundingClientRect();
+      if (r.height && r.top >= viewTop - 1) return { top: m.scrollTop, idx: i, delta: r.top - viewTop };
+    }
+    return { top: m.scrollTop };
+  }
+
+  function restorePos(pos) {
+    var m = $('main');
+    keepToken++;   // 先停掉上一个页面还在进行的位置校正
+    if (pos === undefined || pos === null) pos = 0;
+    if (typeof pos === 'number') pos = { top: pos };
+    if (pos.idx === undefined) { m.scrollTo({ top: pos.top, behavior: 'instant' }); return; }
+    keepScroll(function () {
+      var el = $('content').querySelectorAll('*')[pos.idx];
+      if (!el) return pos.top;
+      return m.scrollTop + el.getBoundingClientRect().top - m.getBoundingClientRect().top - pos.delta;
+    });
   }
 
   function resolveHeadingLinks(box) {
@@ -1167,7 +1200,7 @@
   function pushJump(sameDoc) {
     jumpStack.push({
       path: state.current,
-      top: $('main').scrollTop,
+      pos: savePos(),
       label: currentLabel(),
       sameDoc: !!sameDoc
     });
@@ -1186,9 +1219,9 @@
     updateBackFab();
     if (!last) return;
     if (last.path === state.current) {
-      $('main').scrollTo({ top: last.top, behavior: 'smooth' });
+      restorePos(last.pos);
     } else {
-      state.scrolls[last.path] = last.top;
+      state.scrolls[last.path] = last.pos;
       navByRef = true;   // 返回本身不应清空更早的跳转记录
       go(last.path);
     }
@@ -1204,10 +1237,11 @@
     /* 页内标题锚点不属于文件路由；避免旧目录链接把正文误判成文件路径。 */
     if (location.hash && location.hash.indexOf('#/') !== 0) return;
     $('contentsFab').hidden = true;
+    keepToken++;
     if (!navByRef) jumpStack.length = 0;
     navByRef = false;
     updateBackFab();
-    if (state.current !== null) state.scrolls[state.current] = $('main').scrollTop;
+    if (state.current !== null) state.scrolls[state.current] = savePos();
     var raw = location.hash.replace(/^#\/?/, '');
     var path = '';
     try { path = decodeURIComponent(raw); } catch (e) { path = raw; }
