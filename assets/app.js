@@ -1045,10 +1045,32 @@
       a.addEventListener('click', function (e) {
         e.preventDefault();
         var t = tocHeads[+a.dataset.i];
-        if (t) $('main').scrollTo({ top: t.offsetTop - 52, behavior: 'smooth' });
+        if (t) scrollToHead(t);
       });
     });
     spy();
+  }
+
+  // 跳到标题：上方的懒加载图片会在跳转后才撑开，iOS Safari 没有滚动锚定，
+  // 落点会被顶偏。所以直接跳过去，再跟着目标位置校正，直到连续一段时间不再变化；
+  // 用户一碰屏幕就停
+  function scrollToHead(t) {
+    var m = $('main'), start = Date.now(), stableSince = start, stopped = false;
+    function stop() { stopped = true; }
+    m.addEventListener('touchstart', stop, { once: true, passive: true });
+    m.addEventListener('wheel', stop, { once: true, passive: true });
+    // .main 设了 scroll-behavior: smooth，这里必须显式用 instant，否则每次校正都会重新起一段动画
+    m.scrollTo({ top: t.offsetTop - 52, behavior: 'instant' });
+    (function fix() {
+      var now = Date.now();
+      if (stopped || now - start > 8000 || now - stableSince > 1000) return;
+      var want = t.offsetTop - 52;
+      if (Math.abs(want - m.scrollTop) > 2) {
+        stableSince = now;
+        m.scrollTo({ top: want, behavior: 'instant' });
+      }
+      setTimeout(fix, 100);
+    })();
   }
 
   function resolveHeadingLinks(box) {
@@ -1066,7 +1088,7 @@
     contentsFab.hidden = !contentsHead;
     contentsFab.onclick = contentsHead ? function () {
       dropSameDocJumps();
-      $('main').scrollTo({ top: contentsHead.offsetTop - 52, behavior: 'smooth' });
+      scrollToHead(contentsHead);
     } : null;
     box.querySelectorAll('a[href^="#"]:not([href^="#/"])').forEach(function (a) {
       var wanted = key(a.textContent);
@@ -1089,7 +1111,7 @@
       a.addEventListener('click', function (e) {
         e.preventDefault();
         pushJump(true);
-        $('main').scrollTo({ top: target.offsetTop - 52, behavior: 'smooth' });
+        scrollToHead(target);
       });
       if (contentsHead && target !== contentsHead && !target.querySelector('.section-return')) {
         var back = document.createElement('button');
@@ -1100,7 +1122,7 @@
           e.preventDefault();
           e.stopPropagation();
           dropSameDocJumps();
-          $('main').scrollTo({ top: contentsHead.offsetTop - 52, behavior: 'smooth' });
+          scrollToHead(contentsHead);
         });
         target.appendChild(back);
       }
