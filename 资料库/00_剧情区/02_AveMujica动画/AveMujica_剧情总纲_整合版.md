@@ -4849,7 +4849,7 @@ Oblivionis 说：「命运的齿轮再次开始转动。欢迎来到 Ave Mujica 
 
 ![Ave Mujica 第 11 话官方场面图](https://anime.bang-dream.com/avemujica/wordpress/wp-content/uploads/2025/03/11111859/%E2%91%A0-1-1024x576.png "Ave Mujica · 第 11 话官方场面图")
 
-空无一人的剧场里，响起《Greensleeves》的歌声：「Greensleeves was all my joy, Greensleeves was my delight, Greensleeves was my heart of gold, and who but my lady Greensleeves.」
+空无一人的剧场里，初音清唱着《Greensleeves》：「Greensleeves was all my joy, Greensleeves was my delight, Greensleeves was my heart of gold, and who but my lady Greensleeves.」
 
 舞台上只站着初华一个人。
 
