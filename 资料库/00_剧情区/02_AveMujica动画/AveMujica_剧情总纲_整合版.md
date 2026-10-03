@@ -4785,6 +4785,8 @@ Mortis 说：「我也一样。」
 
 《Imprisoned XII》响起。Doloris 站在台前，把那首歌唱给祥子：
 
+@[bilibili](BV1Ep91YPEQo "Ave Mujica - Imprisoned XII (Official Music Video)")
+
 「描绘扭曲的天空时心中想着，没有翅膀的你就该这么坠落。无意间触及了那神圣的存在，今晚请成为我的神话。来吧，你已经逃不掉了，将愈发软弱的你幽禁。」
 
 「如果不存在那该有多好，为什么……已到了狂乱的地步。」
@@ -4810,8 +4812,6 @@ Oblivionis 说：「命运的齿轮再次开始转动。欢迎来到 Ave Mujica 
 「Never die，历史的血河中，I never die，克服磨难，背负着我的十字架彷徨着。」
 
 「在月光下没有脸孔的玛利亚。」
-
-@[bilibili](BV1Ep91YPEQo "Ave Mujica - Imprisoned XII (Official Music Video)")
 
 ![第 10 话场面截图](https://cdn-ak.f.st-hatena.com/images/fotolife/L/Lastbreath/20250311/20250311224853.png "第 10 话场面截图 · 来源：イマワノキワ 第 10 话感想（lastbreath.hatenablog.com）")
 
@@ -5835,9 +5835,9 @@ MyGO!!!!! 的后台，爱音还不甘心。
 
 她举起握紧的拳头。
 
-@[bilibili](BV1sNdGYWEvv "焚音打（Tanebi）（TV动画「BanG Dream! Ave Mujica」#13 插曲）")
-
 《焚音打》响起。
+
+@[bilibili](BV1sNdGYWEvv "焚音打（Tanebi）（TV动画「BanG Dream! Ave Mujica」#13 插曲）")
 
 「因为不知道怎么做是正确的，跌倒后才体会到痛楚。即使如此你仍站了起来，我们怎么可能还会嘲笑。就算尽是死路，我仍会寻找新的道路。」
 
@@ -5851,13 +5851,17 @@ MyGO!!!!! 的后台，爱音还不甘心。
 
 G-WAVE 的舞台上，Ave Mujica 五人像被线牵着的人偶一样摇晃着出场，《八芒星ダンス（Octagram Dance）》响起。
 
+@[bilibili](BV1Zh5Yz3EzV "八芒星ダンス（Octagram Dance）（TV动画「BanG Dream! Ave Mujica」#13 插曲）")
+
+@[bilibili](BV1zA5XzwEp1 "Ave Mujica - 八芒星ダンス（Octagram Dance）(Official Music Video)")
+
 「赤红的象、狮子、熊，go-go insane。入侵者、主谋者，welcome to the house of pain。夜晚是个马戏团，面纱之下的小丑。」
 
 「yes ya gonna jump，冲破一切吧。向那八芒星，笑吧呐喊吧，将真实的人生遗忘吧。」
 
-@[bilibili](BV1Zh5Yz3EzV "八芒星ダンス（Octagram Dance）（TV动画「BanG Dream! Ave Mujica」#13 插曲）")
-
 接着是《顔》。睦在旋转、抬腿的芭蕾动作之间，时而露出笑容，时而换上 Mortis 式的锐利表情；若麦几次把视线落在她身上。初华在演唱里加进了一声咂舌。
+
+@[bilibili](BV1SjL3zNEB6 "Ave Mujica - 顔（Alter Ego）(Official Music Video)")
 
 「还不快替我调整束腰。微微抬起下巴看向镜中的自己，却映照着似是而非的脸孔。」
 
@@ -5979,6 +5983,10 @@ Oblivionis 说：「就算众人皆已遗忘，唯独身为遗忘之神的我始
 
 《天球（そら）のMúsica》响起。
 
+@[bilibili](BV14iZ3YcEZw "天球(そら)のMúsica（Musica Caelestis）（TV动画「BanG Dream! Ave Mujica」#13 插曲）")
+
+@[bilibili](BV1RtZmYGE3a "Ave Mujica - 天球(そら)のMúsica (Official Music Video)")
+
 「走吧，朝向明日。那些美好的时代，人们终将慢慢遗忘。」
 
 「所谓的扭曲，或许就是种『自我』吧。面对眼前袭来的最后痛楚，啊啊，一旦超越，我们此刻将继续漂流。let's sing along，伴随着绚烂的破晓黎明，来吧。」
@@ -5992,10 +6000,6 @@ Oblivionis 说：「就算众人皆已遗忘，唯独身为遗忘之神的我始
 曲终，舞台剧落幕。Amoris 退场时，视线还留在 Mortis 身上；Mortis 举起手镜，镜中浮现另一道身影，她手里也不知何时握上了剑。最后，Oblivionis 独自登场，露出微笑，优雅地屈膝行礼，幕布落下。
 
 ![第 13 话场面截图](https://cdn-ak.f.st-hatena.com/images/fotolife/L/Lastbreath/20250419/20250419083613.png "第 13 话场面截图 · 来源：イマワノキワ 第 13 话感想（lastbreath.hatenablog.com）")
-
-@[bilibili](BV14iZ3YcEZw "天球(そら)のMúsica（Musica Caelestis）（TV动画「BanG Dream! Ave Mujica」#13 插曲）")
-
-@[bilibili](BV1RtZmYGE3a "Ave Mujica - 天球(そら)のMúsica (Official Music Video)")
 
 MyGO!!!!! 的 Live House，演出结束，五人走到台前谢幕。
 
@@ -6019,10 +6023,6 @@ MyGO!!!!! 的 Live House，演出结束，五人走到台前谢幕。
 ## 乐队设定：分工与代号
 
 @[bilibili](BV1sp4y1A7vz "TV动画「BanG Dream! Ave Mujica」PV")
-
-@[bilibili](BV1SjL3zNEB6 "Ave Mujica - 顔（Alter Ego）(Official Music Video)")
-
-@[bilibili](BV1zA5XzwEp1 "Ave Mujica - 八芒星ダンス（Octagram Dance）(Official Music Video)")
 
 祥子身兼 Ave Mujica 的键盘手、作曲、舞台剧本与演出策划，乐队的世界观由她掌控；作词由初华负责，《Imprisoned XII》即出自她手。
 
