@@ -4801,9 +4801,11 @@ Mortis 弹着弹着，手停了下来。
 
 控制台旁，凛凛子忽然抬起头：台上的吉他，开始真的在弹了。
 
-Oblivionis 说：「命运的齿轮再次开始转动。欢迎来到 Ave Mujica 的世界。」
+Doloris 说：「命运的齿轮再次开始转动。欢迎来到 Ave Mujica 的世界。」
 
 接着是《Crucifix X》。Oblivionis 站在键盘后，脸上没有一丝表情。
+
+@[bilibili](BV1hSRAYBECL "Crucifix X（TV动画「BanG Dream! Ave Mujica」#10 插曲）")
 
 「Ah，你过去羞辱我的旋律，至今仍在狂怒咆哮着吗。战栗的大圣堂，抗拒的心脏。燃烧殆尽，没有后发的幸运女神。」
 
@@ -5802,6 +5804,8 @@ MyGO!!!!! 的后台，爱音还不甘心。
 ![第 13 话场面截图](https://cdn-ak.f.st-hatena.com/images/fotolife/L/Lastbreath/20250419/20250419082919.png "第 13 话场面截图 · 来源：イマワノキワ 第 13 话感想（lastbreath.hatenablog.com）")
 
 乐奈的吉他声响起，MyGO!!!!! 演奏《聿日箋秋》。
+
+@[bilibili](BV1YbZVYCEko "MyGO!!!!! - 聿日箋秋（Ichijitsusenshu）(Official Music Video)")
 
 「剥下照映内心的话语，带着前进吧，我们朝着那岔路的前方踏出步伐。该怎么做才好呢，在犹豫不决之间，季节已悄悄改变。我是否也是如此？」
 
