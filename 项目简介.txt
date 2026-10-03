@@ -254,7 +254,8 @@ python3 -m http.server 8080 --bind 0.0.0.0
 | 来源 | 内容 | 用途与局限 |
 | --- | --- | --- |
 | [日文五十音练习所 · Ave Mujica](https://www.japanese50sounds.com/anime/ave-mujica/) | 19 条经典台词，带说话人、话数与日文原文 | 有说话人和话数，可直接对位；条目数有限 |
-| [phillychi3/MyGo-Meme](https://github.com/phillychi3/MyGo-Meme) | 逐帧 OCR 字幕，MyGO 全 13 话、Ave Mujica 第 1–9 话共 20,777 条，带时间戳 | 能把任一句定位到「第几话第几分秒」，也是划分小节话数、核对图注的依据；但混有 OP/ED 歌词与制作名单、存在识别错字，只可定点检索、不可通读取材，且缺 Ave Mujica 第 10–13 话 |
+| [phillychi3/MyGo-Meme](https://github.com/phillychi3/MyGo-Meme) | 逐帧 OCR 字幕，MyGO 全 13 话、Ave Mujica 第 1–9 话共 20,777 条，带时间戳 | 能把任一句定位到「第几话第几分秒」，也是划分小节话数、核对图注的依据；但混有 OP/ED 歌词与制作名单、存在识别错字，只可定点检索、不可通读取材，且缺 Ave Mujica 第 10–13 话（第 10–13 话改用下方 Its-MyPicDB） |
+| [Its-MyPic/Its-MyPicDB](https://github.com/Its-MyPic/Its-MyPicDB)（前端 [Its-MyPic-vue](https://github.com/Its-MyPic/Its-MyPic-vue)） | 繁中字幕 `data.json`，MyGO 与 Ave Mujica 各第 1–13 话全集，每句带帧号（÷24 为秒）；每句对应一张画面截图 `https://mypic.0m0.uk/images/{季}/{话}/{frame_prefer}.webp`（季 1 = MyGO，季 2 = Ave Mujica） | 补齐了 MyGo-Meme 缺的 Ave Mujica 第 10–13 话，可用于定位话数时间、核对台词措辞；Ave Mujica 季的 `character` 字段全部未设定，**不能据此定说话人**；截图配图前仍须逐张核验人物与话数 |
 | [Furinaaa-Cancan/mygo-mujica-archive](https://github.com/Furinaaa-Cancan/mygo-mujica-archive) | 2,645 张按内容命名的截图 | 配图来源；文件名是孤立单句、没有说话人也没有上下文，**不可当台词原文使用** |
 | [辻（カモネギ）· Ave Mujica 第 1–13 话记录](https://note.com/srx40090) | 12 篇逐话文章，含场景顺序与较长对白记录 | 用于寻找总纲可能遗漏的场景、核对第 10–13 话（OCR 未覆盖）的叙事顺序；文章混有个人感想、解读、预测与 AI 查询结果，进入剧情正文的具体信息经多方搜索、交叉比对。12 篇直达链接统一保存在 Ave Mujica 剧情总纲文末 |
 
