@@ -87,50 +87,36 @@
     chev: '<svg class="chev" viewBox="0 0 24 24"><path d="M9 6l6 6-6 6"/></svg>',
     lock: '<svg class="lock" viewBox="0 0 24 24"><rect x="5" y="11" width="14" height="9" rx="2"/>' +
           '<path d="M8 11V7.5a4 4 0 018 0V11"/></svg>',
-    halfLock: '<svg class="lock half-lock" viewBox="0 0 24 24"><rect x="3.5" y="10.5" width="12" height="10" rx="2"/>' +
-              '<path d="M6.5 10.5V8a3 3 0 016 0v2.5"/><path d="M14.5 21.5l.9-3.4 5.6-5.6a1.6 1.6 0 012.3 2.3l-5.6 5.6z"/></svg>'
+    lockFilled: '<svg class="lock gold" viewBox="0 0 24 24"><path d="M8 11V7.5a4 4 0 018 0V11"/>' +
+                '<rect x="5" y="11" width="14" height="9" rx="2" class="lock-body"/></svg>'
   };
   function fileIcon(ext) { return ext === 'txt' ? SVG.txt : SVG.md; }
   function oldTag(f) {
     return f && f.deprecated ? '<span class="tag-old" title="' + esc(f.deprecated) + '">旧版·勿用</span>' : '';
   }
 
-  /* 目录状态标记：原始资料显示小锁，仍会随新资料更新的目录显示半锁。
-     两种图标都只作提示，不影响点击和阅读。 */
-  var TRIPLE_LOCK_DIRS = [
-    '00_剧情区/01_MyGO动画'
-  ];
-  var TRIPLE_LOCK_HINT = '已定稿 · 剧本、配图与资料均已逐项核对，请勿随意修改';
-  var PROTECTED_DIRS = [
-    '00_剧情区/02_AveMujica动画',
-    '00_剧情区/05_官方访谈与设定'
-  ];
-  var CURATED_PROTECTED_DIRS = [
-    '00_剧情区/06_社区解析_推测'
-  ];
-  var PROTECTED_HINT = '原始资料 · 请勿随意修改';
-  var CURATED_PROTECTED_HINT = '社区解析资料 · 请谨慎修改';
-  var PARTIAL_PROTECTED_DIRS = [
-    '00_剧情区/03_剧场版',
-    '00_剧情区/04_漫画游戏',
-    '00_剧情区/07_CP线梳理'
-  ];
-  var PARTIAL_PROTECTED_HINT = '阶段性整理 · 内容将随新资料继续更新';
-
-  function isTripleLockDir(path) {
-    return TRIPLE_LOCK_DIRS.indexOf(path) >= 0;
-  }
-
-  function isProtectedDir(path) {
-    return PROTECTED_DIRS.indexOf(path) >= 0;
-  }
-
-  function isCuratedProtectedDir(path) {
-    return CURATED_PROTECTED_DIRS.indexOf(path) >= 0;
-  }
-
-  function isPartialProtectedDir(path) {
-    return PARTIAL_PROTECTED_DIRS.indexOf(path) >= 0;
+  /* 目录状态标记（只作提示，不影响点击和阅读）：
+     定稿目录显示金色锁和「定稿」标签，内容固定不再修改；
+     原始资料目录显示灰色小锁；持续更新的目录显示「更新中」标签。 */
+  var DIR_STATUS = {
+    '00_剧情区/01_MyGO动画': 'final',
+    '00_剧情区/02_AveMujica动画': 'locked',
+    '00_剧情区/03_剧场版': 'updating',
+    '00_剧情区/04_漫画游戏': 'updating',
+    '00_剧情区/05_官方访谈与设定': 'updating',
+    '00_剧情区/06_社区解析_推测': 'updating',
+    '00_剧情区/07_CP线梳理': 'updating'
+  };
+  var DIR_STATUS_HINT = {
+    final: '已定稿 · 剧本、配图与资料均已逐项核对，内容固定，无需修改',
+    locked: '原始资料 · 正在逐话核对，请勿随意修改',
+    updating: '持续更新 · 内容会随新资料继续补充'
+  };
+  function dirStatusBadge(status) {
+    if (status === 'final') return SVG.lockFilled + '<span class="dir-tag final">定稿</span>';
+    if (status === 'locked') return SVG.lock;
+    if (status === 'updating') return '<span class="dir-tag updating">更新中</span>';
+    return '';
   }
 
   /* Bilibili 视频卡片：先渲染封面占位，点击后才插入播放器。资料正文与剧本页共用。 */
@@ -702,22 +688,16 @@
 
     if (node.type === 'dir') {
       var n = countFiles(node);
-      var tripleLocked = isTripleLockDir(node.path);
-      var originalLocked = isProtectedDir(node.path);
-      var curatedLocked = isCuratedProtectedDir(node.path);
-      var locked = tripleLocked || originalLocked || curatedLocked;
-      var partialLocked = isPartialProtectedDir(node.path);
-      var lockHint = tripleLocked ? TRIPLE_LOCK_HINT : (originalLocked ? PROTECTED_HINT :
-        (curatedLocked ? CURATED_PROTECTED_HINT : (partialLocked ? PARTIAL_PROTECTED_HINT : '')));
-      var lockIcon = tripleLocked ? SVG.lock + SVG.lock + SVG.lock : (locked ? SVG.lock : SVG.halfLock);
+      var status = DIR_STATUS[node.path] || '';
+      var hint = status ? DIR_STATUS_HINT[status] : '';
       row.innerHTML = SVG.chev + SVG.dir +
         '<span class="label">' + esc(node.name) + '</span>' +
-        (lockHint ? '<span class="lock-wrap' + (tripleLocked ? ' triple' : '') + '" title="' + lockHint + '" aria-label="' +
-                    lockHint + '">' + lockIcon + '</span>' : '') +
+        (status ? '<span class="lock-wrap ' + status + '" title="' + hint + '" aria-label="' + hint + '">' +
+                  dirStatusBadge(status) + '</span>' : '') +
         '<span class="count">' + n + '</span>';
-      if (lockHint) {
-        row.classList.add(locked ? 'locked' : 'partially-locked');
-        row.title = node.name + ' — ' + lockHint;
+      if (status) {
+        row.classList.add('status-' + status);
+        row.title = node.name + ' — ' + hint;
       }
       var kids = document.createElement('div');
       kids.className = 'children';
