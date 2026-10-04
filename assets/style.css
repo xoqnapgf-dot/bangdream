@@ -200,8 +200,17 @@ html[data-theme="dark"] .ico-moon { display: block; }
   opacity: .75;
   transition: color .12s, opacity .12s;
 }
-.row .half-lock { color: var(--accent-2); opacity: .85; width: 13px; height: 13px; }
-.row .lock-wrap.triple .lock + .lock { margin-left: -3px; }
+.row .lock.gold { color: #b8860b; opacity: 1; width: 12px; height: 12px; }
+.row .lock.gold .lock-body { fill: #d4a017; stroke: #b8860b; }
+html[data-theme="dark"] .row .lock.gold { color: #e6b422; }
+html[data-theme="dark"] .row .lock.gold .lock-body { fill: #e6b422; stroke: #e6b422; }
+.row .dir-tag {
+  margin-left: 4px; padding: 0 5px; border-radius: 4px;
+  font-size: 10.5px; line-height: 16px; font-weight: 600; white-space: nowrap;
+}
+.row .dir-tag.final { color: #8a6508; background: color-mix(in srgb, #d4a017 22%, transparent); }
+html[data-theme="dark"] .row .dir-tag.final { color: #f0c94a; background: color-mix(in srgb, #e6b422 20%, transparent); }
+.row .dir-tag.updating { color: var(--accent); background: color-mix(in srgb, var(--accent) 12%, transparent); }
 /* 旧版本标记 */
 .is-old { text-decoration: line-through; opacity: .6; }
 .tag-old {
@@ -219,6 +228,10 @@ html[data-theme="dark"] .ico-moon { display: block; }
 }
 .row:hover .lock,
 .row.active .lock { color: var(--accent-2); opacity: 1; }
+.row:hover .lock.gold,
+.row.active .lock.gold { color: #b8860b; }
+html[data-theme="dark"] .row:hover .lock.gold,
+html[data-theme="dark"] .row.active .lock.gold { color: #e6b422; }
 
 .row .count {
   margin-left: auto; flex: none;
