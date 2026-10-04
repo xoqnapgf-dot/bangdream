@@ -4,7 +4,7 @@
 
 相关资料：
 
-- [MyGO!!!!! 动画逐集剧情](../01_MyGO动画/)
+- [MyGO!!!!! 动画逐集剧情（从第 1 话开始）](../01_MyGO动画/01_羽丘的不可思议女孩.txt)
 - [Ave Mujica 官方访谈与设定](../05_官方访谈与设定/AveMujica_确证内容汇总.md)
 - [电影《prima aurora》资料](../03_剧场版/AveMujica剧场版_prima_aurora资料汇总.md)
 - [Ave Mujica 漫画与游戏剧情](../04_漫画游戏/AveMujica漫画游戏情节汇总.md)
