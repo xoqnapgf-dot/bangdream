@@ -22,8 +22,8 @@
 | 2026-09-22 | 国际版预下载 | App Store、Google Play 与官网安装包陆续开放 |
 | 2026-09-24 | 全球上线 | 日版与国际版同步开服；国际版分为台港澳、韩国、英文区服务器 |
 | 2026-09-28 | 首轮活动延期 | 《アイの奔流 AtoZ》及同期梦限大MewType SSR 招募未按原计划开启，延至 9 月 30 日 18:00 开始、10 月 8 日 20:59 结束 |
-| 2026-10-01 | Ver.1.0.2 更新 | 维护后强制更新至 Ver.1.0.2，修复已确认的问题 |
-| 2026-10-03 | 追加翻唱曲 | MyGO!!!!! 翻唱《Eat The Past》于日本时间 15:00 实装 |
+| 2026-10-01—10-02 | Ver.1.0.2 更新 | 10 月 1 日公告维护，修复已确认的问题；10 月 2 日维护结束，需强制更新至 Ver.1.0.2 才能登录 |
+| 2026-10-03 | 追加翻唱曲 | MyGO!!!!! 翻唱《Eat The Past》于日本时间 15:00 实装（开服当天官方已预告） |
 
 正式上线当天曾因日版 Google Play 审核进度延长维护，原定北京时间 11:00 的开服延后至 19:00。开服后又出现集中登录和连接异常。官方随后向全服发放 10 张招募券，并延长 MyGO!!!!!、Ave Mujica 开服招募至 10 月 8 日。这个情况解释了当天社区大量“仍在维护”“无法进入”的截图，但不代表游戏截至 9 月 29 日仍未上线。
 
@@ -266,6 +266,8 @@ Google Play 与 Reddit 也有相反案例：部分高端 Android 设备运行流
 - 《BanG Dream! Our Notes》官方 X，2026-09-24：[统一于日本时间 20:00 开服](https://x.com/bang_dream_on/status/2103050569166545397)
 - 《BanG Dream! Our Notes》官方 X，2026-09-25：[10 张招募券补偿及开服招募延期](https://x.com/bang_dream_on/status/2103409741242478741)
 - 《BanG Dream! Our Notes》官方 X，2026-09-28：[首轮活动、招募延期与修复版审核状态](https://x.com/bang_dream_on/status/2104545658866671671)
+- 《BanG Dream! Our Notes》官方英文 X，2026-09-24：[开服内容介绍①——好友邀请奖励与 10 月 3 日追加《Eat The Past》预告](https://x.com/bangdreamon_EN/status/2103122282503622743)
+- 《BanG Dream! Our Notes》官方英文 X，2026-10-01—10-02：[Ver.1.0.2 维护公告与维护结束通知（账号页）](https://x.com/bangdreamon_EN)
 - bilibili game，2026-09-13：[9 月 24 日全球上线、语言、五团与开服奖励](https://bdon.biligames.com/details/?id=181789121626264213)
 - bilibili game，2026-09-22：[国际版预下载与全球线下活动](https://bdon.biligames.com/details/?id=181790007589770177)
 - bilibili game，2026-09-23：[国际版设备、容量、服务器和付费星钻 FAQ](https://bdon.biligames.com/details/?id=181789993093106864)
