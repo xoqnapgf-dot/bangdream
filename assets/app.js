@@ -96,11 +96,11 @@
   }
 
   /* 目录状态标记（只作提示，不影响点击和阅读）：
-     定稿目录显示金色锁和「定稿」标签，内容固定不再修改；
-     原始资料目录显示灰色小锁；持续更新的目录显示「更新中」标签。 */
+     定稿目录显示金色锁，内容固定不再修改；
+     持续更新的目录显示「更新中」标签。 */
   var DIR_STATUS = {
     '00_剧情区/01_MyGO动画': 'final',
-    '00_剧情区/02_AveMujica动画': 'locked',
+    '00_剧情区/02_AveMujica动画': 'final',
     '00_剧情区/03_剧场版': 'updating',
     '00_剧情区/04_漫画游戏': 'updating',
     '00_剧情区/05_官方访谈与设定': 'updating',
@@ -113,7 +113,7 @@
     updating: '持续更新 · 内容会随新资料继续补充'
   };
   function dirStatusBadge(status) {
-    if (status === 'final') return SVG.lockFilled + '<span class="dir-tag final">定稿</span>';
+    if (status === 'final') return SVG.lockFilled;
     if (status === 'locked') return SVG.lock;
     if (status === 'updating') return '<span class="dir-tag updating">更新中</span>';
     return '';
