@@ -103,6 +103,9 @@ def display_key(path: pathlib.Path):
         rel = path.relative_to(LIB).as_posix()
     except ValueError:
         rel = path.as_posix()
+    # 每个人物目录里，人设汇总排在最上面。
+    if path.name.startswith("人设汇总_"):
+        return (-1, 0)
     rank = DISPLAY_FILE_ORDER.get(rel)
     if rank is not None:
         return (0, rank)
