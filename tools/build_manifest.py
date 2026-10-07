@@ -106,6 +106,9 @@ def display_key(path: pathlib.Path):
     # 每个人物目录里，人设汇总排在最上面。
     if path.name.startswith("人设汇总_"):
         return (-1, 0)
+    # 单人物的社区解析紧跟在人设汇总下面。
+    if path.name.startswith("社区解析_"):
+        return (-1, 1)
     rank = DISPLAY_FILE_ORDER.get(rel)
     if rank is not None:
         return (0, rank)
