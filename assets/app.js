@@ -92,7 +92,7 @@
   };
   function fileIcon(ext) { return ext === 'txt' ? SVG.txt : SVG.md; }
   function oldTag(f) {
-    return f && f.deprecated ? '<span class="tag-old" title="' + esc(f.deprecated) + '">旧版·勿用</span>' : '';
+    return f && f.deprecated ? '<span class="tag-old" title="' + esc(f.deprecated) + '">已废弃</span>' : '';
   }
 
   /* 目录状态标记（只作提示，不影响点击和阅读）：
@@ -966,6 +966,13 @@
         }
         $('toc').innerHTML = '';
       }
+      /* 已废弃的文件：整篇加删除线并在顶部提示，只作素材来源。 */
+      if (node.deprecated) {
+        box.classList.add('is-deprecated');
+        if (!box.querySelector('.ep-deprecated')) {
+          box.insertAdjacentHTML('afterbegin', '<div class="ep-deprecated">⚠ ' + esc(node.deprecated) + '</div>');
+        }
+      }
       addStamp(box, node);
       restoreScroll(node.path);
     }
@@ -1227,6 +1234,7 @@
     try { path = decodeURIComponent(raw); } catch (e) { path = raw; }
     path = path.replace(/\/+$/, '');
     state.current = path;
+    $('content').classList.remove('is-deprecated');   // 废弃标记只属于当前这篇文件
 
     if (!path) { viewHome(); document.title = 'MyGO!!!!! × Ave Mujica 资料库'; return; }
 
