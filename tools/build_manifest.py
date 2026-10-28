@@ -140,7 +140,8 @@ def outline_lines(d: pathlib.Path, depth: int = 0):
     if files and subdirs and depth == 0:
         lines.append("")
     for f in files:
-        lines.append("  " * depth + f.name)
+        mark = "（已废弃，仅作素材来源）" if f.relative_to(LIB).as_posix() in DEPRECATED else ""
+        lines.append("  " * depth + f.name + mark)
     return lines
 
 
@@ -318,6 +319,11 @@ def main():
         BUILD_NOTE = " ".join(sys.argv[k + 1:k + 2]).strip()
     if not LIB.is_dir():
         raise SystemExit(f"找不到资料库目录: {LIB}")
+    # 废弃标记要先读进来，大纲里才能标出已废弃的文件。
+    if EPISODE_META.is_file():
+        for key, entry in json.loads(EPISODE_META.read_text("utf-8")).items():
+            if isinstance(entry, dict) and entry.get("deprecated"):
+                DEPRECATED[key] = str(entry["deprecated"])
     # 先刷新大纲，再扫描，保证清单里记录的是大纲的最新体积。
     write_outline()
     CURRENT_BUILD_TIME = datetime.datetime.now(BEIJING_TZ).strftime("%Y-%m-%d %H:%M")
