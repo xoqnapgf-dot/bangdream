@@ -46,133 +46,133 @@ MyGO!!!!! × Ave Mujica 资料库 项目文件大纲
 
 01_高松灯/
   人设汇总_高松灯.md
-  灯x乐奈.md
+  灯x爱音.md
   灯x初华.md
   灯x海铃.md
-  灯x爱音.md
-  灯x睦.md
-  灯x祥子.md
+  灯x乐奈.md
   灯x立希.md
-  灯x素世.md
+  灯x睦.md
   灯x若麦.md
+  灯x素世.md
+  灯x祥子.md
 
 02_千早爱音/
   人设汇总_千早爱音.md
   社区解析_千早爱音.md
-  爱音x乐奈.md
   爱音x初华.md
-  爱音x海铃.md
   爱音x灯.md
-  爱音x睦.md
-  爱音x祥子.md
+  爱音x海铃.md
+  爱音x乐奈.md
   爱音x立希.md
-  爱音x素世.md
+  爱音x睦.md
   爱音x若麦.md
+  爱音x素世.md
+  爱音x祥子.md
 
 03_要乐奈/
   人设汇总_要乐奈.md
   社区解析_要乐奈.md
-  乐奈x初华.md
-  乐奈x海铃.md
-  乐奈x灯.md
   乐奈x爱音.md
-  乐奈x睦.md
-  乐奈x祥子.md
+  乐奈x初华.md
+  乐奈x灯.md
+  乐奈x海铃.md
   乐奈x立希.md
-  乐奈x素世.md
+  乐奈x睦.md
   乐奈x若麦.md
+  乐奈x素世.md
+  乐奈x祥子.md
 
 04_长崎素世/
   人设汇总_长崎素世.md
   社区解析_长崎素世.md
-  素世x乐奈.md
-  素世x初华.md
-  素世x海铃.md
-  素世x灯.md
   素世x爱音.md
-  素世x睦.md
-  素世x祥子.md
+  素世x初华.md
+  素世x灯.md
+  素世x海铃.md
+  素世x乐奈.md
   素世x立希.md
+  素世x睦.md
   素世x若麦.md
+  素世x祥子.md
 
 05_椎名立希/
   人设汇总_椎名立希.md
   社区解析_椎名立希.md
-  立希x乐奈.md
-  立希x初华.md
-  立希x海铃.md
-  立希x灯.md
   立希x爱音.md
+  立希x初华.md
+  立希x灯.md
+  立希x海铃.md
+  立希x乐奈.md
   立希x睦.md
-  立希x祥子.md
-  立希x素世.md
   立希x若麦.md
+  立希x素世.md
+  立希x祥子.md
 
 06_三角初华/
   人设汇总_三角初华.md
   社区解析_三角初华.md
-  初华x乐奈.md
-  初华x海铃.md
-  初华x灯.md
   初华x爱音.md
-  初华x睦.md
-  初华x祥子.md
+  初华x灯.md
+  初华x海铃.md
+  初华x乐奈.md
   初华x立希.md
-  初华x素世.md
+  初华x睦.md
   初华x若麦.md
+  初华x素世.md
+  初华x祥子.md
 
 07_若叶睦/
   人设汇总_若叶睦.md
   社区解析_若叶睦.md
-  睦x乐奈.md
-  睦x初华.md
-  睦x墨缇丝.md
-  睦x海铃.md
-  睦x灯.md
   睦x爱音.md
-  睦x祥子.md
+  睦x初华.md
+  睦x灯.md
+  睦x海铃.md
+  睦x乐奈.md
   睦x立希.md
-  睦x素世.md
+  睦x墨缇丝.md
   睦x若麦.md
+  睦x素世.md
+  睦x祥子.md
 
 08_八幡海铃/
   人设汇总_八幡海铃.md
   社区解析_八幡海铃.md
-  海铃x乐奈.md
+  海铃x爱音.md
   海铃x初华.md
   海铃x灯.md
-  海铃x爱音.md
-  海铃x睦.md
-  海铃x祥子.md
+  海铃x乐奈.md
   海铃x立希.md
-  海铃x素世.md
+  海铃x睦.md
   海铃x若麦.md
+  海铃x素世.md
+  海铃x祥子.md
 
 09_祐天寺若麦/
   人设汇总_祐天寺若麦.md
   社区解析_祐天寺若麦.md
-  若麦x乐奈.md
-  若麦x初华.md
-  若麦x海铃.md
-  若麦x灯.md
   若麦x爱音.md
-  若麦x睦.md
-  若麦x祥子.md
+  若麦x初华.md
+  若麦x灯.md
+  若麦x海铃.md
+  若麦x乐奈.md
   若麦x立希.md
+  若麦x睦.md
   若麦x素世.md
+  若麦x祥子.md
 
 10_丰川祥子/
   人设汇总_丰川祥子.md
   社区解析_丰川祥子.md
-  祥子x乐奈.md
-  祥子x初华.md
-  祥子x海铃.md
-  祥子x灯.md
   祥子x爱音.md
-  祥子x睦.md
+  祥子x初华.md
+  祥子x灯.md
+  祥子x海铃.md
+  祥子x乐奈.md
   祥子x立希.md
-  祥子x素世.md
+  祥子x睦.md
   祥子x若麦.md
+  祥子x素世.md
 
 11_次要角色_纯田真奈/
   人设汇总_纯田真奈.md
