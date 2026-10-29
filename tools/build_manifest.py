@@ -97,6 +97,22 @@ DISPLAY_LAST = (
 )
 
 
+# 成对关系文件（如 灯x爱音.md）按对方名字的拼音首字母排序。
+PARTNER_PINYIN = {
+    "爱音": "aiyin", "初华": "chuhua", "灯": "deng", "海铃": "hailing",
+    "乐奈": "lenai", "立希": "lixi", "墨缇丝": "motisi", "睦": "mu",
+    "若麦": "ruomai", "素世": "sushi", "祥子": "xiangzi",
+}
+
+
+def pair_partner_key(name: str):
+    """成对文件名形如「灯x爱音.md」，返回对方名字的拼音；不是成对文件则返回 None。"""
+    m = re.fullmatch(r"(.+?)x(.+)\.md", name)
+    if not m:
+        return None
+    return PARTNER_PINYIN.get(m.group(2))
+
+
 def display_key(path: pathlib.Path):
     """专题文件按策划顺序显示，其余条目仍按自然文件名排序。"""
     try:
@@ -109,6 +125,9 @@ def display_key(path: pathlib.Path):
     # 单人物的社区解析紧跟在人设汇总下面。
     if path.name.startswith("社区解析_"):
         return (-1, 1)
+    partner = pair_partner_key(path.name)
+    if partner:
+        return (0, 1, partner)
     rank = DISPLAY_FILE_ORDER.get(rel)
     if rank is not None:
         return (0, rank)
