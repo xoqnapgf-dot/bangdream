@@ -1,6 +1,6 @@
 # 《BanG Dream! Our Notes》测试与上线社区反馈汇总
 
-> 更新至 2026 年 10 月 4 日。商店评分和运营状态会继续变化，文中数字均标明观察日期。
+> 更新至 2026 年 10 月 29 日。商店评分和运营状态会继续变化，文中数字均标明观察日期。
 
 《BanG Dream! Our Notes》（国际服中文名《BanG Dream! 交织的乐章》）已经结束测试，于 2026 年 9 月 24 日在 iOS、Android 全球上线。过去测试期的意见仍能解释部分设计争议，但“预计 12 月 20 日公测”“抽卡尚未开放”“上线前仍可能整体重做”等说法都已过时。
 
@@ -24,6 +24,13 @@
 | 2026-09-28 | 首轮活动延期 | 《アイの奔流 AtoZ》及同期梦限大MewType SSR 招募未按原计划开启，延至 9 月 30 日 18:00 开始、10 月 8 日 20:59 结束 |
 | 2026-10-01—10-02 | Ver.1.0.2 更新 | 10 月 1 日公告维护，修复已确认的问题；10 月 2 日维护结束，需强制更新至 Ver.1.0.2 才能登录 |
 | 2026-10-03 | 追加翻唱曲 | MyGO!!!!! 翻唱《Eat The Past》于日本时间 15:00 实装（开服当天官方已预告） |
+| 2026-10-09 | 第 2 期活动 | 《お願い、サイドスロー》（国际服译《拜托了，倾心一掷》），至 10 月 17 日 14:59 |
+| 2026-10-18 | 第 3 期活动 | 《Shake Your 魂, Baby!!》，至 10 月 26 日 14:59 |
+| 2026-10-26 | 官方直播 | 「~BanG Dream! Our Notes~ だんらんTV！」首播，公布新玩法、万圣节活动与追加曲 |
+| 2026-10-27 | 版本更新 | 放宽乐队剧情的玩家等级解锁条件 |
+| 2026-10-28 | 万圣节与新玩法 | 第 4 期活动《A day〜#HalloweenSnap〜》、撃奏アリーナ（国际服繁中译「激奏舞台」）开幕 |
+| 2026-10-31 | 特别翻唱曲 | Ave Mujica《Abracadabra》及 MV 实装（官方预告） |
+| 2026-11-02 | 追加翻唱曲 | 一家Dumb Rock!《ハレ晴レユカイ》实装（官方预告） |
 
 正式上线当天曾因日版 Google Play 审核进度延长维护，原定北京时间 11:00 的开服延后至 19:00。开服后又出现集中登录和连接异常。官方随后向全服发放 10 张招募券，并延长 MyGO!!!!!、Ave Mujica 开服招募至 10 月 8 日。这个情况解释了当天社区大量“仍在维护”“无法进入”的截图，但不代表游戏截至 9 月 29 日仍未上线。
 
@@ -49,7 +56,7 @@
 
 ### 尚未完整开放的部分
 
-测试期间可以体验的 **ANON TOKYO** 是爱音经营服装店的独立经营玩法，包含店铺布置、员工安排、服装组合和 Fever Live。国际版曾在 8 月以 Soft Opening 形式单独测试，但它没有作为 9 月 24 日开服即可长期游玩的完整模式同步落地。
+测试期间可以体验的 **ANON TOKYO** 是爱音经营服装店的独立经营玩法，包含店铺布置、员工安排、服装组合和 Fever Live。国际版曾在 8 月以 Soft Opening 形式单独测试，但它没有作为 9 月 24 日开服即可长期游玩的完整模式同步落地。官方 X 在上线前已说明它会“后日实装”；截至 10 月 29 日，我查到的官方资料（含 10 月 26 日直播的整理）里没有给出具体日期。
 
 开服初期，部分菜单和玩法入口显示为后续开放。社区因此形成“内容很多”和“像提前开服的半成品”两种相反印象：前者看重五团故事、70 首以上曲库及复杂养成，后者更在意 ANON TOKYO、部分 GEKISO 入口等功能尚未齐全。讨论开服完成度时，需要区分“已存在但尚未开放的入口”和“完全没有公布的功能”。
 
@@ -223,13 +230,116 @@ Google Play 与 Reddit 也有相反案例：部分高端 Android 设备运行流
 
 ---
 
-## 六、社区目前较一致的结论
+## 六、开服第一个月的活动与更新（10 月 4 日—29 日）
+
+### 活动节奏：约每九天一期
+
+首轮活动补开之后，游戏基本保持“每期约九天”的节奏，前三期由梦限大MewType、millsage 和一家Dumb Rock! 轮流担任主角。官方在 10 月 26 日的直播上说明，赛季制的撃奏アリーナ每季约一个月，与每月约三次的剧情活动并行。目前已经结束和正在进行的活动如下（日本时间，取自 AppMedia 活动日程，观察日 2026-10-29）：
+
+| 期 | 活动 | 期间 | 说明 |
+| --- | --- | --- | --- |
+| 1 | 《アイの奔流 AtoZ》 | 9/30 18:00—10/8 20:59 | 梦限大MewType，开服首轮活动，前文已述 |
+| 2 | 《お願い、サイドスロー》 | 10/9 15:00—10/17 14:59 | 国际服译《拜托了，倾心一掷》；社区视频与整理把这一期归在 millsage 名下 |
+| 3 | 《Shake Your 魂, Baby!!》 | 10/18 15:00—10/26 14:59 | 一家Dumb Rock!，官方 X 称为挑战 Live 活动；故事以四宫宁月为中心，她说不出自己喜欢的颜色、味道和东西，为此拜托蓬咲帮忙（据社区剧情视频的简介） |
+| 4 | 《A day〜#HalloweenSnap〜》 | 10/28 12:00—11/7 14:59 | 首个乐队混合活动，MyGO!!!!! 与 Ave Mujica 同台 |
+
+第 3 期的剧情预告片由官方发布在 YouTube，同时在官方 X 上宣传。站内只能嵌入 B 站视频，所以这里只给出链接：[《Shake Your 魂, Baby!!》剧情预告片](https://www.youtube.com/watch?v=Jmv9ldbXwI8)。
+
+### 10 月 26 日的「だんらんTV！」
+
+「~BanG Dream! Our Notes~ だんらんTV！」是官方的定期直播，首播在日本时间 10 月 26 日（周一）晚 20:00 左右，同时在 YouTube「バンドリちゃんねる☆」和官方 X 播出。主持人由一家Dumb Rock! 的成员担任（配音为橘めい、涼泉桜花），嘉宾是林鼓子（椎名立希）、渡瀬結月（睦／Mortis）和菱川花菜。官方整理的发表内容包括：
+
+- 10 月 28 日开幕的新玩法撃奏アリーナ、万圣节活动和追加翻唱曲；
+- MyGO!!!!! 与 Ave Mujica 各自的剧情活动预计在 2026 年内开办；
+- 10 月 27 日的更新放宽了乐队剧情的玩家等级解锁条件；
+- 预定的调整：撃奏ライブ里个人分数评级和团体分数评级分别给奖励，团体奖励额外获得；跳过功能改为参照过去的最高评级（没玩过的曲目和难度仍按 C 级）；Assist Mode 以后可以固定辅助强度；
+- 这次发表里没有提到新角色、联动和线下活动。
+
+### 撃奏アリーナ
+
+撃奏アリーナ（国际服繁中译「激奏舞台」）是 10 月 28 日 0:00 开放的对战型内容，Season 1 起每季约一个月。规则要点：
+
+- 通过撃奏ライブ的胜负获得「アリーナpt」，积累到一定值就升段；段位依次是ビギナー、ブロンズ、シルバー、ゴールド、プラチナ，ゴールド 以下多玩就能升，プラチナ 起会因败北降段，更高段位以后更新追加；
+- 段位按乐队分别计算，编队必须全部是该乐队的成员（助战卡可以用其他乐队的）；选曲限定为所选乐队的曲子，匹配到选同一乐队的玩家，曲目从双方选择的曲子里随机决定；
+- 撃奏的种类共 3 种，课题曲类型有 5 种或 ALL，会定期轮换；
+- 奖励有每日的「撃奏アリーナピック」（每天最多 3 次）、首次升段奖励和按赛季最高 pt 发放的赛季奖励；撃奏アリーナピック可以在交换所换 SSR 确定、SR 以上确定和星钻招募券；
+- 开幕纪念登录奖励的期间是 10 月 28 日 0:00 至 11 月 14 日 3:59，第 1 天是 2,000 星钻和一瓶 Boost 饮料。
+
+![撃奏アリーナ开幕：按乐队分别计算段位](https://prcdn.freetls.fastly.net/release_image/14827/9835/14827-9835-0a993925a1954146a7cde9537c2269cd-1920x1080.jpg "撃奏アリーナ开幕：按乐队分别计算段位 · 来源：Bushiroad / PR TIMES 新闻稿（2026-10-27）")
+
+英文媒体 Inven Global 把这个模式称作 “Biweekly Arena”，日方新闻稿的说法是“每季约一个月”，两者对不上；周期以游戏内公告为准。
+
+@[bilibili](BV14oxj6bE5p "OurNotes 激奏舞台模式攻略，新卡强度测评及抽卡规划建议，4 期活动情报 · 作者：美竹兰兰蓝")
+
+上面这期是社区 UP 主美竹兰兰蓝的攻略，简介里写明包含玩法讲解、推荐配队与歌曲，以及新卡强度测评和抽卡规划，属于个人评测，强度排序随版本变化。
+
+### 万圣节活动与限定招募
+
+《A day〜#HalloweenSnap〜》是首个乐队混合活动，也是首次可以拿到「イマーシブホーム」（沉浸式主页）的活动，活动中合计可得 4 张。日本官方说明活动本身没有剧情；国际服的台湾媒体报道则提到两支乐队各有节日小故事，两边说法不同，需要以游戏内为准。
+
+![万圣节活动《A day〜#HalloweenSnap〜》](https://prcdn.freetls.fastly.net/release_image/14827/9835/14827-9835-f4c89a0d463df262fc9a2f90b55ad66e-1920x1080.jpg "万圣节活动《A day〜#HalloweenSnap〜》 · 来源：Bushiroad / PR TIMES 新闻稿（2026-10-27）")
+
+活动抽卡「晦冥のナイトウォーカーズガチャ」的期间是 10 月 28 日 0:00 至 11 月 8 日 14:59，首次出现期间限定的 SSR 成员和 SSR 留影：
+
+- SSR 成员：椎名立希《今宵、魔法に囚われて》（国际服译《今晚，为魔法所囚》）、三角初华／ドロリス《満ちることなき渇き》（国际服译《永无止境的渴望》）；
+- SSR 留影：《不意打ちのフレームイン》（そよ＆愛音）、《ゴースト・アイズ》（海鈴＆睦＆にゃむ）；
+- 活动奖励：SR 成员要乐奈《ねこたちのハロウィン》，SR 留影《運んで、飾って》（睦＆初华）。
+
+![活动抽卡「晦冥のナイトウォーカーズガチャ」](https://prcdn.freetls.fastly.net/release_image/14827/9835/14827-9835-97ac1ca2e4e7cb03abe7ea77a001dfee-1920x1080.jpg "活动抽卡「晦冥のナイトウォーカーズガチャ」 · 来源：Bushiroad / PR TIMES 新闻稿（2026-10-27）")
+
+![SSR 留影《不意打ちのフレームイン》（そよ＆愛音）](https://prcdn.freetls.fastly.net/release_image/14827/9835/14827-9835-0a030c6909165be13e6a3a0429e8db5c-1920x1080.jpg "SSR 留影《不意打ちのフレームイン》（そよ＆愛音） · 来源：Bushiroad / PR TIMES 新闻稿（2026-10-27）")
+
+国际服的整理把留影写成“长崎爽世”“八幡海铃”，指的是留影卡的主角；日方新闻稿的卡面名称写的是多人组合，这里按日方为准。登录奖励方面，国际服的官方宣传视频写的是激奏舞台上线纪念、首日登录赠送 2,000 星钻；日服的万圣节特别登录奖励是招募券、乐曲券和强化素材。
+
+官方的活动预告片：
+
+@[bilibili](BV1rCnZ6DE5u "🎃Trick or Treat! 《BanG Dream! Our Notes》万圣节活动即将开启！ · OurNotesOfficial")
+
+社区里的两期省流视频：叫我棉被的这期收了万圣节活动、成员新造型和留影简评；美竹兰兰蓝的这期汇总了万圣节更新情报和策划公布的后续更新。
+
+@[bilibili](BV12pxE68EW8 "【OurNotes】万圣节活动省流 鸡狗同框过万圣！含成员新造型&留影简评 · 作者：叫我棉被")
+
+@[bilibili](BV1dMnZ6yEyy "【OurNotes】万圣节版本活动更新情报与策划未来更新一览，一个视频快速省流 · 作者：美竹兰兰蓝")
+
+### 追加翻唱曲与《Abracadabra》
+
+| 曲名 | 演唱 | 时间 |
+| --- | --- | --- |
+| 《ノンブレス・オブリージュ》（国际服译《无呼吸义务》） | MyGO!!!!! | 10/28 12:00，作为万圣节活动课题曲 |
+| 《怪物》 | Ave Mujica | 10/28 12:00，作为万圣节活动课题曲 |
+| 《ハレ晴レユカイ》 | 一家Dumb Rock! | 11/2 15:00（官方预告） |
+| 《Abracadabra》 | Ave Mujica | 10/31 15:00，附 MV，期间限定至 2027-09-22（官方预告） |
+
+《ノンブレス・オブリージュ》原曲出自ピノキオピー，《怪物》原曲的词曲为 Ayase，官方宣传图上写明了这些署名。
+
+![追加翻唱曲《ノンブレス・オブリージュ》（MyGO!!!!!）](https://prcdn.freetls.fastly.net/release_image/14827/9835/14827-9835-ee80d887104accde6b032312af3ed962-1920x1080.jpg "追加翻唱曲《ノンブレス・オブリージュ》（MyGO!!!!!） · 来源：Bushiroad / PR TIMES 新闻稿（2026-10-27）")
+
+官方放出了两首新曲的试玩片段：
+
+@[bilibili](BV11KxM6hENd "🎵《BanG Dream! Our Notes》翻唱乐曲试玩——《ノンブレス・オブリージュ》 · OurNotesOfficial")
+
+@[bilibili](BV1KNxM6AEiy "🎵《BanG Dream! Our Notes》翻唱乐曲试玩——《怪物》 · OurNotesOfficial")
+
+《Abracadabra》这首 Ave Mujica 的翻唱，国际服在上线纪念时曾公开过同名翻唱的 MV（见下文结论一节的视频）。10 月 31 日实装的是游戏内的特别翻唱曲，配套的纪念活动有追加登录奖励（EX 留影《Abracadabra》、文字贴纸和 400 星钻）、限定任务和限定贴纸包，其中贴纸包的销售截止到 12 月 4 日。
+
+![特别翻唱曲《Abracadabra》追加纪念活动](https://prcdn.freetls.fastly.net/release_image/14827/9835/14827-9835-c5884979cf4d651761cda9e7c6c75f26-1920x1080.jpg "特别翻唱曲《Abracadabra》追加纪念活动 · 来源：Bushiroad / PR TIMES 新闻稿（2026-10-27）")
+
+### 开服问题的后续
+
+- 9 月 29 日的 Ver.1.0.4 加入了星钻履历功能，并修复星钻持有数显示异常的问题；官方在这一轮故障说明里表示，修复版更新完成后会向全体玩家发放 2,000 星钻，作为不具合和首轮活动延期的补偿；
+- 10 月之后版本继续更新：社区页面提到 10 月 18 日更新到 Ver.1.0.6，另一个 APK 站则只列出 1.0.3，版本号以商店为准，这里不当作已核实的信息；
+- 10 月 27 日的更新放宽了乐队剧情的玩家等级解锁条件；
+- 官方在 10 月 26 日的直播里没有提到 ANON TOKYO 的实装日期。
+
+---
+
+## 七、社区目前较一致的结论
 
 ### 得到肯定的部分
 
 - 五团独立叙事为新玩家和回归玩家提供了清晰入口；
 - Cinematic Storytelling、全语音和关键动画是最突出的完成度提升；
-- 开服曲库超过 70 首，并持续追加原曲、翻唱和 MV；
+- 开服曲库超过 70 首，并持续追加原曲、翻唱和 MV，10 月底又加入了《ノンブレス・オブリージュ》《怪物》等新翻唱；
 - 取消尾判、Assist Mode 与细致的 Live 设置照顾了轻度玩家；
 - MyGO!!!!! 与 Ave Mujica 的动画后续终于有明确承载平台；
 - millsage、一家Dumb Rock! 不只是卡池角色，而是从完整原创故事起步。
@@ -238,8 +348,9 @@ Google Play 与 Reddit 也有相反案例：部分高端 Android 设备运行流
 
 - 服务器和 GEKISO LIVE 能否在首轮修复后稳定；
 - ANON TOKYO、未开放入口和后续玩法何时正式落地；
+- 撃奏アリーナ上位段位的内容，以及官方预告的 MyGO!!!!!、Ave Mujica 年内剧情活动具体怎么开；
 - 成员与留影同池抽取、双线培养、重复突破和多属性养成的长期资源压力；
-- 首轮活动补开后，后续活动节奏、高难谱面和竞争内容能否留住核心音游玩家；
+- 首轮活动补开后，活动已经按期推出；高难谱面和撃奏アリーナ能否留住核心音游玩家，还要继续看；
 - 英文等多语言本地化是否持续修正；
 - 《Our Notes》与 GBP 同时运营后，两边内容更新能否保持稳定。
 
@@ -276,6 +387,13 @@ Google Play 与 Reddit 也有相反案例：部分高端 Android 设备运行流
 - OurNotesOfficial，2026-09-13：[全球上线官方预告](https://www.bilibili.com/video/BV1cyYi6REXH/)
 - OurNotesOfficial，2026-09-21：[国际服上线前瞻特别节目](https://www.bilibili.com/video/BV1amhB6rEdi/)
 - OurNotesOfficial，2026-09-23：[上线纪念《Abracadabra》MV](https://www.bilibili.com/video/BV1ZLeG6JEha/)
+- 《BanG Dream! Our Notes》日版官网，2026-10-26：[「だんらんTV！」发表情报总结](https://bang-dream-on.bushimo.jp/news/post-14)
+- 《BanG Dream! Our Notes》日版官网，2026-10-23：[「だんらんTV！」初回放送通知](https://bang-dream-on.bushimo.jp/news/post-14-2)
+- Bushiroad / PR TIMES，2026-10-27：[撃奏アリーナ、万圣节活动与追加翻唱曲新闻稿](https://prtimes.jp/main/html/rd/p/000009835.000014827.html)
+- 《BanG Dream! Our Notes》官方 X，2026-10-17：[第 3 期活动「Shake Your 魂, Baby!!」开启预告](https://x.com/bang_dream_on/status/2111381718116540885)
+- 《BanG Dream! Our Notes》官方 YouTube：[「Shake Your 魂, Baby!!」剧情预告片](https://www.youtube.com/watch?v=Jmv9ldbXwI8)
+- OurNotesOfficial，2026-10-26：[万圣节活动预告](https://www.bilibili.com/video/BV1rCnZ6DE5u/)
+- OurNotesOfficial，2026-10-28 前后：[《ノンブレス・オブリージュ》试玩](https://www.bilibili.com/video/BV11KxM6hENd/)、[《怪物》试玩](https://www.bilibili.com/video/BV1KNxM6AEiy/)
 
 ### 媒体与社区反馈
 
@@ -309,5 +427,15 @@ Google Play 与 Reddit 也有相反案例：部分高端 Android 设备运行流
 - Game Log Lab，2026-09-28：[首轮活动延期、初期 SSR 范围与畅销榜个人观察](https://note.com/rapid_gerbil992/n/nfba9d30a357e)
 - Gamerch，2026-09-29 抓取：[首轮活动与招募延期状态](https://gamerch.com/bang-dream-on/)
 - AppMedia，2026-10-04 抓取：[《アイの奔流 AtoZ》补开后的活动与招募期间](https://appmedia.jp/bang-dream-on/80431519)
+- AppMedia，2026-10-29 抓取：[活动日程（第 1—4 期）](https://appmedia.jp/bang-dream-on/80431519)与[万圣节卡池与新增角色、留影、曲目](https://appmedia.jp/bang-dream-on)
+- Gamer，2026-10-27：[撃奏アリーナ、万圣节活动与追加翻唱曲](https://www.gamer.ne.jp/news/202610270005/)
+- 巴哈姆特 GNN，2026-10-28：[国际服万圣节特别活动与激奏舞台](https://gnn.gamer.com.tw/detail.php?sn=314063)
+- Paradaily，2026-10-28：[国际服万圣节活动整理](https://news.para-daily.com/2026/10/28/bang-dream-our-note-halloween-event-1028/)
+- Inven Global，2026-10：[万圣节活动与 Biweekly Arena 报道](https://www.invenglobal.com/articles/27810/bang-dream-our-note-introduces-halloween-event-and-biweekly-arena)
+- 美竹兰兰蓝，2026-10-09：[第 2 期活动情报与配队](https://www.bilibili.com/video/BV1KYHR6RErs/)
+- 美竹兰兰蓝，2026-10-26：[万圣节版本更新情报与未来更新](https://www.bilibili.com/video/BV1dMnZ6yEyy/)
+- 美竹兰兰蓝，2026-10-28：[激奏舞台攻略与第 4 期情报](https://www.bilibili.com/video/BV14oxj6bE5p/)
+- 叫我棉被，2026-10-28：[万圣节活动省流](https://www.bilibili.com/video/BV12pxE68EW8/)
+- 白露惊霜，2026-10-19：[第 3 期活动剧情与留影日记（简介来源）](https://www.bilibili.com/video/BV1w2J96gEme/)
 - Reddit / r/BanGDream，2026-09-24：[正式版首日体验讨论](https://www.reddit.com/r/BanGDream/comments/1wp47h3/first_impressions_of_our_notes/)
 - Reddit / r/BanGDream，2026-09-24：[开服集中帖与 GEKISO 通信问题](https://www.reddit.com/r/BanGDream/comments/1woj8vs/bang_dream_our_notes_game_release_megathread/)
