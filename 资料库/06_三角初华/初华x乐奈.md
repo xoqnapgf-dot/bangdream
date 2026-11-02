@@ -29,7 +29,7 @@
 
 ## 二、原作糖点与关键节点（事实层）
 
-- 无。零同场零对话零互提（以《Ave Mujica》总纲与断案目录为准）。
+- 无。零同场零对话零互提（以《Ave Mujica》总纲与mikanayuip 的 CP 论目录为准）。
 
 ## 三、核心磕点体系（观点层，均为基于官方关系的合理推演）
 
@@ -39,7 +39,7 @@
 
 ## 四、社区评价与格局（观点层）
 
-- 无任何社区讨论记录（断案未收录；5ch/NGA/百合会/tumblr 零 tag 零组合讨论）——与乐奈攻向侧文件结论一致，冷门在信源层面零确认。
+- 无任何社区讨论记录（mikanayuip 的 CP 论未收录；5ch/NGA/百合会/tumblr 零 tag 零组合讨论）——与乐奈攻向侧文件结论一致，冷门在信源层面零确认。
 
 ## 五、乐奈在关系网中的位置
 
@@ -53,7 +53,7 @@
 ## 七、信息来源
 
 - TV 动画《BanG Dream! Ave Mujica》总纲（00_剧情区/02_AveMujica动画）
-- はてな断案 2024 决定稿（mikanayuip.hatenablog.jp，id:早）
+- mikanayuip 的 CP 论（mikanayuip.hatenablog.jp，id:早）
 - 5ch Ave Mujica 総合スレ111 / 百合会 CP 名清单
 - 官方人设《人设汇总_三角初华.md》《人设汇总_要乐奈.md》
 
