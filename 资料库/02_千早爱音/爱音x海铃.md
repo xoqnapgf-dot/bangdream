@@ -5,7 +5,7 @@
 ![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
 @[/gallery]
 
-> 爱音在前的写法，中文圈叫「爱海」，也有人叫「海音」。日文 pixiv 上「うみあの」只有 1 件，「あのうみ」没有作品（2026-11 统计）。海铃那一侧见《08_八幡海铃/海铃x爱音.md》。
+> 爱音在前的写法，中文圈叫「爱海」，也有人叫「海音」。日文 pixiv 上「うみあの」只有 1 件，「あのうみ」没有作品（2026 年 11 月）。海铃那一侧见《海铃x爱音.md》。
 
 ---
 
@@ -76,6 +76,6 @@ Ave Mujica 首演散场，爱音给立希报信：「她们摘下面具，成员
 ## 六、信息来源
 
 - TV 动画《BanG Dream! It's MyGO!!!!!》第 9 话剧本；《Ave Mujica 剧情总纲》第 2、6 话
-- 知乎：冷面笑匠乌咪铃的 Ave Mujica 回答（2025-02-08，见《00_剧情区/06_社区解析_推测/AveMujica_分析推测汇总.md》）
+- 知乎：冷面笑匠乌咪铃的 Ave Mujica 回答（2025-02-08，见《06_社区解析_推测/AveMujica_分析推测汇总.md》）
 - 贴吧：bangdream 吧（爱音和 mujica 联系最广帖 2024-05）；mygo 吧（爱海王朝帖 2025-02、冷门 CP 帖 2025-04、乱炖帖 2025-09）
-- pixiv「うみあの」「あのうみ」标签（2026-11 统计）
+- pixiv「うみあの」「あのうみ」标签

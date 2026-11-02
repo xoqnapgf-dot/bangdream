@@ -42,7 +42,7 @@
 
 ## 四、社区评价与格局（观点层）
 
-- 无讨论记录（断案未设专节；5ch/NGA/百合会/tumblr 零组合 tag）——与乐奈攻向侧结论一致，冷门如实记录。
+- 无讨论记录（mikanayuip 的 CP 论未设专节；5ch/NGA/百合会/tumblr 零组合 tag）——与乐奈攻向侧结论一致，冷门如实记录。
 - 海铃 CP 的实际热度池为海铃×睦（安全网线）、海铃×祥子（重组推动线）、海铃×墨缇丝（吉他教师线）；乐奈在海铃 CP 谱系中无位置。
 
 ## 五、乐奈在关系网中的位置
@@ -58,7 +58,7 @@
 
 - TV 动画《BanG Dream! Ave Mujica》总纲（00_剧情区/02_AveMujica动画）行133、行187
 - 《人设汇总_八幡海铃.md》：基本信息节、"MyGO!!!!! 支援贝斯手（雇佣兵）"节、第9话支援记录、性格特点节
-- はてな断案 2024 决定稿（mikanayuip.hatenablog.jp，id:早）
+- mikanayuip 的 CP 论（mikanayuip.hatenablog.jp，id:早）
 - 柿本广大访谈（blackcatbowen 中文翻译）
 
 对齐账号：`03_要乐奈/乐奈x海铃.md`

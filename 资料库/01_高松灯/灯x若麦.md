@@ -5,7 +5,7 @@
 ![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
 @[/gallery]
 
-> 灯在前的写法。中文圈通行的叫法是若麦在前的「喵灯」；日文 pixiv 上「ともにゃむ」没有作品，「にゃむとも」只有 1 件（2026-11 统计）。更多见《09_祐天寺若麦/若麦x灯.md》。
+> 灯在前的写法。中文圈通行的叫法是若麦在前的「喵灯」；日文 pixiv 上「ともにゃむ」没有作品，「にゃむとも」只有 1 件（2026 年 11 月）。更多见《若麦x灯.md》。
 
 ---
 
@@ -42,14 +42,14 @@
 
 @[bilibili](BV1mPLAz3EUH "【喵灯|MYGO二创】两个代餐相遇后的爱 · 作者：冲矢明逸")
 
-更多见《09_祐天寺若麦/若麦x灯.md》。
+更多见《若麦x灯.md》。
 
 ---
 
 ## 四、信息来源
 
 - 《Ave Mujica 剧情总纲》第 1 话
-- MyGO!!!!! × Ave Mujica 合同演出《わかれ道の、その先へ》（2025-04）会场特殊语音（据 B 站 Mikoi_ 搬运录音转写）
+- MyGO!!!!! × Ave Mujica 合同演出《わかれ道の、その先へ》（2025-04）会场特殊语音（B 站 Mikoi_ 搬运）
 - 贴吧：bangdream 吧（喵梦就是灯帖 2023-11）；佑天寺若麦吧（区分主包和灯帖 2025-07）；若叶睦吧（对邦语音帖 2025-04）
 - B 站：林少帅解说、冲矢明逸
-- pixiv「ともにゃむ」「にゃむとも」标签（2026-11 统计）
+- pixiv「ともにゃむ」「にゃむとも」标签
