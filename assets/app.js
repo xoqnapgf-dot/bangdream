@@ -269,6 +269,35 @@
         continue;
       }
 
+      // 原文卡片：@[原文](标题 | 来源说明) … @[/原文]
+      // 帖子全文太长，正文里只放一张小卡片（标题、来源、开头一句），点开弹窗看全文。
+      // 相邻的几块排成一组卡片。
+      if (/^@\[原文\]\(/.test(line)) {
+        var posts = [];
+        while (i < lines.length) {
+          while (i < lines.length && !lines[i].trim()) i++;
+          var pm = i < lines.length ? /^@\[原文\]\(([^)]*)\)\s*$/.exec(lines[i].trim()) : null;
+          if (!pm) break;
+          var pBuf = [];
+          i++;
+          while (i < lines.length && !/^@\[\/原文\]\s*$/.test(lines[i].trim())) { pBuf.push(lines[i]); i++; }
+          if (i < lines.length) i++;
+          var pHead = pm[1].split('|');
+          var pText = pBuf.join('\n');
+          var pPlain = pBuf.filter(function (l) {
+            var t = l.trim();
+            return t && !/^(\*\*#\d|---|>|https?:|@\[|\[[^\]]*\]\(|原帖)/.test(t);
+          }).join(' ').replace(/[*`#>\[\]]/g, '');
+          posts.push('<button type="button" class="post-card">' +
+            '<span class="pc-t">' + inline(pHead[0].trim()) + '</span>' +
+            (pHead[1] ? '<span class="pc-m">' + esc(pHead.slice(1).join('|').trim()) + '</span>' : '') +
+            '<span class="pc-x">' + esc(pPlain.slice(0, 70)) + (pPlain.length > 70 ? '…' : '') + '</span>' +
+            '<template>' + renderMarkdown(pText) + '</template></button>');
+        }
+        out.push('<div class="post-grid">' + posts.join('') + '</div>');
+        continue;
+      }
+
       // 可折叠区块：@[details](摘要标题) … @[/details]
       // 用于「概述 + 长篇原文折叠」，默认收起，避免大段转载淹没正文。
       // 内部内容递归走同一套 Markdown 渲染，支持嵌套。
@@ -389,7 +418,7 @@
       // 段落
       var p = [];
       while (i < lines.length && lines[i].trim() &&
-             !/^(#{1,6}\s|\s*>|\s*([-*+]|\d+[.)])\s|\s*(```|~~~)|@\[(?:bilibili|哔哩哔哩)\]\(|@\[gallery\]\s*$)/.test(lines[i]) &&
+             !/^(#{1,6}\s|\s*>|\s*([-*+]|\d+[.)])\s|\s*(```|~~~)|@\[(?:bilibili|哔哩哔哩)\]\(|@\[gallery\]\s*$|@\[原文\]\()/.test(lines[i]) &&
              !/^\s*([-*_])\s*(\1\s*){2,}$/.test(lines[i])) {
         p.push(lines[i].trim()); i++;
       }
@@ -1286,6 +1315,7 @@
   function route() {
     /* 页内标题锚点不属于文件路由；避免旧目录链接把正文误判成文件路径。 */
     if (location.hash && location.hash.indexOf('#/') !== 0) return;
+    closePost();
     $('contentsFab').hidden = true;
     keepToken++;
     if (!navByRef) jumpStack.length = 0;
@@ -1335,6 +1365,46 @@
     document.documentElement.dataset.theme = dark ? 'dark' : 'light';
   }
 
+  /* ─────────── 原文弹窗 ─────────── */
+
+  var postBox = null, postReturn = null;
+  function closePost() {
+    if (!postBox || postBox.hidden) return;
+    postBox.hidden = true;
+    document.body.classList.remove('post-open');
+    if (postReturn) postReturn.focus();
+  }
+  function openPost(card) {
+    if (!postBox) {
+      postBox = document.createElement('div');
+      postBox.className = 'post-modal';
+      postBox.hidden = true;
+      postBox.innerHTML = '<div class="pm-scrim"></div>' +
+        '<div class="pm-panel" role="dialog" aria-modal="true" aria-labelledby="pmTitle">' +
+        '<div class="pm-head"><div><div class="pm-title" id="pmTitle"></div><div class="pm-meta"></div></div>' +
+        '<button type="button" class="pm-close" aria-label="关闭">&times;</button></div>' +
+        '<div class="pm-body md"></div></div>';
+      document.body.appendChild(postBox);
+      postBox.querySelector('.pm-scrim').addEventListener('click', closePost);
+      postBox.querySelector('.pm-close').addEventListener('click', closePost);
+      document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closePost(); });
+    }
+    postReturn = card;
+    var cc = $('content').style.getPropertyValue('--cc');
+    if (cc) postBox.style.setProperty('--cc', cc); else postBox.style.removeProperty('--cc');
+    postBox.querySelector('.pm-title').innerHTML = card.querySelector('.pc-t').innerHTML;
+    var meta = card.querySelector('.pc-m');
+    postBox.querySelector('.pm-meta').textContent = meta ? meta.textContent : '';
+    var body = postBox.querySelector('.pm-body');
+    body.innerHTML = card.querySelector('template').innerHTML;
+    markSpeakers(body);
+    body.querySelectorAll('a[href^="http"]').forEach(function (a) { a.target = '_blank'; a.rel = 'noopener'; });
+    body.scrollTop = 0;
+    postBox.hidden = false;
+    document.body.classList.add('post-open');
+    postBox.querySelector('.pm-close').focus();
+  }
+
   /* ─────────── 启动 ─────────── */
 
   function boot() {
@@ -1354,6 +1424,13 @@
     $('backFab').addEventListener('click', popJump);
 
     /* 正文里跳去其它资料前记下来源；委托绑定，交叉引用与显式链接都能覆盖。 */
+    // 点开原文卡片 → 弹窗看全文
+    $('content').addEventListener('click', function (e) {
+      var card = e.target && e.target.closest ? e.target.closest('.post-card') : null;
+      if (!card) return;
+      openPost(card);
+    });
+
     // 点击视频封面 → 换成真正的播放器（带 autoplay，等同于直接点了播放）
     $('content').addEventListener('click', function (e) {
       var btn = e.target && e.target.closest ? e.target.closest('.video-poster') : null;
