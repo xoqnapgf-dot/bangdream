@@ -31,6 +31,8 @@
 
 2023 年的长帖《越看越觉得爱灯实在是过于犯规了》从灯这边看：「在爱音没有意识到的时候，灯就已经把爱音当做可以信赖和依靠的人。而在第五集爱音本剧中精神最脆弱的时候，灯就自然地为爱音贴上了创可贴，而且反过来用爱音的话来鼓励她一起迷失着前进。」
 
+![爱音与灯在水族馆 · 第 5 话](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%E8%BF%B7%E5%A4%B1%E5%95%8A.jpg "第 5 话 · 爱音接过写着「迷路」的纸")
+
 ### 1.2 「小爱」
 
 灯从第 11 话开始叫爱音「小爱」，立希当场一句「小爱？！」。之后灯对爱音说的话，社区反复拿出来的是这几句：
@@ -47,9 +49,13 @@ B 站《爱素和爱灯哪个更好磕？》下的高赞：「爱灯的关系就
 
 系列构成绫奈由仁子在 Febri 的访谈里说，灯原本完全没有「搞砸了也能重来」的想法，所以第 1 话听到爱音那句话会吓一跳；爱音并不完美，但在灯眼里，她有着自己没有的价值观。
 
+![爱音握住灯的手：一起加油吧 · 第 13 话](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%E4%B8%80%E8%B5%B7%E5%8A%A0%E6%B2%B9%E5%90%A7_2.jpg "第 13 话 · 一起加油吧")
+
 ### 1.4 君臣
 
 日文圈 tag 是灯在前，贴吧有人搜图时问：「在日本人眼里灯才是总攻吗？」中文圈则有「君臣塑」的说法：爱灯吧 2026 年一帖转述 up 主禅心的点评，说两人「就像大河剧里天马行空的主公和有点才学生逢乱世出来闯荡浪人之间互相影响的故事」；回帖说：「在大事上，后期的爱音会十分认可灯的重力和坚持，乐意协助她完成目标。小事上，灯就完全惯着爱音，每次爱音想整活，灯总是第一个同意。」
+
+![灯：让我们一起迷失吧 · 第 10 话](https://cdn.jsdelivr.net/gh/Furinaaa-Cancan/mygo-mujica-archive@d3074c020d5aaa0ac3c3da1c11583d9d4e7918c9/assets/MyGO/media/screenshots/%E8%AE%93%E6%88%91%E5%80%91%E4%B8%80%E8%B5%B7%E8%BF%B7%E5%A4%B1%E5%90%A7.jpg "第 10 话 · 灯：让我们一起迷失吧")
 
 ---
 
@@ -60,6 +66,8 @@ B 站《爱素和爱灯哪个更好磕？》下的高赞：「爱灯的关系就
 @[bilibili](BV1mE421w7P6 "【万字解析】爱灯天台战的情感 有多汹涌？· 作者：子非鱼kun")
 
 **子非鱼kun 讲第 7 话首演**（他自己说是「半真半假的药」）：爱音失误后跑向立希，路线先朝着灯，灯以为是来找自己的，身子动了一下，结果爱音转了方向；看到立希在安慰爱音，灯把头扭回去，喘了两口气，「没想到，灯也是会有这种小情绪的」。然后她想起爱音一紧张就喝水，捧着水瓶过去，把吸管转向爱音，爱音没反应，就直接举到她脸前。
+
+@[bilibili](BV1DA4m157BZ "子非鱼kun 讲第 7 话首演 · 作者：子非鱼kun")
 
 **诗-亚《【cp分析】爱灯-互相舔舐伤口的小动物》**：卡拉 OK 里那句「一辈子」是真心想和爱音组乐队，只是灯说不清楚，被爱音一句「一辈子？」接住，就知道自己说错话跑了。他还注意到第 2 话桌上摆的是企鹅创可贴，盒子里装的却不是，灯打招呼时低了一下头，「在害怕爱音并不是真的喜欢企鹅（从这里看灯还是很会的嘛）」。
 
@@ -1679,64 +1687,75 @@ Reply to
 
 @[bilibili](BV1uRPKeNEpy "如果爱音是灯幻想出来的角色 · 作者：gyufrghv2")
 
-- 《如果爱音是灯幻想出来的角色》系列（gyufrghv2，BV1uRPKeNEpy、BV1NQ9wYsEcG、BV1eJRsYBEfa），第一集 44 万播放
-- 《【爱灯/病娇灯】看吧，她们都不爱你》（似秋雨之下，BV13CooYFEBt），改编自 LOFTER 作者 MinamoroHero 的同名文
-- 《【爱灯】爱音退队后灯变成了病娇？！》（人海右的坚定拥护者，BV1PWEXzpE11）、《【爱灯】想独占太阳的小企鹅（1）》（同一作者，BV1ALj1zZER2）
-- 《【MYGO二创】【爱灯】高松灯闻到了其他人的味道》（泽村英黎梨，BV1ny5ozSEav）
-- 《【MYGO/爱灯】爱音失忆了 企鹅诈称是情侣 教坏小爱音》（甜辣火龙果，BV1gku1z9EBX）
-- 《【爱灯】假不良碰到了真重女》（破防骑士厨，BV1fsGx6NEP6）、《【爱灯】女朋友得了接吻成瘾症？》（同一作者，BV14DnPz4E6s）
-- 《【爱灯|二周目灯】不属于我的千早爱音#1 太阳从西边出来》（司马武士道，BV18D8ez3ExZ）
-- 《【MyGO】拥有洞察情绪之眼的灯想要和爱音更进一步#1》（行汐無言，BV1sGWZeWET6）
-- 《【MyGO】灯用冷笑话治好了从英国回来的冷面爱音酱》（穆云诗岚，BV16zhyzpEJn）
-- 《【MyGo/爱灯】灯想要和爱音同居》系列（霜痕E，#1 BV1hJcizuEwP、#2 BV1R3fGBzE4j，更新到 #8）
-- 《[爱灯]经典病娇灯但是……》系列（一只翡翠，#0 BV1SFQRBaEov，共六集）
-- 《[二创/爱灯]高松灯想要抱抱》（MEKOUQI，BV1VdjczQEsk）
-- 《假如高松灯把名字改成了高松千早爱音？【MyGO二创】》（北风的猫5306，BV1RQTt6dECs）
-- 《【mygo/爱灯】灯总爱记录，不过全是关于爱音》（和秳咲栌叶，BV1mJTtzZETu）
-- 《爱音的灯专攻情商小课堂》（Personasts，BV1cHMmeDEsL）
-- 《【爱灯】小爱......是笨蛋......》（闲鱼tudou，BV1DPHh64EpW）
-- 《爱灯.灯妈妈想宠爱爱音》（三角初华唯一信仰，BV1uzJU6zELL）
-- 《（爱灯）“睡美人”爱音和“白马王子”灯##在无法敞开心扉的世界组成mygo？第1》（回来的废物，BV13KJC6oESP）
-- 《【爱灯】关于灯给我的情书是爱灯小皇叔这件事（下）》（爵士阿侬厨，BV1iqnS6XEYe）
-- 《（灯爱）灯颂爱音#1：假如「爱心」是「灯芯」的燃点？》（大爱二五仔，BV1TfCRBCEHQ）
-- 《灯灯，你怎么亲上来了！！【补档】》（五星美工刀，BV1kjYZ6pEBQ）
-- 咕嘎的灯灯的系列：《🥰爱音意外变成石头？灯却把她放进自己的阴湿洞穴！🥵》（BV1G7j96EE9x，9 万播放）、《🥰强欲灯想将爱音占为己有？爱音反击不料被榨干身体！🥵》（BV17XQZB9E7E）、《🥰爱音品鉴病娇灯的工地冰红茶，不料迷恋上了灯生命潮涌的味道🥵》（BV1HSGH6aEqm）
-- 《灯欲求不满，往牛奶里下药上垒爱音》（羽丘小魅魔，BV1EoLYz7EwG）
-- 《补档【爱灯】灯喝醉之后想和爱音sox？！》（老许不是牢鼠，BV12rj8z9EaV）
-- 《tomorin: 我们果体吧》（幻de手帕，BV1zdpyzAEpF）
-- 《【mygontr第二集】黄毛灯小手乱动导致爱音受不了疯狂迷星叫……》（sekaikaKum，BV1HF6rYxEV2）
-- 《【MyGO/爱灯】灯不小心把爱音射似了？》（贝壳雪花，BV1fVLh6ZE8o）
-- 《【MYGO/爱灯/补】爱音在灯手进去之前 一直在傻笑 [灯想要尝试]#1》（芝士高松灯，BV16pW1zBETx），重置版《【MYGO/爱灯】爱音前一秒还在傻笑，直到灯的手指...》（BV1fExM6pEi5）
-- 《[試作型/爱灯]爱压抑企鹅强健实习生爱音（我在时间起点等你） #1》（KanameVZ，BV1wUCyB6EfR）
+- 《[如果爱音是灯幻想出来的角色](https://www.bilibili.com/video/BV1uRPKeNEpy)》系列（gyufrghv2），第一集 44 万播放；[第 2 集](https://www.bilibili.com/video/BV1NQ9wYsEcG)、[第 3.1 集](https://www.bilibili.com/video/BV1eJRsYBEfa)
+- 《[【爱灯/病娇灯】看吧，她们都不爱你](https://www.bilibili.com/video/BV13CooYFEBt)》（似秋雨之下），改编自 LOFTER 作者 MinamoroHero 的同名文
+
+@[bilibili](BV13CooYFEBt "【爱灯/病娇灯】看吧，她们都不爱你 · 作者：似秋雨之下")
+
+- 《[【爱灯】爱音退队后灯变成了病娇？！](https://www.bilibili.com/video/BV1PWEXzpE11)》（人海右的坚定拥护者）、《[【爱灯】想独占太阳的小企鹅（1）](https://www.bilibili.com/video/BV1ALj1zZER2)》（同一作者）
+- 《[【MYGO二创】【爱灯】高松灯闻到了其他人的味道](https://www.bilibili.com/video/BV1ny5ozSEav)》（泽村英黎梨）
+- 《[【MYGO/爱灯】爱音失忆了 企鹅诈称是情侣 教坏小爱音](https://www.bilibili.com/video/BV1gku1z9EBX)》（甜辣火龙果）
+- 《[【爱灯】假不良碰到了真重女](https://www.bilibili.com/video/BV1fsGx6NEP6)》（破防骑士厨）、《[【爱灯】女朋友得了接吻成瘾症？](https://www.bilibili.com/video/BV14DnPz4E6s)》（同一作者）
+- 《[【爱灯|二周目灯】不属于我的千早爱音#1 太阳从西边出来](https://www.bilibili.com/video/BV18D8ez3ExZ)》（司马武士道）
+- 《[【MyGO】拥有洞察情绪之眼的灯想要和爱音更进一步#1](https://www.bilibili.com/video/BV1sGWZeWET6)》（行汐無言）
+- 《[【MyGO】灯用冷笑话治好了从英国回来的冷面爱音酱](https://www.bilibili.com/video/BV16zhyzpEJn)》（穆云诗岚）
+- 《[【MyGo/爱灯】灯想要和爱音同居](https://www.bilibili.com/video/BV1hJcizuEwP)》系列（霜痕E），更新到 #8；[#2](https://www.bilibili.com/video/BV1R3fGBzE4j)、[#5](https://www.bilibili.com/video/BV1VBwFz5EKA)、[#6](https://www.bilibili.com/video/BV1sewyzRErc)、[#7](https://www.bilibili.com/video/BV1TPXKB8E1R)、[#8](https://www.bilibili.com/video/BV1HnQwBMEsi)
+- 《[［爱灯］经典病娇灯但是……](https://www.bilibili.com/video/BV1SFQRBaEov)》系列（一只翡翠），共六集；[#1](https://www.bilibili.com/video/BV1WHXgBYELs)、[#2](https://www.bilibili.com/video/BV1x2XfB6EFQ)、[#3](https://www.bilibili.com/video/BV1DbDkBcE8e)、[#4](https://www.bilibili.com/video/BV1KwoKBvEMU)、[完](https://www.bilibili.com/video/BV1u4opBpEx9)
+- 《[［二创/爱灯］高松灯想要抱抱](https://www.bilibili.com/video/BV1VdjczQEsk)》（MEKOUQI）
+- 《[假如高松灯把名字改成了高松千早爱音？【MyGO二创】](https://www.bilibili.com/video/BV1RQTt6dECs)》（北风的猫5306）
+- 《[【mygo/爱灯】灯总爱记录，不过全是关于爱音](https://www.bilibili.com/video/BV1mJTtzZETu)》（和秳咲栌叶）
+- 《[爱音的灯专攻情商小课堂](https://www.bilibili.com/video/BV1cHMmeDEsL)》（Personasts）
+- 《[【爱灯】小爱......是笨蛋......](https://www.bilibili.com/video/BV1DPHh64EpW)》（闲鱼tudou）
+- 《[爱灯.灯妈妈想宠爱爱音](https://www.bilibili.com/video/BV1uzJU6zELL)》（三角初华唯一信仰）
+- 《[（爱灯）“睡美人”爱音和“白马王子”灯##在无法敞开心扉的世界组成mygo？第1](https://www.bilibili.com/video/BV13KJC6oESP)》（回来的废物）
+- 《[【爱灯】关于灯给我的情书是爱灯小皇叔这件事（下）](https://www.bilibili.com/video/BV1iqnS6XEYe)》（爵士阿侬厨）
+- 《[（灯爱）灯颂爱音#1：假如「爱心」是「灯芯」的燃点？](https://www.bilibili.com/video/BV1TfCRBCEHQ)》（大爱二五仔）
+- 《[灯灯，你怎么亲上来了！！【补档】](https://www.bilibili.com/video/BV1kjYZ6pEBQ)》（五星美工刀）
+- 咕嘎的灯灯的系列：《[🥰爱音意外变成石头？灯却把她放进自己的阴湿洞穴！🥵](https://www.bilibili.com/video/BV1G7j96EE9x)》（9 万播放）、《[🥰强欲灯想将爱音占为己有？爱音反击不料被榨干身体！🥵](https://www.bilibili.com/video/BV17XQZB9E7E)》、《[🥰爱音品鉴病娇灯的工地冰红茶，不料迷恋上了灯生命潮涌的味道🥵](https://www.bilibili.com/video/BV1HSGH6aEqm)》
+- 《[灯欲求不满，往牛奶里下药上垒爱音](https://www.bilibili.com/video/BV1EoLYz7EwG)》（羽丘小魅魔）
+- 《[补档【爱灯】灯喝醉之后想和爱音sox？！](https://www.bilibili.com/video/BV12rj8z9EaV)》（老许不是牢鼠）
+- 《[tomorin: 我们果体吧](https://www.bilibili.com/video/BV1zdpyzAEpF)》（幻de手帕）
+- 《[【mygontr第二集】黄毛灯小手乱动导致爱音受不了疯狂迷星叫……](https://www.bilibili.com/video/BV1HF6rYxEV2)》（sekaikaKum）
+- 《[【MyGO/爱灯】灯不小心把爱音射似了？](https://www.bilibili.com/video/BV1fVLh6ZE8o)》（贝壳雪花）
+- 《[【MYGO/爱灯/补】爱音在灯手进去之前 一直在傻笑 ［灯想要尝试］#1](https://www.bilibili.com/video/BV16pW1zBETx)》（芝士高松灯），重置版《[【MYGO/爱灯】爱音前一秒还在傻笑，直到灯的手指...](https://www.bilibili.com/video/BV1fExM6pEi5)》
+- 《[［試作型/爱灯］爱压抑企鹅强健实习生爱音（我在时间起点等你） #1](https://www.bilibili.com/video/BV1wUCyB6EfR)》（KanameVZ）
+
+![Tomoano · Morynatsu（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=121413356 "pixiv · Morynatsu《Tomoano》")
 
 ### 手书、MAD、剪辑
 
-- 《高松灯重力展开引发钟慢效应 千早爱音逃逸失败 被捕获 坠入事件视界》（Travis_Bic，BV1tw411r7YN），37 万播放
-- 《多刷的mygo观众终于发现爱音其实一直遭受灯的冷暴力》（秋風-aki，BV1dP411Y7FJ）
-- 《【mygo/mad/灯宝金曲】Anonちゃん，你是不是我的》（神谕灯火，BV12g4y1Q7kw）
-- 《【MyGO】mygo13话收到爱音创口贴后，爱堕的灯》（メジロ阿尔丹，BV1Zh4y1a7sT）、《沉迷爱音送的创可贴并发出痴笑被发现的高松灯也太可爱了》（一只从心的莫，BV13w4m1U7cF）
-- 《【爱灯/MEME/conspiracy】小心跟踪狂》（无量无数无边众生，BV1hNumzoERE）、《【灯爱/手书】哦真的太糟糕跟踪又被发现了》（取得名字全重复，BV1GDNizXETd）
-- 《【BanGDream】护着千早爱音的高松灯合集》（Chrom-，BV18fAsenEgi）
-- 《【爱灯TV警告】出生家暴爱音》（寸心台水，BV1P9zoYrEuX）
-- 《【高松灯×爱音/感傷幽霊完整版】“就算这个世界没有意义，有你在身边就足够了”》（落花の岁月，BV1gjp36rEDp）
-- 《都是灯的缘故哦~~爱音嘴上说着不要，结果往天台跑生怕小灯追不上》（長點上機學園，BV1P7KNebEyL）
-- 《小灯给爱音施压（x）》（追命丸山彩，BV1JkqHB9ESn）、《高松灯看穿千早爱音想要c位》（anonAa，BV1QzpA6XE9q）、《高松灯的主动都换来了什么？》（瞎剪瞎掰啊，BV1c4xq66EdB）
-- 《灯皇语音，她真的好宠爱音》（美树-沙耶香，BV16YAYzSENK）、《【爱灯/助眠】灯：玄关的灯会一直为你亮着》（柯行希，BV14yam68E6U）
+@[bilibili](BV1tw411r7YN "高松灯重力展开引发钟慢效应 千早爱音逃逸失败 被捕获 坠入事件视界 · 作者：Travis_Bickle")
+
+- 《[高松灯重力展开引发钟慢效应 千早爱音逃逸失败 被捕获 坠入事件视界](https://www.bilibili.com/video/BV1tw411r7YN)》（Travis_Bickle），37 万播放
+- 《[多刷的mygo观众终于发现爱音其实一直遭受灯的冷暴力](https://www.bilibili.com/video/BV1dP411Y7FJ)》（秋風-aki）
+- 《[【mygo/mad/灯宝金曲】Anonちゃん，你是不是我的](https://www.bilibili.com/video/BV12g4y1Q7kw)》（神谕灯火）
+- 《[【MyGO】mygo13话收到爱音创口贴后，爱堕的灯](https://www.bilibili.com/video/BV1Zh4y1a7sT)》（メジロ阿尔丹）、《[沉迷爱音送的创可贴并发出痴笑被发现的高松灯也太可爱了](https://www.bilibili.com/video/BV13w4m1U7cF)》（一只从心的莫）
+- 《[【爱灯/MEME/conspiracy】小心跟踪狂](https://www.bilibili.com/video/BV1hNumzoERE)》（无量无数无边众生）、《[【灯爱/手书】哦真的太糟糕跟踪又被发现了](https://www.bilibili.com/video/BV1GDNizXETd)》（取得名字全重复）
+@[bilibili](BV12g4y1Q7kw "【mygo/mad/灯宝金曲】Anonちゃん，你是不是我的 · 作者：神谕灯火")
+
+- 《[【BanGDream】护着千早爱音的高松灯合集](https://www.bilibili.com/video/BV18fAsenEgi)》（Chrom-）
+- 《[【爱灯TV警告】出生家暴爱音](https://www.bilibili.com/video/BV1P9zoYrEuX)》（寸心台水）
+- 《[【高松灯×爱音/感傷幽霊完整版】“就算这个世界没有意义，有你在身边就足够了”](https://www.bilibili.com/video/BV1gjp36rEDp)》（落花の岁月）
+- 《[都是灯的缘故哦~~爱音嘴上说着不要，结果往天台跑生怕小灯追不上](https://www.bilibili.com/video/BV1P7KNebEyL)》（長點上機學園）
+- 《[小灯给爱音施压（x）](https://www.bilibili.com/video/BV1JkqHB9ESn)》（追命丸山彩）、《[高松灯看穿千早爱音想要c位](https://www.bilibili.com/video/BV1QzpA6XE9q)》（anonAa）、《[高松灯的主动都换来了什么？](https://www.bilibili.com/video/BV1c4xq66EdB)》（瞎剪瞎掰啊）
+- 《[灯皇语音，她真的好宠爱音](https://www.bilibili.com/video/BV16YAYzSENK)》（美树-沙耶香）、《[【爱灯/助眠】灯：玄关的灯会一直为你亮着](https://www.bilibili.com/video/BV14yam68E6U)》（柯行希）
 
 ### 无差、互攻
 
-- 《🐧超雄高松灯压力爱音，反被爱音爆踹🐧》（牛牛小兔w，BV1diNdeWEjn）
-- 《【MyGO】二周目灯成功速通爱音，不料在sox环节被反杀》（来世酱_laishi，BV1SK411x7B6），20 万播放
-- 《【爱灯爱无差/短篇】假如爱音与灯交往后总想亲亲小灯》（寄小俄，BV1X3X5BdENd）
-- 《【MYGO/爱灯爱】小爱说跳这个会有很多人看…》（量产型taki，BV1hfXbY6E1D）
-- 《【Mygo/爱灯爱】I LOVE YOU SO》（一般通行梦游人，BV1WxLazSExu）、《爱灯爱》（对我而言命运的相遇，BV1LNidYyEnx）
-- 《【爱灯爱/描改】numb numb》（-Windbell-，BV19XNL6SEyp）、《［爱灯爱］mosi mosi?》（future与pas，BV1WXT46TEQc）、《[灯爱灯]numdnumd手书》（铃鹿薇Sama，BV11suS6rELM）、《【爱灯爱】创口贴》（换脑手术成功，BV1R8H76wE7Z）
-- 《高松灯是爱音的创可贴，爱音是高松灯的小太阳》（橙汁猿qwq，BV1tLMD6CEEE）
+@[bilibili](BV1diNdeWEjn "🐧超雄高松灯压力爱音，反被爱音爆踹🐧 · 作者：牛牛小兔w")
+
+- 《[🐧超雄高松灯压力爱音，反被爱音爆踹🐧](https://www.bilibili.com/video/BV1diNdeWEjn)》（牛牛小兔w）
+- 《[【MyGO】二周目灯成功速通爱音，不料在sox环节被反杀](https://www.bilibili.com/video/BV1SK411x7B6)》（来世酱_laishi），20 万播放
+- 《[【爱灯爱无差/短篇】假如爱音与灯交往后总想亲亲小灯](https://www.bilibili.com/video/BV1X3X5BdENd)》（寄小俄）
+- 《[【MYGO/爱灯爱】小爱说跳这个会有很多人看…](https://www.bilibili.com/video/BV1hfXbY6E1D)》（量产型taki）
+- 《[【Mygo/爱灯爱】I LOVE YOU SO](https://www.bilibili.com/video/BV1WxLazSExu)》（一般通行梦游人）、《[爱灯爱](https://www.bilibili.com/video/BV1LNidYyEnx)》（对我而言命运的相遇）
+- 《[【爱灯爱/描改】numb numb](https://www.bilibili.com/video/BV19XNL6SEyp)》（-Windbell-）、《[［爱灯爱］mosi mosi?](https://www.bilibili.com/video/BV1WXT46TEQc)》（future与pas）、《[［灯爱灯］numdnumd手书](https://www.bilibili.com/video/BV11suS6rELM)》（铃鹿薇Sama）、《[【爱灯爱】创口贴](https://www.bilibili.com/video/BV1R8H76wE7Z)》（换脑手术成功）
+- 《[高松灯是爱音的创可贴，爱音是高松灯的小太阳](https://www.bilibili.com/video/BV1tLMD6CEEE)》（橙汁猿qwq）
 
 ### 文
 
-- **B 站专栏**：凛绪1《【MyGO/灯×爱文】一直迷失着》（cv27713833）；DMeower《【MyGO同人】刺心脏》《【MyGO同人】穿髓》（cv34543971、cv34494729）；柚風《偷看灯对爱音告白的摩卡和兰》（cv25905270）；SUK_白桦《乐队女孩重度依赖--前提》（cv34972898，游戏大纲）；潜行者M《【MyGO/同人/爱灯】你眼中的星空》上中下（cv27166163、cv27206257、cv27283848）；卷饼_kido《【mygo/爱灯】今天的灯灯想要主动》两篇（cv39283967、cv39293255）；哲人罗尔斯《好想看灯宝把屑海王爱音推倒啊！》（cv39289918）；白安世《【灯爱 爱灯】向阳》（cv26804125）；无差的有霜叶树上掉霜夜《【爱灯】一季花开》（cv27151199）、龙华寺烧麦《（灯爱灯）假如千早爱音成为了吉他主唱？！》（cv51983351）。
-- **NGA**：《[MYGO][爱灯]只愿这夜空与你相通》（tid=39462683，2024-03-02，灯第一人称，诗超绊之后到爱音逃去初华那里）；安科《高松灯今天的石》（tid=45170795）、《特级咒术师高松灯要和千早爱音打一辈子咒灵?》（tid=46246862，共 120 页）；《[同人] [mygo]法师灯三创：幼女退行千早爱音会不会遇到高松灯妈妈》（tid=46318224，2026-03-06）。
+- **B 站专栏**：凛绪1《[【MyGO/灯×爱文】一直迷失着](https://www.bilibili.com/read/cv27713833)》；DMeower《[【MyGO同人】刺心脏](https://www.bilibili.com/read/cv34543971)》《[【MyGO同人】穿髓](https://www.bilibili.com/read/cv34494729)》；柚風《[偷看灯对爱音告白的摩卡和兰](https://www.bilibili.com/read/cv25905270)》；SUK_白桦《[乐队女孩重度依赖--前提](https://www.bilibili.com/read/cv34972898)》（游戏大纲）；潜行者M《[【MyGO/同人/爱灯】你眼中的星空](https://www.bilibili.com/read/cv27166163)》上中下（[中](https://www.bilibili.com/read/cv27206257)、[下](https://www.bilibili.com/read/cv27283848)）；卷饼_kido《[【mygo/爱灯】今天的灯灯想要主动](https://www.bilibili.com/read/cv39283967)》两篇（[完结篇](https://www.bilibili.com/read/cv39293255)）；哲人罗尔斯《[好想看灯宝把屑海王爱音推倒啊！](https://www.bilibili.com/read/cv39289918)》；白安世《[【灯爱 爱灯】向阳](https://www.bilibili.com/read/cv26804125)》；无差的有霜叶树上掉霜夜《[【爱灯】一季花开](https://www.bilibili.com/read/cv27151199)》、龙华寺烧麦《[（灯爱灯）假如千早爱音成为了吉他主唱？！](https://www.bilibili.com/read/cv51983351)》。
+- **NGA**：《[［MYGO］［爱灯］只愿这夜空与你相通](https://bbs.nga.cn/read.php?tid=39462683)》（2024-03-02，灯第一人称，诗超绊之后到爱音逃去初华那里）；安科《[高松灯今天的石](https://bbs.nga.cn/read.php?tid=45170795)》、《[特级咒术师高松灯要和千早爱音打一辈子咒灵?](https://bbs.nga.cn/read.php?tid=46246862)》（共 120 页）；《[［同人］ ［mygo］法师灯三创：幼女退行千早爱音会不会遇到高松灯妈妈](https://bbs.nga.cn/read.php?tid=46318224)》（2026-03-06）。
 - **贴吧**：《（灯爱）粉色的跳单和粉色的她》（2024-08）；穆云诗岚《假如高松灯为了 MyGO 把祥子做了》。
 
 更多手书、MAD、MMD、WebGal 和 LOFTER 推荐文见《爱音x灯.md》。

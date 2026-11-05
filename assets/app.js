@@ -490,7 +490,8 @@
     }).sort(function (a, b) { return b.length - a.length; });
     var escapeRe = function (s) { return s.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'); };
     var filePart = names.map(escapeRe).join('|');
-    var plainRef = new RegExp('https?:\\/\\/[^\\s<>"”）)\\]}，。；、]+|' + filePart, 'g');
+    /* 正文里的 B 站 BV 号、专栏 cv 号、NGA tid 也直接做成外链 */
+    var plainRef = new RegExp('https?:\\/\\/[^\\s<>"”）)\\]}，。；、]+|\\bBV[0-9A-Za-z]{10}\\b|\\bcv\\d{5,}\\b|\\btid=\\d{5,}\\b|' + filePart, 'g');
     var walker = document.createTreeWalker(container, NodeFilter.SHOW_TEXT);
     var textNodes = [];
     while (walker.nextNode()) {
@@ -507,8 +508,12 @@
         frag.appendChild(document.createTextNode(text.slice(last, offset)));
         var a = document.createElement('a');
         a.textContent = match;
-        if (/^https?:\/\//i.test(match)) {
-          a.href = match;
+        var ext = /^https?:\/\//i.test(match) ? match
+          : /^BV/.test(match) ? 'https://www.bilibili.com/video/' + match
+          : /^cv/.test(match) ? 'https://www.bilibili.com/read/' + match
+          : /^tid=/.test(match) ? 'https://bbs.nga.cn/read.php?' + match : null;
+        if (ext) {
+          a.href = ext;
           a.target = '_blank';
           a.rel = 'noopener';
         } else {
