@@ -189,7 +189,7 @@ Ave Mujica 第 5 话祥子在看夏目漱石的《心》，当时贴吧就有人
 - **MAD**：《【灯祥/MAD】“我不擦去你名字不可”》（卡夫卡永不加班，BV19iN9e1ECh，七十多万播放）、《【灯祥/MAD】「我、不是什么神明大人」》（Mikoi_，BV12K4y1c7Eq，六十多万）、《【灯祥动画】你会不会是我编的一个谎？》（健康死亡，BV1eQQnYJEcs）、《【MyGO/灯祥】❤坏 女 孩❤——明明是为你才会改变，却回不到从前》（狗剩G_saint，BV1cN4y1f7n4）、《【灯祥/MAD】“别离的歌，早已哼在了嘴边”》（tuleviku，BV16Jt4zaEM1）、《【灯祥/MAD】这一餐名为幸福》（皮药药，BV18PpN6sEYz）
 - **手书**：《【MyGO_AveMujica手书/灯祥】命ばっかり》（吾去乃不早曰，BV1YYKAezEY2）、《【灯祥手书】 - 言って。》（Arcgi4，BV1NeHezyEZP）、《【mygo/灯祥手书】カトラリー》（阿凪_nagi，BV1CntCexEjt）、《【邦邦手书/灯祥】》（语废，BV1Qma2zUEZy）
 - **WebGal / 长篇**：咸鱼北A《【mygo/灯祥】回到过去的高松灯》（BV1jMQoYxEE9）、《【mygo/灯祥】假如高松灯在乐队解散后尝试自杀》（BV1F5PuecEXX，致郁向）；《【MYGO剧情向】嗜睡症候群#13伪结局-赎罪者与春日之影》（BV1Cp8ozoEas）；《【mygo】【灯祥】再不亲亲，别人就要换台了!》（BV1V6zLYuE46）；《【灯祥/番外】午后的秘密时间》（BV1DAT9zvEk4）；圆脸型小祥《【灯祥】主唱貌似在和隔壁键盘手一起孵蛋的样子》（BV1jJx76CEve）。灯祥吧的推荐帖说：「B 站的小甜文比较多？很少在 b 站看到灯祥的 be 向作品」，回帖却是「我们灯祥是这样苦大仇深的 cp 吗，放眼望去全是 be 啊」。
-- **填词 / 翻唱**：《【灯祥|填词】孤独患者》（Susser_11，BV1xPxJ6aEUJ）、《【灯祥/填词】《富士山下》：做一场好梦如旧》（NP已满的大英雄，BV1rE6EBWEho）、《【灯祥】合唱《晴天》》（请叫我魔王夜言sam，BV1nZUwBwEeG）
+- **填词 / 翻唱**：《【灯祥|填词】孤独患者》（Susser_11，BV1xPxJ6aEUJ）、《【灯祥/填词】《富士山下》：做一场好梦如旧》（NP已满的大英雄，BV1rE6EBWEho）
 
 ### 6.2 图
 
