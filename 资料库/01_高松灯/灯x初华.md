@@ -282,7 +282,6 @@ Crychic留下了春季的春日影，MyGO！！！！带来了夏季的碧天伴
 - 《[【佐佐木李子x高松灯/双声道/完整版】ノンブレス・オブリージュ](https://www.bilibili.com/video/BV1sZ421h7Yw)》（Aloereed），把两人各自翻唱的版本混成左右声道
 - 《[【TFR烈焰升腾｜邦多利】你看到的我 - 高松灯&三角初华](https://www.bilibili.com/video/BV1fXUXBqEES)》（喜欢游戏绘画的老李）、《[【天文学家组】高松灯&三角初音 - STARCHARTS（Pasteboard）](https://www.bilibili.com/video/BV12rKazKEiQ)》（菠萝塞一口）、《[【2人合唱/高松灯/三角初华】ルパンレンジャーVSパトレンジャー](https://www.bilibili.com/video/BV1BFxu6sEtZ)》（DX战龙）
 - 《[灯和初华讨论歌词](https://www.bilibili.com/video/BV1N64y1W7YN)》（三流音乐家A某，WebGAL，作者说「唯一的看点大概就是句句不提祥某人，句句不离祥某人」）
-- 《[【MyGO!!!!!】灯和AI初华合唱春日影](https://www.bilibili.com/video/BV13F411D7KZ)》（Leeda_）、《[【AI高松灯×初华】《弱水三千DJ》“就像思念 苦里透着甜”](https://www.bilibili.com/video/BV1JsJX6vEee)》（佳夜良宵）、《[【三角初华ft.高松灯】"把小祥肚子耍成曲面"丨连麻、Asen艾志恒《自立巷》（AI COVER）](https://www.bilibili.com/video/BV1McJzzRE21)》（lunafallrest）：都是 AI 合成的歌声
 
 ### 图
 
