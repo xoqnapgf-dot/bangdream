@@ -280,7 +280,7 @@ Crychic留下了春季的春日影，MyGO！！！！带来了夏季的碧天伴
 
 - 《[初华＆灯：背背背背起了小祥-《你看到的我》填词](https://www.bilibili.com/video/BV1H3oXYvEgN)》（颂乐虹夏），75 万播放
 - 《[【佐佐木李子x高松灯/双声道/完整版】ノンブレス・オブリージュ](https://www.bilibili.com/video/BV1sZ421h7Yw)》（Aloereed），把两人各自翻唱的版本混成左右声道
-- 《[【TFR烈焰升腾｜邦多利】你看到的我 - 高松灯&三角初华](https://www.bilibili.com/video/BV1fXUXBqEES)》（喜欢游戏绘画的老李）、《[【天文学家组】高松灯&三角初音 - STARCHARTS（Pasteboard）](https://www.bilibili.com/video/BV12rKazKEiQ)》（菠萝塞一口）、《[【2人合唱/高松灯/三角初华】ルパンレンジャーVSパトレンジャー](https://www.bilibili.com/video/BV1BFxu6sEtZ)》（DX战龙）
+- 《[【TFR烈焰升腾｜邦多利】你看到的我 - 高松灯&三角初华](https://www.bilibili.com/video/BV1fXUXBqEES)》（喜欢游戏绘画的老李）
 - 《[灯和初华讨论歌词](https://www.bilibili.com/video/BV1N64y1W7YN)》（三流音乐家A某，WebGAL，作者说「唯一的看点大概就是句句不提祥某人，句句不离祥某人」）
 
 ### 图
