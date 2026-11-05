@@ -1014,3 +1014,13 @@ html[data-theme="dark"] .card:hover .card-art { opacity: .3; }
 
 /* 剧本里不是主要角色的说话人（同学、店员等）用中性色，角色名才上色 */
 .script-view .sc-who:not([style]) { color: var(--tx-faint); }
+
+/* 手机上首页立绘不再伸出右边界，避免左右滑动 */
+.main { overflow-x: hidden; }
+.home-hero { overflow-x: clip; }
+.home-hero .hero-art { right: 0; }
+@media (max-width: 860px) { .home-hero .hero-art { right: 0; } }
+
+/* MyGO!!!!! 字样减细，和右边的 Ave Mujica 斜体更协调 */
+.home-hero .h-mygo { font-weight: 650; letter-spacing: 0; }
+.brand-mark { font-weight: 620; }
