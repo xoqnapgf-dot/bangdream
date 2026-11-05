@@ -3,19 +3,21 @@
    ============================================================ */
 
 :root {
-  --bg:        #ffffff;
-  --bg-soft:   #f7f8fa;
-  --bg-sink:   #f0f2f5;
-  --line:      #e3e6ea;
-  --line-soft: #eceff3;
-  --tx:        #1b1f24;
-  --tx-dim:    #5c6570;
-  --tx-faint:  #8b939d;
-  --accent:    #4a7fb5;
-  --accent-2:  #8a5a8f;
-  --accent-bg: #eaf1f8;
-  --sel:       #dbe8f5;
-  --shadow:    0 1px 2px rgba(16,24,40,.05), 0 4px 16px rgba(16,24,40,.06);
+  /* 浅色：暖纸色底、墨色字，不用纯白，减少刺眼 */
+  --bg:        #f7f4ee;
+  --bg-soft:   #f0ebe2;
+  --bg-sink:   #e8e2d7;
+  --line:      #ddd5c8;
+  --line-soft: #e7e0d5;
+  --tx:        #2a2622;
+  --tx-dim:    #5f574e;
+  --tx-faint:  #8f857a;
+  --accent:    #446b94;   /* MyGO 侧：靛青 */
+  --accent-2:  #8a587d;   /* Mujica 侧：暗玫瑰紫 */
+  --accent-bg: #e6ebf0;
+  --sel:       #dfe5ec;
+  --card:      #fbf9f5;
+  --shadow:    0 1px 2px rgba(60,45,30,.05), 0 6px 18px rgba(60,45,30,.07);
   --radius:    10px;
   --sidebar-w: 300px;
   --toc-w:     212px;
@@ -23,22 +25,30 @@
   --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
   --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
           "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
+  /* 标题用宋体系衬线，带一点档案、书页的味道 */
+  --serif: "Songti SC", "STSong", "Noto Serif SC", "Source Han Serif SC",
+           "Noto Serif CJK SC", "SimSun", Georgia, serif;
+  /* 西文花体：Ave Mujica 字样 */
+  --display: "Cormorant Garamond", "Baskerville", "Hoefler Text", "Didot",
+             "Palatino Linotype", Palatino, Georgia, serif;
 }
 
+/* 深色：暖灰而不是纯黑，正文用米白而不是纯白，降低对比避免散光眩光 */
 html[data-theme="dark"] {
-  --bg:        #15181d;
-  --bg-soft:   #1b1f26;
-  --bg-sink:   #21262e;
-  --line:      #2c333c;
-  --line-soft: #252b33;
-  --tx:        #e4e8ed;
-  --tx-dim:    #a3adb9;
-  --tx-faint:  #737d89;
-  --accent:    #79aede;
-  --accent-2:  #c093c5;
-  --accent-bg: #1e2a36;
-  --sel:       #26384a;
-  --shadow:    0 1px 2px rgba(0,0,0,.3), 0 4px 16px rgba(0,0,0,.28);
+  --bg:        #2b2825;
+  --bg-soft:   #33302c;
+  --bg-sink:   #3b3732;
+  --line:      #4a453e;
+  --line-soft: #403b35;
+  --tx:        #e2dbd0;
+  --tx-dim:    #b7ad9f;
+  --tx-faint:  #8f8579;
+  --accent:    #9db9d8;
+  --accent-2:  #cfa3c3;
+  --accent-bg: #36404a;
+  --sel:       #3e4752;
+  --card:      #312e2a;
+  --shadow:    0 1px 2px rgba(0,0,0,.18), 0 6px 18px rgba(0,0,0,.18);
 }
 
 * { box-sizing: border-box; }
@@ -843,3 +853,164 @@ html[data-theme="dark"] .errbox { color: #f08a7e; }
 .prose-view .pr-p { margin: 0 0 17px; color: var(--tx); }
 @media (max-width: 640px) {
 }
+
+/* ============================================================
+   美化：字体、角色色、首页立绘（只改外观，不改结构）
+   ============================================================ */
+
+/* 顶栏品牌字样 */
+.brand { align-items: center; gap: 8px; }
+.brand-mark { font-weight: 700; letter-spacing: .2px; }
+.brand-mark.alt {
+  font-family: var(--display); font-style: italic; font-weight: 500;
+  font-size: 1.22em; letter-spacing: .3px; line-height: 1;
+}
+.brand-sep { font-family: var(--display); font-size: 13px; }
+.topbar { border-bottom-color: var(--line-soft); }
+.topbar::after {           /* 顶栏下沿一道很淡的双色细线：MyGO 靛青 → Mujica 玫瑰紫 */
+  content: ""; position: absolute; left: 0; right: 0; bottom: -1px; height: 1px;
+  background: linear-gradient(90deg, transparent, color-mix(in srgb, var(--accent) 45%, transparent) 30%,
+              color-mix(in srgb, var(--accent-2) 45%, transparent) 70%, transparent);
+}
+
+/* 标题：衬线 */
+.hero h1, .md h1, .md h2, .md h3, .script-view .ep-title, .prose-view .pr-h {
+  font-family: var(--serif); font-weight: 700; letter-spacing: .02em;
+}
+.md h2 {
+  border-bottom: 0; padding-bottom: 8px; position: relative;
+}
+.md h2::after {             /* 二级标题下一道细线，左端一小段用本角色的代表色 */
+  content: ""; position: absolute; left: 0; right: 0; bottom: 0; height: 1px;
+  background: linear-gradient(90deg, var(--cc, var(--accent)) 0 48px, var(--line) 48px);
+}
+.md h3 { color: color-mix(in srgb, var(--tx) 88%, var(--cc, var(--accent))); }
+.md hr {
+  border: 0; height: 1px; margin: 30px 0;
+  background: linear-gradient(90deg, transparent, var(--line) 20%, var(--line) 80%, transparent);
+}
+
+/* 引用块：角色色左边线，对白每人一行 */
+.md blockquote {
+  border-left-color: color-mix(in srgb, var(--cc, var(--accent)) 70%, var(--tx-faint));
+  background: color-mix(in srgb, var(--cc, var(--accent)) 5%, var(--bg-soft));
+  color: var(--tx); font-size: 14.5px;
+}
+.md blockquote p.line { margin: 3px 0; }
+.md .who, .script-view .sc-who[style] {
+  color: color-mix(in srgb, var(--who) 58%, var(--tx));
+  font-weight: 650;
+}
+html[data-theme="dark"] .md .who,
+html[data-theme="dark"] .script-view .sc-who[style] {
+  color: color-mix(in srgb, var(--who) 70%, var(--tx));
+}
+
+/* 表格、折叠块用卡片底色 */
+.md thead th { background: var(--bg-sink); }
+.md tbody tr:nth-child(even) { background: color-mix(in srgb, var(--bg-soft) 60%, transparent); }
+.md img { border-color: var(--line-soft); }
+
+/* 侧栏：角色目录的文件夹图标用代表色 */
+.sidebar { background: var(--bg-soft); }
+.row.dir.char .fico { color: color-mix(in srgb, var(--cc) 80%, var(--tx)); }
+.row.dir.char.active { background: color-mix(in srgb, var(--cc) 16%, var(--bg)); }
+.row.active { box-shadow: inset 2px 0 0 var(--cc, var(--accent)); }
+#search { background: var(--card); }
+
+/* 面包屑与数字 */
+.crumb { font-variant-numeric: tabular-nums; }
+.stat b, .row .count { font-family: var(--display); font-variant-numeric: lining-nums tabular-nums; }
+.stat b { font-size: 25px; font-weight: 600; }
+.stat { background: var(--card); }
+
+/* 首页标题区：右侧两张淡化立绘 */
+.home-hero { position: relative; padding: 34px 0 14px; isolation: isolate; }
+.home-hero .hero-art {
+  position: absolute; z-index: -1; right: -10px; top: -14px; bottom: -24px;
+  display: flex; align-items: flex-start; pointer-events: none; overflow: hidden;
+  width: 52%;
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 45%, #000 80%, transparent),
+                      linear-gradient(180deg, transparent, #000 14%, #000 55%, transparent);
+  -webkit-mask-composite: source-in; mask-composite: intersect;
+  mask-image: linear-gradient(90deg, transparent, #000 45%, #000 80%, transparent),
+              linear-gradient(180deg, transparent, #000 14%, #000 55%, transparent);
+}
+.home-hero .hero-art img {
+  height: 340px; width: auto; flex: none; margin-left: -50px;
+  opacity: .2; filter: saturate(.75);
+}
+html[data-theme="dark"] .home-hero .hero-art img { opacity: .16; }
+.kicker {
+  display: flex; align-items: center; gap: 10px; margin: 0 0 12px;
+  font-size: 12px; letter-spacing: .32em; color: var(--tx-faint);
+}
+.kicker::before { content: ""; width: 34px; height: 1px; background: var(--accent-2); opacity: .6; }
+.home-hero h1 {
+  display: flex; flex-wrap: wrap; align-items: baseline; gap: 2px 12px;
+  margin: 0 0 12px; line-height: 1.15;
+}
+.home-hero .h-mygo { font-family: var(--sans); font-weight: 800; font-size: 40px; letter-spacing: -.5px; }
+.home-hero .h-x { font-family: var(--display); color: var(--tx-faint); font-size: 22px; }
+.home-hero .h-mujica {
+  font-family: var(--display); font-style: italic; font-weight: 500;
+  font-size: 44px; color: var(--accent-2); letter-spacing: .5px;
+}
+.home-hero .h-lib { font-size: 17px; letter-spacing: .35em; color: var(--tx-dim); font-weight: 600; }
+.home-hero .lede { max-width: 30em; }
+
+.sec-h { font-family: var(--serif); letter-spacing: .2em; font-size: 13px; color: var(--tx-dim); }
+
+/* 卡片：纸感底色，角色卡顶端一小段代表色、右侧淡化立绘 */
+.card {
+  position: relative; overflow: hidden; isolation: isolate;
+  background: var(--card); border-left-width: 1px; border-color: var(--line);
+}
+.card::before {
+  content: ""; position: absolute; left: 15px; top: 0; width: 26px; height: 3px;
+  border-radius: 0 0 2px 2px; background: var(--cc, var(--accent));
+}
+.card.char-card {
+  min-height: 92px; padding-top: 16px;
+  background: linear-gradient(105deg, var(--card) 45%, color-mix(in srgb, var(--cc) 12%, var(--card)));
+}
+.card .cn { font-family: var(--serif); font-size: 17px; font-weight: 700; letter-spacing: .04em; }
+.card .cs { position: relative; }
+.card-art {
+  position: absolute; z-index: -1; right: -18px; top: -6px;
+  height: 230%; width: auto; max-width: none;
+  opacity: .26; filter: saturate(.8);
+  -webkit-mask-image: linear-gradient(90deg, transparent, #000 40%);
+  mask-image: linear-gradient(90deg, transparent, #000 40%);
+  transition: opacity .2s, transform .3s;
+}
+.card:hover .card-art { opacity: .38; transform: translateX(-4px); }
+html[data-theme="dark"] .card-art { opacity: .2; }
+html[data-theme="dark"] .card:hover .card-art { opacity: .3; }
+.card:hover { border-color: color-mix(in srgb, var(--cc, var(--accent)) 60%, var(--line)); }
+
+/* 文件夹页标题：角色色细线 */
+.hero:not(.home-hero) h1 + .lede::before {
+  content: ""; display: inline-block; width: 8px; height: 8px; margin-right: 8px;
+  border-radius: 50%; background: var(--cc, var(--accent)); vertical-align: 1px;
+}
+
+/* 右侧大纲当前项用角色色 */
+.toc a.on {
+  color: color-mix(in srgb, var(--cc, var(--accent)) 55%, var(--tx));
+  border-left-color: var(--cc, var(--accent));
+  background: color-mix(in srgb, var(--cc, var(--accent)) 10%, transparent);
+}
+
+@media (max-width: 860px) {
+  .home-hero .h-mygo { font-size: 31px; }
+  .home-hero .h-mujica { font-size: 34px; }
+  .home-hero .hero-art { width: 70%; right: -30px; }
+  .home-hero .hero-art img { height: 260px; opacity: .14; }
+}
+
+.stats { display: grid; grid-template-columns: repeat(4, minmax(0, 1fr)); }
+@media (max-width: 560px) { .stats { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+
+/* 剧本里不是主要角色的说话人（同学、店员等）用中性色，角色名才上色 */
+.script-view .sc-who:not([style]) { color: var(--tx-faint); }

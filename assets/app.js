@@ -44,6 +44,35 @@
     return null;
   }
 
+  /* 首页角色卡右侧的淡化立绘（官方角色图）。加载失败时整块隐藏，不显示破图。 */
+  var MYGO_IMG = 'https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_';
+  var AVEM_IMG = 'https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_';
+  var PORTRAIT = {
+    '高松灯': MYGO_IMG + 'tomori.png', '千早爱音': MYGO_IMG + 'anon.png',
+    '要乐奈': MYGO_IMG + 'rana.png', '长崎素世': MYGO_IMG + 'soyo.png',
+    '椎名立希': MYGO_IMG + 'taki.png',
+    '三角初华': AVEM_IMG + 'uika.webp', '若叶睦': AVEM_IMG + 'mutsumi.webp',
+    '八幡海铃': AVEM_IMG + 'umiri.webp', '祐天寺若麦': AVEM_IMG + 'nyamu.webp',
+    '丰川祥子': AVEM_IMG + 'sakiko.webp',
+    '纯田真奈': 'https://anime.bang-dream.com/avemujica/wordpress/wp-content/themes/avemujica_0102/assets/images/common/character/img_mana_1.png'
+  };
+  function portraitFor(name) {
+    for (var k in PORTRAIT) if (name.indexOf(k) >= 0) return PORTRAIT[k];
+    return null;
+  }
+
+  /* 对白里的说话人 → 角色代表色（剧本与正文引用块共用） */
+  var SPEAKER = {};
+  [['高松灯', '灯 高松灯 小灯'], ['千早爱音', '爱音 千早爱音'], ['要乐奈', '乐奈 要乐奈'],
+   ['长崎素世', '素世 长崎素世 爽世'], ['椎名立希', '立希 椎名立希'],
+   ['三角初华', '初华 三角初华 初音 Doloris'], ['若叶睦', '睦 若叶睦 墨缇丝 Mortis'],
+   ['八幡海铃', '海铃 八幡海铃 Timoris'], ['祐天寺若麦', '若麦 祐天寺若麦 喵梦 Amoris'],
+   ['丰川祥子', '祥子 丰川祥子 Oblivionis'], ['纯田真奈', '真奈 纯田真奈']
+  ].forEach(function (p) { p[1].split(' ').forEach(function (n) { SPEAKER[n] = COLORS[p[0]]; }); });
+  function speakerColor(who) {
+    return SPEAKER[String(who).replace(/[（(].*$/, '').trim()] || null;
+  }
+
   /* ─────────── 工具 ─────────── */
 
   function esc(s) {
@@ -342,7 +371,10 @@
       if (/^\s*>/.test(line)) {
         var q = [];
         while (i < lines.length && /^\s*>/.test(lines[i])) {
-          q.push(lines[i].replace(/^\s*>\s?/, '')); i++;
+          var ql = lines[i].replace(/^\s*>\s?/, '');
+          /* 对白一人一行：「说话人：」开头的行另起一段，不与上一行拼成同一段 */
+          if (q.length && q[q.length - 1].trim() && /^[^：:\s]{1,12}[：:]/.test(ql)) q.push('');
+          q.push(ql); i++;
         }
         out.push('<blockquote>' + renderMarkdown(q.join('\n')) + '</blockquote>');
         continue;
@@ -365,6 +397,25 @@
       else i++;
     }
     return out.join('\n');
+  }
+
+  /* 引用块里「说话人：台词」的说话人加角色色 */
+  function markSpeakers(box) {
+    box.querySelectorAll('blockquote > p').forEach(function (p) {
+      var first = p.firstChild;
+      if (!first || first.nodeType !== 3) return;
+      var m = /^([^：:\s]{1,12})([：:])/.exec(first.nodeValue);
+      if (!m) return;
+      var c = speakerColor(m[1]);
+      if (!c) return;
+      var span = document.createElement('span');
+      span.className = 'who';
+      span.style.setProperty('--who', c);
+      span.textContent = m[1] + m[2];
+      first.nodeValue = first.nodeValue.slice(m[0].length);
+      p.insertBefore(span, first);
+      p.classList.add('line');
+    });
   }
 
   /* ─────────── 索引 ─────────── */
@@ -585,8 +636,9 @@
            注意 F# 这类和弦不能误伤——# 必须紧跟在冒号或右括号之后。 */
         var mono = /^([（(][^）)]*[）)])?\s*#\s*(.+)$/.exec(body);
         if (mono) { inner = ' is-inner'; body = (mono[1] || '') + mono[2]; }
-        out.push('<p class="sc-line' + inner + (gap ? ' is-break' : '') + '"><span class="sc-who">' +
-          esc(m[1]) + '</span><span class="sc-say">' + esc(body) + '</span></p>');
+        var wc = speakerColor(m[1]);
+        out.push('<p class="sc-line' + inner + (gap ? ' is-break' : '') + '"><span class="sc-who"' +
+          (wc ? ' style="--who:' + wc + '"' : '') + '>' + esc(m[1]) + '</span><span class="sc-say">' + esc(body) + '</span></p>');
         gap = false;
       } else {                                                 // 场景、时间、地点
         if (gap) breaks.push(out.length);
@@ -695,6 +747,8 @@
         (status ? '<span class="lock-wrap ' + status + '" title="' + hint + '" aria-label="' + hint + '">' +
                   dirStatusBadge(status) + '</span>' : '') +
         '<span class="count">' + n + '</span>';
+      var dc = depth === 0 ? colorFor(node.name) : null;
+      if (dc) { row.classList.add('char'); row.style.setProperty('--cc', dc); }
       if (status) {
         row.classList.add('status-' + status);
         row.title = node.name + ' — ' + hint;
@@ -840,8 +894,14 @@
     var chars = dirs.filter(function (d) { return colorFor(d.name); });
     var others = dirs.filter(function (d) { return !colorFor(d.name); });
 
-    var h = '<div class="hero">' +
-      '<h1>MyGO!!!!! × Ave Mujica 资料库</h1>' +
+    var h = '<div class="hero home-hero">' +
+      '<div class="hero-art" aria-hidden="true">' +
+      '<img src="' + PORTRAIT['高松灯'] + '" alt="" loading="lazy" onerror="this.remove()">' +
+      '<img src="' + PORTRAIT['丰川祥子'] + '" alt="" loading="lazy" onerror="this.remove()">' +
+      '</div>' +
+      '<p class="kicker">角色 · 剧情 · 设定 · 解析</p>' +
+      '<h1><span class="h-mygo">MyGO!!!!!</span><span class="h-x">×</span>' +
+      '<span class="h-mujica">Ave Mujica</span><span class="h-lib">资料库</span></h1>' +
       '<p class="lede">角色人设、剧情逐集、官方设定与社区解析 —— 按文件夹结构浏览。</p>' +
       '</div>' +
       '<div class="stats">' +
@@ -855,8 +915,10 @@
       return '<div class="cards">' + list.map(function (d) {
         var c = colorFor(d.name);
         var role = roleFor(d.name);
-        return '<a class="card" href="#/' + esc(d.path) + '"' +
+        var img = portraitFor(d.name);
+        return '<a class="card' + (c ? ' char-card' : '') + '" href="#/' + esc(d.path) + '"' +
           (c ? ' style="--cc:' + c + '"' : '') + '>' +
+          (img ? '<img class="card-art" src="' + img + '" alt="" loading="lazy" onerror="this.remove()">' : '') +
           '<span class="cn">' + esc(displayDirName(d.name)) + '</span>' +
           '<span class="cs">' + (role ? esc(role) + ' · ' : '') + countFiles(d) + ' 个文件</span>' +
           '</a>';
@@ -942,6 +1004,7 @@
       if (node.ext === 'md') {
         box.className = 'content md';
         box.innerHTML = renderMarkdown(text);
+        markSpeakers(box);
         linkifyRefs(box);
         resolveContentLinks(box, node.path);
         guardImages(box);
@@ -1234,6 +1297,9 @@
     try { path = decodeURIComponent(raw); } catch (e) { path = raw; }
     path = path.replace(/\/+$/, '');
     state.current = path;
+    var cc = path ? colorFor(path.split('/')[0]) : null;
+    if (cc) $('content').style.setProperty('--cc', cc);
+    else $('content').style.removeProperty('--cc');
     $('content').classList.remove('is-deprecated');   // 废弃标记只属于当前这篇文件
 
     if (!path) { viewHome(); document.title = 'MyGO!!!!! × Ave Mujica 资料库'; return; }
