@@ -1,6 +1,6 @@
 # 高松灯 × 要乐奈（灯猫）
 
-![灯与乐奈 · 「与随性的流浪猫一起」特训后](https://bestdori.com/assets/jp/characters/resourceset/res038013_rip/card_after_training.png "《少女乐团派对！》要乐奈「与随性的流浪猫一起」卡面（特训后）")
+![灯与乐奈 · coldcat.《ともらな》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=125866283 "pixiv · coldcat.《ともらな》")
 
 > 灯在前的写法，叫「灯猫」，日文是「ともらな」。中文圈通行的是乐奈在前的「猫灯」：B 站 tag 使用数，「猫灯」353，「灯猫」30；pixiv「ともらな」231 件，「らなとも」17 件，「らなとも」下的多半也挂着「ともらな」（2026 年 11 月）。乐奈在前的磕点和更多二创见《乐奈x灯.md》。
 
