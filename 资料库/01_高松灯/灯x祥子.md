@@ -271,13 +271,15 @@ mygo7 告别 / mygo13 告别 plus / mujica7 告别 promax / mujica13 告别 ultr
   - 《[【灯祥】i love u so](https://www.bilibili.com/video/BV1meRVYbEPx)》（企鹅如是说，约 3.3 万播放）
   - 《[【灯祥手书|猛毒】谁家初遇像嘎啦给木cg啊……](https://www.bilibili.com/video/BV1RWUXB4Eja)》（dio咬过的大乔，约 9000 播放，画的是两人初遇）
   - 《[【灯祥/手书】春/嵐](https://www.bilibili.com/video/BV1iDNremEgF)》（初权谓吕蒙曰_，简介：「灯祥灯｜待完成乐章24h｜02:00」）、《[【灯祥】春岚](https://www.bilibili.com/video/BV1ERap62E7a)》（_温带海洋性气候_，与上一条同名不同作）
+  - 《[【mygo/灯祥手书】カトラリー](https://www.bilibili.com/video/BV1CntCexEjt)》（阿凪_nagi，约 6.3 万播放；简介说画了一个月，人声用的是 AI 灯音源，起因是原曲 PV 最后的创可贴）
   - 《[【mygo手书/灯祥灯】毫无疑问，你曾经是我的天使—IMAWANOKIWA](https://www.bilibili.com/video/BV15H4y1w7Kb)》、《[【BanGDream/灯祥/手书】直至眼泪干涸](https://www.bilibili.com/video/BV1JzqQBME9w)》（同一作者西木野小欧）；《[【灯祥/手书】-左右盲](https://www.bilibili.com/video/BV1nuTF6QE3T)》（-文句-）；《[【灯祥灯/手书】首班车与卡夫卡](https://www.bilibili.com/video/BV1ceZsBJE7F)》（_夏草が邪魔をする_，简介说是给小祥过的第三个生日）
 - **接力**：《[所以你和我丨灯祥](https://www.bilibili.com/video/BV1C8Hx6PEVY)》（九坨可怜，约 3 万播放，2026 年 10 月，参加 bilibilionly 的 Our Notes 创作接力）
 
 @[bilibili](BV1NeHezyEZP "【灯祥手书】- 言って。· 作者：Arcgi4")
 
-- **WebGal / 长篇**：硫离子S2负《[【灯祥/已完结】高松灯想要追逐](https://www.bilibili.com/video/BV18C7QzdE4u)》（简介说基于素祥卡面剧情）；咸鱼北A《【mygo/灯祥】回到过去的高松灯》（BV1jMQoYxEE9）、《【mygo/灯祥】假如高松灯在乐队解散后尝试自杀》（BV1F5PuecEXX，致郁向）；《【MYGO剧情向】嗜睡症候群#13伪结局-赎罪者与春日之影》（BV1Cp8ozoEas）；《【mygo】【灯祥】再不亲亲，别人就要换台了!》（BV1V6zLYuE46）；《【灯祥/番外】午后的秘密时间》（BV1DAT9zvEk4）。灯祥吧的推荐帖说：「B 站的小甜文比较多？很少在 b 站看到灯祥的 be 向作品」，回帖却是「我们灯祥是这样苦大仇深的 cp 吗，放眼望去全是 be 啊」。
-- **MAD**：《【灯祥/MAD】“我不擦去你名字不可”》（卡夫卡永不加班，BV19iN9e1ECh，七十多万播放）、《【灯祥/MAD】「我、不是什么神明大人」》（Mikoi_，BV12K4y1c7Eq，六十多万）、《【灯祥动画】你会不会是我编的一个谎？》（健康死亡，BV1eQQnYJEcs）、《【MyGO/灯祥】❤坏 女 孩❤——明明是为你才会改变，却回不到从前》（狗剩G_saint，BV1cN4y1f7n4）、《【灯祥/MAD】“别离的歌，早已哼在了嘴边”》（tuleviku，BV16Jt4zaEM1）
+- **WebGal / 长篇**：硫离子S2负《[【灯祥/已完结】高松灯想要追逐](https://www.bilibili.com/video/BV18C7QzdE4u)》（简介说基于素祥卡面剧情）；圆脸型小祥《[【灯祥cp向】如果能在这个世界相爱的话——（少女レイ）#7](https://www.bilibili.com/video/BV1JpkJBtExm)》《[#8](https://www.bilibili.com/video/BV1h1Nuz3EaD)》（简介说是灯和祥子互相救赎的故事，语音用 GPT-SoVITS，原文在 LOFTER）、《[【灯祥】主唱貌似在和隔壁键盘手一起孵蛋的样子（上）](https://www.bilibili.com/video/BV1jJx76CEve)》（同一作者，原作者是 LOFTER 的十分钟马娘速配玉龙飞霆）；咸鱼北A《【mygo/灯祥】回到过去的高松灯》（BV1jMQoYxEE9）、《【mygo/灯祥】假如高松灯在乐队解散后尝试自杀》（BV1F5PuecEXX，致郁向）；《【MYGO剧情向】嗜睡症候群#13伪结局-赎罪者与春日之影》（BV1Cp8ozoEas）；《【mygo】【灯祥】再不亲亲，别人就要换台了!》（BV1V6zLYuE46）；《【灯祥/番外】午后的秘密时间》（BV1DAT9zvEk4）。灯祥吧的推荐帖说：「B 站的小甜文比较多？很少在 b 站看到灯祥的 be 向作品」，回帖却是「我们灯祥是这样苦大仇深的 cp 吗，放眼望去全是 be 啊」。
+- **填词**：《[【灯祥|填词】孤独患者](https://www.bilibili.com/video/BV1xPxJ6aEUJ)》（Susser_11，约 6500 播放；简介说歌词是两年前写的，人声用 ACE，视频剪辑这次交给了 Claude）、《[[灯祥填词/巴赫旧约] 我虽从没忘记，却已爱不起](https://www.bilibili.com/video/BV1pUtveNEbG)》（季陌寂寞，ACE Studio，标了「灯祥」「祥灯」两个 tag）、《[【灯祥/填词】《富士山下》：做一场好梦如旧](https://www.bilibili.com/video/BV1rE6EBWEho)》（NP已满的大英雄，约 4500 播放；作者在评论里说「这首歌是以灯的视角写给祥的，计划还有一首祥写给灯的爱情转移」）
+- **MAD**：《【灯祥/MAD】“我不擦去你名字不可”》（卡夫卡永不加班，BV19iN9e1ECh，七十多万播放）、《【灯祥/MAD】「我、不是什么神明大人」》（Mikoi_，BV12K4y1c7Eq，六十多万）、《【灯祥动画】你会不会是我编的一个谎？》（健康死亡，BV1eQQnYJEcs）、《【MyGO/灯祥】❤坏 女 孩❤——明明是为你才会改变，却回不到从前》（狗剩G_saint，BV1cN4y1f7n4）、《【灯祥/MAD】“别离的歌，早已哼在了嘴边”》（tuleviku，BV16Jt4zaEM1）、《【灯祥/MAD】这一餐名为幸福》（皮药药，BV18PpN6sEYz，简介说用了 AI 生成素材）
 
 @[bilibili](BV1C8Hx6PEVY "所以你和我丨灯祥 · 作者：九坨可怜")
 
