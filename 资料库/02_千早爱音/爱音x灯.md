@@ -30,7 +30,7 @@
 
 - **王道、官推**：MyGO!!!!! 动画里两人的互动几乎贯穿 13 集，社区习惯把爱灯叫作「王道」「第一官推」。贴吧一个只按动画 13 集给各 CP 打分的帖子，第一条就是爱灯：「正版王牌的含金量，官方主推，但是观众好像不是很吃这一套。」通行的「御三家」划分里，爱灯是主线，爱素是「美帝」，灯素是后起之秀。
 - **热度走势**：动画第 10 集之前，爱灯一直是 MyGO 热度最高的一对，之后爱素后来居上。手游开局卖的也是爱灯，爱素是后来慢慢发展成官推的。
-- **投稿量**：Lofter 8532、P 站 898（Sky 统计，2025-08-04）。pixiv 上灯在前的「ともあの」标签有 382 件插画漫画，爱音在前的「あのとも」只有 46 件（2026 年 11 月）。
+- **投稿量**：Lofter 8532、P 站 898（Sky 统计，2025-08-04）。pixiv 上灯在前的「ともあの」标签有 382 件插画漫画，爱音在前的「あのとも」只有 46 件（2026 年 11 月）。B 站「爱灯」标签下有 4926 条视频，「灯爱」127 条（2026 年 11 月）。
 - **爱灯吧的日常**：「爱灯是好文明」「敬爱灯🍷」是常见的回帖；2026 年 10 月有人在爱灯吧统计两人的牵手次数，「保底大概有 17 次」，楼里回复「这两人牵手都牵出手汗了吧」「拉手手才是真爱」「我们爱灯真是太纯良了」。
 - **梗**：B 站 2026 年 3 月的一个梗视频《穷爱灯，富爱素，顶富就玩爱希快跑》播放三十多万，评论区点赞第二的回复是「无论穷富都磕爱灯」。
 
@@ -239,6 +239,11 @@ MyGO 动画播出期间，贴吧有人说：「在本作几乎全是单箭头的
 - mikanayuip 的长文《Mygo・Ave mujicaカップリング論2024決定稿》（2025-03）把灯×爱音放在环境分析第一位，开头一句是「やはり最強カップリングはここ二人である」（最强 CP 果然还是这两人）。作者认为爱音在 Ave Mujica 里重组 CRYCHIC、照顾祥子那一大摊事的原动力是灯；剧场版后篇《歌う、僕らになれるうた》在总集编最后，接在水族馆里爱音重新宣誓组一辈子乐队之后，新加了一个阳光 60 大楼的远景镜头才进片尾；Ave Mujica 最后一个镜头也是两人牵手，「已经是无需讨论的一强环境」。他还说最近用灯的创可贴遮吻痕的同人好像变多了，「这世界真是太好活了」。
 - YouTube 上的日文反应集有《ともあのが付き合ったら、りっきーの脳みそは衝撃に耐えられるだろうか》（爱灯要是交往了，立希的脑子受得了吗）、《愛音ちゃんの本命って誰なの？》（爱音的本命到底是谁）。
 - 英文圈的剪辑频道 Soy Plush 把第 11 话那段剪成「Taki Jealous of Anon and Tomori's Nicknames」，播放五万多。
+- 声优怎么说：リスアニ！2026-07-15 的《致並跡》长访里，被问到《聿日箋秋》的吉他 solo，羊宫妃那说，那一段本来是主唱的高光，灯却会在拉长音的瞬间退到后面，让聚光灯落在两位吉他手身上，「灯并不是因为喜欢才站在舞台正中央的，爱音也不是喜欢待在边上的人」；立石凛接了一句：「不如说爱音是想站中间的那一个呢。所以我总是去占位置（笑）」。
+- 立石凛在 Animate Times（2025-12-03）谈《静降想》时说，爱音并没有直接参与 CRYCHIC，但那边的故事在推进 Live 这条主轴时无法忽视，所以那部分被描写出来是 2025 年一件非常大的事。
+- 英文博客 Wrong Every Time 逐集写第 10 话（2024-01-26），把天台一段拆得很细：灯请爱音一起把新歌搬上 live，爱音反问「那爽世怎么办」就走了；灯换了办法，把心里话倒出来，直说自己需要爱音弹吉他。作者说，爱音和大多数人一样，把别人想得和自己差不多，所以认定灯只是在说她爱听的话，而灯恰恰是出了名不会说别人爱听的话、只会说实话的人；面对这样赤裸的情感，爱音使出招牌招数，撒腿就跑。接着是「一起迷路吧」（"Let's be lost together."），作者评语只有一句：「天，这台词。」
+- Wis[s]e Words 的《Thinking About Anon and Soyo Again》（2024-10-20）主体写爱音和素世，但提到：直到灯真的追上去，告诉她需要她，让她看见不管怎样爱音确实为这个乐队挣扎过，她才松口；「她当初的动机也许又糟糕又自私，但灯依然接受了她」。
+- Dynasty Scans 上有 Pachio 画的四页短漫《Winter AnoTomo Manga》（AnOrdinaryRen 译成英文，2026-10-29，标签 Anon x Tomori、"Insane amounts of hand-holding"），论坛里的回帖有人调侃「结果因为两个队员没出现，乐队练习就取消了」，也有人说「太可爱了，需要更多爱灯」。
 
 ---
 
@@ -260,6 +265,12 @@ MyGO 动画播出期间，贴吧有人说：「在本作几乎全是单箭头的
 **毋畏希望_QvQ《【万字解析】爱灯相遇 灯为何会想成为人类?》**的说法是：番剧写交朋友，写的是物理距离的拉近，爱音摔倒、灯给她贴创可贴，就是身体上的拉近带来关系上的拉近；所以两人「并不是因为爱音想组乐队，所以两人成为了朋友，而是因为这份无瑕的感情」。视频还数了第 1 话天文部里的对话：爱音换了三次话题，灯失落了三次。
 
 @[bilibili](BV1dJx76CEso "【万字解析】爱灯相遇 灯为何会想成为人类? · 作者：毋畏希望_QvQ")
+
+**子非鱼kun《【万字解析】爱灯水族馆心意相通 牵手前行》**（11 万播放）是同一位 UP 的第 5 话篇，简介里先声明「内容为 up 主的个人解读，如果不认同请相信自己的想法」，并列了他往期的第 1、2 话解析。
+
+@[bilibili](BV1Ve411S7az "【万字解析】爱灯水族馆心意相通 牵手前行 · 作者：子非鱼kun")
+
+另外还有 [MM莫小可《爱音的虚荣心究竟有没有错？灯为什么会逃避责任？》](https://www.bilibili.com/video/BV1PLxv6gEhR)（2.4 万播放）、[天天座丽世《细数爱音目前一共叫过几声灯》](https://www.bilibili.com/video/BV1th4y1m7uJ)（3.4 万）、[捕捉奇思妙想《一些爱灯磕点》](https://www.bilibili.com/video/BV1B2Eez9EPU)（1.6 万）、[小猫妮妹《为什么爱灯二创灯1局多？》](https://www.bilibili.com/video/BV1DFZJYoEBw)（2.8 万）；[帕帕云云《你还记得那天小灯说的到底是什么吗？》](https://www.bilibili.com/video/BV16g7oz9Ewg)（9.2 万）是一段第 1 话片段的剪辑，没有简介。
 
 ---
 
@@ -284,6 +295,14 @@ MyGO 动画播出期间，贴吧有人说：「在本作几乎全是单箭头的
 - **WebGal 连载**：穆云诗岚的《爱灯的孩子》系列（12 话，「爱灯已成家」的未来向，如 BV14uXQBXESv、BV14i5F6UEDt）；末怜《【MyGO/爱灯】爱灯婚后日常 Milk》（BV1xi421U79Q）；似秋雨之下《【爱灯/病娇灯】看吧，她们都不爱你》（BV13CooYFEBt，改编自 LOFTER 作者 MinamoroHero 的同名文）；超仁家仁者《【爱灯||微 sox】为了成为人类……于是每天都要干嘛?!》（BV1UQYD6LEoc）
 - **游戏仿作**：SUK_白桦《Mygo!!!!! 乐队女孩重度依赖》系列，仿《主播女孩重度依赖》，爱音照顾灯，如《N_1 兴奋状态 从没见过 tomorin 这么高兴过》（BV12i421S7MK）
 - **动态壁纸**：《【动态壁纸/mygo】爱灯，标题想不出来了》（阐释_Nnayi，BV1ZN4y1n7sJ；画师 twitter @lsj_tomato）
+- **AI 声线翻唱**：[yukinomira《【Anon&Tomori】如果灯没有逃跑 Here, the world!-现场录音版》](https://www.bilibili.com/video/BV1WKfhYjE9A)（11 万播放，用爱音、灯的语音模型，以 sumimi 原曲为推理源，简介说是「潜入 KTV 偷回来的一手资料」）；[Kmz-_《AI千早爱音×高松灯 - Here, the world!》](https://www.bilibili.com/video/BV1wqDDYEE4p)（5.8 万）；[迷星诗超绊《爱灯的〈好きだから。〉》](https://www.bilibili.com/video/BV1rP3e6ZEjt)（2 万，灯模型自炼，封面和画面是 AI 绘制）；[羽酱YJ《对唱碧天伴走》](https://www.bilibili.com/video/BV1u4421c7EV)（画面用官方 MV）。
+
+@[bilibili](BV1WKfhYjE9A "【Anon&Tomori】如果灯没有逃跑 Here, the world!-现场录音版 · yukinomira · AI 声线翻唱")
+
+- **MAD / AMV**：[---ryo---《爱音与灯的「心墙」》](https://www.bilibili.com/video/BV1Yz4y1T7vv)（2.6 万）、[希音Hichan《组一辈子乐队导致的》](https://www.bilibili.com/video/BV1JkdfYyE3r)（3.3 万，BGM 林俊杰《当你》）、[咸豆浆COYS《达尔文·进化成更好的人》](https://www.bilibili.com/video/BV12h4y1A7f5)（2.1 万，简介「以扭曲开始，以纯爱结束」）、[《七里香》](https://www.bilibili.com/video/BV1hw41117UN)（3.9 万）、[银树枝《谁说世界早已没有选择》](https://www.bilibili.com/video/BV1tJHJe7ESM)（剧情 MAD，李荣浩《模特》）、[AnDRed_T《今天我依旧会照耀着你》](https://www.bilibili.com/video/BV1GXjhzKEYa)（2025 年 MAD 创作大赛）、[遥憨《彼此仿若一人 无法分离 Two As One》](https://www.bilibili.com/video/BV1aKHtzBEhJ)、[xiao-yf《我的爱会攀上窗台盛放……》](https://www.bilibili.com/video/BV1cxqoBpEqU)（BGM《心墙》）、[シグレナギヤ《一首歌很短，一辈子还很长》](https://www.bilibili.com/video/BV1N6oUYFEkN)。
+- **手书**：[《一緒に迷子になろう》](https://www.bilibili.com/video/BV1SaVD68ELq)（2.5 万）、[《ブレーメン》](https://www.bilibili.com/video/BV1ugZdYoEN8)（淇五行缺水，简介说「虽然说是爱灯但是实际上跟友情向没有区别」）、[吉利蛋真的很萌萌哒《要学会说不的tomorin！》](https://www.bilibili.com/video/BV1P1x76dEif)、[《爱灯的undo》](https://www.bilibili.com/video/BV1bWpV6CEHg)（描改手书）。
+- **填词**：[百合教母出云子《"所谓天堂 是坚定的迷茫"》](https://www.bilibili.com/video/BV1n4dXYhE9f)（填词 @羽倾青流）、[抽象的棋手《大展鸿图 爱音家别墅里面唱k》](https://www.bilibili.com/video/BV1dUGQz9EN2)、[《爱的供养》](https://www.bilibili.com/video/BV1uh63YXEMc)（UP 账号已注销，声源用 ACE Studio）。另有菠萝塞一口的[《【R&B之爱灯】LOVE SONG》](https://www.bilibili.com/video/BV1vTpBzrE9b)（方大同）。
+- **剧情向**：[《【爱灯】耳朵进水的爱音把灯逼成了病娇》](https://www.bilibili.com/video/BV1yShpzKEe2)（人海右的坚定拥护者，6.9 万播放，改编自老福特同名文，WebGAL）；[哈曰天《当高松灯绑定了【一辈子系统】》](https://www.bilibili.com/video/BV1Qn4y197WC)（#6 有 8.4 万播放）；PA-Fantasy 的[《迷子十年：失业爱音遇见歌手灯》](https://www.bilibili.com/video/BV1igP5eTEQh)（背景是乐队成立十年后，失业的爱音回老家）；[baka小巡《如果灯和爱音是初中同学》](https://www.bilibili.com/video/BV16wUSYvEbX)（灯生贺，第一次做二创）；[毒奶猫圆圆《灯祥感情迅速升温，千早爱音终于要退出MYGO？》](https://www.bilibili.com/video/BV15N411j7iM)（#1「千早爱音绝对不是代餐」）；[《当爱灯有了小孩……》](https://www.bilibili.com/video/BV1v2mBBHEzT)（原作者 X：すーどり@misumi_suki，搬运嵌字）；[北风的猫5306《学会采耳的爱音在天文部探索灯的耳洞》](https://www.bilibili.com/video/BV1T9u1zjEqQ)，简介：「但是，灯很喜欢而且很享受！」
 
 ### 6.2 图
 
@@ -319,4 +338,6 @@ B 站专栏里有 SiN_Ask 整理的《やぶのき老师的爱灯合集》、Sin
 - pixiv「ともあの」「あのとも」标签；Sky（2025-08-04）的 Lofter / P 站投稿量
 - mikanayuip《Mygo・Ave mujicaカップリング論2024決定稿》：https://mikanayuip.hatenablog.jp/entry/2025/03/29/041725
 - YouTube：アニメ仙人、中級音ゲーマー　冷やしメロン、Soy Plush
+- [リスアニ！：羊宮妃那・立石凛・小日向美香 3rd Album『致並跡』ロングインタビュー](https://www.lisani.jp/0000313337/?show_more=1)（2026-07-15）；[アニメイトタイムズ：8th Single「静降想」インタビュー](https://www.animatetimes.com/news/details.php?id=1764561737&p=2)（2025-12-03）
+- 英文圈：[Wrong Every Time：Episode 10](https://wrongeverytime.com/2024/01/26/bang-dream-its-mygo-episode-10/)、[Wis[s]e Words](https://cloggie.org/wissewords2/2024/10/20/thinking-about-anon-and-soyo-again-bang-dream-its-mygo/)、[Dynasty Scans：Winter AnoTomo Manga](https://dynasty-scans.com/chapters/winter_anotomo_manga)
 - NGA：tid=46246862、45170795、42765988、46467243
