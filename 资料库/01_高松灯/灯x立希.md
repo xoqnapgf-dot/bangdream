@@ -343,6 +343,9 @@ PTT 在 2025 年 9 月有人把「活动上下篇」五人的卡面剧情整理�
 - 《[【灯希/Mygo】#5 雨过天晴？](https://www.bilibili.com/video/BV1rwZCYCEdP)》（白崎桜，约 2.1 万播放）。
 - 《[【灯希/搞笑向】立希要向灯表白？！](https://www.bilibili.com/video/BV1geRBYiEXH)》（今昔幻想17，约 1.3 万播放）。
 - 《[【灯希/HE】立希讨厌灯？](https://www.bilibili.com/video/BV13MkxBwEQv)》（贝壳雪花，WebGal，约 6400 播放）；《[［Mygo/灯希］高松灯想要变开朗](https://www.bilibili.com/video/BV1Ld6nYtEk9)》（栞那明月，WebGal，恋爱养成形式）。
+- AI 声线翻唱：《[【AI椎名立希&AI高松灯】有点甜](https://www.bilibili.com/video/BV1J7421f7Zw)》（zwq0016，约 2900 播放，为林鼓子（立希的声优）庆生的视频，汪苏泷&BY2 原曲）、《[【ai灯希】《纸短情长》](https://www.bilibili.com/video/BV1YShJ6bEU1)》（CameHia，约 800 播放，烟把儿乐队原曲）、《[AI灯希-陪你度过漫长岁月(R&L)](https://www.bilibili.com/video/BV1ZMAzzcEFm)》（SAKIRUY，陈奕迅原曲，画面取自另一位 UP 的视频）。
+- 《[【灯希带你重走陇海-兰新线】铁道唱歌·陆桥通道篇](https://www.bilibili.com/video/BV1CHLt6dEvP)》（这个昵称不可能违规，约 2.8 万播放）：用 Suno 作曲，改编自铁道唱歌，简介里写了自己家乡与求学路上的铁路。
+- 《[MyGO灯希二创/光，永恒，爱](https://www.bilibili.com/video/BV1WDtszYE8D)》（高松灯的读书频道，约 21 分钟，约 9400 播放）：剧情向，简介感谢了帮忙写文案、画图绘、想 AI 分镜和填词的几位朋友。《[灯希的睡前小剧场](https://www.bilibili.com/video/BV1GpYQzNEtx)》（汉斯の日常，54 秒，棉花娃娃，标了 AI）。
 - 《[邦邦2024情人节对话：灯希](https://www.bilibili.com/video/BV14x4y1v7pE)》（北极暖水港，WebGal 复现），简介是「邦多利情人节活动，灯和立希的特殊对话」。
 - 《[Mygo（灯希）这首写给你的《情歌》改了一遍又一遍……希望听众是你](https://www.bilibili.com/video/BV1gPATeNEKh)》（雏菊噗噗，填词，约 2500 播放）。简介说歌词让作者想到大祥和灯的爱恨别离，于是做了立希、灯、祥子的三角关系，立希的台词是「这唱的就是我」。
 - 《[【助眠/希灯】灯：谢谢你小立希，谢谢你陪在我身边](https://www.bilibili.com/video/BV1cnhF6mEss)》（柯行希）；WebGal《[【MYGO二创/剧情向】假如迷子们觉醒变种人能力 东京变种人#03 希灯交心](https://www.bilibili.com/video/BV1LGn26VEAs)》（麟月渡，简介写「这一期可能希灯专场了，片尾素世客串一小下」）。
