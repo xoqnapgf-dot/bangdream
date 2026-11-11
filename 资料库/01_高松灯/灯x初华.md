@@ -281,6 +281,7 @@ Crychic留下了春季的春日影，MyGO！！！！带来了夏季的碧天伴
 - 《[初华＆灯：背背背背起了小祥-《你看到的我》填词](https://www.bilibili.com/video/BV1H3oXYvEgN)》（颂乐虹夏），75 万播放
 - 《[【佐佐木李子x高松灯/双声道/完整版】ノンブレス・オブリージュ](https://www.bilibili.com/video/BV1sZ421h7Yw)》（Aloereed），把两人各自翻唱的版本混成左右声道
 - 《[【TFR烈焰升腾｜邦多利】你看到的我 - 高松灯&三角初华](https://www.bilibili.com/video/BV1fXUXBqEES)》（喜欢游戏绘画的老李）
+- AI 声线翻唱：《[【MyGO!!!!!】灯和AI初华合唱春日影](https://www.bilibili.com/video/BV13F411D7KZ)》（Leeda_，So-VITS 4.0，简介说因为用 Doloris 的声线唱《春日影》太像战地情歌，所以改用初华平时说话的声线）；《[【三角初华ft.高松灯】"把小祥肚子耍成曲面"丨连麻、Asen艾志恒《自立巷》（AI COVER）](https://www.bilibili.com/video/BV1McJzzRE21)》（lunafallrest，约 3.9 万播放，中文说唱）；《[【天文学家组】高松灯&三角初音 - STARCHARTS（Pasteboard）](https://www.bilibili.com/video/BV12rKazKEiQ)》（菠萝塞一口，约 1600 播放，标了「AI音乐征集大赛」）；《[【2人合唱/高松灯/三角初华】ルパンレンジャーVSパトレンジャー](https://www.bilibili.com/video/BV1BFxu6sEtZ)》（DX战龙，标了「AI翻唱」，是特摄《快盗战队鲁邦连者》的主题曲）
 - 《[灯和初华讨论歌词](https://www.bilibili.com/video/BV1N64y1W7YN)》（三流音乐家A某，WebGAL，作者说「唯一的看点大概就是句句不提祥某人，句句不离祥某人」）
 
 ### 图
