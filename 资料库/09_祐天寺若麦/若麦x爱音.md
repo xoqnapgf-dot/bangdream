@@ -61,6 +61,8 @@ MyGO!!!!! 里的若麦只出现在爱音的屏幕上。第 5 话，爱音练琴�
 
 - **官方剧情熟肉**：[《【BanG Dream!日服中字】千早爱音合同live限定卡面剧情《真正的决心》》](https://www.bilibili.com/video/BV187LozwEmh)（我又觉得我行了，9.2 万播放）、[《对邦卡面剧情-爱音&若麦｜その先にある輝き》](https://www.bilibili.com/video/BV1DGLozvER6)（Fustic_）、《【MyGO/爱喵】GOJI合同限定卡面「前方闪耀的光芒」小故事(真正的决心)》（轰擂金刚希，BV1HLWezCE9H）
 
+@[bilibili](BV1Emt56yEhb "互相做包子给对方吃的喵爱二人 · 作者：时尚爱音姐")
+
 - 长篇剧情：Marty_Bla1Dd 的《过气喵梦不会捡到逃兵爱音》系列（13 条，BE / 破 / HE 三条结局）；大只风筝鱼的《假如喵梦是底边爱音是纸张》。
 - 整活：[《难怪她的直播爱音天天看》](https://www.bilibili.com/video/BV1Q1rTYSEdv)（58.6 万播放）、[《若麦：“爱音的钱真好赚！”》](https://www.bilibili.com/video/BV19i421y72G)、[《互相做包子给对方吃的喵爱二人》](https://www.bilibili.com/video/BV1Emt56yEhb)。
 

@@ -157,9 +157,6 @@ Ave Mujica 第 1 话，爱音抽中了武道馆首演的票，把手机凑到灯
 - [《爱音给喵梦直播间刷礼物被家里人知道了》](https://www.bilibili.com/video/BV1VS9HYtE8P)（战场原笑川，6.9 万播放，2025 年 3 月）：最高赞（575）是「为什么把我挂网上，我爸妈看到又要打我了」。
 - [《sumimi小曲，但是爱音喵梦》](https://www.bilibili.com/video/BV19M386BE8a)（常温苹果，6.7 万播放，2026 年 7 月）：舞蹈翻跳。
 
-@[bilibili](BV1Emt56yEhb "互相做包子给对方吃的喵爱二人 · 作者：时尚爱音姐")
-
-- [《互相做包子给对方吃的喵爱二人》](https://www.bilibili.com/video/BV1Emt56yEhb)（时尚爱音姐，3.1 万播放，2026 年 9 月）：高赞评论里有人说「阿侬这小糖人口音一出来没绷住」。
 - [《🥰退了我的SC还想装无辜？腹黑大喵的「爱音捕获计划」🥵》](https://www.bilibili.com/video/BV1kmduBqEe2)（咕嘎的灯灯，1.1 万播放，2026 年 5 月）。
 - [《[微sox]fw喵梦圈钱，炒粉不成反被炒》](https://www.bilibili.com/video/BV1QNbtz9Exb)（不哈气的基米，2025 年 8 月）。
 - [《爱音酱看美妆博主喵姆亲视频合集》](https://www.bilibili.com/video/BV1NKXzYoEcY)（青逸尤，2025 年 3 月）：MyGO!!!!! 第 5 话、第 11 话两处的切片合集。
