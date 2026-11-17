@@ -189,10 +189,12 @@ B 站录屏下的评论：「面对小灯的直球攻势，猫猫选择了有力
 - 《[【猫灯】定义](https://www.bilibili.com/video/BV1sDfFBsE57)》（四石Fst，WebGal，2026 年 2 月 22 日乐奈生日当天），评论区「猫灯是好文明」「被重力捕获的小猫」
 - 《[遗留](https://www.bilibili.com/video/BV19PKb69ED1)》（青木次楽奈，动画短片，tag 有百合、灯猫、磕 cp）
 - 《[【猫灯猫】啊](https://www.bilibili.com/video/BV1pXH76jEd6)》（换脑手术成功，绘画过程）、《[【石之门猫灯/灯猫】](https://www.bilibili.com/video/BV1jJhU6kEce)》（灯落怀奈）
+- 《[【猫灯】看海去](https://www.bilibili.com/video/BV19dNMzyEMV)》（四石Fst，WebGal，2026 年 3 月，tag 同时挂着猫灯和灯猫）
 - 《[【渣翻】猫猫和灯在一块时睡着了](https://www.bilibili.com/video/BV1Fz4y1F7UZ)》（蓝银是个非酋，2023 年 10 月，简介写「不会日语，全靠平时看番的时候积攒的」，tag 有灯猫）
 
 ### 没标方向的灯和乐奈
 
+- 《[灯猫超绝不经意电波对话](https://www.bilibili.com/video/BV1UZw7zWEfi)》（热愛東方的甘霖，2026 年 3 月，简介「可爱两小只」）、《[【Mygo】小灯❤乐奈 🍄灵感菇🍄](https://www.bilibili.com/video/BV1FcGbzbEE8)》（華蓮社Official，MMD）
 - 《[正在做某事的乐奈与灯](https://www.bilibili.com/video/BV1VxN1eHEL8)》《[确认灯的身上有沒有别猫气味的乐奈](https://www.bilibili.com/video/BV1HWRyYqEup)》（千早上飞）、《[灯和乐奈：洗衣机好有趣！](https://www.bilibili.com/video/BV1RhxWzzEch)》（幸运的尤蒂莱南）
 - 巴哈姆特创作大厅《[番外六、燈與養貓一日](https://home.gamer.com.tw/artwork.php?sn=6202617)》（oliver0001，2025 年 8 月）：灯和乐奈在 RiNG 的咖啡厅里被留在一起，一个捧着热可可，一个抱着一大杯抹茶芭菲，爱音拉着朋友去网红饮料店打卡，立希在后厨手忙脚乱；同一个系列后面一篇写到两人同台，心照不宣地交换了「不可以告诉小爽世喔」的约定。
 
