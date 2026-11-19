@@ -1,9 +1,6 @@
 # 祐天寺若麦 × 要乐奈（喵猫）
 
-@[gallery]
-![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
-![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
-@[/gallery]
+![乐奈与若麦 · 乐奈「与随性的流浪猫一起」特训前（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res038013_rip/card_normal.png "乐奈「与随性的流浪猫一起」特训前")
 
 > 若麦在前的写法，B 站「喵猫」标签 51 个投稿（2026 年 11 月）。这一路写大猫压着小猫、喂小猫，若麦吧有人说「体型压制怎么看也是 1」「喵1绝对王朝」。两人在动画和游戏里的交集、两张官方卡面见《03_要乐奈/乐奈x若麦.md》。
 

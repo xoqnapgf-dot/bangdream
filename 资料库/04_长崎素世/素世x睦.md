@@ -1,9 +1,6 @@
 # 长崎素世 × 若叶睦（素睦）
 
-@[gallery]
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
-@[/gallery]
+![素世与睦 · 素世「崭新的萌芽」特训前（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res039014_rip/card_normal.png "素世「崭新的萌芽」特训前")
 
 > 素世在前的写法，B 站「素睦」标签 2427 个投稿，「睦素」197 个（2026 年 11 月），日文叫「そよむつ」。两人是月之森的同班同学、CRYCHIC 的旧队友。MyGO!!!!! 里是素世把睦送的小黄瓜退了回去，Ave Mujica 里是素世陪墨缇丝过了三天三夜。睦在前的写法见《07_若叶睦/睦x素世.md》。
 
@@ -119,10 +116,7 @@ Ave Mujica 第 2 话，武道馆揭面之后。月之森的花园里，睦种的
 - 素世的五星卡「只是过于耀眼」（2025-06-10，活动《雨过天晴，映入眼帘的天空》），特训后是两人穿着 Ave Mujica 风的人偶装，素世从背后搂着 Mortis 装扮的睦。卡面剧情写的是 CRYCHIC 演完后，素世在心里说：「但CRYCHIC确实结束了。和那个阴雨的日子不同，这次是在耀眼的光芒中」，最后发出了一句「再见啦」。
 - 素世的三星卡「崭新的萌芽」（2025-09-19，活动《献给分歧路上前行的人们》奖励），特训前是月之森的花园里素世和睦抱着一个花盆。（特训后画的是素世和祥子，见《素世x祥子.md》。）
 
-@[gallery]
 ![素世与睦 · 「只是过于耀眼」特训后（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res039013_rip/card_after_training.png "「只是过于耀眼」特训后")
-![素世与睦 · 「崭新的萌芽」特训前（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res039014_rip/card_normal.png "「崭新的萌芽」特训前")
-@[/gallery]
 
 ---
 

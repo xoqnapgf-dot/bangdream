@@ -1,9 +1,6 @@
 # 要乐奈 × 丰川祥子（猫祥）
 
-@[gallery]
-![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
-![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
-@[/gallery]
+![乐奈与祥子 · 画失联《祥，打工》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=150300918 "pixiv · 画失联《祥，打工》")
 
 > 乐奈在前的写法叫「猫祥」，B 站标签 43 个投稿，「祥猫」115 个（2026 年 11 月）。「祥猫」这个词在中文圈还常指把祥子画成猫的同人，或者若麦（大猫）×祥子，搜的时候要分开看。这一对写的多是乐奈缠上祥子、祥子被缠得没办法。祥子在前的写法见《10_丰川祥子/祥子x乐奈.md》。
 
@@ -209,8 +206,6 @@ mygo剧场版，网上找不到资源，只能确定这场live是在ring，有�
 
 - **同人文**：B 站专栏《祥要（邦多利mygo同人）》（黑露保护协会，cv33822090，首发 LOFTER）；NGA 安科《如果丰川祥子真的忘记一切》（tid=45524073），祥子失忆后第一个认出她的人被骰成了乐奈，两人一路买菜做饭。
 - **pixiv**：画失联《祥，打工》（https://www.pixiv.net/artworks/150300918 ），祥子在「人工智能冰淇淋机器」里头手忙脚乱地挤抹茶冰淇淋，乐奈在外面拉把手。
-
-![乐奈与祥子 · 画失联《祥，打工》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=150300918 "pixiv · 画失联《祥，打工》")
 
 ---
 
