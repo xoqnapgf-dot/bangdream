@@ -1,9 +1,6 @@
 # 长崎素世 × 丰川祥子（素祥）
 
-@[gallery]
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
-@[/gallery]
+![素世与祥子 · 素世「时间长河的尽头」特训前（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res039012_rip/card_normal.png "素世「时间长河的尽头」特训前")
 
 > 素世在前的写法，B 站「素祥」标签 3907 个投稿，「祥素」346 个（2026 年 11 月），日文 pixiv 叫「そよさき」。中文圈说起素祥先想到的是第 8 话的飞鸟山，素世追、祥子走；到了 Ave Mujica 第 7 话，素世把祥子推倒在路边，拖着她去见睦。祥子在前的写法见《10_丰川祥子/祥子x素世.md》。
 
@@ -77,10 +74,7 @@ Ave Mujica 第 7 话，素世在祥子上学路上把她推倒在地：「我去
 
 素世的五星卡「时间长河的尽头」（2025-04-26）里，两人在卡拉 OK 店门口偶遇、一起散步，素世第一次正式邀请祥子来看 MyGO!!!!! 的演出，祥子拒绝了，反问「要是又产生留恋的话，你打算怎么办？」，又说「能和你聊天真是太好了。下次一起喝茶吧」。素世最后没拍照：「不拍也行……反正现在，随时都可以见」。
 
-@[gallery]
-![素世与祥子 · 「时间长河的尽头」特训前（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res039012_rip/card_normal.png "「时间长河的尽头」特训前")
 ![素世与 Oblivionis · 「时间长河的尽头」特训后（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res039012_rip/card_after_training.png "「时间长河的尽头」特训后")
-@[/gallery]
 
 NGA 卡面公布那天的帖子标题是《卖素祥了居然！我在做梦吗！》，回帖说「这卡面很明显是 soyo 占据优势位置啊」「这卡面怎么看着像箱被爽姐擒到飞鸟山...」；B 站丰川祥子吧搬运国服译本时的标题是《素祥卡面官方译本明确爽世在拍小祥，甜》。
 

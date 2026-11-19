@@ -1,9 +1,6 @@
 # 丰川祥子 × 要乐奈（祥猫）
 
-@[gallery]
-![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
-![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
-@[/gallery]
+![乐奈与祥子 · 画失联《祥，打工》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=150300918 "pixiv · 画失联《祥，打工》")
 
 > 祥子在前的写法，B 站「祥猫」标签 115 个投稿（2026 年 11 月），比「猫祥」多，但这个词也常指把祥子画成猫，或者若麦×祥子，真正写乐奈的不多。这一路多是祥子照顾、投喂乐奈。两人在动画和游戏里的交集见《03_要乐奈/乐奈x祥子.md》。
 

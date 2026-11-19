@@ -1,9 +1,6 @@
 # 要乐奈 × 祐天寺若麦（猫喵 / 大小猫）
 
-@[gallery]
-![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
-![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
-@[/gallery]
+![乐奈与若麦 · 乐奈「与随性的流浪猫一起」特训前（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res038013_rip/card_normal.png "乐奈「与随性的流浪猫一起」特训前")
 
 > 中文圈叫「猫喵」「大小猫」「双猫」，若麦是大猫，乐奈是小猫。贴吧有人这样分：「乐奈1猫喵 / 若麦1喵猫」，不过实际作品里两个叫法混着用，谁占上风要看内容。B 站「猫喵」标签 86 个投稿，「喵猫」51 个（2026 年 11 月）。若麦占上风的写法见《09_祐天寺若麦/若麦x乐奈.md》。
 
@@ -76,10 +73,7 @@ B 站专栏《乐奈的“有趣”与喵梦的“恶心”——两只旁观的
 
 卡面剧情里出场的却只有乐奈和灯。贴吧那帖的楼主说：「花前这很明显说明ring大会之后猫喵曾经独处过了，而且乐奈还学nyamu nyamu的动作，兴许是也看过喵梦直播呢？花后两个人也很酷！而且喵梦也和乐奈一样穿半边外套了，莫名挺合适的！」有人回「卡面与剧情不符太抽象了」，也有人说「小猫也会吃代餐了」。
 
-@[gallery]
-![乐奈与若麦 · 「与随性的流浪猫一起」特训前（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res038013_rip/card_normal.png "「与随性的流浪猫一起」特训前")
 ![乐奈与若麦 · 「与随性的流浪猫一起」特训后（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res038013_rip/card_after_training.png "「与随性的流浪猫一起」特训后")
-@[/gallery]
 
 ---
 
