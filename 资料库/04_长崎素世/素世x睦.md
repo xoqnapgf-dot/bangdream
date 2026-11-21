@@ -41,8 +41,8 @@ CRYCHIC 解散那天，素世想打圆场：「难得之前都挺开心的」「
 
 第 2 话素世问睦「你知道她住在哪吧」；第 8 话素世从睦身边走过去不看她，私下又说「明明我请求你的事 你都不做」「全部都是你的错」，逼她带自己去找祥子（[第 8 话剧本](../00_剧情区/01_MyGO动画/08_为什么.txt)）。
 
-- Wrong Every Time 写第 2 话：「Over at Tsukinomori, our brunette seems to be pushing Mutsumi more than she’s comfortable.」祥子那边则「still seems fond of her longtime friend Mutsumi, but detests seeing her used by Soyo」。
-- Jacen 写第 8 话更直接：「While Soyo is bullying Mutsumi into submission」。
+- Wrong Every Time 写第 2 话：「Over at Tsukinomori, our brunette seems to be pushing Mutsumi more than she’s comfortable.」（月之森那边，我们这位棕发姑娘逼睦逼得有点过了头）祥子那边则「still seems fond of her longtime friend Mutsumi, but detests seeing her used by Soyo」（看起来还是喜欢这位老朋友睦，但讨厌看到她被素世利用）。
+- Jacen 写第 8 话更直接：「While Soyo is bullying Mutsumi into submission」（素世在硬逼着睦就范的时候）。
 - 贴吧的说法：「在MyGO里soyo压力睦找祥有点像PUA，但睦何尝不贪恋着soyo的温暖。」
 - 另一面：睦其实一直在替素世传话。第 2 话她去羽丘对祥子说「素世很担心你」；mikanayuip 的 CP 论说：「睦はそよのことをかなり気にかけていた様子で、自分自身ではそよを救済できないのを分かった上で燈と立希に声をかけた」（睦看起来相当在意素世，明白自己救不了素世，所以去找了灯和立希）。
 
@@ -52,8 +52,8 @@ CRYCHIC 解散那天，素世想打圆场：「难得之前都挺开心的」「
 
 这一场是素睦圈争论最多的地方：
 
-- Wrong Every Time（2024-03-29）：「Soyo, of course, is incapable of receiving Mutsumi’s blessing with grace.」「she’s still bitter over what she sees as Mutsumi’s “culpability” in her failure to recreate CRYCHIC.」又说：「Once again, MyGO demonstrates how positive growth doesn’t necessarily mean we abandon all our old, negative tendencies」。
-- Jacen：「Soyo chases after Mutsumi for the sole purpose of rejecting the gift.」
+- Wrong Every Time（2024-03-29）：「Soyo, of course, is incapable of receiving Mutsumi’s blessing with grace.」（素世当然没法体面地收下睦的祝福）「she’s still bitter over what she sees as Mutsumi’s “culpability” in her failure to recreate CRYCHIC.」（她没能重组 CRYCHIC，在她看来睦有「责任」，她还在为此怨恨）又说：「Once again, MyGO demonstrates how positive growth doesn’t necessarily mean we abandon all our old, negative tendencies」（MyGO 又一次说明，人往好的方向成长，不等于就把以前那些坏毛病全丢掉了）。
+- Jacen：「Soyo chases after Mutsumi for the sole purpose of rejecting the gift.」（素世追出去找睦，就只是为了把礼物退回去）
 - 中文圈分成两边：一边觉得睦答非所问，「挺好的」听在素世耳朵里像「你小日子过得真不错」；一边觉得素世拿着黄瓜出来时，睦怎么回答都是送命题。知乎《第十二集素世为什么要把黄瓜还给睦？》下的几个长回答收在第三节。
 - 日文圈的反应：「睦にそよがキレたのは傍観者決めてたくせに何今更って感じか」（素世对睦发火，大概是觉得你一直在旁观，现在才来干什么）。
 
@@ -61,10 +61,10 @@ Ave Mujica 第 2 话，月之森花园里睦种的黄瓜已经枯了，素世站
 
 ### 2.4 三天三夜
 
-Ave Mujica 第 5、6 话，素世看到睦的新闻，找上若叶家，开口先说「我先说清楚，我和小睦的交情没有那么好」，最后还是陪墨缇丝过了三天三夜，拿芭蕾舞鞋扮医生陪她打电话；在 RiNG 门外有人举起手机拍，她跪下抱住墨缇丝挡在镜头前（[Ave Mujica 第 5、6 话](../00_剧情区/02_AveMujica动画/AveMujica_剧情总纲_整合版.md)）。
+Ave Mujica 第 5、6 话，素世看到睦的新闻，找上若叶家，开口先说「我先说清楚，我和小睦的交情没有那么好」，最后还是陪墨缇丝过了三天三夜，拿芭蕾舞鞋扮医生陪她打电话；在 RiNG 门外有人举起手机拍，她冲过去跪下抱住睦，挡在镜头前：「请不要拍。」（[Ave Mujica 第 5、6 话](../00_剧情区/02_AveMujica动画/AveMujica_剧情总纲_整合版.md)）。
 
-- Wrong Every Time 写第 6 话（2025-08-04）：「This seems to be your fate, Soyo – no one will ever appreciate how much work you put into your toxic relationships」，又说这件事「forcing her to demonstrate how much she actually cares about her companions」。
-- Jacen：「As much as Soyo pretends not to, she really does care a lot for her friends.」
+- Wrong Every Time 写第 6 话（2025-08-04）：「This seems to be your fate, Soyo – no one will ever appreciate how much work you put into your toxic relationships」（素世，这大概就是你的命：没人会体谅你在这些有毒的关系里花了多少心力），又说这件事「forcing her to demonstrate how much she actually cares about her companions」（逼着她表现出自己到底有多在乎同伴）。
+- Jacen：「As much as Soyo pretends not to, she really does care a lot for her friends.」（素世嘴上装作不在乎，其实非常在乎朋友。）
 - 日文博客イマワノキワ说，素世背负着「『母の母』という、極めていびつなロール」（「母亲的母亲」这种极其扭曲的角色）。
 - 中文圈把素世那句「我明明陪她过了三天三夜」做成了梗：墨缇丝一转头就黏上了吃芭菲的乐奈。
 
@@ -76,6 +76,12 @@ Ave Mujica 第 5、6 话，素世看到睦的新闻，找上若叶家，开口�
 - 素世的三星卡「崭新的萌芽」（2025-09-19，活动《献给分歧路上前行的人们》奖励），特训前是月之森的花园里素世和睦抱着一个花盆。（特训后画的是素世和祥子，见《素世x祥子.md》。）
 
 ![素世与睦 · 「只是过于耀眼」特训后（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res039013_rip/card_after_training.png "「只是过于耀眼」特训后")
+
+### 2.6 官方访谈
+
+**系列构成绫奈由仁子**（MyGO!!!!! 期间的访谈，NGA tid 42873151 帖内附日文原文与翻译）谈第 1 话睦那句「我从没觉得玩乐队开心过」：「睦的这句台词成了致使 crychic 解散的致命一击、那是因为不想只有祥子一个人负起解散的责任。」说到第 6 话素世和睦的对话，采访者说「素世的压迫感总之就是很强（笑）」，绫奈的解释是素世得找一个让 CRYCHIC 坏掉的「犯人」：「第 1 集开头描绘的解散剧中，素世因为睦的那句话而失去了语言。从素世的角度来说，大概就是『如果睦没有说那种话，我本来是可以回避解散危机的』这种感觉吧。」关于黄瓜，她说睦身边很多东西都是父母准备的，「自己能赠予他人的，只有自己亲手种出来的黄瓜之类的东西。但是其包装却用着高档点心店的豪华包装袋」。
+
+**监督柿本广大**（Ave Mujica 完结后的杂志访谈，NGA tid 47316173 帖内贴出访谈页）的说法被社区概括成素世的「一体论」。回帖里转述的访谈原意是：「牢素把牢莫理解成一个在睦体内的幼小孩子，比起朋友更接近一个需要被保护的对象。相比之下，睦对牢素来说是有著许多过往的同班同学，牢素自责自己曾伤害过睦，也还没有好好跟她道歉」；另一位总结：「soyo 完全能分得清睦莫，她分不清的是黄瓜和苦瓜，她在大莫面前更放得开，因为只把对方当一个刚认识的小孩子，而对黄瓜才有过去的包袱。」有人说：「mujica 完结后，社区里至少有 3、4 个月的时间都在搞一体论大讨论。」
 
 ---
 
@@ -348,6 +354,7 @@ soyo 是唯二看出来睦就是喜欢嘲讽，报复的人。所以她才带着
 
 ## 五、信息来源
 
+- 绫奈由仁子访谈译文（NGA tid 42873151）；柿本广大 Ave Mujica 完结访谈（NGA tid 47316173 转述）
 - TV 动画《BanG Dream! It's MyGO!!!!!》第 2、3、6、8、12 话剧本；《Ave Mujica 剧情总纲》第 2、5、6、7、9、10 话
 - 《少女乐团派对！》素世卡面「只是过于耀眼」剧情（国服）、「崭新的萌芽」特训前卡面（Bestdori）
 - 《人设汇总_长崎素世.md》《人设汇总_若叶睦.md》
