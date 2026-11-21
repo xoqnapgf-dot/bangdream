@@ -384,7 +384,7 @@ B 站手书《打哈欠的猫》下有一条很长的高赞评论：
 - Ave Mujica 第 13 话：演出前乐奈对立希说「嘘。灯在酝酿情绪。」；MC 里的金平糖。
 
 **《少女乐团派对！》**
-- 乐队故事 Ch16：手游里是灯开口邀请乐奈：「... Do you want to join the band...?」乐奈：「I'll do it.」「But there's an interesting woman here.」；Ch32：「... What an interesting girl~.」
+- 乐队故事 Ch16：手游里是灯开口邀请乐奈：「... Do you want to join the band...?」（……要加入乐队吗……？）乐奈：「I'll do it.」（我来。）「But there's an interesting woman here.」（可是这里有个有趣的女人。）；Ch32：「... What an interesting girl~.」（……真是个有趣的女孩子～）
 - 乐奈卡面「与随性的流浪猫一起」（五星限定）：乐奈问灯「……弹吗？」「你一直在看」，又说「有趣的女孩子」「演出很开心」「所以……要组乐队」「组到底」；「看了灯的歌词后，就想弹了」「要听吗？」；后篇「我的归宿，是 MyGO!!!!!」。
 
 @[bilibili](BV1LJoBBVEA8 "《少女乐团派对！》要乐奈「与随性的流浪猫一起」角色故事 · 上传：嗷嗷张大喵")

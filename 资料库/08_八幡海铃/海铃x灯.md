@@ -42,7 +42,7 @@
 
 ### 英文
 
-- AO3 上以 Yahata Umiri/Takamatsu Tomori 为配对标签的作品只找到一篇：[Shiori_Raine](https://archiveofourown.org/users/Shiori_Raine) 的短篇（2026 年 5 月 26 日，1697 词，标了 Comedy、Rarepair，同时标了 Shiina Taki/Takamatsu Tomori 的单箭头）。立希视角，简介写海铃把立希拉到 RiNG 去见一个对她很特别的人，这次见面会成为立希最糟糕的日子之一；标签里写着「What do you do if your loser friend starts dating your crush? Taki's POV」。
+- AO3 上以 Yahata Umiri/Takamatsu Tomori 为配对标签的作品只找到一篇：[Shiori_Raine](https://archiveofourown.org/users/Shiori_Raine) 的短篇（2026 年 5 月 26 日，1697 词，标了 Comedy、Rarepair，同时标了 Shiina Taki/Takamatsu Tomori 的单箭头）。立希视角，简介写海铃把立希拉到 RiNG 去见一个对她很特别的人，这次见面会成为立希最糟糕的日子之一；标签里写着「What do you do if your loser friend starts dating your crush? Taki's POV」（要是你那个窝囊朋友和你暗恋的人交往了，你会怎么办？立希视角）。
 
 ---
 

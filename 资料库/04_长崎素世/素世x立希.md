@@ -37,13 +37,13 @@
 
 第 4 话，爱音把三个人叫到 RiNG 谈 CRYCHIC 为什么解散。立希把账算在祥子头上，素世接过灯的话头，当着灯的面替立希说了一句「其实立希一直在等小灯来练习」「是因为立希太喜欢你了」，立希拍桌而起：「哈？！」（[第 4 话剧本](../00_剧情区/01_MyGO动画/04_一辈子哦.txt)）
 
-素世拿立希对灯的心意当杠杆，这是两人关系的第一个样本：素世看得清立希，立希看不清素世。英文博主 Jacen 重看时写：「Soyo is clearly annoyed that Taki didn't convey her feelings to Tomori.」
+素世拿立希对灯的心意当杠杆，这是两人关系的第一个样本：素世看得清立希，立希看不清素世。英文博主 Jacen 重看时写：「Soyo is clearly annoyed that Taki didn't convey her feelings to Tomori.」（素世显然很恼火立希没把她的心意转达给灯。）
 
 ### 2.2 天台
 
 第 5 话，素世到天台找立希，先试探「Live 要不算了吧」，听立希说完「我当初听到灯的歌声时 觉得那唱的就是我」，又改口劝她：「为什么重要的话 总是说不出口呢」「CRYCHIC的大家就因此错过彼此」（[第 5 话剧本](../00_剧情区/01_MyGO动画/05_我没有逃避.txt)）。
 
-素希向最常引的就是这一场：素世开口是算计，给的却是让立希去说真话的办法。Wrong Every Time 写第 6 话时把两人放在一起：「Both her and Soyo are still chasing Sakiko’s shadow, playing parts while waiting for the absent lead actress to return.」
+素希向最常引的就是这一场：素世开口是算计，给的却是让立希去说真话的办法。Wrong Every Time 写第 6 话时把两人放在一起：「Both her and Soyo are still chasing Sakiko’s shadow, playing parts while waiting for the absent lead actress to return.」（她和素世都还在追逐祥子的影子，一边演着自己的角色，一边等那位缺席的女主角回来。）
 
 ### 2.3 「你也一样」
 
@@ -51,7 +51,7 @@
 
 这一句是素希的核心：
 
-- Wrong Every Time（2024-01-12）：「Soyo knows she’s selfish, but Taki is too.」「Taki was up until now perfectly fine discarding Anon so long as she could keep Tomori」，又说「neither Taki nor Tomori ever truly connected with Soyo」。
+- Wrong Every Time（2024-01-12）：「Soyo knows she’s selfish, but Taki is too.」（素世知道自己自私，可立希也一样。）「Taki was up until now perfectly fine discarding Anon so long as she could keep Tomori」（在这之前，只要能留住灯，立希完全不介意把爱音丢开），又说「neither Taki nor Tomori ever truly connected with Soyo」（立希和灯都没有和素世真正交心过）。
 - B 站评论：「她们可是最懂彼此的一丘之貉啊」；也有人反过来说：「本来就是啊，她们两个对彼此的痛苦和需求始终视而不见，到了现在也依旧没有正视过」。手书《舌打ち》里那句「我的烦恼和痛苦你明明看都懒得看一眼」被评论区反复引用。
 
 ### 2.4 「所以 我也很过分」
@@ -71,7 +71,7 @@
 
 Ave Mujica 第 7 话，素世提着一袋小黄瓜回到若叶家，和立希、祥子一起在楼梯边等睦，问立希为什么去念花女，立希说「因为我整天被人说是『真希的妹妹』」。那天 CRYCHIC 演完最后一场，素世问「你还在哭啊？」，立希说「吵死了」（[Ave Mujica 第 7 话](../00_剧情区/02_AveMujica动画/AveMujica_剧情总纲_整合版.md)）。
 
-Wrong Every Time 写这一话（2025-09-20）：「No surprise that Taki would offhandedly make the boldest expression of solidarity here.」
+Wrong Every Time 写这一话（2025-09-20）：「No surprise that Taki would offhandedly make the boldest expression of solidarity here.」（立希会在这里随口说出最大胆的支持，一点也不奇怪。）
 
 素世的五星卡「只是过于耀眼」后篇接着写了这天的晚上：素世叮嘱立希回去冷敷眼睛、别熬夜，说了一句「谢谢你」「那时候是你说再来一首的吧」，立希说「那明天见」，素世答「嗯。再见」。
 
