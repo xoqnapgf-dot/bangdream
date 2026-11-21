@@ -98,9 +98,9 @@ B 站剪辑《立希灯堕前后对比》把这前后两段剪在一起，播放
 
 ### 2.8 日本和英文圈怎么看
 
-日本博客「イマワノキワ」（コバヤシ）的第 8 话感想（2023-08-04）写得最狠：「至近距離で燈の内側に踏み込める特権は、燈を（悲しいかな一方的に）信奉している立希ではなく、愛音にこそあるのだ」（能以极近的距离踏进灯内心的特权，不属于〔可悲地，单方面〕信奉着灯的立希，而属于爱音），「そういう柔らかで靭やかな繋がりが、立希と燈の間にはない」，「どんだけそういう場所を望んでも、生来培った魂の在り方が望みを叶えてくれないの、立希ちゃんの描き方で残酷なところだなぁ」。第 9 话感想（2023-08-11）接着说：「立希が燈好きすぎ人間であり、愛音やそよのようにいい塩梅に声量抑えて持ち前の尖り方を整えられないことで、燈は立希を受け止めきれない」（立希太喜欢灯了，又做不到像爱音和素世那样把音量压低、把尖刺磨平，所以灯接不住她）；立希做的一切「ひとえに自分を感動させてくれた神様に報いるためだ」（都只是为了报答那位让自己感动过的神明），最后一句是：「さぁ椎名立希、高松燈……お前らはどうなんだ。」
+日本博客「イマワノキワ」（コバヤシ）的第 8 话感想（2023-08-04）写得最狠：「至近距離で燈の内側に踏み込める特権は、燈を（悲しいかな一方的に）信奉している立希ではなく、愛音にこそあるのだ」（能以极近的距离踏进灯内心的特权，不属于〔可悲地，单方面〕信奉着灯的立希，而属于爱音），「そういう柔らかで靭やかな繋がりが、立希と燈の間にはない」（立希和灯之间，没有那种柔软又坚韧的联系），「どんだけそういう場所を望んでも、生来培った魂の在り方が望みを叶えてくれないの、立希ちゃんの描き方で残酷なところだなぁ」（不管多想要那样的位置，与生俱来的灵魂的样子都不让她如愿，这是立希这个角色写得残酷的地方啊）。第 9 话感想（2023-08-11）接着说：「立希が燈好きすぎ人間であり、愛音やそよのようにいい塩梅に声量抑えて持ち前の尖り方を整えられないことで、燈は立希を受け止めきれない」（立希太喜欢灯了，又做不到像爱音和素世那样把音量压低、把尖刺磨平，所以灯接不住她）；立希做的一切「ひとえに自分を感動させてくれた神様に報いるためだ」（都只是为了报答那位让自己感动过的神明），最后一句是：「さぁ椎名立希、高松燈……お前らはどうなんだ。」（那么椎名立希、高松灯……你们又怎么样呢。）
 
-英文圈的 Jacen 重看笔记（2024-12-06）讲第 10 话天台那句「我以为自己是为你着想，其实从来没考虑过你的感受」：「Every action that Taki has taken in this show has been for Tomori's sake. From picking a fight with Anon in episode 1, to her decision to join the band, to bringing Umiri in as a replacement for Soyo. Everything has been for the sole purpose of helping Tomori, but she's never considered what Tomori actually wants.」英文同人站 Dynasty Reader 的论坛里（2026-03-22），有人抱怨「the fandom is hell-bent on shipping Taki with everyone but Tomori」，马上被反驳：「TakiTomo is the ship with the highest number of fanarts overall, just go and count」，真正跟它抢立希粉的是海希。
+英文圈的 Jacen 重看笔记（2024-12-06）讲第 10 话天台那句「我以为自己是为你着想，其实从来没考虑过你的感受」：「Every action that Taki has taken in this show has been for Tomori's sake. From picking a fight with Anon in episode 1, to her decision to join the band, to bringing Umiri in as a replacement for Soyo. Everything has been for the sole purpose of helping Tomori, but she's never considered what Tomori actually wants.」（立希在这部剧里的每个行动都是为了灯：从第 1 话跟爱音吵架，到决定加入乐队，再到找海铃来顶替素世。一切都只为了帮灯，可她从没想过灯真正想要什么。）英文同人站 Dynasty Reader 的论坛里（2026-03-22），有人抱怨「the fandom is hell-bent on shipping Taki with everyone but Tomori」（粉丝圈铁了心要把立希和除了灯以外的所有人配对），马上被反驳：「TakiTomo is the ship with the highest number of fanarts overall, just go and count」（立希×灯是同人图总数最多的 CP，不信去数），真正跟它抢立希粉的是海希。
 
 ---
 

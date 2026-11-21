@@ -23,7 +23,7 @@
 
 ## 一、定位
 
-- **饲主**：中文圈最主流的读法。NGA《猫猫更亲爱音还是立希？》（tid 43404614）里，「基本上是默认立希饲主的」，「爱音对于猫就像是邻居阿姨，立希对于猫就是耳根子很软的爹」。英文同人站 Danbooru 干脆给乐奈立了「raana_the_cat」标签，说明写的是「Kaname Raana is often characterized as a cat due to her behavior, leading to Shiina Taki usually calling her "stray cat"」——把乐奈叫成猫的，正是立希。
+- **饲主**：中文圈最主流的读法。NGA《猫猫更亲爱音还是立希？》（tid 43404614）里，「基本上是默认立希饲主的」，「爱音对于猫就像是邻居阿姨，立希对于猫就是耳根子很软的爹」。英文同人站 Danbooru 干脆给乐奈立了「raana_the_cat」标签，说明写的是「Kaname Raana is often characterized as a cat due to her behavior, leading to Shiina Taki usually calling her "stray cat"」（要乐奈因为行为举止常被当成猫，立希也就常叫她「野猫」）——把乐奈叫成猫的，正是立希。
 - **平等**：和灯希对照着读。NGA《有人在意立希吗》（tid 43215096）：「猫希比灯希阳间多了……猫和立希之间都更接近平等的关系。立希说的话猫会听，立希许的诺猫会应」。
 - **养猫人被猫反扑**：NGA 一周目观后感直播帖（tid 39882490）里的一句「猫希是好的！养猫人被猫反扑」，常被拿来概括这一对：立规矩、付钱的是立希，主动靠近、把人拽走的多半是乐奈。
 
@@ -41,7 +41,7 @@ NGA 有人从立希的心理去解释她为什么会照顾猫（tid 43016987）�
 
 第 10 话，乐奈走到正在 RiNG 打工的立希身边：「来打鼓」，立希说「哈？我还在打工呢」，还是被拉走了；台上乐奈用眼神示意，立希笑了，跟着她的伴奏即兴打起鼓来（[第 10 话剧本](../00_剧情区/01_MyGO动画/10_一直迷失着.txt)）。
 
-英文圈对这一幕读的是结构：Wrong Every Time 的第 10 话评论（Bobduh，2024-01-26）写「Raana grabs Taki in the middle of her shift, demanding she play drums. Funny how the one with the least emotional commitment to the band is the one dragging them back together – she has no emotional hangups regarding reuniting with this group, so she's just gonna carry them into the same room by force」（最没有情感包袱的人，反而把乐队拽回了一起），又说「Nice smirk from Raana as she gestures towards the drums, a clear "you know you want to"」。Jacen 的重看笔记（2024-12-06）补了一句：「Rana has to strong-arm Taki into joining on the drums, but Taki does choose to sit down and play on her own」（是乐奈硬拉的，但坐下来打鼓是立希自己选的）。日文的第 10 话感想汇总里也多是「楽奈が立希を引っ張り」「バンド復活の立役者」这一类说法。
+英文圈对这一幕读的是结构：Wrong Every Time 的第 10 话评论（Bobduh，2024-01-26）写「Raana grabs Taki in the middle of her shift, demanding she play drums. Funny how the one with the least emotional commitment to the band is the one dragging them back together – she has no emotional hangups regarding reuniting with this group, so she's just gonna carry them into the same room by force」（最没有情感包袱的人，反而把乐队拽回了一起），又说「Nice smirk from Raana as she gestures towards the drums, a clear "you know you want to"」（乐奈指着鼓得意地一笑，意思很明显：「你明明就想打」）。Jacen 的重看笔记（2024-12-06）补了一句：「Rana has to strong-arm Taki into joining on the drums, but Taki does choose to sit down and play on her own」（是乐奈硬拉的，但坐下来打鼓是立希自己选的）。日文的第 10 话感想汇总里也多是「楽奈が立希を引っ張り」（乐奈拉着立希）「バンド復活の立役者」（让乐队复活的功臣）这一类说法。
 
 中文圈从音乐上读：立希是能跟上乐奈即兴的人。B 站同人游戏《鼓手余命十日谭》乐奈篇的作者语是「猫猫也许不懂学分和论文，但总能弹出触动立希内心的音乐」。
 
@@ -60,7 +60,7 @@ NGA 有人从立希的心理去解释她为什么会照顾猫（tid 43016987）�
 ## 三、社区反响
 
 - **野猫不变家猫**：NGA 希厨长评说：「『野猫』如今依旧是『野猫』……大家真的会想看到『野猫』彻底变成『家猫』吗？那当然不会。」
-- **英文圈**：Something Awful 论坛 MyGO 帖（2023-07）播出第一周就定了调：「Rana is cat」，「I'm glad that everyone has settled on Rana being a literal cat」。tumblr 的 #takirana 标签下一直有人产粮。
+- **英文圈**：Something Awful 论坛 MyGO 帖（2023-07）播出第一周就定了调：「Rana is cat」（乐奈就是猫），「I'm glad that everyone has settled on Rana being a literal cat」（大家一致认定乐奈就是一只猫，我很高兴）。tumblr 的 #takirana 标签下一直有人产粮。
 - **为什么偏偏亲立希**：NGA《立希一看就是无趣的女人，为什么小猫那么亲她？》（tid 43419338，2025-03-02）的回答很朴素：「抹茶巴菲都是立希做的」「除了乐奈，立希是对音乐最认真最上心的」。
 
 ---

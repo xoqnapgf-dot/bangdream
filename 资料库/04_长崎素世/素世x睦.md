@@ -35,7 +35,7 @@
 
 CRYCHIC 解散那天，素世想打圆场：「难得之前都挺开心的」「小睦也这么觉得吧」，睦说：「我从没觉得玩乐队开心过」（[第 3 话剧本](../00_剧情区/01_MyGO动画/03_CRYCHIC.txt)）。
 
-素睦的账就是从这一句开始算的。NGA 帖转引监督柿本广大的访谈说，素世在「找犯人」的过程中，想把睦当成给 CRYCHIC 最后一击的那个人。英文博主 Jacen 重看时倒觉得：「Soyo wasn't entirely wrong in her assessment that CRYCHIC's breakup was Mutsumi's fault.」
+素睦的账就是从这一句开始算的。NGA 帖转引监督柿本广大的访谈说，素世在「找犯人」的过程中，想把睦当成给 CRYCHIC 最后一击的那个人。英文博主 Jacen 重看时倒觉得：「Soyo wasn't entirely wrong in her assessment that CRYCHIC's breakup was Mutsumi's fault.」（素世认为 CRYCHIC 解散是睦的错，这个判断也不全错。）
 
 ### 2.2 被逼着带路
 

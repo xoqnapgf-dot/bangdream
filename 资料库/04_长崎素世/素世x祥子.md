@@ -24,7 +24,7 @@
 ## 一、定位与热度
 
 - **谁追谁**：日本博主 mikanayuip 的 CP 论（2023-09-28）把这一对概括为「CRYCHICを作り出した者と、執着し取り戻そうとする者」（创造 CRYCHIC 的人，和执着地想把它取回来的人），又补了一句：「ガチで拒まれてて可哀想。でも祥子の方が可哀想。なんでもするなら金貸してやれ」（真的被拒绝了好可怜。不过祥子更可怜。都说什么都愿意做了，那就借钱给她啊）。
-- **英文圈偏向祥子**：Wrong Every Time 认为飞鸟山上素世的道歉「It's all transactional, none of this is an earnest apology」；Xenodude 也同意祥子「Soyo really needs to move on」，只是觉得祥子有些话说得太重。中文圈则把「飞鸟山之战」当成 MyGO!!!!! 的第一 BE 名场面。
+- **英文圈偏向祥子**：Wrong Every Time 认为飞鸟山上素世的道歉「It's all transactional, none of this is an earnest apology」（全都是交易，没有一句是真心道歉）；Xenodude 也同意祥子「Soyo really needs to move on」（素世真的需要放下了），只是觉得祥子有些话说得太重。中文圈则把「飞鸟山之战」当成 MyGO!!!!! 的第一 BE 名场面。
 - **攻守会换**：MyGO!!!!! 里是素世追、祥子走；到了 Ave Mujica 第 7 话，是素世把祥子推倒、拖着她走。
 
 ---
@@ -44,8 +44,8 @@ CRYCHIC 是从祥子在月之森的音乐会散场后叫住素世开始的（[Av
 这一场几乎是素祥所有讨论的起点，各家读法差别很大：
 
 - **错位的对话**：NGA 长文《在第十三集后，以素祥二人的错位为主题重审第八集的展开》（2023-09-15）把这场逐句拆开，认为两人从头到尾没有在说同一件事：「祥子自己选择了逃避背叛 crychic，因此她也无法正面面对那份怀旧的好意，她有意无意地都必须将其解读为一种『虚假』」；而「素世被这句话彻底击沉的理由要结合她的家庭环境来解读」。
-- **占有式的爱**：英文博客 Wrong Every Time 写第 8 话（Bobduh，2023-12-15）：「But for Soyo, this band has never been its own reward. It has been a means to reunite with the members of CRYCHIC」「Soyo is desperate to pin the people she loves down so they remain in a familiar stasis」，结尾一句是「Too late has Soyo realized she can't construct an honest home out of false pretenses」（素世太晚才明白，靠伪装建不起一个真实的家）。
-- **站祥子的**：Xenodude 的第 8 话评论（2025-04-21）：「That said, I completely agree with Sakiko that Soyo really needs to move on.」又补了一句：「Some of what Sakiko says here feels uncalled for」。
+- **占有式的爱**：英文博客 Wrong Every Time 写第 8 话（Bobduh，2023-12-15）：「But for Soyo, this band has never been its own reward. It has been a means to reunite with the members of CRYCHIC」（但对素世来说，这个乐队本身从来就不是目的，而是让 CRYCHIC 成员重聚的手段）「Soyo is desperate to pin the people she loves down so they remain in a familiar stasis」（素世拼命想把她爱的人钉在原地，让一切停留在熟悉的样子），结尾一句是「Too late has Soyo realized she can't construct an honest home out of false pretenses」（素世太晚才明白，靠伪装建不起一个真实的家）。
+- **站祥子的**：Xenodude 的第 8 话评论（2025-04-21）：「That said, I completely agree with Sakiko that Soyo really needs to move on.」（话虽如此，我完全同意祥子的看法：素世真的需要放下了。）又补了一句：「Some of what Sakiko says here feels uncalled for」（祥子这里说的有些话感觉没必要）。
 - **最想求救的人**：note 上くろう的素世专论（2024-03-23）：「８話において、そんな自身の悲しい現実を、最も助けて欲しかった祥子から直接突きつけられ拒絶された」（第 8 话里，素世把自己可悲的现实，直接摊给了最想向她求救的祥子，然后被拒绝了）。
 - **知乎的一句话版本**：「祥子说了一堆难听的话，soyo：哦，那我不纠缠你们了。结果祥子：我没让你不纠缠！」（红叶）
 
@@ -66,7 +66,7 @@ NGA 另一帖转述监督访谈的说法：「处境相反的 soyo 是祥子最�
 Ave Mujica 第 7 话，素世在祥子上学路上把她推倒在地：「我去过你家的公寓了。我已经知道你究竟发生什么事了。但就算如此，也不该将一切当作没发生过。」然后拉着她去见睦（[Ave Mujica 第 7 话](../00_剧情区/02_AveMujica动画/AveMujica_剧情总纲_整合版.md)）。社区普遍把这一场看成飞鸟山的反转：
 
 - B 站专栏《雨过天晴，道阻且长——Ave Mujica 第七集》：「镜头上素世从低低在下到高高在上，她对促成睦祥和好这件事的态度是坚定甚至有点强势的，祥子面对她的态度反而是软化的」。
-- Anime News Network 的第 7 话评论：「Soyo's aggressive outreach is punctuated by her conceding to Sakiko that she hadn't considered how much her bandmate was going through at the time.」
+- Anime News Network 的第 7 话评论：「Soyo's aggressive outreach is punctuated by her conceding to Sakiko that she hadn't considered how much her bandmate was going through at the time.」（素世咄咄逼人地去接近祥子，中间却也向祥子承认，自己当时没有想过这位队友正经历着多少事。）
 - NGA《Ave Mujica 第七集，黑素世第一视点拉片，拒绝洗白》（2025-02-15）反着读：这一话是「属于Crychic的素世开始浮出水面」，素世借着睦祥和解「能再挣扎一次」，「内心清楚自己在做什么，知道会付出代价，却不顾一切的、拼尽全力的挣扎的你。真的好美。」
 - NGA 也有人说飞鸟山在官方眼里早翻篇了：《网上一提素祥就是飞鸟山，但又没有可能 wsd 眼里飞鸟山早过去了》（2025-09-14）。
 
