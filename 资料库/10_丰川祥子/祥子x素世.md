@@ -118,6 +118,9 @@ ccc的五人中出现了祥素、希灯两个小圈子，这两个圈子以祥�
 - **B 站（标题写作「祥素」，按播放排）**：阿翀与北宅-《[【MyGo/祥素】并非赏花](https://www.bilibili.com/video/BV1HMxFeZEfp)》（2024-09-27，8.3 万播放，赏花季投稿，简介：「如此热闹的场景为何提不起兴致呢？可能是想起了她吧」）和《[【MyGO/祥素】也许这夏日终有一别](https://www.bilibili.com/video/BV1vXcUeREKa)》（2025-01-13，5.7 万，简介：「如果再也不能见到你，祝你早安、午安以及晚安」）；Miyalllv《[【MyGo手书/素祥素】前女友的五十种死法](https://www.bilibili.com/video/BV1NDxPe1Eps)》（2024-09-28，6.9 万）；飞天卡布奇诺《[【MyGO/Pico】冰川姐妹，但是祥素](https://www.bilibili.com/video/BV1me411B7U4)》（2023-12-23，5.6 万，评论里最高的一条是「素祥最温馨的一集。这么温馨，一定是情同手足、姐妹情深、相亲相爱、其乐融融的家人吧。」）；1NnkKk什么都玩《[【祥素】你的下跪让我感到恶心](https://www.bilibili.com/video/BV1zZ8BekE8X)》（2024-07-23，2.7 万，简介是祥子那句「你真是总是只想着自己呢」）。
 - **接力和视频化**：淮阴点子王《[【素祥素】寂静岭：遗愿清单](https://www.bilibili.com/video/BV1sGjozbELE)》（2025-05-27，2.1 万，63 分钟）是老福特「五月廿七日的matricaria」素世生日接力活动的第 31 棒；同一位 UP 的《[【素祥素】百变小祥#1](https://www.bilibili.com/video/BV1ZF9cYgEPm)》是老福特同名文的 WebGAL 视频化。祥月爽风《[【素祥素】未曾遗忘的温柔](https://www.bilibili.com/video/BV1xoChY7EJ6)》（2024-12-28，1 万，47 分钟）把 LOFTER 上的同名接力文做成了视频，评论里有位作者说最后一棒是他写的，「因为不知道怎么收尾偷了福克纳的《野棕榈》」。
 
+- **pixiv「さきそよ」标签**（全年龄，共 19 件标了祥子；两个方向的标签常混用，下面是收藏最多、资料库里还没有的）：0313《무제》（收藏 720，2024-04，https://www.pixiv.net/artworks/117463593 ）；zzzzoka《MYGO合集②》（收藏 626，2024-03，https://www.pixiv.net/artworks/116894303 ）；橒《sksy》（收藏 578，2025-09，https://www.pixiv.net/artworks/134798625 ）；鱼鱼小溶《【MyGo】soyo……suki》（收藏 445，2023-08，https://www.pixiv.net/artworks/111215804 ）；BeruangKutub《Soyo Sakiko》（收藏 423，2025-02，https://www.pixiv.net/artworks/127421713 ）；云尚天寰《さきそよ》（收藏 410，2025-03，https://www.pixiv.net/artworks/127810751 ）。
+- **YouTube**：《[【It's MyGO!!!!!】【Ave Mujica】そよ×さきこ集](https://www.youtube.com/watch?v=iBdZ3i8W2QI)》（オノマトペ天使，6:02，3000 次）；《[エピソード「剥き出しの自分」前後編　そよ×さきこ](https://www.youtube.com/watch?v=iPS2tNMJ6ZU)》（オノマトペ天使，6:27，1200 次）。
+
 ---
 
 ## 三、信息来源
