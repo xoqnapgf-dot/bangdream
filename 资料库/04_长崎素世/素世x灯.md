@@ -149,6 +149,9 @@ Novi《人混み》：https://www.pixiv.net/artworks/118029957 ；Novi《放課�
 
 - 贴吧：《【MyGO】【灯爱素？】Polaris》（2023-08）、《关于灯素的一点发散》（2024-12）；2026 年 10 月 mygo 吧有人发画《【素灯】小狐狸吃小企鹅》。
 
+- **更多 B 站视频（标题里写明这一对，按播放排）**：白石仞《[MEATGRINDER animationmeme/素灯](https://www.bilibili.com/video/BV1dQK2zRE4J)》（1830 播放，2025-06）。
+- **更多专栏**：芋泥啵啵肠粉《[刚看完MYGO，写写为什么素世是另一个高松灯](https://www.bilibili.com/read/cv37570246)》（阅读 1457）。
+
 ---
 
 ## 六、信息来源
