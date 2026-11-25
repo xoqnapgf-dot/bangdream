@@ -101,6 +101,9 @@ animate Times 2025 年 7 月 28 日的佐佐木李子、高尾奏音对谈里，
 更多见《初华x祥子.md》。
 - **祥初写法**：《【MyGO手书/祥初】若能用星星占卜和你交往的话》（ImplausibleMe，BV17xAte6E8J，2025-02-21，简介写明「CP：祥初gl（丰川祥子 攻 × 三角初华 受）」）；《【祥初/真初向手书】祥子不行她不能捐!》（东炎_建设产品版，BV1oiNZewEfu，2025-02-10，9871 播放）；《【祥初】逗逗自家金毛大型犬》（_溫暖的火_，BV1bjKhzeEkn，2025-06-23，7264 播放）；《【祥初】⚡老公是1我是0⚡》（HeliCres，BV1ghX1B5EJz，2026-03-28，4830 播放）。
 
+- **祥初（B 站标题写作「祥初」，按播放排）**：贱歪《[⚡「在你的心上，自由地飞祥」⚡丰华传奇最新力作](https://www.bilibili.com/video/BV1NKeXzfEgB)》（2025-08-28，18.5 万播放，人力 VOCALOID 鬼畜，简介是「祥初特别篇」）；茶若樗《[【祥初】真結上啦？？？](https://www.bilibili.com/video/BV1tmQ5YZEQo)》（2025-03-11，3.9 万，简介写「祥初偏左右無差」）；-木易英北-《[【Ave Mujica/祥初】丰川祥子也染上了啤酒？！](https://www.bilibili.com/video/BV1KJNVz1EPw)》（2026-03-08，3.2 万，WebGal 小剧场，简介标「严重OOC警告」）；躲雨的灯《[【Ave Mujica/祥初】隐喻性的 她](https://www.bilibili.com/video/BV1yacfzbEmC)》（2026-03-11，2.8 万，配乐是 TOPKINGCREAM《隐喻性的 她》，简介说画师比较在意 CP 左右位，评论里最高的一条是「合情合理的，这俩性格绝对需要祥来主导。别看舞台上主唱帅气但生活中还是太软糯了，祥的羽丘西装校服也是强气buff加成」）。
+- **初祥初（两个方向不分）**：青林木心的手书《[【初祥初丨手书】以爱为名的牢笼（Imprisoned XII）](https://www.bilibili.com/video/BV1UmKPztE21)》（15.6 万）、小包包一枚的 cos《[初祥还是祥初](https://www.bilibili.com/video/BV1oaeoz4EWC)》（8.3 万）、午后不知道的系列《[伪装情侣，实际夫妻](https://www.bilibili.com/video/BV1oZ37zdEu2)》等，见《初华x祥子.md》第五节。
+
 ---
 
 ## 四、信息来源
