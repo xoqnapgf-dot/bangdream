@@ -71,6 +71,8 @@ NamuWiki 英文版把这一对写成若麦所有配对里最主流的一个，�
 - 《【动画】扣拟几，喵睦喵睦～》（AN0N_LONDON，BV13GGSzrEYU）
 - 更多见《睦x若麦.md》第四节。
 
+- **更多 B 站视频（标题里写明这一对，按播放排）**：Alfred_Ingemar《[【mygo/喵睦】向日葵](https://www.bilibili.com/video/BV1BagQ6BEwd)》（4453 播放，2026-07）；自由里森堡解放力量《[［Ave Mujica/喵睦/Kards］大喵拿小睦的万能金合别-4！？](https://www.bilibili.com/video/BV1Wck1BBEYF)》（2214 播放，2025-11）；NAVI-AmorB1t《[「钟摆 会把什么带来 是悲哀的空白 或被爱填满的存在」喵睦对唱『猜猜看』](https://www.bilibili.com/video/BV1u6xH61ESt)》（635 播放，2026-11）；Tanatos_-《[【AI祐天寺若麦/若叶睦 喵睦】想听你说月色真美/月が綺麗ねと言われたい！ - 初音ミク【カササギ】](https://www.bilibili.com/video/BV19Zx16nES7)》（413 播放，2026-11）。
+
 ---
 
 ## 五、信息来源

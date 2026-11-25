@@ -169,6 +169,8 @@ Ave Mujica 第 7 话，CRYCHIC 的几个人要在 RiNG 的舞台上合奏。MyGO
 - **画**：[《＞＜爱猫》](https://www.bilibili.com/video/BV18iA5exEvA)（干脆就叫盐水鸭吧）、[《[绘画过程]爱猫》](https://www.bilibili.com/video/BV1Lid6BjEmq)（Pulvinus）。
 - **NGA 安科**：《千早爱音与要乐奈的品酒大会(爱猫)》（https://ngabbs.com/read.php?tid=44206853 ，2025-05 起，5 页）。设定是 MyGO 五人上了大学，爱音和乐奈读同一所学校的设计专业、合租，每天中午晚上为了找设计灵感一起喝酒吃东西；楼主在开篇说是看了《立石凛观察日记#7》有感而写。已有[视频版（上）](https://www.bilibili.com/video/BV15vaHzDEQq)。
 
+- **更多 B 站视频（标题里写明这一对，按播放排）**：此心亦有远方《[【爱猫】猫咪的午后时光](https://www.bilibili.com/video/BV1uzdpBnEAH)》（3955 播放，2026-04）；此心亦有远方《[【爱猫】少女与猫：假如爱音是被乐奈从深渊里拉出来的（下）](https://www.bilibili.com/video/BV1pU7a6rEHj)》（2838 播放，2026-06）；YRFLY《[【MYGO二创/爱猫】清汤寡水的养猫日常（六上）](https://www.bilibili.com/video/BV1xr54zgEJf)》（2202 播放，2025-04）；要家乐奈酱《[【MyGO/爱猫】经典灵魂互换，但是爱猫 #2 落空的希冀](https://www.bilibili.com/video/BV1Na5r6YEEc)》（1708 播放，2026-05）；要家乐奈酱《[【MyGO/爱猫】经典灵魂互换，但是爱猫 #4(完）要乐奈想要被抱抱](https://www.bilibili.com/video/BV187VH67Efx)》（1448 播放，2026-05）；虚妄の月轮《[Mygo二创短篇《为了没有泪水的明天》（爱猫向）](https://www.bilibili.com/video/BV13dFNznE1Y)》（1029 播放，2026-02）；bili_56634834210《[【Mygo】甜到极致，爱猫TV](https://www.bilibili.com/video/BV19PPbeqEMT)》（984 播放，2025-02）；YRFLY《[【MYGO二创/爱猫】破碎人生（六下）](https://www.bilibili.com/video/BV1g95DzJEXv)》（756 播放，2025-04）。
+
 ---
 
 ## 六、信息来源

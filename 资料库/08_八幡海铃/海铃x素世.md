@@ -39,6 +39,8 @@
 - **剧情向**：《只此晴天（海素向）#1刹那铃光（重制版）》（异教至夜，BV12y411q7mg）
 - **同人文**：NGA 安科《长崎素世的霍格沃茨慢活》（tid=43659190）；贴吧《灵魂互换，但是海素》（tieba.baidu.com/p/8962933546）
 
+- **更多 B 站视频（标题里写明这一对，按播放排）**：天邪天邪鬼《[还有海素看的](https://www.bilibili.com/video/BV1V8ZABkEeq)》（1.9 万播放，2026-02）；异教至夜《[只此晴天#3骤雨初歇](https://www.bilibili.com/video/BV1jy411i7Kg)》（5100 播放，2024-07）；嵇滑《[【续写mygo&mujica】如果海铃和素世组建二人乐队？【再一次，迷路 #2】](https://www.bilibili.com/video/BV1HZa6zmEcB)》（2690 播放，2025-09）；异教至夜《[只此晴天#2冷光无唱](https://www.bilibili.com/video/BV1tD421u7xE)》（2148 播放，2024-06）；白石仞《[海素](https://www.bilibili.com/video/BV1j5MP6ZEAp)》（1455 播放，2026-07）；异教至夜《[只此晴天#4雨声一行](https://www.bilibili.com/video/BV12W421R78g)》（1144 播放，2024-07）；天邪天邪鬼《[还有海素看的 2.0（低清重制版）](https://www.bilibili.com/video/BV1b3HY6hEjQ)》（597 播放，2026-10）。
+
 ---
 
 ## 三、信息来源

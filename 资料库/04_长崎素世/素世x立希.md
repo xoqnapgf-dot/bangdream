@@ -96,6 +96,8 @@ Wrong Every Time 写这一话（2025-09-20）：「No surprise that Taki would o
 - **漫画**：《素希真是一对苦命鸳鸯》（小橙小汁i，BV1R5ydBxES6）
 - **讨论**：《【MyGO/配音】 你知道吗？其实在设定上立希和素世并不是MyGO的严父慈母》（深秋里拾枫，BV1RMpF6jELZ）
 
+- **更多专栏**：獭狸だつたぬき《[关于素希、素音对峙的一点小思考：](https://www.bilibili.com/read/cv25954159)》（阅读 418）。
+
 ---
 
 ## 五、信息来源

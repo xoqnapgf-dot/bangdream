@@ -290,6 +290,8 @@ mygo7 告别 / mygo13 告别 plus / mujica7 告别 promax / mujica13 告别 ultr
 
 更多见《祥子x灯.md》。
 
+- **更多 B 站视频（标题里写明这一对，按播放排）**：谷歌咕咕鸽《[【mygo/填词/灯祥】听一万遍春日影能重建crychic吗](https://www.bilibili.com/video/BV1Kgx4eGEWD)》（5426 播放，2024-09）；NP已满的大英雄《[【填词/灯祥对唱】《兰亭序》](https://www.bilibili.com/video/BV1wZptzoEFN)》（2182 播放，2025-09）；托尔斯泰滑稽《[灯祥【MyGo！！！！！！】/带我去找夜生活](https://www.bilibili.com/video/BV1gt42157uP)》（189 播放，2024-03）。
+
 ---
 
 ## 六、信息来源

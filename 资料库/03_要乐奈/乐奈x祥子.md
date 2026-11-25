@@ -207,6 +207,8 @@ mygo剧场版，网上找不到资源，只能确定这场live是在ring，有�
 - **同人文**：B 站专栏《祥要（邦多利mygo同人）》（黑露保护协会，cv33822090，首发 LOFTER）；NGA 安科《如果丰川祥子真的忘记一切》（tid=45524073），祥子失忆后第一个认出她的人被骰成了乐奈，两人一路买菜做饭。
 - **pixiv**：画失联《祥，打工》（https://www.pixiv.net/artworks/150300918 ），祥子在「人工智能冰淇淋机器」里头手忙脚乱地挤抹茶冰淇淋，乐奈在外面拉把手。
 
+- **更多 B 站视频（标题里写明这一对，按播放排）**：ktil6108《[?!猫祥!? 恶龙突袭!](https://www.bilibili.com/video/BV1PhHj6kE7U)》（509 播放，2026-10）；ktil6108《[猫祥治愈小动画3](https://www.bilibili.com/video/BV1y7t46XELX)》（454 播放，2026-08）；ktil6108《[猫祥 “烟火、星空之下”](https://www.bilibili.com/video/BV1iQPpzDELG)》（363 播放，2026-03）；ktil6108《[猫祥治愈小动画2](https://www.bilibili.com/video/BV1eJ496VEPX)》（338 播放，2026-08）；ktil6108《[猫祥炎炎夏日2](https://www.bilibili.com/video/BV1KPtn6uE4B)》（255 播放，2026-09）；ktil6108《[猫祥“萌芽”](https://www.bilibili.com/video/BV189PzzWE9t)》（233 播放，2026-03）。
+
 ---
 
 ## 五、信息来源
