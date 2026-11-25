@@ -83,6 +83,8 @@ Ave Mujica 第 6 话，灯在羽丘走廊上追上祥子，爱音跟在后面问
 - **B 站（标题写作「祥爱」）**：是璀璨璨璨哟《[假如千早爱音变得特别可爱且软糯 #6（祥爱回忆）](https://www.bilibili.com/video/BV1hE421w722)》（2024-07-21，4.4 万播放，14 分钟，WebGAL 连载）；胡八huba《[〖祥爱/画脂镂冰〗没关系的...](https://www.bilibili.com/video/BV16CZKB8E2n)》。胡八huba 还有一条《[〖杂谈〗分析我自己吃爱祥爱的几个方面](https://www.bilibili.com/video/BV1pyrDBSE43)》（9441 播放）。
 - **爱祥爱长篇《倘若能予你之爱》**：见《爱音x祥子.md》。
 
+- **YouTube**：《[マイムジ続編は愛音×祥子のカップリングでいこうに対する反応集【バンドリ！】](https://www.youtube.com/watch?v=dlk6YEElv70)》（アニメ仙人，8:14，5.3 万次）；《[バンドリ！アワーノーツ｜「さきちゃんを追いかける愛音と燈」ストーリー｜Ave Mujica](https://www.youtube.com/watch?v=Ms9BLSm_Rf4)》（もふまる，2:45，2100 次）。前一条是日本网友对「续作走爱音×祥子」这个提议的反应集。
+
 ---
 
 ## 四、信息来源

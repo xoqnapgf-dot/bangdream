@@ -62,6 +62,9 @@ Megami 2026 年 12 月号米泽茜和冈田梦以的对谈（NGA tid 47809778 �
 - **相声和歌**：巧克カ黑子《[【喵梦笑话/春晚特别篇】相声《祥喵笑传》](https://www.bilibili.com/video/BV1VvFTeAEKr)》（2025-01-29，5645，13 分钟）；白昼桃草子《[【祥喵】你是那道带刺的风《風神》](https://www.bilibili.com/video/BV12gFMzmEqp)》（2026-02-03，1.1 万，配的是 Vaundy《風神》，标注「不会结束的Crychic ED插入曲」，评论里点赞最高的一条是「全邦多利最适合出租屋文学的cp」）。
 - **祥喵写法的视频**：《【祥喵】我们来讲一下这个祥喵的磕点》（ましゃ，BV1TnNZeVEuN，2025-02-10，4691 播放）；《祥喵 Hello》（千和弦ovo，BV16bcXzTEHa，2026-03-10，3610 播放）；《向祥子索取其所承诺之热度的若麦》（八幡海铃回忆录，BV1ypgGzHEY8，2025-07-18，1751 播放）。
 
+- **pixiv「さきにゃむ」标签**（全年龄，共 7 件标了祥子；两个方向的标签常混用，下面是收藏最多、资料库里还没有的）：呱呱《🩵💜》（收藏 242，2025-11，https://www.pixiv.net/artworks/137928577 ）；まあちゃん《🧣》（收藏 241，2026-05，https://www.pixiv.net/artworks/145137698 ）；Gear.cc.Pluto《祥喵》（收藏 237，2025-08，https://www.pixiv.net/artworks/133688813 ）；Gear.cc.Pluto《ob大人重大指示》（收藏 166，2025-12，https://www.pixiv.net/artworks/139235188 ）；otter水獭《被抱住就逃不掉了》（收藏 80，2023-10，https://www.pixiv.net/artworks/112636987 ）；桃漆《无题》（收藏 59，2025-01，https://www.pixiv.net/artworks/126174587 ）。
+- **《Our Notes》祥子和若麦的羁绊剧情录屏**：《[【バンドリ】Ave Mujica 絆ストーリ祥子＆にゃむ　#1～#3【アワーノーツ】※ネタバレ有](https://www.youtube.com/watch?v=BAsIg_DCbcw)》（ありしあ，12:33，180 次）；《[[アワーノーツ]Ave Mujicaのルーツとにゃむに怒る祥子(祥子、にゃむ　絆ストーリー2)](https://www.youtube.com/watch?v=CxogVvi4W-U)》（眠的，3:53，1.2 万次）；《[[アワーノーツ]意外な事で盛り上がるにゃむと祥子 (にゃむ、祥子　絆ストーリー3)](https://www.youtube.com/watch?v=NW0BmhKnZvA)》（眠的，4:24，700 次）。三话的录屏都找到了，剧情内容还没有对着画面核对整理，所以这里只列链接。
+
 ---
 
 ## 四、信息来源

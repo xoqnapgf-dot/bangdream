@@ -210,6 +210,9 @@ pixiv「ともさき」标签下收藏最多的全年龄作品：FriesVanquisher
 
 FriesVanquisher《Nyaaa~》：https://www.pixiv.net/artworks/115279293 ；yogurt_pt《AveMyGo LOG 1》：https://www.pixiv.net/artworks/112543426 ；Seine《あなたに夢中になるの》：https://www.pixiv.net/artworks/115081105 ；火车乌乌《灯祥万岁》：https://www.pixiv.net/artworks/112313022
 
+- **pixiv「さきとも」标签**（全年龄，共 18 件标了祥子；两个方向的标签常混用，下面是收藏最多、资料库里还没有的）：神前ときと/Khaos《神無月の迷子》（收藏 533，2023-10，https://www.pixiv.net/artworks/113022674 ）；Rognize《无题》（收藏 528，2024-12，https://www.pixiv.net/artworks/125419875 ）；KUSHIMA Yu《Lust dance(2024)》（收藏 517，2024-12，https://www.pixiv.net/artworks/125708128 ）；七個白熊《🎹》（收藏 384，2023-11，https://www.pixiv.net/artworks/113224513 ）；四号社孤岛《拍完这张照就去我家睡觉吧~》（收藏 278，2024-07，https://www.pixiv.net/artworks/120613257 ）；Reo《君の手は どうしてこんなにも温かいの?》（收藏 248，2024-07，https://www.pixiv.net/artworks/120446394 ）。
+- **日本网友反应集**：《[祥子「燈のすることは全て正しいんですのよ」に対する反応集【バンドリ！】](https://www.youtube.com/watch?v=C_Bd0rnAJLk)》（アニメ仙人，8:26，2.2 万次观看），整理的是日本网友对祥子这句话的反应。
+
 ### 7.3 文
 
 - 贴吧：《【mygo 假药/灯祥】天使不在的十二月》（2023-10，约一万字的 if 线）、《假如灯和祥子是娃娃亲》（2024-08）、《监禁祥子的灯》（2024-10）。
