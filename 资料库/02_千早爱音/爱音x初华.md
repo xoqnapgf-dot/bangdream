@@ -265,6 +265,8 @@ Ave Mujica 第 9 话，爱音在 MyGO!!!!! 的群里发了「祥子说为了小�
 - 贴吧文：《【爱初】被偶像诱拐的千早爱音？！》（爱初吧，2026-01）
 - NGA 星露谷物语题材的安科（2026-05）里有初华和爱音的桥段。
 
+- **更多 B 站视频（标题里写明这一对，按播放排）**：风待八舞的监护人《[【mujica/爱初】初见爱 #2 如果爱音捡到“失恋”的初华](https://www.bilibili.com/video/BV1RcApeHERd)》（2.9 万播放，2025-02）；风待八舞的监护人《[【mujica/爱初】初见爱 #3 如果爱音捡到“失恋”的初华](https://www.bilibili.com/video/BV1U9ACeiEfx)》（2.1 万播放，2025-02）；风待八舞的监护人《[【mujica/爱初】初见爱 #5 如果爱音捡到“失恋”的初华](https://www.bilibili.com/video/BV1ak94YqEVS)》（1.9 万播放，2025-03）；风待八舞的监护人《[【mujica/爱初】初见爱 #6 爱初好上了，但某人想拆散她们](https://www.bilibili.com/video/BV1kHQ5Y1EbT)》（1.8 万播放，2025-03）；风待八舞的监护人《[【mujica/爱初】初见爱 #8 如果爱音捡到“失恋”的初华](https://www.bilibili.com/video/BV1aBdNYmEQG)》（1.6 万播放，2025-04）；千早家爱音《[【爱初】爱音收购丰川集团#8](https://www.bilibili.com/video/BV12MQGY2E4E)》（1.2 万播放，2025-03）；吉利蛋真的很萌萌哒《[【爱初】趁着睡觉准备对爱音动手动脚的初华…](https://www.bilibili.com/video/BV1ifW26QEn6)》（1.2 万播放，2026-11）；绿草如茵的丰茵《[会白费努力的事情就不值得努力去做。不值得付出的人，随便装个样子就行。【爱初】少女炸梦之旅＃7](https://www.bilibili.com/video/BV1aL476gEzZ)》（2559 播放，2026-11）；小祥葬花吟《[很甜的爱初小漫画](https://www.bilibili.com/video/BV1wpHAzDELP)》（968 播放，2025-10）。
+
 ---
 
 ## 六、信息来源

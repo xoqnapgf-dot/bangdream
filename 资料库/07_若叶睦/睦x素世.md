@@ -33,6 +33,8 @@
 - 《【素睦/手书】熱愛発覚中》（猫又猫又猫又猫，BV1tQ4y177rm）等两个方向都挂的作品见《04_长崎素世/素世x睦.md》。
 - B 站「睦素」标签下的作品；日文 pixiv「むつそよ」标签。
 
+- **更多 B 站视频（标题里写明这一对，按播放排）**：枯れ葉-rotouzenn《[【同人动画/MyGO】 睦素自制逐帧手绘动画](https://www.bilibili.com/video/BV11r421g79X)》（6486 播放，2024-04）；这里是残庙啦《[【睦素/手书】同班同学是狐狸怎么办？](https://www.bilibili.com/video/BV1XZH1zdEfC)》（3843 播放，2025-09）；AS星轨共鸣_Official《[【原创音乐手书/睦素】遥かな青いシルエット【bilibilionly同人扶持计划】](https://www.bilibili.com/video/BV1iReH6yE5u)》（2736 播放，2026-09）。
+
 ---
 
 ## 三、信息来源

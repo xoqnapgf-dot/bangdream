@@ -67,7 +67,24 @@ Animedia / Animage 2026 年 12 月号的访谈里（NGA tid 47887936 转载译�
 
 ---
 
-## 三、信息来源
+## 三、B 站视频
+
+- **B 站视频（标题里写明这一对，按播放排）**：啊啊老天鹅《[第八集忽然get到了海喵](https://www.bilibili.com/video/BV11zPNexEc2)》（12.1 万播放，2025-02）；百合是文明进步的阶梯《[海喵论坛：躺0的滋味](https://www.bilibili.com/video/BV1wf9iYmE5T)》（6.7 万播放，2025-03）；变得暧昧全因惧怕谎言《[［Ave mujica/海喵］自用互动cut](https://www.bilibili.com/video/BV1NDoRY2EpK)》（5.8 万播放，2025-03）；七弦qix《[六秒钟带你看海喵原作隐藏剧情【avemujica】](https://www.bilibili.com/video/BV1wnoiYsEWR)》（3.5 万播放，2025-03）；柯维菈《[百合情侣推荐:为什么我说海喵是母鸡卡最有抛釉感的cp](https://www.bilibili.com/video/BV1JndfBuEqf)》（2.7 万播放，2026-04）；龙虾NL《[【Ave Mujica/海喵】被奶牛猫盯上了怎么办？](https://www.bilibili.com/video/BV14AhpzBE1S)》（2.2 万播放，2025-08）；随你tm便-《[【海喵海】直播事故](https://www.bilibili.com/video/BV1TE7Gz6EwA)》（1.7 万播放，2025-06）；碳烤蟑螂卷《[【海喵】疑似新留影卡剧情释出](https://www.bilibili.com/video/BV1jKWb6NEMT)》（9040 播放，2026-11）；绿草如茵的丰茵《[【海喵】要带货的这些都是什么离谱商品啊！💢](https://www.bilibili.com/video/BV1Dnek6tEq9)》（6565 播放，2026-09）；真是块风水宝地《[【海喵海】结婚还请我当新娘，海铃这人能÷./](https://www.bilibili.com/video/BV1WQHkzPETG)》（6240 播放，2025-09）；有问题です《[【海喵】海玲教你吸引喵咪的小技巧](https://www.bilibili.com/video/BV1TTWpznEVU)》（4104 播放，2025-10）；Rainnn_1214《[【OurNotes】海喵自用cut](https://www.bilibili.com/video/BV1gkho6fEYL)》（3827 播放，2026-09）。
+
+@[details](另有 6 条，同样按播放排)
+
+- 随你tm便-《[海喵的处罚游戏](https://www.bilibili.com/video/BV1a1JFznEg3)》（3823 播放，2025-05）
+- 小四插禾苗《[【海喵］同居对象竟是同队的贝斯手？！](https://www.bilibili.com/video/BV1XyK6zKE2y)》（2855 播放，2025-06）
+- 闺蜜6588《[鸡一箱海喵海互动精华2分钟](https://www.bilibili.com/video/BV1F7W862ExY)》（1801 播放，2026-11）
+- 露鸣Lumin《[【海喵】第九集最好看的一段互动](https://www.bilibili.com/video/BV1Jb97YxEFz)》（1525 播放，2025-03）
+- 真是块风水宝地《[【AveMujica/海喵cos】惹队内鼓手生气了怎么办belike](https://www.bilibili.com/video/BV1kj4CzyE81)》（970 播放，2025-10）
+- 黄油马铃薯《[【这都有海喵看的】TOXIC(Playboi Carti/Skepta)-佑天寺若麦&八幡海铃](https://www.bilibili.com/video/BV1mj8wz5Ebs)》（640 播放，2025-07）
+
+@[/details]
+
+---
+
+## 四、信息来源
 
 - 《Ave Mujica 剧情总纲》第 1、3、8、9 话
 - mikanayuip《【断案】Mygo・Ave mujicaカップリング論2024決定稿【結審】》（2025-03-29）

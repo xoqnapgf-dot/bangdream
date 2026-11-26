@@ -593,6 +593,29 @@ Rikki，讨厌。
 - **音乐**：《【原创曲/猫希】Noraneko Playtime》（追命压力希，BV1HutpzXEfz，LOFTER「希世乐章」接力）、《[MyGO/猫希] 椎名立希&要乐奈 - Mystical Magical》（Raana-Rimba，BV136QFB2Eu5）
 - **游戏 BGM**：《【鼓手余命十日谭】猫希合奏部分BGM》（ヰ世界芽组，BV1BPBBYuEcg），简介「Rikki厨有福了！！」
 
+- **更多 B 站视频（标题里写明这一对，按播放排）**：追命压力希《[【猫希】在家里制作抹茶芭菲的方法](https://www.bilibili.com/video/BV1D4f5BTEHC)》（11.5 万播放，2026-02）；波奇银手《[【mygo】如果立希真的变成了萝莉控](https://www.bilibili.com/video/BV17f421q7SK)》（10.1 万播放，2024-07）；蜜瓜包OvO《[野猫到底使用了什么拿捏住了Rikki？](https://www.bilibili.com/video/BV1GfV4exE2B)》（6.1 万播放，2024-06）；许我再相依《[【Mygo/猫希】明明只是想给野猫剪个指甲而已](https://www.bilibili.com/video/BV1pQ21YZEda)》（3.7 万播放，2024-10）；波奇银手《[【mygo】我妹妹的心爱之人#1](https://www.bilibili.com/video/BV1wd56zMEyX)》（3.3 万播放，2025-04）；赤月陌七《[【MyGo/中字】斗智斗勇的猫希，但，rikki败，猫胜](https://www.bilibili.com/video/BV1eacPehEpG)》（1.5 万播放，2025-01）；猫耳朵Meow《[色彩赋予猫希生命力>▽<](https://www.bilibili.com/video/BV1kRtizbEf9)》（1.4 万播放，2025-08）；波奇银手《[【mygo】我妹妹的心爱之人#2](https://www.bilibili.com/video/BV1ZjGvzrEwS)》（1.3 万播放，2025-05）；千早上飞《[（猫希）偷吃的老鼠](https://www.bilibili.com/video/BV1KMVVzaEWW)》（1.2 万播放，2025-05）；波奇银手《[【mygo】我妹妹的心爱之人#6（完）](https://www.bilibili.com/video/BV1dbunzxEiE)》（1.1 万播放，2025-07）；椎名立希的熊猫壁纸《[【MyGO/猫希】猫之旅](https://www.bilibili.com/video/BV1ZKxjePEUc)》（8188 播放，2024-09）；账号已注销《[猫希笑传之搓搓宝](https://www.bilibili.com/video/BV19fuvzwEwW)》（8034 播放，2025-07）。
+
+@[details](另有 16 条，同样按播放排)
+
+- 末怜《[【MyGO/猫希】彼此的定义 #5](https://www.bilibili.com/video/BV1yzyLYqEo2)》（5209 播放，2024-10）
+- cosAsinBtanC《[【猫希】面对不听话的野猫，立希选择...](https://www.bilibili.com/video/BV1VPYCzLEaZ)》（4938 播放，2025-08）
+- cosAsinBtanC《[【猫希MMD/竖屏】谁定制的猫希😋](https://www.bilibili.com/video/BV14ftHzhEpN)》（4701 播放，2025-08）
+- 账号已注销《[【猫希短篇】假如要乐奈真的是只猫猫 （神奇猫猫要乐奈＃1）](https://www.bilibili.com/video/BV1KNYyzeEPb)》（4625 播放，2025-08）
+- 枫铃子sama《[猫希的抹茶芭菲时间](https://www.bilibili.com/video/BV1gz1BBgEJT)》（4101 播放，2025-11）
+- 木金枭尤_jer《[【MyGo!!!!!/猫希】“那海边的曼彻斯特，吹来椎名立希的悲歌”](https://www.bilibili.com/video/BV1rbpRzhEQe)》（3133 播放，2025-09）
+- 阿塔尼斯主教《[【猫希】乐奈的生日礼物 喵爪认证的黑白摇篮](https://www.bilibili.com/video/BV11ntHzxE5z)》（2872 播放，2025-08）
+- 好女孩V1olA《[【猫希】我想看什么可以自己剪](https://www.bilibili.com/video/BV1tPi5BCETJ)》（2665 播放，2026-01）
+- Leonabo《[【MYGO/填词】爸爸去哪儿 猫希金曲](https://www.bilibili.com/video/BV177zEYQEts)》（2312 播放，2024-11）
+- 抹茶味绿箭GreenArrow《[【MyGO】野猫午睡惨遭rikki长期树世🌳打击](https://www.bilibili.com/video/BV1qk3Xz9EWS)》（1724 播放，2025-07）
+- 随你tm便-《[［猫希］“rikki，抹茶芭菲”](https://www.bilibili.com/video/BV1qztHzVE7U)》（1571 播放，2025-08）
+- 爽食要乐奈《[猫希到家后的神秘仪式](https://www.bilibili.com/video/BV1ZNhczoEys)》（934 播放，2025-07）
+- nobody波比《[【猫希/助眠】一起呼吸同一片空气吧…笨蛋野猫](https://www.bilibili.com/video/BV1qiBkBGE5E)》（914 播放，2025-12）
+- 迪奥布兰度dio哒《[正义立希制裁捣乱野猫](https://www.bilibili.com/video/BV1TgNuzKE6G)》（593 播放，2026-03）
+- 卷_不卷《[立希生日快乐！和我妹妹两个人这三天赶出来的猫希简易手书（初尝试），很喜欢这个音乐所以ooc致歉](https://www.bilibili.com/video/BV1AzttzBEx7)》（270 播放，2025-08）
+- 四方昙_Kumorin《[鼓手余命十日谭【第四章-乐奈篇】](https://www.bilibili.com/video/BV1nEzVY1Eo6)》（8 播放，2024-11）
+
+@[/details]
+
 ---
 
 ## 五、信息来源

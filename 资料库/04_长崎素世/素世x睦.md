@@ -350,6 +350,19 @@ soyo 是唯二看出来睦就是喜欢嘲讽，报复的人。所以她才带着
 - **整活和杂谈**：《若叶睦都干了哪些坏事？【feat. 长崎素世】》（千早爱音的紧身衣，BV1zT4y1n7Wd，39 万播放）；《【MyGO/若叶睦】“soyo回忆对着我进攻”》（碎月枕头，BV1U64y1E7fw，23 万播放）；《【泛式】素睦决战喜剧之巅 一集笑了20次 回顾看MyGO的初心》（波奇と惑星，BV1ZSFYemEGc，22 万播放）
 - **文**：B 站专栏《长崎素世的世界》（opus/896855004668755974，2024-02-12）；B 站专栏《三万字解析带你看不懂若叶睦》（read/mobile?id=32008154），对黄瓜事件逐帧拆解。
 
+- **更多 B 站视频（标题里写明这一对，按播放排）**：螢石的时空残影《[【MyGO/素睦】原来你是我最想留住的幸运 【挺好萌应援】](https://www.bilibili.com/video/BV1nV411P7XP)》（34.3 万播放，2023-09）；风化的磷《[【填词/素睦】暖暖](https://www.bilibili.com/video/BV17kNUeTEiR)》（21.7 万播放，2025-02）；波奇と惑星《[【泛式】我从来没有觉得杂谈回聊Mujica很开心 速速入股“素睦”股](https://www.bilibili.com/video/BV1PMwMetEqH)》（2.3 万播放，2025-01）；Memzzz《[【MyGO描改手书/素睦】三秒炸虾](https://www.bilibili.com/video/BV1Xj421R7P4)》（2 万播放，2024-03）；同班同学三日三晚一緒《[【素睦素】26集互动cut](https://www.bilibili.com/video/BV1o9JgzREEi)》（1.2 万播放，2025-05）；尾崎流夏《[乙女解剖 / 素睦](https://www.bilibili.com/video/BV1fHc4eiEQX)》（5662 播放，2025-01）；可憐可愛元氣君《[【MYGO/素睦】长欺小睦04（初中篇完结）](https://www.bilibili.com/video/BV1rcxteTEfR)》（5434 播放，2024-09）；梦世琉璃《[【MyGO/素睦】一辈子不够爱你【若叶睦生贺】](https://www.bilibili.com/video/BV1CZcbeSEya)》（3642 播放，2025-01）；素睦磕生磕死中《[【MYGO二创/素睦】不是友情，是本命！](https://www.bilibili.com/video/BV1bkAjeFEgw)》（3515 播放，2025-02）；K丶岚希《[【MyGO/素睦/AMV】其实我俩看起来蛮像一对](https://www.bilibili.com/video/BV1QUnRenEKr)》（3423 播放，2024-08）；素睦磕生磕死中《[【MYGO二创/素睦】Ouroboros](https://www.bilibili.com/video/BV188Q6YKEBk)》（3334 播放，2025-03）；Nagasaki-Mutsumi《[【素睦】我死去的前女友突然复活攻击我](https://www.bilibili.com/video/BV1Wn8RzpEYG)》（2531 播放，2025-07）。
+
+@[details](另有 6 条，同样按播放排)
+
+- 素睦磕生磕死中《[【MYGO二创/素睦】最后一次拥抱](https://www.bilibili.com/video/BV1duXMYWEod)》（2331 播放，2025-03）
+- 希罗加纳《[【素睦/MAD】我们好像在哪见过](https://www.bilibili.com/video/BV1y1NmeLEBk)》（1999 播放，2025-02）
+- 月光海雾售卖机《[【素睦素手书】浴槽とネオンテトラ/浴槽与霓虹灯鱼](https://www.bilibili.com/video/BV1vCXsYNEK6)》（1849 播放，2025-03）
+- palpapition《[【MyGO/素睦AMV】“你怎么蠢到我喜欢你都不知道”](https://www.bilibili.com/video/BV127t1eKEdE)》（1809 播放，2024-09）
+- Nagasaki-Mutsumi《[【素睦】假如crychic没有解散](https://www.bilibili.com/video/BV1PrhTz4EQ5)》（1773 播放，2025-08）
+- 罐装龙眼树《[【素睦/MAD】年少有为](https://www.bilibili.com/video/BV1GLxizuE7o)》（962 播放，2025-10）
+
+@[/details]
+
 ---
 
 ## 五、信息来源

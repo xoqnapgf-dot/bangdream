@@ -76,6 +76,8 @@ B 站 WebGal《两个代餐相遇后的爱》的简介是：「想嗑一个邪�
 - pixiv「にゃむとも」：fayraメロンパン《にゃむとも》（https://www.pixiv.net/artworks/125541452 ，图上写着「哦呀～是 sakiko 在意的孩子呢」）
 - 贴吧：《［极度OOC］祐天寺光》（邦多利怀孕吧，2024-03，把「喵梦亲」写成了嫁进高松家的灯妈妈）
 
+- **更多 B 站视频（标题里写明这一对，按播放排）**：玉凛樱《[【MYGO/MUJICA二创】喵梦和灯是姐妹 #终](https://www.bilibili.com/video/BV1xsu7zaEkJ)》（5782 播放，2025-07）；无迪偷摸零《[【全专翻译/合作】“见到我 你为什么拔腿就跑” AI喵灯 SAVAGE MODE II - Metro Boomin/21 Savage](https://www.bilibili.com/video/BV1MDJX6mE4K)》（436 播放，2026-10）。
+
 ---
 
 ## 五、信息来源

@@ -129,8 +129,6 @@ NGA 有一帖专门搬了贴吧的统计（tid 43222039，2025-02-07）：「爱
 
 更多见《爱音x立希.md》。
 
-- **更多 B 站视频（标题里写明这一对，按播放排）**：NekOoYo《[【mygo/熟切】爱希又在打情骂俏...猫猫表情最丰富的一集！](https://www.bilibili.com/video/BV1St6aYLEFG)》（31.6 万播放，2024-12）；子非鱼kun《[爱希谈心却没共频？素世为何突然转念？](https://www.bilibili.com/video/BV19QB4YiE57)》（14.4 万播放，2024-11）；叶垚《[【MyGO/爱希】我胖吗？](https://www.bilibili.com/video/BV1dy411a7us)》（8.9 万播放，2024-06）；小爱音音的《[爱希tv之爱希户外违规使用起爆器并演唱迷星交](https://www.bilibili.com/video/BV16MmGBpEv6)》（4.2 万播放，2025-12）；镇东_Towneast《[【MyGo/爱希】为什么乐队内禁止谈恋爱](https://www.bilibili.com/video/BV1vPBVYwEMB)》（3.3 万播放，2024-12）；巴念之才良《[【MyGO二创/爱希】吐真剂？与无法隐藏的爱意！](https://www.bilibili.com/video/BV1a2N1zjEDa)》（2 万播放，2025-07）；反人员地雷《[『🎪MyGO!!!!!/欢乐向』🚨呐，你今天有在偷看我对吧......](https://www.bilibili.com/video/BV1WX7f69E3c)》（2 万播放，2026-06）；不足挂镰刀《[【MyGO二创|爱希向】爱希约会，但是Rikki要打工？#2 斜阳般温暖的你](https://www.bilibili.com/video/BV1k6NQzyEem)》（4257 播放，2025-06）；巴念之才良《[【爱希】Love You So](https://www.bilibili.com/video/BV1b9ad6xEpd)》（3426 播放，2026-09）；魔法少女神川极乐《[【MyGO!二创】爱希的里世界冒险#SP](https://www.bilibili.com/video/BV1f2Y4zrEQG)》（422 播放，2025-08）。
-
 ---
 
 ## 五、信息来源
