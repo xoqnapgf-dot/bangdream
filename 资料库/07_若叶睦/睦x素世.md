@@ -1,5 +1,7 @@
 # 若叶睦 × 长崎素世（睦素）
 
+![睦与素世 · coldcat.《🥒🎃》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=136925634 "pixiv · coldcat.《🥒🎃》")
+
 ![素世与睦 · 素世「崭新的萌芽」特训前（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res039014_rip/card_normal.png "素世「崭新的萌芽」特训前")
 
 > 睦在前的写法，B 站「睦素」标签 197 个投稿（2026 年 11 月），日文叫「むつそよ」。这一路从睦这边看：退回来的黄瓜、被素世抱着走出 RiNG 的那个晚上。两人在动画和游戏里的对手戏见《04_长崎素世/素世x睦.md》。

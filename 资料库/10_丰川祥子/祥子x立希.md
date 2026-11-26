@@ -1,9 +1,6 @@
 # 丰川祥子 × 椎名立希（祥希）
 
-@[gallery]
-![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
-![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
-@[/gallery]
+![祥子与立希 · 宇宙子詩《MyGO × GEKIROCK 2》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=118133914 "pixiv · 宇宙子詩《MyGO × GEKIROCK 2》")
 
 > 祥子在前的写法。圈内「祥希」指祥子在前，「希祥」是立希在前，「希祥希」不分；日文匿名板有「祥子は総受け」的说法（5ch，2024-04）。立希在前的写法、社区原帖与作品推荐见《05_椎名立希/立希x祥子.md》。
 

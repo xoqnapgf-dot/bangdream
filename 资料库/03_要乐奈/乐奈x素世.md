@@ -1,9 +1,6 @@
 # 要乐奈 × 长崎素世（猫素）
 
-@[gallery]
-![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-@[/gallery]
+![乐奈与素世 · 長崎 楽奈《一世奈何12:00》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=141514687 "pixiv · 長崎 楽奈《一世奈何12:00》")
 
 > 乐奈在前的写法，中文圈叫「猫素」。B 站「猫素」标签有 30 个投稿，「素猫」28 个（2026 年 11 月），两个叫法混着用，作品里谁占上风要看内容。日文圈「らなそよ」「そよらな」都还没人用。素世照顾乐奈那一路的写法见《素世x乐奈.md》。
 

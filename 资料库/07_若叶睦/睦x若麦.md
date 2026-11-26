@@ -1,9 +1,6 @@
 # 若叶睦 × 祐天寺若麦（睦喵）
 
-@[gallery]
-![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
-![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
-@[/gallery]
+![睦与若麦 · load lawer《ギャルと風紀委員》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=141441321 "pixiv · load lawer《ギャルと風紀委員》")
 
 > 睦在前的写法。中文圈「睦喵」「喵睦」都用，日文叫「むつにゃむ」「にゃむむつ」。两人是 Ave Mujica 的吉他和鼓，若麦比睦高 11cm（164cm 对 153cm）。若麦在前的写法见《09_祐天寺若麦/若麦x睦.md》。
 

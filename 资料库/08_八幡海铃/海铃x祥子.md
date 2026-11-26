@@ -1,9 +1,6 @@
 # 八幡海铃 × 丰川祥子（海祥）
 
-@[gallery]
-![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
-![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
-@[/gallery]
+![海铃与祥子 · 榆糖（Candy Yu）《亲亲》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=148789766 "pixiv · 榆糖（Candy Yu）《亲亲》")
 
 > 海铃在前的写法。祥子在前的写法和正片里的几场戏见《10_丰川祥子/祥子x海铃.md》。
 

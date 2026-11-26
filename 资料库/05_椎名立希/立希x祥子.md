@@ -1,9 +1,6 @@
 # 椎名立希 × 丰川祥子（希祥）
 
-@[gallery]
-![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
-![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
-@[/gallery]
+![立希与祥子 · unique《希祥约稿两张》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=141173070 "pixiv · unique《希祥约稿两张》")
 
 > 立希在前的写法。圈内写法分得比较清：「希祥」是立希在前，「祥希」是祥子在前，「希祥希」是不分。两人是 CRYCHIC 的鼓手和作曲兼键盘，祥子是通过立希的姐姐真希把立希叫进乐队的；CRYCHIC 散了以后，立希接过了 MyGO!!!!! 的作曲，祥子成了她拿来比较自己的那个人。祥子在前的写法见《10_丰川祥子/祥子x立希.md》。
 

@@ -1,9 +1,6 @@
 # 祐天寺若麦 × 若叶睦（喵睦）
 
-@[gallery]
-![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
-![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
-@[/gallery]
+![若麦与睦 · load lawer《ギャルと風紀委員》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=141441321 "pixiv · load lawer《ギャルと風紀委員》")
 
 > 若麦在前的写法。中文圈「喵睦」「睦喵」都用，日文叫「にゃむむつ」。二创里睦主动的写法更常见，「喵睦」这个名字多半是叫顺了。睦在前的写法、社区原帖和作品推荐见《07_若叶睦/睦x若麦.md》。
 

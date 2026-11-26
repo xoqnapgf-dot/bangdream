@@ -1,9 +1,6 @@
 # 椎名立希 × 长崎素世（希素）
 
-@[gallery]
-![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-@[/gallery]
+![立希与素世 · 打个胶先《立希：扎不多德勒》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=130415197 "pixiv · 打个胶先《立希：扎不多德勒》")
 
 > 立希在前的写法，B 站「希素」标签 18 个投稿（2026 年 11 月），很多立希主动的作品挂的仍是「素希」。这一路多从第 9 话立希揪住素世衣领那一下出发，也有人按「立希是爸、素世是妈」写。两人在动画里的对手戏见《04_长崎素世/素世x立希.md》。
 

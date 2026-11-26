@@ -1,9 +1,6 @@
 # 椎名立希 × 若叶睦（希睦）
 
-@[gallery]
-![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
-![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
-@[/gallery]
+![立希与睦 · オダメ投稿垢《睦と立希》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=128366300 "pixiv · オダメ投稿垢《睦と立希》")
 
 > 立希在前的写法。中文圈多叫「睦希」，B 站「睦希」标签 56 个投稿，「希睦」31 个（2026 年 11 月），NGA 也有人叫「安睦希」；日文 tag 是「たきむつ」（立希在前）和「むつたき」。两人是 CRYCHIC 的鼓手和吉他手，正片里几乎没有两人单独的对手戏，靠的是一条 LINE、几句台词和 Ave Mujica 第 7 话的一声「对不起」。睦在前的写法见《07_若叶睦/睦x立希.md》。
 

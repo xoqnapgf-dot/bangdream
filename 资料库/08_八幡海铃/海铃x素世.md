@@ -1,9 +1,6 @@
 # 八幡海铃 × 长崎素世（海素）
 
-@[gallery]
-![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-@[/gallery]
+![海铃与素世 · kmi《bassists》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=128511630 "pixiv · kmi《bassists》")
 
 > 海铃在前的写法，B 站「海素」标签 21 个投稿，比「素海」多（2026 年 11 月），但很多写成海素的作品里其实是素世主动。这一路写海铃把素世当成最后能依靠的人。两人在动画和游戏里的交集见《04_长崎素世/素世x海铃.md》。
 

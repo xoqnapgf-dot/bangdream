@@ -1,9 +1,6 @@
 # 若叶睦 × 要乐奈（睦猫）
 
-@[gallery]
-![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
-![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
-@[/gallery]
+![睦与乐奈 · poki《若葉睦 & 要楽奈》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=129518857 "pixiv · poki《若葉睦 & 要楽奈》")
 
 > 睦在前的写法，中文圈叫「睦猫」，也有人写「睦奈」「墨猫」。两人在动画和卡面里的交集、更多二创见《乐奈x睦.md》。
 

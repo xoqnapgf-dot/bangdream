@@ -1,5 +1,7 @@
 # 椎名立希 × 要乐奈（希猫）
 
+![立希与乐奈 · unique《安科《CRYCHIC但是1914》及其外传《海上吉他手》的宣传图》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=139012268 "pixiv · unique《安科《CRYCHIC但是1914》及其外传《海上吉他手》的宣传图》")
+
 ![立希与乐奈 · 立希「和我做个交易吧」特训前（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res040005_rip/card_normal.png "立希「和我做个交易吧」特训前")
 
 > 立希在前的写法，中文圈偶尔叫「希猫」（B 站标签 55 个投稿）；日文圈通行的标签「たきらな」也是立希在前，英文圈叫 TakiRaana。中文圈通行的「猫希」、两人在动画和游戏里的全部交集与台词见《03_要乐奈/乐奈x立希.md》。这里收立希当饲主、当家长、和乐奈做交易的那一路。

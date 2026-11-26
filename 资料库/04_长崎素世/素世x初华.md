@@ -1,9 +1,6 @@
 # 长崎素世 × 三角初华（素初）
 
-@[gallery]
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt.&Vo.")
-@[/gallery]
+![素世与初华 · PM《Furtivus & Fidus Amor》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=146484248 "pixiv · PM《Furtivus & Fidus Amor》")
 
 > 素世在前的写法，B 站「素初」标签 7 个投稿，「初素」13 个（2026 年 11 月），作品里两个叫法常挂在一起。两人在动画和游戏里没有说过一句话，这一对是 2025 年 B 萌应援时两边的粉丝一起捧起来的。初华主动的写法见《06_三角初华/初华x素世.md》。
 

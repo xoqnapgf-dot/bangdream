@@ -1,9 +1,6 @@
 # 祐天寺若麦 × 丰川祥子（喵祥）
 
-@[gallery]
-![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
-![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
-@[/gallery]
+![若麦与祥子 · みどり《にゃむさき》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=125841805 "pixiv · みどり《にゃむさき》")
 
 > 若麦在前的写法。祥子在前的写法和正片里的几场戏见《10_丰川祥子/祥子x若麦.md》。
 

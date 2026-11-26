@@ -1,9 +1,6 @@
 # 长崎素世 × 要乐奈（素猫）
 
-@[gallery]
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
-@[/gallery]
+![素世与乐奈 · 長崎 楽奈《そよらな④&イベントの宣伝/活動宣傳/promotion》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=140745985 "pixiv · 長崎 楽奈《そよらな④&イベントの宣伝/活動宣傳/promotion》")
 
 > 素世在前的写法，中文圈叫「素猫」，B 站标签 28 个投稿（2026 年 11 月）。这一路写的多是素世照顾、管教乐奈，评论区叫她「严母」「小寡妇养猫」。两人在动画和游戏里的交集见《乐奈x素世.md》。
 

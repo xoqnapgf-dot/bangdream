@@ -1,9 +1,6 @@
 # 丰川祥子 × 祐天寺若麦（祥喵）
 
-@[gallery]
-![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
-![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
-@[/gallery]
+![祥子与若麦 · みどり《にゃむさき》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=125841805 "pixiv · みどり《にゃむさき》")
 
 > 祥子在前的写法，「祥喵」「喵祥」都有人用。两人是 Ave Mujica 里吵得最凶的一对：揭面是若麦逼的，乐队重组又是若麦上门逼祥子点头的。若麦在前的写法见《09_祐天寺若麦/若麦x祥子.md》。
 

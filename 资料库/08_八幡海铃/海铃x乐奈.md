@@ -1,9 +1,6 @@
 # 八幡海铃 × 要乐奈（海猫）
 
-@[gallery]
-![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
-![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
-@[/gallery]
+![海铃与乐奈 · 宇宙柚_yuko《无题》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=131302103 "pixiv · 宇宙柚_yuko《无题》")
 
 > 海铃在前的写法，中文圈叫「海猫」，但 NGA 上「海猫」更常指海铃和喵梦（大猫），说的是乐奈时一般会写「海猫猫」「海铃×猫猫」。两人的交集、Disruption 这条线和同人见《乐奈x海铃.md》。
 

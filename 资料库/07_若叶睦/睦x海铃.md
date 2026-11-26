@@ -1,9 +1,6 @@
 # 若叶睦 × 八幡海铃（睦海）
 
-@[gallery]
-![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
-![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
-@[/gallery]
+![睦与海铃 · 王水檸檬《MortisUmiri》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=127938261 "pixiv · 王水檸檬《MortisUmiri》")
 
 > 睦在前的写法。中文圈通行的是「海睦」，LOFTER 上「海睦」的参与人数是「睦海」的十倍多；写「睦海」的人多半也只是在叫这对，不一定是睦主动，NGA 有人这样概括：「睦海：哑巴公主与靠谱骑士」。日文叫「うみむつ」。海铃在前的写法见《08_八幡海铃/海铃x睦.md》。
 

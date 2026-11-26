@@ -1,9 +1,6 @@
 # 三角初华 × 若叶睦（初睦）
 
-@[gallery]
-![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
-![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
-@[/gallery]
+![初华与睦 · かえる《ういむつ》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=131791643 "pixiv · かえる《ういむつ》")
 
 > 初华在前的写法。Ave Mujica 的两把吉他，也是剧中流量最大的两个人，社区戏称「鸡团最伟大的两张脸」。两人都围着祥子转，正片里的来往多半是冲突，所以这一对常被叫作「女同性恨」。睦在前的写法见《07_若叶睦/睦x初华.md》。
 

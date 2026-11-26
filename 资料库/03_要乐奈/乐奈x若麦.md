@@ -1,5 +1,7 @@
 # 要乐奈 × 祐天寺若麦（猫喵 / 大小猫）
 
+![乐奈与若麦 · Pamo《貓x貓》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=121768327 "pixiv · Pamo《貓x貓》")
+
 ![乐奈与若麦 · 乐奈「与随性的流浪猫一起」特训前（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res038013_rip/card_normal.png "乐奈「与随性的流浪猫一起」特训前")
 
 > 中文圈叫「猫喵」「大小猫」「双猫」，若麦是大猫，乐奈是小猫。贴吧有人这样分：「乐奈1猫喵 / 若麦1喵猫」，不过实际作品里两个叫法混着用，谁占上风要看内容。B 站「猫喵」标签 86 个投稿，「喵猫」51 个（2026 年 11 月）。若麦占上风的写法见《09_祐天寺若麦/若麦x乐奈.md》。
