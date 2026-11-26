@@ -70,7 +70,7 @@ NamuWiki 英文版把这一对写成若麦所有配对里最主流的一个，�
 
 - **更多 B 站视频（按播放排）**：千早爱音学习中《[Ave mujica 喵睦上大分！](https://www.bilibili.com/video/BV1CmZVYhEcY)》（3.3 万播放，2025-03）；四石Fst《[【喵睦】同居、与豆腐炖鱼](https://www.bilibili.com/video/BV1dgmkBaEsk)》（3 万播放，2025-12）；newesthy《[喵睦亲](https://www.bilibili.com/video/BV1w391YrEkc)》（2.1 万播放，2025-03）；YRFLY《[【喵睦】麦](https://www.bilibili.com/video/BV1cPq2BoEWH)》（1.4 万播放，2025-12）；TKGEKKOU《[【喵睦/MAD】“讓我為你寫一本恐怖小說”](https://www.bilibili.com/video/BV1YuRjYVE1Z)》（1.2 万播放，2025-03）；YRFLY《[【喵睦】松鼠](https://www.bilibili.com/video/BV18xRvB9EDq)》（7127 播放，2026-05）；星观后《[【喵睦】如果睦开始打直球](https://www.bilibili.com/video/BV1vkHW6EEgX)》（7111 播放，2026-10）；栎の悅《[【喵睦tv】邪恶喵梦被骗到小睦家里，给小墨提斯报大别墅被炸之仇。](https://www.bilibili.com/video/BV19cKV6rEPk)》（6573 播放，2026-07）；刺头人《[喵睦](https://www.bilibili.com/video/BV19C4169Eof)》（6339 播放，2026-08）；晴岚柊Hiiragi《[【Ave Mujica/喵睦】 渎神者的扭曲之爱](https://www.bilibili.com/video/BV1xWMFzjEqL)》（4842 播放，2025-06）；Alfred_Ingemar《[【mygo/喵睦】向日葵](https://www.bilibili.com/video/BV1BagQ6BEwd)》（4453 播放，2026-07）；Alfred_Ingemar《[【mygo/喵睦】离乡](https://www.bilibili.com/video/BV1iCsZ6xEm5)》（3506 播放，2026-10）。
 
-@[details](另有 11 条，同样按播放排)
+@[details](另有 12 条，同样按播放排)
 
 - 放假低聚果糖《[个人见解谈一谈喵，以及喵睦之间的关系（什么我cp打赢复活赛了？）](https://www.bilibili.com/video/BV1cpRWYmEsC)》（3472 播放，2025-03）
 - 自由里森堡解放力量《[［Ave Mujica/喵睦/Kards］大喵拿小睦的万能金合别-4！？](https://www.bilibili.com/video/BV1Wck1BBEYF)》（2214 播放，2025-11）
@@ -83,6 +83,7 @@ NamuWiki 英文版把这一对写成若麦所有配对里最主流的一个，�
 - Metal_Ghost《[【自用】mujica外传喵睦跳舞完整版](https://www.bilibili.com/video/BV1SgaH6oEzZ)》（440 播放，2026-09）
 - Tanatos_-《[【AI祐天寺若麦/若叶睦 喵睦】想听你说月色真美/月が綺麗ねと言われたい！ - 初音ミク【カササギ】](https://www.bilibili.com/video/BV19Zx16nES7)》（413 播放，2026-11）
 - 箓临《[喵睦一则](https://www.bilibili.com/video/BV11PytzJELs)》（118 播放，2026-11）
+- 五里亭亭长《[【瞄睦大合集】若叶睦＆祐天寺若麦全互动/线索合集](https://www.bilibili.com/video/BV1oK5z6kEKF)》（2026-05）
 
 @[/details]
 
@@ -94,6 +95,10 @@ NamuWiki 英文版把这一对写成若麦所有配对里最主流的一个，�
 - Tanatos_-《[【喵睦/个人汉化】一起去水族馆](https://www.bilibili.com/read/cv53667779)》（阅读 44）
 
 @[/details]
+
+- **更多 NGA 帖子（按发布时间排）**：《[同人搬运.《Salome》(喵睦)](https://bbs.nga.cn/read.php?tid=46233378)》（图，2026-02）；《[【闲聊】喵睦(祥)短漫三则](https://bbs.nga.cn/read.php?tid=44094007)》（图，2025-05）；《[【闲聊】别踩喵睦了我好害怕](https://bbs.nga.cn/read.php?tid=43689128)》（讨论帖，2025-03）。
+
+- **更多贴吧帖子（按发布时间排）**：《[长篇角色关系性分析：若麦和睦](https://tieba.baidu.com/p/9427019484)》（解析，2025-01）。
 
 ---
 

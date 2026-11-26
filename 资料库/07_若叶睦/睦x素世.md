@@ -39,6 +39,12 @@
 
 - **更多 pixiv 作品（按收藏排）**：coldcat.《[むつそよ](https://www.pixiv.net/artworks/110845356)》（收藏 5183）；coldcat.《[むつそよ](https://www.pixiv.net/artworks/130595711)》（收藏 2327）；coldcat.《[むつそよ](https://www.pixiv.net/artworks/129429905)》（收藏 2282）。
 
+- **更多 NGA 帖子（按发布时间排）**：《[【新番讨论】看了好几遍还是没懂soyo对睦的态度](https://bbs.nga.cn/read.php?tid=37577321)》（讨论帖，2023-09）；《[【MyGO】从挺好颜的角度看素世和睦关系的破裂：为什么若叶睦无法成为正牌挺王](https://bbs.nga.cn/read.php?tid=37581118)》（解析，2023-09）；《[【MyGO氵】话说怎么没人讨论过睦头人怎么看上soyo的](https://bbs.nga.cn/read.php?tid=37611610)》（讨论帖，2023-09）。
+
+- **更多贴吧帖子（按发布时间排）**：特别铃鹿✨《[睦x素世 第九话细节(分析、嗑药，邦邦吧同步)](https://tieba.baidu.com/p/8545582539)》（解析，2023-08）。
+
+- **更多 B 站动态（按发布时间排）**：Index叶九《[【睦素睦】愿逐月华流照君](https://www.bilibili.com/opus/955513267171622937)》（同人文，约 4054 字，2024-07）。
+
 ---
 
 ## 三、信息来源

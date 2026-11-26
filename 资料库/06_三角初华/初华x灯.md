@@ -170,6 +170,8 @@ shiny不吃《燈初 一起逛天文館》：https://www.pixiv.net/artworks/1292
 
 - **更多 B 站视频（按播放排）**：抹茶味绿箭GreenArrow《[【MyGO】华灯初上🚀，当最美太空人](https://www.bilibili.com/video/BV1zi421a7dY)》（1.6 万播放，2024-06）；七海杜伊《[【中日双语】初灯语音-MyGO!!!!!×Ave Mujica ツーマンライブ「“moment  memory”」](https://www.bilibili.com/video/BV14ZAYzYEU4)》（1.2 万播放，2026-03）；SSSS久樽《[【初灯&剧情向】死后，合而为一#1 vita](https://www.bilibili.com/video/BV17vsHzKE4d)》（8084 播放，2025-10）；龙虾NL《[【Mygo/初灯】纸短情长（上）](https://www.bilibili.com/video/BV1UEkDBhERt)》（3927 播放，2025-11）；SSSS久樽《[【初灯&剧情向】死后，合而为一#2 我](https://www.bilibili.com/video/BV1PZCDBZEv5)》（2850 播放，2025-11）；SSSS久樽《[【初灯&剧情向】死后，合而为一#4 姐妹](https://www.bilibili.com/video/BV1GkrPBvEAG)》（1624 播放，2026-01）；如果能在梦中梦到你《[【绘画过程/mygo】初灯加油请大卖](https://www.bilibili.com/video/BV1FE421P7zo)》（1082 播放，2024-07）；SSSS久樽《[【初灯&剧情向】死后，合而为一#5 UIKA（下）  第一部分完](https://www.bilibili.com/video/BV1Vmjm6eEBH)》（1075 播放，2026-06）；蓦然回首nvn《[【初灯初】假如被灰熊袭击了！](https://www.bilibili.com/video/BV1fBDVBhEXL)》（422 播放，2026-04）；Keisenpai《[【AMV/ 华灯初上】 Uika x Tomori (BanG Dream! Ave Mujica) | Is Uika following Tomori?](https://www.bilibili.com/video/BV1gyfUY5E9A)》（68 播放，2025-01）。
 
+- **更多 NGA 帖子（按发布时间排）**：《[【闲聊】 以后要是能卖点初灯就好了](https://bbs.nga.cn/read.php?tid=43742542)》（讨论帖，2025-04）；《[看完了春日影，哦不Mygo.，好磕灯和初华啊](https://bbs.nga.cn/read.php?tid=37913409)》（讨论帖，2023-10）。
+
 ---
 
 ## 六、信息来源

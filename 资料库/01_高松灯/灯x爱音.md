@@ -1746,6 +1746,8 @@ Reply to
 
 - **更多 pixiv 作品（按收藏排）**：JINJIN《[ともあの](https://www.pixiv.net/artworks/128079877)》（收藏 1793）；ちょくじょう《[MyGOまんが　ひざかけ](https://www.pixiv.net/artworks/113930471)》（收藏 1248）；ちょくじょう《[MyGOまんが　扇風機](https://www.pixiv.net/artworks/121434046)》（收藏 992）。
 
+- **B 站视频**：-CMos《[【爱音生贺/填词】《花に亡霊》「灯写给爱音的一封情书」](https://www.bilibili.com/video/BV1qVYMzHEE9)》（2025-09）。
+
 ---
 
 ## 五、信息来源

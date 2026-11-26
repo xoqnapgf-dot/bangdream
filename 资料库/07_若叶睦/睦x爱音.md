@@ -59,6 +59,8 @@ Ave Mujica 第 6 话，爱音第一次见到「小睦」，说「天啊，真的
 
 - **更多 B 站视频（按播放排）**：啵零啵零爱《[【爱睦/睦爱】秘密](https://www.bilibili.com/video/BV1BDwYz5E51)》（4004 播放，2026-03）；与羽衣共眠《[【爱睦】若叶睦想要摸摸爱音的腿1［没完］](https://www.bilibili.com/video/BV12HQhBFEZA)》（1995 播放，2026-04）。
 
+- **更多 NGA 帖子（按发布时间排）**：《[【MyGO】灵魂互换，但是爱音和睦](https://bbs.nga.cn/read.php?tid=38664637)》（视频，2023-12）；《[我宣布爱音睦灵魂互换是mygo正统续作](https://bbs.nga.cn/read.php?tid=38863160)》（视频，2023-12）。
+
 ---
 
 ## 四、信息来源

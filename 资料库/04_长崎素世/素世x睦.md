@@ -354,7 +354,7 @@ soyo 是唯二看出来睦就是喜欢嘲讽，报复的人。所以她才带着
 
 - **更多 B 站视频（按播放排）**：螢石的时空残影《[【MyGO/素睦】原来你是我最想留住的幸运 【挺好萌应援】](https://www.bilibili.com/video/BV1nV411P7XP)》（34.3 万播放，2023-09）；风化的磷《[【填词/素睦】暖暖](https://www.bilibili.com/video/BV17kNUeTEiR)》（21.7 万播放，2025-02）；一只俩fish《[泛式看顶级素睦MAD「以后别做朋友」直呼牛逼！做的太好了！限制这个mad发挥了反而是原片！【泛式】](https://www.bilibili.com/video/BV1jJXxY6EZ9)》（7.6 万播放，2025-03）；南部天邪《[【四补/Mygo/素睦】假如若叶睦真的长出了XX？！](https://www.bilibili.com/video/BV1a5Vh63EbZ)》（5.2 万播放，2026-05）；墨叶盏《[【AI素睦】"我可以把头发染成祥子那种蓝色的"](https://www.bilibili.com/video/BV1W7xQeCEmW)》（4.5 万播放，2024-10）；orimmn《[【万字解析】现在磕素睦还来得及么？小睦性格解析（第六集）](https://www.bilibili.com/video/BV1phNjesEhy)》（3.2 万播放，2025-02）；可憐可愛元氣君《[【MYGO Mujica/素睦】🦊🦊の驯服方法！](https://www.bilibili.com/video/BV1qS78zGEsi)》（2.3 万播放，2025-06）；波奇と惑星《[【泛式】我从来没有觉得杂谈回聊Mujica很开心 速速入股“素睦”股](https://www.bilibili.com/video/BV1PMwMetEqH)》（2.3 万播放，2025-01）；しゅうゆう《[【素睦】26集全勤奖 MVP回顾！](https://www.bilibili.com/video/BV1cxoBYfEHz)》（2.2 万播放，2025-03）；花开富贵爱《[【mygo素睦】素世和睦子米平日里是如何相处的？](https://www.bilibili.com/video/BV1Ky7PzDE1G)》（2.1 万播放，2025-06）；Memzzz《[【MyGO描改手书/素睦】三秒炸虾](https://www.bilibili.com/video/BV1Xj421R7P4)》（2 万播放，2024-03）；素睦磕生磕死中《[【MYGO二创/素睦】IF被退黄瓜睦穿越到了素睦热恋的同人世界](https://www.bilibili.com/video/BV1GrJ3zXEaW)》（1.7 万播放，2025-05）。
 
-@[details](另有 73 条，同样按播放排)
+@[details](另有 74 条，同样按播放排)
 
 - 南部天邪《[【二补/Mygo/素睦】假如若叶睦真的长出了XX？！【2】](https://www.bilibili.com/video/BV1wcV26KESG)》（1.6 万播放，2026-06）
 - 星辰之沙《[素睦人抠糖合集](https://www.bilibili.com/video/BV1Wx5DzBEUJ)》（1.6 万播放，2025-04）
@@ -429,6 +429,7 @@ soyo 是唯二看出来睦就是喜欢嘲讽，报复的人。所以她才带着
 - 每天都在喜欢soyo《[坏女孩-素睦](https://www.bilibili.com/video/BV1e5466uECu)》（161 播放，2026-11）
 - 都说了不想注册《[【素睦/MAD】紫陽花の夜](https://www.bilibili.com/video/BV1jEPTeUEgr)》（156 播放，2025-02）
 - holyela《[【Mygo/素睦】沉默专一的爱](https://www.bilibili.com/video/BV1eZ421n7mj)》系列，共 3 集（累计 1.6 万播放，2024-04 至 2024-06；链接是播放最高的一集，各集见下方折叠）
+- UNK__《[【MyGO素睦/MAD】Bye Bye Baby Blue 再见，我蓝色的爱人 (MyGO×the other side of paradise)](https://www.bilibili.com/video/BV14Z421u7sg)》（2024-06）
 
 @[/details]
 
@@ -464,6 +465,25 @@ soyo 是唯二看出来睦就是喜欢嘲讽，报复的人。所以她才带着
 - 墨語_ひとりしゃべり《[【素睦】花庭之友（中）](https://www.bilibili.com/read/cv26570184)》（阅读 166）
 
 @[/details]
+
+- **更多 NGA 帖子（按发布时间排）**：《[【闲聊】幼年素睦](https://bbs.nga.cn/read.php?tid=44136759)》（图，2025-05）；《[【闲聊】怎么还有人急着帮素睦厨破防的](https://bbs.nga.cn/read.php?tid=43636771)》（讨论帖，2025-03）；《[【讨论】【感想】有一说一趁着大战问问大伙对mujica里面的素睦的看法](https://bbs.nga.cn/read.php?tid=43627225)》（讨论帖，2025-03）；《[素世对睦到底是怎么个情感](https://bbs.nga.cn/read.php?tid=43193240)》（讨论帖，2025-02）；《[【讨论】这个素睦断头饭怎么越吃越有](https://bbs.nga.cn/read.php?tid=43376401)》（讨论帖，2025-02）；《[【讨论】太奇怪了，按照前几集素世对睦的态度，感觉这里她没有理由拒绝重组ccc](https://bbs.nga.cn/read.php?tid=43397400)》（讨论帖，2025-02）；《[【Mujica】【Mygo】到现在也没搞懂睦和soyo之间的关系](https://bbs.nga.cn/read.php?tid=42948674)》（讨论帖，2025-01）；《[【mygo氵】素睦这cp人气为什么这么高](https://bbs.nga.cn/read.php?tid=39972107)》（讨论帖，2024-04）；《[【同人】 素世买谷 #素睦](https://bbs.nga.cn/read.php?tid=39593111)》（同人文，2024-03）；《[【同人】 【MyGO】【素睦？】大寒波](https://bbs.nga.cn/read.php?tid=38919218)》（同人文，2024-01）；《[(素睦)长崎素世摇曳的心](https://bbs.nga.cn/read.php?tid=38425866)》（同人文，约 7000 字，2023-11）；《[【素睦】【同人】【已完结】大危机！若叶睦买了安眠药？！](https://bbs.nga.cn/read.php?tid=38018527)》（同人文，约 3000 字，2023-10）。
+
+@[details](另有 8 条，同样按发布时间排)
+
+- 《[素睦到底有几分真实？](https://bbs.nga.cn/read.php?tid=38038685)》（讨论帖，2023-10）
+- 《[【mygo】素睦山重水复总会柳暗花明](https://bbs.nga.cn/read.php?tid=37586918)》（解析，2023-09）
+- 《[【MyGO】哇吔，素睦的后劲好大](https://bbs.nga.cn/read.php?tid=37797266)》（讨论帖，2023-09）
+- 《[【mygo】从“信鸽困境”看素睦关系](https://bbs.nga.cn/read.php?tid=37839755)》（解析，2023-09）
+- 《[【My go】一口气看完了，素世和睦那段没咋看懂](https://bbs.nga.cn/read.php?tid=37847080)》（讨论帖，2023-09）
+- 《[【mygo】 结合新访谈重新看素睦的“决裂”](https://bbs.nga.cn/read.php?tid=37876970)》（解析，2023-09）
+- 《[【mygo】高举睦xsoyo大旗(战吧转载，原楼主同意)](https://bbs.nga.cn/read.php?tid=37359298)》（解析，2023-08）
+- 《[MyGO!!!!!12话的素睦党有一言不知当讲不当讲](https://bbs.nga.cn/read.php?tid=37572618)》（讨论帖，2023-08）
+
+@[/details]
+
+- **更多贴吧帖子（按发布时间排）**：我好烦啊º-《[【素睦】七夕](https://tieba.baidu.com/p/9992024556)》（同人文，约 4000 字，2025-08）；慢慢来的深海之星《[【科幻】素睦十亿年🪐·初版](https://tieba.baidu.com/p/9615468664)》（同人文，约 4000 字，2025-04）；素睦不健全《[不健全的素睦日常](https://tieba.baidu.com/p/9648784711)》（同人文，约 3000 字，2025-04）；南淮十二刀《[聊聊素睦的关系性](https://tieba.baidu.com/p/9567539922)》（解析，2025-03）；第七十四点已知《[长崎素世暴揍若叶睦](https://tieba.baidu.com/p/9174458449)》（同人文，约 2500 字，2024-09）；约瑟夫_末影子《[【素睦】冬日的整蛊](https://tieba.baidu.com/p/8987436424)》（同人文，约 3000 字，2024-04）；特别铃鹿✨《[世睦以待（素睦同人）](https://tieba.baidu.com/p/8592694645)》（同人文，约 8000 字，2023-09）；白羽橦《[素睦，略见复活端倪](https://tieba.baidu.com/p/9456317965)》（解析）。
+
+- **更多 B 站动态（按发布时间排）**：timactone《[【素睦】弦上神明](https://www.bilibili.com/opus/1073852239033925634)》（同人文，约 1.4 万 字，2025-06）；花烟的里梦《[一些关于素睦的片段](https://www.bilibili.com/opus/1031953067844567049)》（同人文，约 1670 字，2025-02）；羽藤まい《[关于素睦](https://www.bilibili.com/opus/865839061562032133)》（解析，2023-11）；moon3779《[转载素睦同人文](https://www.bilibili.com/opus/845975576538775577)》（同人文，约 5881 字，2023-09）。
 
 ---
 

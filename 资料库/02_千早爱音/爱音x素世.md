@@ -1310,7 +1310,7 @@ pixiv「あのそよ」近一年收藏最多的有 materWolen《即将被爽食�
 
 - **更多专栏（按阅读排）**：里芙《[相爱相杀的爱素](https://www.bilibili.com/read/cv26268268)》（阅读 21917）；幻羽莹殇雪紫蝶琉璃风《[（mygo/爱素）污秽不堪的我](https://www.bilibili.com/read/cv25969497)》（阅读 20757）；洛猫猫不是猫《[【MyGO  爱素】她给的实在是太多了  之白蝴蝶与告白](https://www.bilibili.com/read/cv26893925)》（阅读 18048）；不穿裤子的艾克斯《[【mygo/爱素】18岁的素世（上）](https://www.bilibili.com/read/cv27083627)》（阅读 17380）；不穿裤子的艾克斯《[【mygo/爱素】与爱音的一辈子。](https://www.bilibili.com/read/cv26829136)》（阅读 15962）；里芙《[【爱素】她展露的表情](https://www.bilibili.com/read/cv26940855)》（阅读 15869）；啥都懂的长颈鹿《[挣脱不开的拥抱【爱素】](https://www.bilibili.com/read/cv26456529)》（阅读 14412）；里芙《[【爱素】幸福的吻](https://www.bilibili.com/read/cv26772653)》（阅读 14298）；好梦在何方nanoda《[【mygo/爱素】终将成为你](https://www.bilibili.com/read/cv28365080)》（阅读 12718）；不穿裤子的艾克斯《[【mygo/爱素】长崎素世的追忆。](https://www.bilibili.com/read/cv28239380)》（阅读 12223）；里芙《[【爱素】丹桂的香味](https://www.bilibili.com/read/cv26637548)》（阅读 12088）；洛猫猫不是猫《[【MyGO 爱素】星空迷情](https://www.bilibili.com/read/cv26672107)》（阅读 11977）。
 
-@[details](另有 197 条，同样按阅读排)
+@[details](另有 201 条，同样按阅读排)
 
 - HyToking《[【爱素】小故事两则](https://www.bilibili.com/read/cv26510295)》（阅读 11514）
 - 饮汐也会袖里乾坤《[我记得（爱素ooc）](https://www.bilibili.com/read/cv40717634)》（阅读 11429）
@@ -1509,10 +1509,38 @@ pixiv「あのそよ」近一年收藏最多的有 materWolen《即将被爽食�
 - 抹茶猫小猫《[【ansy/爱素/日常】假如爱素都是兽娘](https://www.bilibili.com/read/cv41613549)》（阅读 106）
 - 楹莓_优门《[〖mygo同人/「余爱」#8（爱素）〗](https://www.bilibili.com/read/cv42188319)》（阅读 92）
 - 摸鱼卷毛凉《[【mygo同人/爱素/ansy】那个粉色头发的女孩总是来我家过夜](https://www.bilibili.com/read/cv47838401)》（阅读 73）
+- 牛油幽悠果《[［ansy/爱素］烟火升起前](https://www.bilibili.com/read/cv48842673)》（专栏，同人文，约 4000 字，2026-05）
+- Sinogi《[【MyGO!!!!!】【爱素】早饭（ちょくじょう）（个人翻译）](https://www.bilibili.com/read/cv33520575)》（专栏，图，2025-02）
+- 南红枫SRMaple《[【MyGO!!!!!】【ちょくじょう】同人短漫⑪「爱素」](https://www.bilibili.com/read/cv29786548)》（专栏，图，2024-01）
+- 江鱼君《[【MyGO同人】【爱素】仪式感](https://www.bilibili.com/read/cv27294952)》（专栏，同人文，约 5000 字，2023-10）
 
 @[/details]
 
 - **更多 pixiv 作品（按收藏排）**：ちょくじょう《[MyGOまんが　ねむれない](https://www.pixiv.net/artworks/111905255)》（收藏 3009）；ちょくじょう《[Mygoまんが　あのそよ](https://www.pixiv.net/artworks/111659518)》（收藏 2651）；xian_ovo《[ansy](https://www.pixiv.net/artworks/119497278)》（收藏 2097）；ちょくじょう《[MyGOまんが　勉強会](https://www.pixiv.net/artworks/112697389)》（收藏 1879）；ちょくじょう《[MyGOまんが　朝ごはん](https://www.pixiv.net/artworks/117432025)》（收藏 1726）；ちょくじょう《[MyGOまんが　残せない](https://www.pixiv.net/artworks/112403272)》（收藏 1439）；时一兹《[ansy](https://www.pixiv.net/artworks/136918251)》（收藏 589）；腹内《[无题](https://www.pixiv.net/artworks/151521989)》（收藏 413）；V2Rockit《[编织的命运](https://www.pixiv.net/artworks/137696025)》（收藏 304）；兔猫锚《[爱素的万圣节🎃](https://www.pixiv.net/artworks/151914754)》（收藏 302）；TGrpF《[烟花下的二人](https://www.pixiv.net/artworks/141286886)》（收藏 274）。
+
+- **更多 NGA 帖子（按发布时间排）**：《[【安科/安价】【爱素】【COC】【MYGO+Avemijika】 迷子们和人偶们正在当调查员 (失去记忆的场所准备中)](https://bbs.nga.cn/read.php?tid=46320688)》（同人文，2026-03）；《[【讨论】素世也爱音了？](https://bbs.nga.cn/read.php?tid=43730530)》（讨论帖，2025-04）；《[【闲聊】爱素氵，恭喜多首的怪物主副tag携手突破合计500万浏览量](https://bbs.nga.cn/read.php?tid=43881275)》（讨论帖，2025-04）；《[【吐槽】关于爱素关系和二创入脑](https://bbs.nga.cn/read.php?tid=43411997)》（讨论帖，2025-03）；《[【假药】爱素铁暗恋假药算是让爱音变成素世心里的第一顺位了吧](https://bbs.nga.cn/read.php?tid=43419843)》（讨论帖，2025-03）；《[【整活】我宣布"铁暗恋说"为爱素里程碑级别的理论](https://bbs.nga.cn/read.php?tid=43420087)》（讨论帖，2025-03）；《[【假药】【推测】【讨论】柿本或许真的在第七集参入了他对爱素的理解](https://bbs.nga.cn/read.php?tid=43430802)》（解析，2025-03）；《[【讨论】我发现有人对爱素是真的带点恨在里面啊](https://bbs.nga.cn/read.php?tid=43434507)》（讨论帖，2025-03）；《[【讨论】【疑问】【闲聊】想问问各位对爱素关系的看法？](https://bbs.nga.cn/read.php?tid=43443776)》（讨论帖，2025-03）；《[【疑问】 云观众问一下为什么剧情里祥子对所有人的魅力这么高，以及为什么爱素CP热度这么高？](https://bbs.nga.cn/read.php?tid=43469376)》（讨论帖，2025-03）；《[【闲聊】【讨论】来点爱素新剧情](https://bbs.nga.cn/read.php?tid=43547678)》（讨论帖，2025-03）；《[【搬运】爱素婚纱照cosplay](https://bbs.nga.cn/read.php?tid=43577238)》（图，2025-03）。
+
+@[details](另有 13 条，同样按发布时间排)
+
+- 《[【讨论】听说独角兽嗑爱素，柿本黑爱素](https://bbs.nga.cn/read.php?tid=43419255)》（讨论帖，2025-03）
+- 《[【讨论】 有无哪个大手子告诉我爱素的嗑点到底在哪？](https://bbs.nga.cn/read.php?tid=43293875)》（讨论帖，2025-02）
+- 《[【讨论】很好奇为什么会有人会觉得爱音和素世关系很好啊？](https://bbs.nga.cn/read.php?tid=43296653)》（讨论帖，2025-02）
+- 《[【讨论】 真的很佩服那些爱素太太](https://bbs.nga.cn/read.php?tid=43317176)》（讨论帖，2025-02）
+- 《[【吐槽氵】之前看二创以为素世心里爱音第一顺位](https://bbs.nga.cn/read.php?tid=43349299)》（讨论帖，2025-02）
+- 《[怎么在母鸡卡里也有爱素吃【Mujica】【略剧透】](https://bbs.nga.cn/read.php?tid=42913820)》（讨论帖，2025-01）
+- 《[【Mygo】爱素感觉有点立不住啊](https://bbs.nga.cn/read.php?tid=43009648)》（讨论帖，2025-01）
+- 《[mygo氵，不懂就问，二创为啥这么多爱素啊](https://bbs.nga.cn/read.php?tid=41136900)》（讨论帖，2024-08）
+- 《[【mygo】【爱素】自称爱音与长崎素世](https://bbs.nga.cn/read.php?tid=39580558)》（同人文，约 3000 字，2024-03）
+- 《[【爱素】长崎大小姐想让我告白](https://bbs.nga.cn/read.php?tid=39314314)》（同人文，约 6000 字，2024-02）
+- 《[【mygo同人漫画】【爱素糖】最好的礼物](https://bbs.nga.cn/read.php?tid=38237578)》（图，2023-11）
+- 《[(爱素)mygo 千早爱音，被花包围](https://bbs.nga.cn/read.php?tid=38200977)》（同人文，约 5000 字，2023-10）
+- 《[【mygo氵】爱音之后如何和soyo和解？](https://bbs.nga.cn/read.php?tid=37348632)》（讨论帖，2023-08）
+
+@[/details]
+
+- **更多贴吧帖子（按发布时间排）**：骰子🎲已经掷下《[我宣布“铁暗恋说”为爱素里程碑级别的理论](https://tieba.baidu.com/p/9537474153)》（讨论帖，2025-03）。
+
+- **更多 B 站动态（按发布时间排）**：季陌寂寞《[【爱素|沉默频率 】](https://www.bilibili.com/opus/1095939585092878339)》（同人文，约 4701 字，2025-08）；捅了带鱼窝的K2《[【爱素/mygo】未干燥的心跳](https://www.bilibili.com/opus/1054648413756325906)》（同人文，约 3415 字，2025-04）；启哈啊爱音《[【爱素】雨色下的爱恋](https://www.bilibili.com/opus/1055717319489093656)》（同人文，约 5752 字，2025-04）；启哈啊爱音《[【爱素】游园会](https://www.bilibili.com/opus/1060547972279828482)》（同人文，约 6312 字，2025-04）；王頂獵《[【爱素】真心话](https://www.bilibili.com/opus/1011732829982162964)》（同人文，约 2425 字，2024-12）；零-死前的百物语《[【爱素】何时知女心](https://www.bilibili.com/opus/963928856355405840)》（同人文，约 1 万 字，2024-08）；零-死前的百物语《[【爱素】捡到一只狗](https://www.bilibili.com/opus/932901389840941079)》（同人文，约 5516 字，2024-05）；零-死前的百物语《[【爱素】有距离的恋爱](https://www.bilibili.com/opus/906911447263477767)》（同人文，约 4369 字，2024-03）。
 
 ---
 

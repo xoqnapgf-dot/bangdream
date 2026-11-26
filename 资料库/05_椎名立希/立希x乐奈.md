@@ -76,6 +76,10 @@ NGA 有人从立希的心理去解释她为什么会照顾猫（tid 43016987）�
 
 - **更多 B 站视频（按播放排）**：周澜狂热女粉丝《[【描改手书】猫希猫的fly me to the star（夹带私货版）](https://www.bilibili.com/video/BV1ZA8BzfEGM)》（555 播放，2025-07）。
 
+- **更多 NGA 帖子（按发布时间排）**：《[【同人】 【Mygo】(希猫) Cat food](https://bbs.nga.cn/read.php?tid=38872968)》（同人文，约 6000 字，2024-01）。
+
+- **更多 B 站动态（按发布时间排）**：德琳Derin《[【立希X乐奈】Like Water似水](https://www.bilibili.com/opus/1031171748846895109)》（同人文，约 7773 字，2025-02）。
+
 ---
 
 ## 五、信息来源

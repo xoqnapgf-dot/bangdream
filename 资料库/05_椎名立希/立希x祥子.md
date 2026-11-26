@@ -169,7 +169,11 @@ NGA 希厨楼的结论叫「王不见王」：希祥的关系性正是 CRYCHIC �
 
 @[/details]
 
-- **更多专栏（按阅读排）**：比色法vc《[【MYGO/希祥】夏日幽灵（留档）](https://www.bilibili.com/read/cv33278726)》（阅读 519）；不碎的艾露猫《[对《祥子与立希》一文的最后补充](https://www.bilibili.com/read/cv35501243)》（阅读 340）；乌特洛彩弹《[【希祥】与另一个自己的和解](https://www.bilibili.com/read/cv45796191)》（阅读 314）；托儿_松山下的小蟲子《[【希祥】假如15年未见之大陀螺是…？](https://www.bilibili.com/read/cv41790953)》（阅读 295）；救世干红酒《[【希祥希】罗兰之歌](https://www.bilibili.com/read/cv48102767)》（阅读 280）；星辰子《[【希祥希】终末旅行法则](https://www.bilibili.com/read/cv53598521)》（阅读 101）。
+- **更多专栏（按阅读排）**：比色法vc《[【MYGO/希祥】夏日幽灵（留档）](https://www.bilibili.com/read/cv33278726)》（阅读 519）；不碎的艾露猫《[对《祥子与立希》一文的最后补充](https://www.bilibili.com/read/cv35501243)》（阅读 340）；乌特洛彩弹《[【希祥】与另一个自己的和解](https://www.bilibili.com/read/cv45796191)》（阅读 314）；托儿_松山下的小蟲子《[【希祥】假如15年未见之大陀螺是…？](https://www.bilibili.com/read/cv41790953)》（阅读 295）；救世干红酒《[【希祥希】罗兰之歌](https://www.bilibili.com/read/cv48102767)》（阅读 280）；星辰子《[【希祥希】终末旅行法则](https://www.bilibili.com/read/cv53598521)》（阅读 101）；托儿_松山下的小蟲子《[我的观众跟我认真地讨论希祥露魂互换的记录。](https://www.bilibili.com/read/cv52742046)》（专栏，讨论帖，2026-08）；MikhailVedder《[【结课作业/杂谈】从“希祥关系性”看网文中“王不见王”的别扭感写作](https://www.bilibili.com/read/cv44479779)》（专栏，解析，2025-12）；星辰子《[【希祥希】工作狂热](https://www.bilibili.com/read/cv43009752)》（专栏，同人文，约 1.1 万 字，2025-09）。
+
+- **更多 NGA 帖子（按发布时间排）**：《[说件很恐怖的事情，第七集可能是希祥发糖回](https://bbs.nga.cn/read.php?tid=43231749)》（讨论帖，2025-02）。
+
+- **更多贴吧帖子（按发布时间排）**：优木雪饼《[宣一下这次十月上海场对邦希祥花篮](https://tieba.baidu.com/p/9978749198)》（图，2025-08）；assassin540《[吧友们觉得希祥关系性的核心是什么](https://tieba.baidu.com/p/10448556140)》（讨论帖）。
 
 ---
 

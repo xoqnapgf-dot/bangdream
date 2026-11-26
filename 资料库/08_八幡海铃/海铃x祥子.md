@@ -105,6 +105,8 @@ NGA 的帖子标题是「海祥语音出了，信任和神明属于是标准人�
 
 - **更多专栏（按阅读排）**：UnifiedSelf《[关于颂乐人偶Ave Mujica的海祥迫真假药和end水墨画解读](https://www.bilibili.com/read/cv40556775)》（阅读 1389）；星辰子《[【后日谈/海祥】丰川祥子只是在和八幡海铃荒岛求生的样子(上)](https://www.bilibili.com/read/cv42231455)》（阅读 719）；星辰子《[【后日谈/海祥】丰川祥子只是在和八幡海铃荒岛求生的样子(下)](https://www.bilibili.com/read/cv42297808)》（阅读 718）。
 
+- **更多 NGA 帖子（按发布时间排）**：《[【闲聊】 海祥两则——祥脚&AveMuji Cat各一](https://bbs.nga.cn/read.php?tid=43946889)》（图，2025-04）；《[【讨论】有人磕到海祥了吗](https://bbs.nga.cn/read.php?tid=43397491)》（讨论帖，2025-02）。
+
 ---
 
 ## 四、信息来源

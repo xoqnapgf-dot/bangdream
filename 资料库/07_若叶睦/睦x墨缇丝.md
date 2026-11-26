@@ -79,7 +79,7 @@ B 站官方正片切片《Ave Mujica Mortis：「小睦已经死掉了」》有 
 
 - **更多 B 站视频（按播放排）**：MyGO_AveMujica《[【CM】「BanG Dream! Ave Mujica」角色介绍・Mortis/若叶睦篇](https://www.bilibili.com/video/BV1xXwgeNEEq)》（200.2 万播放，2025-01）；薛丁谔的猫《[【手书|Mortis/若叶睦】杀 掉 她 啦 ！【avemujica】](https://www.bilibili.com/video/BV1eRFMeMEyq)》（25.6 万播放，2025-01）；超特急水子《[【若叶睦/Mortis】提线睦偶的老鼠舞](https://www.bilibili.com/video/BV14rX5YdEhc)》（17.3 万播放，2025-03）；绯之晓杰《[【墨睦/MAD】“你已经奔向阳光，而我却走不出雨季”](https://www.bilibili.com/video/BV1Pt9HYkEzH)》（14.4 万播放，2025-03）；罗门圣徒《[【颂乐人偶】🥒 睦 索 里 尼 🇮🇹  【若叶睦&Mortis】](https://www.bilibili.com/video/BV1i9dKY4EEE)》（12.5 万播放，2025-04）；安东卫曙星《[国内首个若叶睦Mortis玉石周边是怎样炼成的](https://www.bilibili.com/video/BV1gWanzgEJi)》（10.3 万播放，2025-09）；颂乐虹夏《[【睦墨/填词】《燕无歇》-相逢目见喜，离别莫提思](https://www.bilibili.com/video/BV1KmVwzKE3m)》（9.2 万播放，2025-05）；绯之晓杰《[【填词/墨睦】“天生的人偶，天才的偶像”《Idol》](https://www.bilibili.com/video/BV1xfZ9YLETx)》（8.6 万播放，2025-04）；破竹残羽Jalen《[【Zc/Mujica】难绷神人Zc和若叶睦/墨缇丝打电话](https://www.bilibili.com/video/BV1efeyznEBA)》（8 万播放，2025-08）；抹茶芭菲奶《[【一次听够】一二季睦墨全语气声伴你入眠](https://www.bilibili.com/video/BV1DQZZYiEZi)》（6.8 万播放，2025-04）；null_lity《[【14岁cos若叶睦】莫提斯舞动](https://www.bilibili.com/video/BV1hFiAB2Esn)》（6.7 万播放，2025-12）；釉青_YQ《[达妮娅，但是若叶睦&墨缇丝](https://www.bilibili.com/video/BV1o5Lb6JE3u)》（6.2 万播放，2026-05）。
 
-@[details](另有 160 条，同样按播放排)
+@[details](另有 161 条，同样按播放排)
 
 - 年糕睦子米《[【MMD/若叶睦·Mortis】睦莫的天天天国地獄国](https://www.bilibili.com/video/BV1r1eG6fEUN)》（4.9 万播放，2026-09）
 - 抹茶芭菲奶《[睦墨语气声自用助眠](https://www.bilibili.com/video/BV1AG9mYUEYC)》（4.5 万播放，2025-03）
@@ -241,12 +241,13 @@ B 站官方正片切片《Ave Mujica Mortis：「小睦已经死掉了」》有 
 - 爱看邦的黄瓜睦睦《[Mortis 和睦睦](https://www.bilibili.com/video/BV1KFJd6JEHa)》（139 播放，2026-10）
 - 希儿想致富《[若叶睦与莫提斯的美术话题](https://www.bilibili.com/video/BV1eCew6nEoc)》（136 播放，2026-09）
 - 颂乐小睦《[【黄瓜日记19】睦墨 亲亲](https://www.bilibili.com/video/BV1NXfVBhEQA)》（108 播放，2026-02）
+- Sukeban_宿辻《[【AI若叶睦&墨提斯】《Follow Me》——“跟着我来观赏一场正在进行中的恶梦”](https://www.bilibili.com/video/BV1X8kLBKESi)》（2026-01）
 
 @[/details]
 
 - **更多专栏（按阅读排）**：karo_427_han《[Ave Mujica EP13 live 若叶睦/Mortis 动图gif收集](https://www.bilibili.com/read/cv41175303)》（阅读 7980）；唐可可の冰可可《[睦厨简单剖析《Avemujica》中Mortis和若叶睦在‘乐园世界观下的关系’](https://www.bilibili.com/read/cv42031262)》（阅读 7696）；二次元的石头门《[关于若叶睦（Mortis）目前多重人格的见解和分析Part1](https://www.bilibili.com/read/cv40627664)》（阅读 5298）；六月絮雨《[情人节来点睦莫水仙](https://www.bilibili.com/read/cv41744865)》（阅读 3120）；不畏真相《[大致分析一下若叶睦和Mortis的过去，真正的“死亡”Ave Mujica第九集](https://www.bilibili.com/read/cv40868274)》（阅读 3086）；不畏真相《[【真正的真相】为什么若叶睦和Mortis会死亡?（消失）Ave Mujica](https://www.bilibili.com/read/cv41551868)》（阅读 3018）；啊美好的一天呐《[可爱小睦（mortis＊）gif](https://www.bilibili.com/read/cv40617617)》（阅读 2734）；銀白の庭《[【墨睦祥】啊，丰川家的黑暗！](https://www.bilibili.com/read/cv41360118)》（阅读 2528）；一只污《[【Mujica/睦莫】神明神明张开嘴，让我知道我是谁](https://www.bilibili.com/read/cv40780310)》（阅读 1784）；学习の一生之敌《[憔悴的睦头，逃不掉的Mortis](https://www.bilibili.com/read/cv40473585)》（阅读 1477）；叶霜_摸鱼睡觉ver《[为什么来到罗德岛的是黄瓜睦/mortis而不是苦瓜睦？莫菲丝妙手回春？](https://www.bilibili.com/read/cv43034067)》（阅读 1323）；潘特拉zonda《[mortis分析](https://www.bilibili.com/read/cv40624708)》（阅读 1018）。
 
-@[details](另有 30 条，同样按阅读排)
+@[details](另有 33 条，同样按阅读排)
 
 - 草大王_尤弥尔《[【假药】睦头的莫提斯人格来自妈妈，寡言人格来自爸爸。](https://www.bilibili.com/read/cv40554015)》（阅读 1010）
 - 杀鸡取卵-《[若叶睦-Mortis：自由意志的诅咒](https://www.bilibili.com/read/cv43400465)》（阅读 906）
@@ -278,8 +279,13 @@ B 站官方正片切片《Ave Mujica Mortis：「小睦已经死掉了」》有 
 - 毒风鼠特林《[【墨缇丝/若叶睦】希望实现的愿望](https://www.bilibili.com/read/cv40788494)》（阅读 76）
 - 尾雾烂铭记《[假如第七集睦莫是两个人(0.1)(0.2)](https://www.bilibili.com/read/cv42722792)》（阅读 65）
 - 活人1234《[【睦墨】第一章 坠梦套餐：买一送一](https://www.bilibili.com/read/cv42887619)》（阅读 30）
+- 丶稚年《[同人偶般的空心人——若叶睦](https://www.bilibili.com/read/cv41175019)》（专栏，解析，2025-03）
+- 南乡疏影《[精神分析一下睦](https://www.bilibili.com/read/cv40700016)》（专栏，解析，2025-02）
+- 安娜Anatan《[前（原？）患者想为小睦和墨提斯发声](https://www.bilibili.com/read/cv40506207)》（专栏，解析，2025-01）
 
 @[/details]
+
+- **更多 NGA 帖子（按发布时间排）**：《[【闲谈交流】 感谢舟的联动让我睦墨双全，绿发小女孩健健康康](https://bbs.nga.cn/read.php?tid=44976540)》（讨论帖，2025-08）；《[目前最有潜力股票，若叶睦与大莫老师水仙股](https://bbs.nga.cn/read.php?tid=43213267)》（讨论帖，2025-02）；《[【讨论】这一集都表明了睦墨两个人格地位是平等的为啥还有人觉得祥子为了睦想把墨消灭是对的?](https://bbs.nga.cn/read.php?tid=43397756)》（讨论帖，2025-02）。
 
 ---
 
