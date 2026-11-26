@@ -372,6 +372,37 @@ NGA《花叶式半身——睦祥关系的具象化》（tid 45783107）从这�
 显然，她已经完全被那对“半身”忘到九霄云外了。
 @[/原文]
 
+- **更多 B 站视频（标题里写明这一对，按播放排）**：chord空《[【Mujica】睦墨双死 才是睦祥开始 续篇不写睦祥 我想不出来写什么 睦祥的欠债 也该还了吧](https://www.bilibili.com/video/BV1oiVQzdEpR)》（4.7 万播放，2025-05）；诡谲的绅士《[【我的小祥不可能那么可爱】#1我的妹妹哪有可能那么可爱](https://www.bilibili.com/video/BV1BQLJzVE7j)》（3.9 万播放，2025-04）；若葉睦子咪《[【Ave Mujica/睦祥睦】“自己都湿透了还想着为祥子打伞，一个两个都是笨蛋。”](https://www.bilibili.com/video/BV1GFftY9Evu)》（3.1 万播放，2025-01）；丰川祥子吧desuwa《[若叶睦结婚喊祥子当新娘？睦祥同人图合集【丰川祥子吧】](https://www.bilibili.com/video/BV1uou7z6ECL)》（2.4 万播放，2025-07）；我是一大乐乐dz《[【睦祥】Chu♡Chu♡Chu♡](https://www.bilibili.com/video/BV1R1Wb6qErT)》（2 万播放，2026-11）；麦昆爱蛋糕《[【睦祥/漫画】木木的箱游戏厅 其①](https://www.bilibili.com/video/BV1PRRnBBEC1)》（1.9 万播放，2026-05）；全麦面包无意义尖叫《[【睦祥手书】積み木の人形](https://www.bilibili.com/video/BV1whfnYJEy1)》（1.7 万播放，2025-01）；漫周驾到《[「睦祥」我和我最最最最好的朋友](https://www.bilibili.com/video/BV1CKpY6oErH)》（1.5 万播放，2026-10）；硫离子S2负《[【睦祥】累倒的神明与错会的睦](https://www.bilibili.com/video/BV1QCKPzcEdp)》（1.3 万播放，2025-06）；销声匿迹Q_Q《[【睦祥/Ave Mujica】若叶睦和丰川祥子的宿命论](https://www.bilibili.com/video/BV1DacReYEJ5)》（1.1 万播放，2025-01）；诡谲的绅士《[【睦祥】我的学生是青梅转世#1](https://www.bilibili.com/video/BV1rSviBtEwr)》（1.1 万播放，2025-12）；头被狗吃了《[【睦祥/文字pv手书】大小姐和大少爷的反派生涯](https://www.bilibili.com/video/BV13gZ5Y1EpK)》（1 万播放，2025-03）。
+
+@[details](另有 24 条，同样按播放排)
+
+- 丰川祥子吧desuwa《[和睦贴贴，亲亲，然后开一局…睦祥同人图合集2【丰川祥子吧】](https://www.bilibili.com/video/BV11vgEzqE3Y)》（8560 播放，2025-07）
+- 汉斯咖小啡《[【MyGO/睦祥】unhappy×Hate Me](https://www.bilibili.com/video/BV13AFYz8Eay)》（8268 播放，2026-02）
+- 下宫《[【睦祥】小祥的美貌，小睦的荣耀](https://www.bilibili.com/video/BV1uwVo6LEDX)》（7308 播放，2026-06）
+- 辛KiScarlet《[【睦祥/剧情MAD】“当初为什么要成为「一对」”](https://www.bilibili.com/video/BV1eFZYYNEun)》（7278 播放，2025-03）
+- 田木小熊《[【睦祥|手書】Time Machine](https://www.bilibili.com/video/BV1udhb6jEhh)》（6754 播放，2026-09）
+- 抹茶破忒头《[【睦祥/MAD】我们终将浑然难分,像水溶于水中](https://www.bilibili.com/video/BV1xGu3zjEuZ)》（6645 播放，2025-07）
+- 毋畏希望_QvQ《[睦祥之间的感情纠纷：二人矛盾源于什么? |精神分析祥子有哪些心理问题 Mujica 第三集万字解析](https://www.bilibili.com/video/BV1VFWi6pE9T)》（5886 播放，2026-11）
+- 睦之星与祥之月《[睦祥-叹云兮](https://www.bilibili.com/video/BV17upJztEkW)》（5778 播放，2025-09）
+- AveMujica-若叶睦《[七夕节的睦和祥](https://www.bilibili.com/video/BV1QVh9zwEv7)》（5010 播放，2025-08）
+- 烟梦轻羽《[【睦祥/MAD】越过斑驳之紫](https://www.bilibili.com/video/BV1jiX1YhE8K)》（4387 播放，2025-03）
+- 天才美少女阿侬《[【绘画/睦祥】半身姐妹](https://www.bilibili.com/video/BV1crvTzwE99)》（4063 播放，2025-08）
+- 丰川祥子吧desuwa《[（补档）祥子好像被睦囚禁了❤️睦祥同人图合集3【丰川祥子吧】](https://www.bilibili.com/video/BV1C1YhzZE5F)》（3455 播放，2025-08）
+- 一片傾心《[【睦祥】貼貼充電小動畫](https://www.bilibili.com/video/BV1eedzYEEDq)》（2775 播放，2025-04）
+- dan725《[【睦祥MAD｜剧情向】折翼的囚鸟又当如何飞翔](https://www.bilibili.com/video/BV1jNR8YWEEv)》（2604 播放，2025-03）
+- Blick-Winkel《[【睦祥】一种基于大脑因害羞过载而发热的取暖方式](https://www.bilibili.com/video/BV1S5um66E3N)》（2487 播放，2026-08）
+- 邓布利多军成员《[【Mujica/睦祥手书】小祥你幸福吗](https://www.bilibili.com/video/BV15kV46iEEd)》（2445 播放，2026-05）
+- 没有硬币了就这样吧《[【睦祥手书-睦生贺作】Mother Land](https://www.bilibili.com/video/BV1bPcSe7EZB)》（2194 播放，2025-01）
+- 纯困杉崽《[「睦祥\AMV」我真的爱你](https://www.bilibili.com/video/BV1N9EWzgESw)》（1733 播放，2025-05）
+- wrt823《[【Ave Mujica手书/睦祥】The Other Side Of Paradise](https://www.bilibili.com/video/BV1drngzoE7w)》（1537 播放，2025-09）
+- 7777777y《[『睦祥』雪山](https://www.bilibili.com/video/BV1vDHt6tEjv)》（1162 播放，2026-10）
+- 风十六夜《[【MAD/睦祥】《至少还有你》“你掌心的痣 我总记得在那里”](https://www.bilibili.com/video/BV1UXj16HE3q)》（799 播放，2026-06）
+- 別忆起《[【睦祥/AMV】了解彼此最能一挥就见血](https://www.bilibili.com/video/BV1pqFJeJEcj)》（783 播放，2025-01）
+- cell_0930《[睦祥手书｜回到过去·倒转她留下的那盘旧磁带](https://www.bilibili.com/video/BV11bWg6iEkP)》（607 播放，2026-11）
+- cell_0930《[睦祥手书｜晴朗天空·伞外大雨倾盆伞内却是蓝天白云](https://www.bilibili.com/video/BV1mbWg6iEzZ)》（256 播放，2026-11）
+
+@[/details]
+
 ---
 
 ## 五、信息来源
