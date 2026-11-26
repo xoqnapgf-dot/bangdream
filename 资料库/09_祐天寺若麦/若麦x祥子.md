@@ -77,7 +77,7 @@ Megami 2026 年 12 月号米泽茜和冈田梦以的对谈（NGA tid 47809778 �
 
 - **更多 B 站视频（按播放排）**：PopstarDonK《[【喵祥/手书】テレキャスタービーボーイ](https://www.bilibili.com/video/BV1af421d7Ks)》（6.2 万播放，2024-06）；龙虾NL《[【Ave Mujica/喵祥】用祝早死来代替晚安的两人（上）](https://www.bilibili.com/video/BV1Q9gAzuE5Q)》（5.2 万播放，2025-07）；TASC_extension《[喵祥30级羁绊剧情](https://www.bilibili.com/video/BV15Qax6jEnE)》（4.3 万播放，2026-09）；毋畏希望_QvQ《[【万字解析】喵祥在乐队的关系怎么样？](https://www.bilibili.com/video/BV1dFf6BDENp)》（2.2 万播放，2026-02）；丰川祥子的狗《[【迷子集会切片】气场！（喵祥）](https://www.bilibili.com/video/BV1LsgLzmE9M)》（1.8 万播放，2025-07）；龙虾NL《[【Ave Mujica/喵祥】用祝早死代替晚安的两人（下）](https://www.bilibili.com/video/BV1g1umz8ERq)》（1.4 万播放，2025-07）；丰川祥子的狗《[笨蛋神明【avemujica漫画/喵祥】](https://www.bilibili.com/video/BV1AeGQzNEan)》（1.4 万播放，2025-04）；北极暖水港《[邦邦2024情人节对话：喵祥](https://www.bilibili.com/video/BV17C411b7aH)》（1.3 万播放，2024-03）；公明地觉《[【喵祥】qqㄋㄟㄋㄟ好喝到咩噗茶](https://www.bilibili.com/video/BV1Lp3JzbET3)》（1.2 万播放，2025-07）；丰川祥子吧desuwa《[小祥玩偶和本人都想抱…喵祥同人图合集【丰川祥子吧】](https://www.bilibili.com/video/BV1t74fzFE2K)》（1 万播放，2025-08）；星雨夜晨yashinn《[【二创／喵祥】当太阳升起时，就忘掉昨天吧——1](https://www.bilibili.com/video/BV1UkR9YLE8Q)》（8973 播放，2025-04）；CTTZB《[【Ave Mujica/喵祥】分手后的新婚旅行（上）](https://www.bilibili.com/video/BV15Vz1BUEBU)》（8359 播放，2026-01）。
 
-@[details](另有 19 条，同样按播放排)
+@[details](另有 22 条，同样按播放排)
 
 - 洋溢翔《[交出人生是字面意思，而不是结婚邀请！！！【误解向/喵祥】](https://www.bilibili.com/video/BV1uw3YznEEo)》（8306 播放，2025-07）
 - PopstarDonK《[【手书】喵祥的惩罚游戏](https://www.bilibili.com/video/BV16f7PzgEoK)》（6494 播放，2025-06）
@@ -94,10 +94,13 @@ Megami 2026 年 12 月号米泽茜和冈田梦以的对谈（NGA tid 47809778 �
 - 柑橘蜂蜜柚子茶《[喵祥喵手書|ケラクション・ラヴ ONIISAN MOTTO GANBATTE](https://www.bilibili.com/video/BV1DdcpzTE9Z)》（3126 播放，2026-02）
 - 风劈麦浪《[【MAD/喵祥】Villain](https://www.bilibili.com/video/BV1JcHRzoE37)》（2020 播放，2025-09）
 - 公明地觉《[（描改手书）喵祥的沙雕同居生活](https://www.bilibili.com/video/BV1dWhRzVE1a)》（1938 播放，2025-08）
+- Navivican《[(喵祥)只有一个人没见过白祥，会是谁呢？【MYGO】](https://www.bilibili.com/video/BV1H8XiYCENY)》（1589 播放，2025-03）
 - 洋溢翔《[喵祥冲突1-为什么喵梦想要摘面具？【喵梦厨眼中的Mujica 27】](https://www.bilibili.com/video/BV1o96JBEEGf)》（1372 播放，2026-02）
 - 洋溢翔《[【喵眼Mujica|14】后台拌嘴其实也是喵祥play的一环](https://www.bilibili.com/video/BV1TWrHBrEjW)》（864 播放，2026-01）
 - 嘎嘰咕咪鴿《[【喵祥】PAY FOR LOVE](https://www.bilibili.com/video/BV12SwCzREh3)》（831 播放，2026-03）
+- 不要再玩了好不好《[look at me（喵祥喵）](https://www.bilibili.com/video/BV1eb421e7Mx)》（665 播放，2024-06）
 - 卑微社恐人《[【mujica/喵祥喵】我真得控制你了！](https://www.bilibili.com/video/BV184Psz1EP9)》（524 播放，2026-03）
+- 入梦Chaos《[【喵祥】宿敌就是宿敌啊！](https://www.bilibili.com/video/BV1tWFQeEEfQ)》（281 播放，2025-01）
 
 @[/details]
 

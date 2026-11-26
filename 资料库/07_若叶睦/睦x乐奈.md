@@ -35,7 +35,14 @@
 - 《[睦奈]看小睦上厕所的乐奈》（黑井日菜子，BV1KGomY8EQF，1.4 万播放，简介「吉他弄坏了，不敢找别的吉他手，还是找乐奈吧」）
 - 《【MyGO!!!!!/Ave Mujica】若叶睦&要乐奈《我这么可爱真的是抱歉》睦猫超可爱有木有》（BV1DsNueLEU7）
 
-- **更多 B 站视频（按播放排）**：梦分Quagmire《[睦猫CP原来是真的，小睦小莫的问题早结束了啊，Ave Mujica重开，BanG Dream! Ave Mujica颂乐人偶](https://www.bilibili.com/video/BV17vXeYaEHh)》（6.4 万播放，2025-03）；彩虹河夏骑士君《[原来睦猫线是这么圆上的么？哈基柿。。你这家伙](https://www.bilibili.com/video/BV1C4RNYwEtv)》（2.4 万播放，2025-03）；芽糕y《[【睦猫/手书】グリズリーに襲われたら](https://www.bilibili.com/video/BV1Gm2jBEE6F)》（6007 播放，2025-12）；账号已注销《[睦猫CP原来是真的，小睦小莫的问题早结束了啊，AveMujica重开，BanGDream!AveMujica颂乐人偶ik](https://www.bilibili.com/video/BV1rVMZzMEdC)》系列，共 3 集（累计 2471 播放，2025-07 至 2025-07；链接是播放最高的一集，各集见下方折叠）；芽糕y《[【睦猫】这个旮旯game哪里下](https://www.bilibili.com/video/BV1S9Nu6REi1)》（1684 播放，2026-07）；芽糕y《[【睦猫/手书】还是黄瓜小猫](https://www.bilibili.com/video/BV1cBq6BgEgp)》（927 播放，2025-12）；芽糕y《[【睦猫】異星にいこうね](https://www.bilibili.com/video/BV1Qk3g6CEww)》（863 播放，2026-07）；账号已注销《[谈谈睦猫关系性，及若叶睦这个人物今后何去何从（总篇）](https://www.bilibili.com/video/BV1UZKMzTE7i)》（458 播放，2025-06）；华家三少《[睦猫原来真的是CP，小睦小莫看起来融合了啊，Ave Mujica组合重新启动【颂乐人偶】](https://www.bilibili.com/video/BV1TgXCY6EJ5)》（259 播放，2025-03）。
+- **更多 B 站视频（按播放排）**：梦分Quagmire《[睦猫CP原来是真的，小睦小莫的问题早结束了啊，Ave Mujica重开，BanG Dream! Ave Mujica颂乐人偶](https://www.bilibili.com/video/BV17vXeYaEHh)》（6.4 万播放，2025-03）；彩虹河夏骑士君《[原来睦猫线是这么圆上的么？哈基柿。。你这家伙](https://www.bilibili.com/video/BV1C4RNYwEtv)》（2.4 万播放，2025-03）；芽糕y《[【睦猫/手书】グリズリーに襲われたら](https://www.bilibili.com/video/BV1Gm2jBEE6F)》（6007 播放，2025-12）；芽糕y《[【睦猫/meme】关于你我什么都不知道](https://www.bilibili.com/video/BV1FvkxBCEKw)》（1720 播放，2026-01）；芽糕y《[【睦猫】这个旮旯game哪里下](https://www.bilibili.com/video/BV1S9Nu6REi1)》（1684 播放，2026-07）；乐奈超可爱《[好可爱的睦猫，这才是邦邦的世界观啊！](https://www.bilibili.com/video/BV12gwdehEEF)》（1391 播放，2025-02）；芽糕y《[【睦猫/手书】还是黄瓜小猫](https://www.bilibili.com/video/BV1cBq6BgEgp)》（927 播放，2025-12）；芽糕y《[【睦猫】異星にいこうね](https://www.bilibili.com/video/BV1Qk3g6CEww)》（863 播放，2026-07）；JC漫剪《[这是要硬凑睦猫cp啊，多少有点斯德哥尔摩综合症了【颂乐人偶】](https://www.bilibili.com/video/BV1BjZVYQEYJ)》（759 播放，2025-03）；账号已注销《[谈谈睦猫关系性，及若叶睦这个人物今后何去何从（总篇）](https://www.bilibili.com/video/BV1UZKMzTE7i)》（458 播放，2025-06）；芽糕y《[【睦猫】发布了一条莫名其妙的视频](https://www.bilibili.com/video/BV1AXhX6iEQ3)》（454 播放，2026-09）；华家三少《[睦猫原来真的是CP，小睦小莫看起来融合了啊，Ave Mujica组合重新启动【颂乐人偶】](https://www.bilibili.com/video/BV1TgXCY6EJ5)》（259 播放，2025-03）。
+
+@[details](另有 2 条，同样按播放排)
+
+- 理塘涵涵《[你是一个一个一个睦猫啊](https://www.bilibili.com/video/BV1fYvyB3ETm)》（108 播放，2025-12）
+- 账号已注销《[睦猫CP原来是真的，小睦小莫的问题早结束了啊，AveMujica重开，BanGDream!AveMujica颂乐人偶ik](https://www.bilibili.com/video/BV1rVMZzMEdC)》系列，共 3 集（累计 2471 播放，2025-07 至 2025-07；链接是播放最高的一集，各集见下方折叠）
+
+@[/details]
 
 @[details](《睦猫CP原来是真的，小睦小莫的问题早结束了啊，AveMujica重开，BanGDream!AveMujica颂乐人偶ik》各集链接，共 3 集)
 

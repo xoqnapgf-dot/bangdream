@@ -68,14 +68,21 @@ NamuWiki 英文版把这一对写成若麦所有配对里最主流的一个，�
 - 《【动画】扣拟几，喵睦喵睦～》（AN0N_LONDON，BV13GGSzrEYU）
 - 更多见《睦x若麦.md》第四节。
 
-- **更多 B 站视频（按播放排）**：千早爱音学习中《[Ave mujica 喵睦上大分！](https://www.bilibili.com/video/BV1CmZVYhEcY)》（3.3 万播放，2025-03）；四石Fst《[【喵睦】同居、与豆腐炖鱼](https://www.bilibili.com/video/BV1dgmkBaEsk)》（3 万播放，2025-12）；YRFLY《[【喵睦】麦](https://www.bilibili.com/video/BV1cPq2BoEWH)》（1.4 万播放，2025-12）；TKGEKKOU《[【喵睦/MAD】“讓我為你寫一本恐怖小說”](https://www.bilibili.com/video/BV1YuRjYVE1Z)》（1.2 万播放，2025-03）；YRFLY《[【喵睦】松鼠](https://www.bilibili.com/video/BV18xRvB9EDq)》（7127 播放，2026-05）；栎の悅《[【喵睦tv】邪恶喵梦被骗到小睦家里，给小墨提斯报大别墅被炸之仇。](https://www.bilibili.com/video/BV19cKV6rEPk)》（6573 播放，2026-07）；晴岚柊Hiiragi《[【Ave Mujica/喵睦】 渎神者的扭曲之爱](https://www.bilibili.com/video/BV1xWMFzjEqL)》（4842 播放，2025-06）；Alfred_Ingemar《[【mygo/喵睦】向日葵](https://www.bilibili.com/video/BV1BagQ6BEwd)》（4453 播放，2026-07）；Alfred_Ingemar《[【mygo/喵睦】离乡](https://www.bilibili.com/video/BV1iCsZ6xEm5)》（3506 播放，2026-10）；放假低聚果糖《[个人见解谈一谈喵，以及喵睦之间的关系（什么我cp打赢复活赛了？）](https://www.bilibili.com/video/BV1cpRWYmEsC)》（3472 播放，2025-03）；自由里森堡解放力量《[［Ave Mujica/喵睦/Kards］大喵拿小睦的万能金合别-4！？](https://www.bilibili.com/video/BV1Wck1BBEYF)》（2214 播放，2025-11）；四石Fst《[【喵睦】掌心（原作：北北）](https://www.bilibili.com/video/BV1TXe36KEys)》（2195 播放，2026-09）。
+- **更多 B 站视频（按播放排）**：千早爱音学习中《[Ave mujica 喵睦上大分！](https://www.bilibili.com/video/BV1CmZVYhEcY)》（3.3 万播放，2025-03）；四石Fst《[【喵睦】同居、与豆腐炖鱼](https://www.bilibili.com/video/BV1dgmkBaEsk)》（3 万播放，2025-12）；newesthy《[喵睦亲](https://www.bilibili.com/video/BV1w391YrEkc)》（2.1 万播放，2025-03）；YRFLY《[【喵睦】麦](https://www.bilibili.com/video/BV1cPq2BoEWH)》（1.4 万播放，2025-12）；TKGEKKOU《[【喵睦/MAD】“讓我為你寫一本恐怖小說”](https://www.bilibili.com/video/BV1YuRjYVE1Z)》（1.2 万播放，2025-03）；YRFLY《[【喵睦】松鼠](https://www.bilibili.com/video/BV18xRvB9EDq)》（7127 播放，2026-05）；星观后《[【喵睦】如果睦开始打直球](https://www.bilibili.com/video/BV1vkHW6EEgX)》（7111 播放，2026-10）；栎の悅《[【喵睦tv】邪恶喵梦被骗到小睦家里，给小墨提斯报大别墅被炸之仇。](https://www.bilibili.com/video/BV19cKV6rEPk)》（6573 播放，2026-07）；刺头人《[喵睦](https://www.bilibili.com/video/BV19C4169Eof)》（6339 播放，2026-08）；晴岚柊Hiiragi《[【Ave Mujica/喵睦】 渎神者的扭曲之爱](https://www.bilibili.com/video/BV1xWMFzjEqL)》（4842 播放，2025-06）；Alfred_Ingemar《[【mygo/喵睦】向日葵](https://www.bilibili.com/video/BV1BagQ6BEwd)》（4453 播放，2026-07）；Alfred_Ingemar《[【mygo/喵睦】离乡](https://www.bilibili.com/video/BV1iCsZ6xEm5)》（3506 播放，2026-10）。
 
-@[details](另有 4 条，同样按播放排)
+@[details](另有 11 条，同样按播放排)
 
+- 放假低聚果糖《[个人见解谈一谈喵，以及喵睦之间的关系（什么我cp打赢复活赛了？）](https://www.bilibili.com/video/BV1cpRWYmEsC)》（3472 播放，2025-03）
+- 自由里森堡解放力量《[［Ave Mujica/喵睦/Kards］大喵拿小睦的万能金合别-4！？](https://www.bilibili.com/video/BV1Wck1BBEYF)》（2214 播放，2025-11）
+- 四石Fst《[【喵睦】掌心（原作：北北）](https://www.bilibili.com/video/BV1TXe36KEys)》（2195 播放，2026-09）
+- OftenmockSuShi《[感觉喵睦跳舞片段很配这首歌就剪了](https://www.bilibili.com/video/BV1nKx465Efz)》（1666 播放，2026-11）
+- 我挺神秘啊《[喵睦calpcalp](https://www.bilibili.com/video/BV1Vjaj6EEV3)》（1212 播放，2026-09）
 - NAVI-AmorB1t《[「钟摆 会把什么带来 是悲哀的空白 或被爱填满的存在」喵睦对唱『猜猜看』](https://www.bilibili.com/video/BV1u6xH61ESt)》（635 播放，2026-11）
+- 小扶年年有福《[【喵睦】来合张照吧但位置反了](https://www.bilibili.com/video/BV16Usn64EcZ)》（492 播放，2026-11）
 - 燈了了了了《[【喵睦】messages from the stars](https://www.bilibili.com/video/BV1YnhA65Ehn)》（473 播放，2026-08）
 - Metal_Ghost《[【自用】mujica外传喵睦跳舞完整版](https://www.bilibili.com/video/BV1SgaH6oEzZ)》（440 播放，2026-09）
 - Tanatos_-《[【AI祐天寺若麦/若叶睦 喵睦】想听你说月色真美/月が綺麗ねと言われたい！ - 初音ミク【カササギ】](https://www.bilibili.com/video/BV19Zx16nES7)》（413 播放，2026-11）
+- 箓临《[喵睦一则](https://www.bilibili.com/video/BV11PytzJELs)》（118 播放，2026-11）
 
 @[/details]
 

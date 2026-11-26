@@ -165,6 +165,16 @@ mikanayuip 的 CP 论给这一段的标题是「口下手ブラザーズ」（�
 
 - **更多专栏（按阅读排）**：不碎的艾露猫《[若叶睦和高松灯关系的考察](https://www.bilibili.com/read/cv40162196)》（阅读 1356）；青灯green《[蓝色太阳——高松灯、若叶睦六一研读](https://www.bilibili.com/read/cv41869681)》（阅读 407）。
 
+- **更多 B 站视频（按播放排）**：声望1《[谁来分析一下灯睦对话](https://www.bilibili.com/video/BV1pgTBz1Eza)》（1888 播放，2025-06）；春日殘息將影《[灯睦](https://www.bilibili.com/video/BV1oCE86FEAy)》系列，共 3 集（累计 1441 播放，2026-05 至 2026-06；链接是播放最高的一集，各集见下方折叠）；喷子战士《[灯睦游玩半条命模组](https://www.bilibili.com/video/BV1fFN46REfp)》（445 播放，2026-07）；破碎若叶睦《[灯睦牵手](https://www.bilibili.com/video/BV1BLE46QEkH)》（181 播放，2026-06）；绯澜天井下《[若叶睦塔#单品 3-5 这也有灯睦看的啊，灯睦对吗，对的对的](https://www.bilibili.com/video/BV1A34zzYECM)》（111 播放，2025-10）；薄yu《[灯灯睦睦](https://www.bilibili.com/video/BV1fd8H6uENW)》（63 播放，2026-08）。
+
+@[details](《灯睦》各集链接，共 3 集)
+
+- [灯睦](https://www.bilibili.com/video/BV1XE5n6DErP)（311 播放，2026-05）
+- [灯睦](https://www.bilibili.com/video/BV1t85u6yENt)（314 播放，2026-05）
+- [灯睦](https://www.bilibili.com/video/BV1oCE86FEAy)（816 播放，2026-06）
+
+@[/details]
+
 ---
 
 ## 六、信息来源

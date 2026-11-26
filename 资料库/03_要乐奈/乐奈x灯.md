@@ -895,7 +895,7 @@ x剑士高光时刻就是猫僧那个三星跟矢x了
 
 @[/原文]
 
-- **更多 B 站视频（按播放排）**：qwer203《[猫灯的扔子对对碰。](https://www.bilibili.com/video/BV1ipnFzFEKY)》（1.4 万播放，2025-09）；零落春秋O《[【猫灯/ournotes】羁绊剧情：关于一辈子......](https://www.bilibili.com/video/BV1SAxv6EEJ6)》（962 播放，2026-10）；抹茶拿铁和企鹅《[【猫灯/要乐奈生贺】只是一张贺卡（约稿展示）](https://www.bilibili.com/video/BV115fPBvEmb)》（283 播放，2026-02）；暮天MT《[【AI猫灯】Moe Shop - Silhouette (Feat.Milk Talk)](https://www.bilibili.com/video/BV1MgKBzQEae)》（258 播放，2025-06）；暮天MT《[【AI猫灯】Able Heart - Whisper](https://www.bilibili.com/video/BV1QwMtzPEno)》（222 播放，2025-06）；暮天MT《[【AI猫灯】Dirty Palm、Child Nation - Hana (Feat. Swimmy)](https://www.bilibili.com/video/BV1ztt7zNEm7)》（144 播放，2025-08）。
+- **更多 B 站视频（按播放排）**：qwer203《[猫灯的扔子对对碰。](https://www.bilibili.com/video/BV1ipnFzFEKY)》（1.4 万播放，2025-09）；零落春秋O《[【猫灯/ournotes】羁绊剧情：关于一辈子......](https://www.bilibili.com/video/BV1SAxv6EEJ6)》（962 播放，2026-10）；抹茶拿铁和企鹅《[【猫灯】洗衣机，很有趣，灯也来转](https://www.bilibili.com/video/BV134RPYVEfQ)》（455 播放，2025-03）；抹茶拿铁和企鹅《[【开箱/可助眠】开一箱猫灯官谷清货](https://www.bilibili.com/video/BV1TdnJzuE7w)》（398 播放，2025-09）；抹茶拿铁和企鹅《[【猫灯/要乐奈生贺】只是一张贺卡（约稿展示）](https://www.bilibili.com/video/BV115fPBvEmb)》（283 播放，2026-02）；暮天MT《[【AI猫灯】Moe Shop - Silhouette (Feat.Milk Talk)](https://www.bilibili.com/video/BV1MgKBzQEae)》（258 播放，2025-06）；暮天MT《[【AI猫灯】Able Heart - Whisper](https://www.bilibili.com/video/BV1QwMtzPEno)》（222 播放，2025-06）；暮天MT《[【AI猫灯】Dirty Palm、Child Nation - Hana (Feat. Swimmy)](https://www.bilibili.com/video/BV1ztt7zNEm7)》（144 播放，2025-08）。
 
 ---
 

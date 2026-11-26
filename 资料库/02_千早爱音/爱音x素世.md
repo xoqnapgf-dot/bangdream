@@ -1238,7 +1238,6 @@ pixiv「あのそよ」近一年收藏最多的有 materWolen《即将被爽食�
 - 南局爱素段《[【Ansy/爱素】甚至连猫的醋都吃的长崎素世](https://www.bilibili.com/video/BV1VGxu6jEFN)》（7776 播放，2026-10）
 - blkgs《[【MyGO/爱素/HE】依存感](https://www.bilibili.com/video/BV1dDANzeEV5)》（7553 播放，2026-03）
 - rxpvovkcyfd《[年轻的素世与成熟的素世（爱素）](https://www.bilibili.com/video/BV1H7Ey65E1A)》（7405 播放，2026-06）
-- xind_eee《[【爱素ansy/全配音】执着于你的温暖（含ABO）](https://www.bilibili.com/video/BV1rR3M6oEDq)》（7300 播放，2026-07）
 - L1tbyuside《[【MyGO/爱素/全配音】这种关系的名字是...？](https://www.bilibili.com/video/BV1UQVf6UEXs)》（7278 播放，2026-06）
 - 茶洛只想睡觉《[【Mygo/爱素】同人游戏《迷子公路》PV](https://www.bilibili.com/video/BV1wTcJz5EQe)》（7076 播放，2026-02）
 - 瀣燮xiexie《[【mygo/ansy/爱素/纯糖】爱素生了双胞胎#0](https://www.bilibili.com/video/BV1MSZ9YpEGh)》（6618 播放，2025-04）
@@ -1249,7 +1248,6 @@ pixiv「あのそよ」近一年收藏最多的有 materWolen《即将被爽食�
 - 华屿听琴弦《[聊天记录(爱素)](https://www.bilibili.com/video/BV19dWh6BEw4)》（5579 播放，2026-11）
 - 墨奏Kanade《[［Mygo/爱素讨论］其实我对“暗恋”不满，是因为它表达了但不全面](https://www.bilibili.com/video/BV1Hg9FYyEad)》（5377 播放，2025-03）
 - 星曉汐《[【Mygo/爱素】项链](https://www.bilibili.com/video/BV1eKAwetEGP)》（5350 播放，2025-02）
-- 我是爱素份子呐《[【mygo/ansy/爱素】上床睡](https://www.bilibili.com/video/BV11JV66ZEqX)》（5265 播放，2026-06）
 - 凛雨晴灯《[【爱素】想帮队友和好结果她两告白了？](https://www.bilibili.com/video/BV1hHWy6gEQK)》（4919 播放，2026-11）
 - 闲鱼tudou《[【爱素/全配音】你是mygo的吉他手，也是我的吉他手](https://www.bilibili.com/video/BV1sJ8E6TE5M)》（4713 播放，2026-08）
 - 星曉汐《[【mygo/爱素】败犬素世会赢的！完结篇"逃兵"羁绊](https://www.bilibili.com/video/BV1ziiFBsEQ9)》（4517 播放，2026-01）
@@ -1281,6 +1279,7 @@ pixiv「あのそよ」近一年收藏最多的有 materWolen《即将被爽食�
 - 一杯咸咸的白开水《[【爱素/cb cp随意】设定上…狗不能吃巧克力…](https://www.bilibili.com/video/BV1UAWR6AE9t)》（1626 播放，2026-11）
 - kyv38《[【爱素】素世送爱音回家之后的故事](https://www.bilibili.com/video/BV1aZnd6YEep)》（1623 播放，2026-10）
 - 莺时_-《[［爱素/ansy］不知道什么视频的视频](https://www.bilibili.com/video/BV1LqWm6dEyW)》（1608 播放，2026-11）
+- 迟钝的雨花《[爱素可真好啊，爽世和爱音可爱的贴贴 。让人感觉很温馨](https://www.bilibili.com/video/BV1GZsz6PEeA)》（1605 播放，2026-11）
 - 白屿k_《[【MyGO/爱素】心墙“你的心有一道墙，但我发现一扇窗。”](https://www.bilibili.com/video/BV1oujGzXE9q)》（1562 播放，2025-05）
 - 开罗市酋长《[【mygo/爱素/微刀】千早爱音奇事：不想继续前进了](https://www.bilibili.com/video/BV1usnG6TEUN)》（1479 播放，2026-10）
 - 这个会好吃吗《[从夯到拉锐评拉踩爱素的评论（2）](https://www.bilibili.com/video/BV1eb4q6AEAe)》（1421 播放，2026-11）
@@ -1304,6 +1303,7 @@ pixiv「あのそよ」近一年收藏最多的有 materWolen《即将被爽食�
 - 是睦不是小睦《[要吃一休尼爱素啊](https://www.bilibili.com/video/BV1gwWa6vEKC)》（642 播放，2026-11）
 - rxpvovkcyfd《[爱素](https://www.bilibili.com/video/BV1vq5y6dExy)》（620 播放，2026-05）
 - LightningO0o《[爱素 当你](https://www.bilibili.com/video/BV1BqsH69EHZ)》（600 播放，2026-11）
+- 拾散则《[【MYGO 爱素】天下第一好的爱素](https://www.bilibili.com/video/BV1L3sN6qEQ5)》（348 播放，2026-11）
 - 杀一只烈焰雕《[【MyGO/爱素/MAD】心墙](https://www.bilibili.com/video/BV1KtKVe9ELk)》（233 播放，2025-02）
 
 @[/details]

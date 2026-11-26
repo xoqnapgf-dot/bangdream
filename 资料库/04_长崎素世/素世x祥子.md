@@ -107,19 +107,24 @@ NGA 卡面公布那天的帖子标题是《卖素祥了居然！我在做梦吗�
 - **官方卡面熟肉**：《【邦多利中字/对邦限定卡面剧情/素祥】袒露的自己 上篇》（克图格亚121，BV1rvLozSEsL）；丰川祥子吧《素祥卡面官方译本明确爽世在拍小祥，甜》（BV1qm4QzxEup）
 - **解析**：《【MYGO】深度解析08：飞鸟山之战惊世一跪，素祥ptsd碰撞而生的悲剧》（惜玉老师，BV1Dpgt64Emf）；NGA《在第十三集后，以素祥二人的错位为主题重审第八集的展开》（tid=37729280）、《Ave Mujica 第七集，黑素世第一视点拉片，拒绝洗白》（tid=43291190）
 
-- **更多 B 站视频（按播放排）**：三水令泠《[【素祥手书】不良素和清纯祥的来去打工](https://www.bilibili.com/video/BV1rujzzqEYN)》（1.1 万播放，2025-05）；丸菈《[【素祥】离异素世不会遇到下海前妻（租借小祥）](https://www.bilibili.com/video/BV1rf4N6HEwD)》（7373 播放，2026-11）；雾亦茫茫_《[素祥之官粮来了，雨中祈晴漫画画师泡沫老师的画的哦](https://www.bilibili.com/video/BV1w2JczzEHn)》（7085 播放，2025-05）；御剑怜侍official_《[【素祥cos］恶魔素世把小祥变成猫咪了……](https://www.bilibili.com/video/BV1PFxi6gEa9)》（7024 播放，2026-10）；绿草如茵的丰茵《[【素祥】枕边的玩偶变成真人了？](https://www.bilibili.com/video/BV1FieS6aEQe)》（6999 播放，2026-09）；丰川祥子吧desuwa《[素世八周年卡面剧情素祥糖-奶茶味蛋糕【丰川祥子吧】](https://www.bilibili.com/video/BV1g4WxzPEsC)》（6316 播放，2025-10）；AAA黄包车小祥《[【mygo\素祥】午夜凶“祥”](https://www.bilibili.com/video/BV1QsowBAEMy)》（6222 播放，2026-04）；War3玩家《[【素祥】《樱花初开时》](https://www.bilibili.com/video/BV1usGQz3EST)》（6016 播放，2025-05）；禾里里_《[［Mygo!!!!!/素祥］conspiracy手书](https://www.bilibili.com/video/BV16meAz2EhP)》（5628 播放，2025-08）；Blick-Winkel《[【素祥】睡眠延迟综合症](https://www.bilibili.com/video/BV1nrxfzSECH)》（5350 播放，2025-10）；_向四季起誓__《[【素祥手书】反正](https://www.bilibili.com/video/BV1cdMk65EZC)》（5341 播放，2026-08）；落下幸福的眼淚吧《[【素祥】Cat Reincarnation（猫重生）](https://www.bilibili.com/video/BV1VhbkzPEJ4)》（4722 播放，2025-08）。
+- **更多 B 站视频（按播放排）**：淮阴点子王《[【素祥/整活向】假如素世教育祥子的办法是开do](https://www.bilibili.com/video/BV1kBKLeREkr)》（1.2 万播放，2025-02）；三水令泠《[【素祥手书】不良素和清纯祥的来去打工](https://www.bilibili.com/video/BV1rujzzqEYN)》（1.1 万播放，2025-05）；薇欧拉妺妹《[【素祥】小祥，为什么要走？](https://www.bilibili.com/video/BV1kBa866Em1)》（7681 播放，2026-09）；丸菈《[【素祥】离异素世不会遇到下海前妻（租借小祥）](https://www.bilibili.com/video/BV1rf4N6HEwD)》（7373 播放，2026-11）；雾亦茫茫_《[素祥之官粮来了，雨中祈晴漫画画师泡沫老师的画的哦](https://www.bilibili.com/video/BV1w2JczzEHn)》（7085 播放，2025-05）；御剑怜侍official_《[【素祥cos］恶魔素世把小祥变成猫咪了……](https://www.bilibili.com/video/BV1PFxi6gEa9)》（7024 播放，2026-10）；绿草如茵的丰茵《[【素祥】枕边的玩偶变成真人了？](https://www.bilibili.com/video/BV1FieS6aEQe)》（6999 播放，2026-09）；丰川祥子吧desuwa《[素世八周年卡面剧情素祥糖-奶茶味蛋糕【丰川祥子吧】](https://www.bilibili.com/video/BV1g4WxzPEsC)》（6316 播放，2025-10）；AAA黄包车小祥《[【mygo\素祥】午夜凶“祥”](https://www.bilibili.com/video/BV1QsowBAEMy)》（6222 播放，2026-04）；War3玩家《[【素祥】《樱花初开时》](https://www.bilibili.com/video/BV1usGQz3EST)》（6016 播放，2025-05）；禾里里_《[［Mygo!!!!!/素祥］conspiracy手书](https://www.bilibili.com/video/BV16meAz2EhP)》（5628 播放，2025-08）；Blick-Winkel《[【素祥】睡眠延迟综合症](https://www.bilibili.com/video/BV1nrxfzSECH)》（5350 播放，2025-10）。
 
-@[details](另有 48 条，同样按播放排)
+@[details](另有 59 条，同样按播放排)
 
+- _向四季起誓__《[【素祥手书】反正](https://www.bilibili.com/video/BV1cdMk65EZC)》（5341 播放，2026-08）
+- 落下幸福的眼淚吧《[【素祥】Cat Reincarnation（猫重生）](https://www.bilibili.com/video/BV1VhbkzPEJ4)》（4722 播放，2025-08）
 - 蓝色章鱼祥《[【mygo二创/素祥】当祥子渐渐被遗忘#5  素世的选择](https://www.bilibili.com/video/BV1J35LzwEr1)》（4249 播放，2025-05）
 - 来自曼哈德的恋恋《[【祥子在FNAF 番外】 保安祥子被弹簧素世狂追](https://www.bilibili.com/video/BV17me3egEi5)》（4211 播放，2024-08）
 - AAA黄包车小祥《[【素祥】假如祥子退出乐队是因为有了素世的孩子？](https://www.bilibili.com/video/BV1nrqHBsEYq)》（4144 播放，2025-12）
 - 发癫Nemo《[【MyGO填词/素祥】《我们的爱》像被咀嚼的素材](https://www.bilibili.com/video/BV1JUKzzyEhV)》（4112 播放，2025-06）
 - 一只还能做视频的熊《[素祥：我们曾是《最佳损友》【MyGO/Mujica】](https://www.bilibili.com/video/BV1uCH9zuErv)》（3404 播放，2025-09）
+- 粥原鸣农撸刀go瓦洲《[【素祥/官粮】素祥送别之柜子出征](https://www.bilibili.com/video/BV1xKWnzVEM2)》（3279 播放，2025-10）
 - 沐风丶凌霄《[素祥剑道切磋，谁输谁当0](https://www.bilibili.com/video/BV11ypy68ExP)》（3256 播放，2026-10）
+- 薇欧拉妺妹《[【素祥】乐奈的由来](https://www.bilibili.com/video/BV1Dka66mE5Y)》（3240 播放，2026-10）
 - 澪夜16《[【素祥】踏进圣域的素世与假面下的伪神](https://www.bilibili.com/video/BV1JG5LzhEFG)》（2865 播放，2025-05）
 - 十六夜_蕾米《[［素祥］你好nyan~](https://www.bilibili.com/video/BV1tBMdzVEtd)》（2733 播放，2025-07）
 - 大爱RD《[【素祥/MYGO】下雨天](https://www.bilibili.com/video/BV1wx4y1i7eV)》（2613 播放，2024-05）
+- 鼠王大帝《[【素祥】女孩是个同姓恋](https://www.bilibili.com/video/BV1pivKeKEnC)》（2582 播放，2024-07）
 - 五樱桜《[【素祥/催泪MAD/素世篇】小祥，我多希望，你能一直在我身边......请你记得我......](https://www.bilibili.com/video/BV1SdzTBvEeE)》（2572 播放，2026-01）
 - 落花待微风《[〔素祥〕雨停会代表重逢吗（上）chapter3](https://www.bilibili.com/video/BV1tY89zsEk2)》（2518 播放，2025-07）
 - 双层吉士牛肉堡最高《[素祥关系个人解析](https://www.bilibili.com/video/BV1JDCnYrEJy)》（2447 播放，2024-12）
@@ -130,6 +135,8 @@ NGA 卡面公布那天的帖子标题是《卖素祥了居然！我在做梦吗�
 - O甜妹本甜O《[素祥之送别【MYGO】](https://www.bilibili.com/video/BV1G4dyYbEVh)》（1672 播放，2025-04）
 - Blick-Winkel《[【素祥】和暧昧期准女友出去玩车子抛锚了怎么办？](https://www.bilibili.com/video/BV16PNMznEtF)》（1606 播放，2026-03）
 - 超高校级的大港《[【素祥】甚至不知道自己在胡言乱语](https://www.bilibili.com/video/BV1Wcxm6MEc4)》（1548 播放，2026-11）
+- Aloereed《[【MyGO/素祥MAD】你说你会哭 不是因为在乎](https://www.bilibili.com/video/BV1ny411i7xn)》（1458 播放，2024-07）
+- 夜皇依月《[【奇怪的素祥】送外卖的丰川祥子](https://www.bilibili.com/video/BV1TN4z64EX9)》（1265 播放，2026-11）
 - 合法的法是魔法的法《[「素祥」坏心思的神明给我带来了礼物](https://www.bilibili.com/video/BV1sQsB6EE1s)》（1249 播放，2026-11）
 - 橘雪莉是也《[【素祥】早死的遗书](https://www.bilibili.com/video/BV1nHsS6BESc)》（1221 播放，2026-11）
 - 重生之我是草种批发商《[【MyGo!!!!!/素祥】我本人](https://www.bilibili.com/video/BV1PUqhYwEvn)》（1163 播放，2024-12）
@@ -138,6 +145,7 @@ NGA 卡面公布那天的帖子标题是《卖素祥了居然！我在做梦吗�
 - 卡贴OVO《[【素祥/剧情向】一个人想着一个人](https://www.bilibili.com/video/BV1AGR7YcEne)》（895 播放，2025-03）
 - 丞相亮《[素祥(祥素）的四季诗之武道馆(“素”流“祥”清）篇](https://www.bilibili.com/video/BV1ouMs6QE8P)》（894 播放，2026-07）
 - 霖凛Lain《[【素祥向/AI丰川祥子】《我知道》--“一切都是我 太过骄纵 以为你会懂”-By2](https://www.bilibili.com/video/BV1ZK4h6XEbt)》（788 播放，2026-11）
+- LIAOKO《[素祥](https://www.bilibili.com/video/BV1DHHr6REUk)》（693 播放，2026-10）
 - 橘雪莉是也《[【素祥】残阳](https://www.bilibili.com/video/BV1EPsN6GEQa)》（682 播放，2026-11）
 - 广铁の川崎鏡《[【AI素祥】Sweet Duet](https://www.bilibili.com/video/BV16qZNYKEr8)》（674 播放，2025-03）
 - forsseven《[【MyGO/素祥】「キネマ」爱是不是 不开口才珍贵](https://www.bilibili.com/video/BV11hFMe9EeQ)》（595 播放，2025-01）
@@ -146,6 +154,7 @@ NGA 卡面公布那天的帖子标题是《卖素祥了居然！我在做梦吗�
 - 霖凛Lain《[【素祥向/素祥对唱】《会呼吸的痛》--“你拆了城墙 让我去流浪 在原地等我 把自己捆绑”-梁静茹](https://www.bilibili.com/video/BV19w4p6WETF)》（564 播放，2026-11）
 - i想下班《[【素祥】求你别离开我Ⅰ海屿你](https://www.bilibili.com/video/BV1B3XCBJERR)》（535 播放，2026-03）
 - Tach11tto《[素祥｜现在 你才不幸福](https://www.bilibili.com/video/BV1KYaCzaEgr)》（532 播放，2025-09）
+- ktil6108《[素祥 “真心”](https://www.bilibili.com/video/BV1R9NKzMELd)》（526 播放，2026-03）
 - 季摹了《[【素祥】夕阳](https://www.bilibili.com/video/BV1hcAKzoEdn)》（509 播放，2026-03）
 - _水無月時雨_《[《祥素祥｜Sleeping pretend 》＊soyo中心向Bgm: sleeping pretend-真理歌](https://www.bilibili.com/video/BV1sWAVe1ETf)》（488 播放，2025-02）
 - 无心插柳势在必得《[【邦邦MYGO华语金曲|素祥|电音|】冷酷到底并不坏](https://www.bilibili.com/video/BV1GE4m1R7WT)》（437 播放，2024-07）
@@ -155,10 +164,12 @@ NGA 卡面公布那天的帖子标题是《卖素祥了居然！我在做梦吗�
 - 账号已注销《[【MyGO/素祥】不值得](https://www.bilibili.com/video/BV1zu411M7jw)》（355 播放，2023-10）
 - 无心插柳势在必得《[【邦邦MYGO华语金曲|素祥|误解向】我是不是你最疼爱的人](https://www.bilibili.com/video/BV1oCk7YREd4)》（351 播放，2024-12）
 - 一直无法进入《[【哪里都是你/MAD】素祥向](https://www.bilibili.com/video/BV1ccske6E55)》（347 播放，2024-09）
+- 春晓林霜落《[【mygo/素祥】王心凌《第一次爱的人》](https://www.bilibili.com/video/BV1Tu4y147XX)》（314 播放，2023-10）
 - 波耶西亚狂想曲《[【MYGO/素祥】"Guess my lover was a snake"|这就是心碎的感觉](https://www.bilibili.com/video/BV1tt421g76N)》（297 播放，2024-05）
 - Shina-Yoimiya《[【素祥/mad】“就好像我们两个没爱过一样”](https://www.bilibili.com/video/BV1JLLH6iEkB)》（246 播放，2026-05）
 - 提灯老李《[（重置版）【素祥/MAD】晴](https://www.bilibili.com/video/BV17e3UzyEqA)》（234 播放，2025-07）
 - 上原西木野《[纵然我的相思有千千万万重，你的心却轻似一阵风【素祥/MAD】](https://www.bilibili.com/video/BV1ALsS6CEuE)》（230 播放，2026-11）
+- 退芙羽《[【素祥/mygo】爱你不再是我的秘密](https://www.bilibili.com/video/BV16DhN6aE4s)》（172 播放，2026-08）
 
 @[/details]
 

@@ -46,7 +46,7 @@ NGA《所以我初希互动呢》（tid 43609387，2025-03-22）的热评说，�
 
 ## 三、B 站视频
 
-- **B 站视频（按播放排）**：蓝白红收容院长《[当“劣等感”超强的初希二人唱起「偶像」アイドル（covered by 佐佐木李子&林鼓子）](https://www.bilibili.com/video/BV18G55zrEaz)》（2.2 万播放，2025-05）；宇宙子诗《[水一下初希](https://www.bilibili.com/video/BV1iS411c7c9)》（1333 播放，2024-07）。
+- **B 站视频（按播放排）**：蓝白红收容院长《[当“劣等感”超强的初希二人唱起「偶像」アイドル（covered by 佐佐木李子&林鼓子）](https://www.bilibili.com/video/BV18G55zrEaz)》（2.2 万播放，2025-05）；宇宙子诗《[水一下初希](https://www.bilibili.com/video/BV1iS411c7c9)》（1333 播放，2024-07）；三角初华吧《[【ai小动画】初希快乐（bushi](https://www.bilibili.com/video/BV1edZKBHEZL)》（832 播放，2026-02）。
 
 - **更多专栏（按阅读排）**：玖郴《[【初希】你眼眸中的星空2](https://www.bilibili.com/read/cv47870156)》（阅读 12）。
 
