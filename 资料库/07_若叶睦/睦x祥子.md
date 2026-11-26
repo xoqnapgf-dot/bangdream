@@ -415,6 +415,10 @@ NGA《花叶式半身——睦祥关系的具象化》（tid 45783107）从这�
 
 - **更多 YouTube 视频**：Angel Allen《[Bandori Our Notes it's MyGO Sakiko tells Mutsumi to stop telling everyone her business](https://www.youtube.com/watch?v=YslDFjBCOxE)》。
 
+- **更多 NGA 帖子（按发布时间排）**：《[【搬运】小小祥和小小睦，可爱捏](https://bbs.nga.cn/read.php?tid=47956590)》（图，2026-11）；《[【事已至此】睦祥推现在什么感想](https://bbs.nga.cn/read.php?tid=43306273)》（讨论帖，2025-02）。
+
+- **更多 B 站动态（按发布时间排）**：巡海游侠尘衣《[睦祥·你我别离之后，我将死亡写作重逢](https://www.bilibili.com/opus/1271339688606564356)》（同人文，约 6793 字，2026-11）；特别铃鹿《[从独角兽老师角度分析下丰川祥子和若叶睦以及mygo主题](https://www.bilibili.com/opus/841626106132955190)》（解析，2023-09）。
+
 ---
 
 ## 五、信息来源

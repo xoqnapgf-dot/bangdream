@@ -62,6 +62,8 @@ Megami 2026 年 12 月号米泽茜和冈田梦以的对谈（NGA tid 47809778 �
 - **pixiv「さきにゃむ」标签**（全年龄，共 7 件标了祥子；两个方向的标签常混用，下面是收藏最多、资料库里还没有的）：呱呱《🩵💜》（收藏 242，2025-11，https://www.pixiv.net/artworks/137928577 ）；まあちゃん《🧣》（收藏 241，2026-05，https://www.pixiv.net/artworks/145137698 ）；Gear.cc.Pluto《祥喵》（收藏 237，2025-08，https://www.pixiv.net/artworks/133688813 ）；Gear.cc.Pluto《ob大人重大指示》（收藏 166，2025-12，https://www.pixiv.net/artworks/139235188 ）；otter水獭《被抱住就逃不掉了》（收藏 80，2023-10，https://www.pixiv.net/artworks/112636987 ）；桃漆《无题》（收藏 59，2025-01，https://www.pixiv.net/artworks/126174587 ）。
 - **《Our Notes》祥子和若麦的羁绊剧情录屏**：《[【バンドリ】Ave Mujica 絆ストーリ祥子＆にゃむ　#1～#3【アワーノーツ】※ネタバレ有](https://www.youtube.com/watch?v=BAsIg_DCbcw)》（ありしあ，12:33，180 次）；《[[アワーノーツ]Ave Mujicaのルーツとにゃむに怒る祥子(祥子、にゃむ　絆ストーリー2)](https://www.youtube.com/watch?v=CxogVvi4W-U)》（眠的，3:53，1.2 万次）；《[[アワーノーツ]意外な事で盛り上がるにゃむと祥子 (にゃむ、祥子　絆ストーリー3)](https://www.youtube.com/watch?v=NW0BmhKnZvA)》（眠的，4:24，700 次）。三话的录屏都找到了，剧情内容还没有对着画面核对整理，所以这里只列链接。
 
+- **更多 NGA 帖子（按发布时间排）**：《[【Mujica】祥喵两人对于队友的需求belike:](https://bbs.nga.cn/read.php?tid=43043899)》（图，2025-01）。
+
 ---
 
 ## 四、信息来源

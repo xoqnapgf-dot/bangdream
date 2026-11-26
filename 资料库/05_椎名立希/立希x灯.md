@@ -229,6 +229,8 @@ AL光《立希生贺》：https://www.pixiv.net/artworks/133662430 ；Lemtun《�
 
 - **更多专栏（按阅读排）**：一江天尘《[「灯希灯」悦鸣中的生日](https://www.bilibili.com/read/cv43829614)》（阅读 747）；Asriter《[【杀戮尖塔2 高松灯ModVer0.0.7 boss：椎名立希更新](https://www.bilibili.com/read/cv48673901)》（阅读 310）；李仰韶《[【希灯】黑夜就是从很远的地方奔跑着回来](https://www.bilibili.com/read/cv45240529)》（阅读 143）；发愁滴萌物《[同人写作|希灯|即兴乐章里的走火警告](https://www.bilibili.com/read/cv40863512)》（阅读 76）。
 
+- **更多 NGA 帖子（按发布时间排）**：《[立希和灯证明了憧憬是距离理解最遥远的感情](https://bbs.nga.cn/read.php?tid=43211083)》（讨论帖，2025-02）；《[立希和灯这一对迷妹对偶像cp居然比立希爱音这一对互怼人气高还真少见](https://bbs.nga.cn/read.php?tid=38501500)》（讨论帖，2023-11）；《[【Mygo氵】【同人】灯酱，祥子已经走了，可以出来了。](https://bbs.nga.cn/read.php?tid=38020058)》（同人文，2023-10）；《[立希对灯的感情是否也是她对祥子的俄狄浦斯情结的一部分？](https://bbs.nga.cn/read.php?tid=38038495)》（解析，2023-10）。
+
 ---
 
 ## 六、信息来源

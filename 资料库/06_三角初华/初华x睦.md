@@ -146,6 +146,10 @@ NGA 那栋楼里有人替这段时光惋惜：「其实最开始这俩还有一�
 
 - **更多 B 站视频（按播放排）**：爆爆豹豹堡《[初睦延续血脉](https://www.bilibili.com/video/BV1S7ajzoEtm)》（6385 播放，2025-09）；爆爆豹豹堡《[【Mujica/初睦】两只小狗~](https://www.bilibili.com/video/BV1FUa3zwEoK)》（3053 播放，2025-08）；口袋迷馒头《[第九集初睦互动be like](https://www.bilibili.com/video/BV1PF9rYYEu7)》（1507 播放，2025-03）；Navivican《[完结到现在有什么初睦二创吗【MYGO】](https://www.bilibili.com/video/BV1PC5Pz6ER1)》（1180 播放，2025-05）；叶睦降零《[初睦互相吃代餐这一块【bilibilionly同人扶持计划】](https://www.bilibili.com/video/BV1pHsQ67EyL)》（870 播放，2026-11）；KHJ豪杰《[初睦](https://www.bilibili.com/video/BV1hJjM6JEtY)》（778 播放，2026-06）；ウォースパイト《[【初睦Jeans新】Ai 若叶睦&三角初华 - NewJeans曲目翻唱十选](https://www.bilibili.com/video/BV1Nmge6vEWy)》（201 播放，2026-07）。
 
+- **更多 NGA 帖子（按发布时间排）**：《[初睦的技能联动](https://bbs.nga.cn/read.php?tid=44983068)》（讨论帖，2025-09）；《[【闲聊】完结到现在有什么初睦二创吗](https://bbs.nga.cn/read.php?tid=44022615)》（讨论帖，2025-05）；《[【整活】 【假药】 逆天假药：初睦对偶说](https://bbs.nga.cn/read.php?tid=43548272)》（解析，2025-03）；《[【吐槽】 最意难平的一集，开播前我最想看的初睦被沟槽的wsd彻底肘死了](https://bbs.nga.cn/read.php?tid=43655384)》（讨论帖，2025-03）；《[【假药】【mygo】初睦姐妹论](https://bbs.nga.cn/read.php?tid=42957905)》（讨论帖，2025-01）。
+
+- **更多贴吧帖子（按发布时间排）**：秋染不是染《[初睦是对苦命鸳鸯啊](https://tieba.baidu.com/p/10264769674)》（讨论帖，2025-12）；午后不知道《[大家有没有品鉴过“初睦”的同人](https://tieba.baidu.com/p/9724029089)》（讨论帖，2025-05）；于此倾听🌱《[初睦为什么没人磕](https://tieba.baidu.com/p/9546850179)》（讨论帖，2025-03）；纸袋菌9℃《[初睦羁绊故事](https://tieba.baidu.com/p/11051920544)》（讨论帖）；嬷睦公《[没有人炒作一下初睦羁绊一的剧情吗？](https://tieba.baidu.com/p/11106235174)》（讨论帖）；在说什么？《[【初睦】被杀死乃是一种耻辱](https://tieba.baidu.com/p/11163620408)》（同人文，约 2000 字）。
+
 ---
 
 ## 五、信息来源
