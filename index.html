@@ -10,7 +10,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7.0/lxgwwenkaiscreen.css" media="print" onload="this.media='all'" onerror="this.onerror=null;this.href='https://fastly.jsdelivr.net/npm/lxgw-wenkai-screen-webfont@1.7.0/lxgwwenkaiscreen.css'">
 <!-- 暗色主题的西文标题字体：Eagle Lake（OFL 开源，仅拉丁字符，约 20KB）。异步加载，失败时退回衬线体 -->
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fontsource/eagle-lake@5.2.5/latin-400.css" media="print" onload="this.media='all'" onerror="this.onerror=null;this.href='https://fastly.jsdelivr.net/npm/@fontsource/eagle-lake@5.2.5/latin-400.css'">
-<link rel="stylesheet" href="assets/style.css?v=20261127011035">
+<link rel="stylesheet" href="assets/style.css?v=20261127011607">
 <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🎸</text></svg>">
 <link rel="manifest" href="manifest.webmanifest">
 <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
@@ -36,8 +36,8 @@
 
   <div class="topbar-spacer"></div>
 
-  <button class="icon-btn" id="typeBtn" aria-label="字号与行距" aria-haspopup="true" aria-expanded="false" aria-controls="typePop" title="字号与行距">
-    <span class="aa">A<i>a</i></span>
+  <button class="icon-btn type-btn" id="typeBtn" aria-label="阅读设置：字号与行距" aria-haspopup="dialog" aria-expanded="false" aria-controls="typePop" title="阅读设置">
+    <span class="aa" aria-hidden="true"><b>A</b><i>a</i></span>
   </button>
 
   <button class="icon-btn" id="themeBtn" aria-label="切换深浅色">
@@ -45,26 +45,6 @@
     <svg class="ico-moon" viewBox="0 0 24 24"><path d="M21 12.8A9 9 0 1111.2 3a7 7 0 009.8 9.8z"/></svg>
   </button>
 
-  <div class="type-pop" id="typePop" role="dialog" aria-label="字号与行距" hidden>
-    <div class="tp-row">
-      <span class="tp-l">字号</span>
-      <button class="tp-step small" id="fsDown" type="button" aria-label="减小字号">A−</button>
-      <output class="tp-v" id="fsVal" aria-live="polite">100%</output>
-      <button class="tp-step big" id="fsUp" type="button" aria-label="增大字号">A+</button>
-    </div>
-    <div class="tp-row">
-      <span class="tp-l">行距</span>
-      <div class="tp-seg" role="group" aria-label="行距">
-        <button type="button" data-lh="1.7">紧凑</button>
-        <button type="button" data-lh="1.9">标准</button>
-        <button type="button" data-lh="2.1">宽松</button>
-      </div>
-    </div>
-    <div class="tp-row tp-foot">
-      <span class="tp-sample">只调正文，设置存在本机</span>
-      <button class="tp-reset" id="typeReset" type="button">恢复默认</button>
-    </div>
-  </div>
 </header>
 
 <div class="layout">
@@ -89,6 +69,55 @@
 
   <div class="scrim" id="scrim"></div>
 
+  <!-- ───────── 阅读设置：字号 / 行距（手机是底部抽屉，电脑是顶栏下的浮层） ───────── -->
+  <div class="tp-scrim" id="typeScrim"></div>
+  <section class="type-sheet" id="typePop" role="dialog" aria-labelledby="tpTitle" aria-hidden="true">
+    <div class="tp-grip" aria-hidden="true"></div>
+    <header class="tp-head">
+      <h2 id="tpTitle">阅读设置</h2>
+      <button class="tp-close" id="typeClose" type="button" aria-label="关闭">
+        <svg viewBox="0 0 24 24"><path d="M6 6l12 12M18 6L6 18"/></svg>
+      </button>
+    </header>
+
+    <div class="tp-preview" aria-hidden="true">
+      <p class="tp-pt">春日影，之后</p>
+      <p>月光落在琴弦上，她们各自走上了不同的路。<span class="tp-en">Even a small light is still a light.</span></p>
+    </div>
+
+    <div class="tp-block">
+      <div class="tp-label"><label for="fsRange">字号</label><output id="fsVal" for="fsRange">100%</output></div>
+      <div class="tp-slider">
+        <button class="tp-a small" id="fsDown" type="button" aria-label="减小字号">A</button>
+        <div class="tp-range">
+          <input type="range" id="fsRange" min="0" max="6" step="1" value="2">
+          <div class="tp-ticks" aria-hidden="true"><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+        </div>
+        <button class="tp-a big" id="fsUp" type="button" aria-label="增大字号">A</button>
+      </div>
+    </div>
+
+    <div class="tp-block">
+      <div class="tp-label"><span id="lhLabel">行距</span></div>
+      <div class="tp-seg" role="radiogroup" aria-labelledby="lhLabel">
+        <button type="button" role="radio" data-lh="1.7" aria-checked="false">
+          <svg viewBox="0 0 24 24"><path d="M5 8h14M5 12h14M5 16h14"/></svg><span>紧凑</span>
+        </button>
+        <button type="button" role="radio" data-lh="1.9" aria-checked="false">
+          <svg viewBox="0 0 24 24"><path d="M5 6.5h14M5 12h14M5 17.5h14"/></svg><span>标准</span>
+        </button>
+        <button type="button" role="radio" data-lh="2.1" aria-checked="false">
+          <svg viewBox="0 0 24 24"><path d="M5 4.5h14M5 12h14M5 19.5h14"/></svg><span>宽松</span>
+        </button>
+      </div>
+    </div>
+
+    <footer class="tp-foot">
+      <span>只调正文，设置存在本机</span>
+      <button class="tp-reset" id="typeReset" type="button">恢复默认</button>
+    </footer>
+  </section>
+
   <!-- ───────── 主区：内容 ───────── -->
   <main class="main" id="main">
     <div class="crumb" id="crumb"></div>
@@ -107,8 +136,8 @@
 </div>
 
 <!-- 直接加载离线数据，兼容 file://、content:// 及浏览器的本地文件查看模式。 -->
-<script src="assets/offline-data.js?v=20261127011035"></script>
-<script src="assets/app.js?v=20261127011035"></script>
+<script src="assets/offline-data.js?v=20261127011607"></script>
+<script src="assets/app.js?v=20261127011607"></script>
 <script>
 /* 添加到主屏幕后的离线缓存；file:// 等本地打开方式不支持，会自动跳过。 */
 if ('serviceWorker' in navigator && /^https?:$/.test(location.protocol)) {
