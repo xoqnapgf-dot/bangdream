@@ -435,6 +435,31 @@ soyo 是唯二看出来睦就是喜欢嘲讽，报复的人。所以她才带着
 
 @[/details]
 
+- **更多专栏（按阅读排）**：楚原狼_Official《[【MyGO!!!!!同人/爽世×睦/无糖养生】为何，你心中只有别人](https://www.bilibili.com/read/cv27409981)》（阅读 9930）；内田不会鸽《[【MyGo同人】【橘子】【素睦】遥不可及的她](https://www.bilibili.com/read/cv35591967)》（阅读 6206）；安晓乔小朋友《[【素睦】曾经我也想要一了百了](https://www.bilibili.com/read/cv28628563)》（阅读 3815）；零-死前的百物语《[【素睦】若叶睦的世界](https://www.bilibili.com/read/cv30693478)》（阅读 2443）；零-死前的百物语《[【素睦】长崎素世的世界](https://www.bilibili.com/read/cv31145812)》（阅读 2033）；sekaikaKumei尾声《[【mygo/素睦】永不凋谢的黄瓜花](https://www.bilibili.com/read/cv41487732)》（阅读 1676）；--绫地宁宁--《[【MyGO同人】素睦 Part 1.漫长的雨季](https://www.bilibili.com/read/cv27149673)》（阅读 1520）；岩崎_泉《[【mygo/素睦/汉化】短篇漫画三则](https://www.bilibili.com/read/cv31828017)》（阅读 1493）；沃罗涅日火炬《[【素睦】有你在的雪天。](https://www.bilibili.com/read/cv40756075)》（阅读 1480）；Uclancey《[［素睦］被爱妄想症（下）](https://www.bilibili.com/read/cv40096147)》（阅读 1396）；零-死前的百物语《[【素睦】世界的终结](https://www.bilibili.com/read/cv31957207)》（阅读 1333）；仙台葉月酱《[【素睦同人文】:与你一同堕入深渊，只为能留在你的身边](https://www.bilibili.com/read/cv26441236)》（阅读 1281）。
+
+@[details](另有 18 条，同样按阅读排)
+
+- 月森真昼《[关于「素睦/可惜没如果」你并不想知道的一切](https://www.bilibili.com/read/cv42855578)》（阅读 1261）
+- 岩崎_泉《[【素睦/同人/汉化】傲娇soyo（确信）短篇三则4](https://www.bilibili.com/read/cv32849917)》（阅读 1051）
+- La_Mizera_Mondo《[【素睦】微风初起时【短篇】](https://www.bilibili.com/read/cv41352601)》（阅读 951）
+- 散級天災《[【素睦】捆着我，绑着我](https://www.bilibili.com/read/cv39683091)》（阅读 832）
+- 拭去她的眼泪《[「素睦」「同人」「ooc致歉」爱与愧与厮守](https://www.bilibili.com/read/cv40195321)》（阅读 670）
+- 微明bot_《[【素睦】错电话（ooc致歉](https://www.bilibili.com/read/cv42590627)》（阅读 631）
+- Nagasaki-Mutsumi《[素睦在访谈里的扣糖](https://www.bilibili.com/read/cv43404084)》（阅读 461）
+- 无聊的人ccc《[【素睦】木偶小姐无法抗拒](https://www.bilibili.com/read/cv26253278)》（阅读 447）
+- AveMujica-若叶睦《[【素睦】睦：如果被发现和素世在贴身暧昧的话，月之森的学习生涯恐怕就要结束了罢](https://www.bilibili.com/read/cv43406822)》（阅读 432）
+- 沉墨染纸_《[【MYGO/素睦】无形的囚笼](https://www.bilibili.com/read/cv41827549)》（阅读 406）
+- 谁在耳边叫我的名《[一篇拧巴的关于素睦之间微妙情感的短文。](https://www.bilibili.com/read/cv53219480)》（阅读 396）
+- 漵冷《[【素睦】吻血](https://www.bilibili.com/read/cv33615016)》（阅读 392）
+- 夜粉豆儿《[（素睦）Mujica解散的一个月里，素世照顾小睦的黄瓜](https://www.bilibili.com/read/cv40982975)》（阅读 379）
+- 变成光守护suzuka桑《[【Mygo/素睦】残弹为零](https://www.bilibili.com/read/cv26243361)》（阅读 365）
+- 墨語_ひとりしゃべり《[【素睦】花庭之友（下）](https://www.bilibili.com/read/cv26570263)》（阅读 267）
+- 村头菌《[素睦/ 那日，鲜花依旧](https://www.bilibili.com/read/cv42765504)》（阅读 233）
+- 墨語_ひとりしゃべり《[【素睦】花庭之友（上）](https://www.bilibili.com/read/cv26570041)》（阅读 190）
+- 墨語_ひとりしゃべり《[【素睦】花庭之友（中）](https://www.bilibili.com/read/cv26570184)》（阅读 166）
+
+@[/details]
+
 ---
 
 ## 五、信息来源

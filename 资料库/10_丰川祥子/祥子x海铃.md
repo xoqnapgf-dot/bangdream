@@ -69,6 +69,8 @@ Ave Mujica 第 1 话武道馆的舞台剧里，Oblivionis 替 Timoris 理了理�
 
 - **更多 B 站视频（按播放排）**：煦泞《[【祥海/君臣组】春涧](https://www.bilibili.com/video/BV1Pe4b6oERZ)》（2432 播放，2026-11）。
 
+- **更多专栏（按阅读排）**：星辰子《[【祥海】Yes, Madam](https://www.bilibili.com/read/cv43732754)》（阅读 361）。
+
 ---
 
 ## 四、信息来源

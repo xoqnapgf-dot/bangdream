@@ -93,7 +93,31 @@ Wrong Every Time 写这一话（2025-09-20）：「No surprise that Taki would o
 - **漫画**：《素希真是一对苦命鸳鸯》（小橙小汁i，BV1R5ydBxES6）
 - **讨论**：《【MyGO/配音】 你知道吗？其实在设定上立希和素世并不是MyGO的严父慈母》（深秋里拾枫，BV1RMpF6jELZ）
 
-- **更多专栏**：獭狸だつたぬき《[关于素希、素音对峙的一点小思考：](https://www.bilibili.com/read/cv25954159)》（阅读 418）。
+- **更多专栏（按阅读排）**：憨憨酱_哈韩《[【韩网热议】《无法抗拒的他》明晚迎来大结局！宋江韩素希 选出剧中名场面是？](https://www.bilibili.com/read/cv12779901)》（阅读 9738）；凌此苍穹《[【同人文·素希】直到她也抵达生命尽头](https://www.bilibili.com/read/cv38570283)》（阅读 2476）；応为《[【素希】忘了](https://www.bilibili.com/read/cv43611426)》（阅读 1495）；零-死前的百物语《[【素希】五年差的母女](https://www.bilibili.com/read/cv33782322)》（阅读 1201）；祐天寺小天《[让我成为你的心跳#1【素希】](https://www.bilibili.com/read/cv40758166)》（阅读 1187）；零-死前的百物语《[【素希】椎名立希的健康管理](https://www.bilibili.com/read/cv34154117)》（阅读 1067）；某B站的地上的月《[【MyGO/素希】又一场雨](https://www.bilibili.com/read/cv43779392)》（阅读 1067）；零-死前的百物语《[【素希】接机、安心感、立希妈妈](https://www.bilibili.com/read/cv33513837)》（阅读 953）；祐天寺小天《[让我成为你的心跳#2［素希］](https://www.bilibili.com/read/cv40838050)》（阅读 930）；某科学的对苯二酚《[【素希】忙不过来时记得求助他人](https://www.bilibili.com/read/cv40428340)》（阅读 887）；乌氏粘度计《[【素希】共犯](https://www.bilibili.com/read/cv26773539)》（阅读 860）；祐天寺小天《[［素希］让我成为你的心跳#5](https://www.bilibili.com/read/cv41185483)》（阅读 762）。
+
+@[details](另有 19 条，同样按阅读排)
+
+- 祐天寺小天《[【素希】让我成为你的心跳#6](https://www.bilibili.com/read/cv41246647)》（阅读 758）
+- 祐天寺小天《[［素希］让我成为你的心跳#12](https://www.bilibili.com/read/cv41987451)》（阅读 751）
+- 祐天寺小天《[【素希】让我成为你的心跳#7](https://www.bilibili.com/read/cv41360476)》（阅读 719）
+- 祐天寺小天《[［素希］让我成为你的心跳#4](https://www.bilibili.com/read/cv41036833)》（阅读 708）
+- 祐天寺小天《[［素希］让我成为你的心跳#10](https://www.bilibili.com/read/cv41537417)》（阅读 663）
+- 祐天寺小天《[【素希】让我成为你的心跳#15](https://www.bilibili.com/read/cv42403347)》（阅读 663）
+- 祐天寺小天《[［素希］让我成为你的心跳#3](https://www.bilibili.com/read/cv41036835)》（阅读 642）
+- 祐天寺小天《[［素希］让我成为你的心跳#11](https://www.bilibili.com/read/cv41735152)》（阅读 595）
+- 椰子蒸不熟《[tksy素希——了解](https://www.bilibili.com/read/cv33933726)》（阅读 521）
+- 祐天寺小天《[［素希］让我成为你的心跳#13](https://www.bilibili.com/read/cv42014148)》（阅读 516）
+- 祐天寺小天《[【素希】让我成为你的心跳#14](https://www.bilibili.com/read/cv42221472)》（阅读 509）
+- 獭狸だつたぬき《[关于素希、素音对峙的一点小思考：](https://www.bilibili.com/read/cv25954159)》（阅读 418）
+- 祐天寺小天《[［素希］让我成为你的心跳#9](https://www.bilibili.com/read/cv41537411)》（阅读 374）
+- 过氧咕咕嘎《[【素希素】圣诞蓝调 Melancholy Christmas](https://www.bilibili.com/read/cv44434990)》（阅读 352）
+- 祐天寺小天《[［素希］让我成为你的心跳#8](https://www.bilibili.com/read/cv41537406)》（阅读 338）
+- 千鸟ちどり《[【素希】午夜小狼总是咬一口就跑（01）](https://www.bilibili.com/read/cv45911334)》（阅读 208）
+- EMO综合征《[请问素世的妈和立希的姐去哪了](https://www.bilibili.com/read/cv41075211)》（阅读 114）
+- 柚風《[【素希】椎名立希服下了长生不老药](https://www.bilibili.com/read/cv43358326)》（阅读 109）
+- 电音横扫《[【万字解析】立希下定的决心/素世意觉 惯性而行](https://www.bilibili.com/read/cv35089774)》（阅读 44）
+
+@[/details]
 
 - **更多 B 站视频（按播放排）**：Hello楚萍芳《[【AI素希】青丝DJ版](https://www.bilibili.com/video/BV1MT59zEETz)》（3.5 万播放，2025-04）；18_28《[【MMD】No Title | 素希](https://www.bilibili.com/video/BV1BxJazWEbg)》（1.9 万播放，2025-05）；你瞧那月亮又大又圆《[【素希】那就把你○到哭出来](https://www.bilibili.com/video/BV1aypnzpEYC)》（1.7 万播放，2025-09）；仓田家真白《[【素希】在大楼后门吸烟的二人](https://www.bilibili.com/video/BV1YYjt6GEwt)》（6796 播放，2026-06）；千早上飞《[素希的互相挑逗](https://www.bilibili.com/video/BV1EcPheEENc)》（6523 播放，2025-02）；per碎铅秋《[【our notes】素希羁绊剧情三](https://www.bilibili.com/video/BV1KNaf6oEi5)》（6420 播放，2026-10）；YRFLY《[【mygo/素希】许愿](https://www.bilibili.com/video/BV1wHhBzrEU8)》（6305 播放，2025-08）；是似好呀《[鼓手余命十日谭 素希乘车CG](https://www.bilibili.com/video/BV1NDBDYxEeF)》（5988 播放，2024-11）；素世的硬刀《[（素希）假如立希当时选择赣素世](https://www.bilibili.com/video/BV1v8ZNBnEBo)》（5969 播放，2026-02）；応为《[【素希】忘了](https://www.bilibili.com/video/BV1qPrGBYEVr)》（5887 播放，2026-01）；Chloe塞小林《[【素希】不好好吃饭的下场是…](https://www.bilibili.com/video/BV1y136zPEoJ)》（4643 播放，2025-07）；尘凌君哦《[素希之间真是一对苦命鸳鸯…](https://www.bilibili.com/video/BV1D42BB3ESL)》（4358 播放，2025-12）。
 

@@ -244,6 +244,43 @@ B 站官方正片切片《Ave Mujica Mortis：「小睦已经死掉了」》有 
 
 @[/details]
 
+- **更多专栏（按阅读排）**：karo_427_han《[Ave Mujica EP13 live 若叶睦/Mortis 动图gif收集](https://www.bilibili.com/read/cv41175303)》（阅读 7980）；唐可可の冰可可《[睦厨简单剖析《Avemujica》中Mortis和若叶睦在‘乐园世界观下的关系’](https://www.bilibili.com/read/cv42031262)》（阅读 7696）；二次元的石头门《[关于若叶睦（Mortis）目前多重人格的见解和分析Part1](https://www.bilibili.com/read/cv40627664)》（阅读 5298）；六月絮雨《[情人节来点睦莫水仙](https://www.bilibili.com/read/cv41744865)》（阅读 3120）；不畏真相《[大致分析一下若叶睦和Mortis的过去，真正的“死亡”Ave Mujica第九集](https://www.bilibili.com/read/cv40868274)》（阅读 3086）；不畏真相《[【真正的真相】为什么若叶睦和Mortis会死亡?（消失）Ave Mujica](https://www.bilibili.com/read/cv41551868)》（阅读 3018）；啊美好的一天呐《[可爱小睦（mortis＊）gif](https://www.bilibili.com/read/cv40617617)》（阅读 2734）；銀白の庭《[【墨睦祥】啊，丰川家的黑暗！](https://www.bilibili.com/read/cv41360118)》（阅读 2528）；一只污《[【Mujica/睦莫】神明神明张开嘴，让我知道我是谁](https://www.bilibili.com/read/cv40780310)》（阅读 1784）；学习の一生之敌《[憔悴的睦头，逃不掉的Mortis](https://www.bilibili.com/read/cv40473585)》（阅读 1477）；叶霜_摸鱼睡觉ver《[为什么来到罗德岛的是黄瓜睦/mortis而不是苦瓜睦？莫菲丝妙手回春？](https://www.bilibili.com/read/cv43034067)》（阅读 1323）；潘特拉zonda《[mortis分析](https://www.bilibili.com/read/cv40624708)》（阅读 1018）。
+
+@[details](另有 30 条，同样按阅读排)
+
+- 草大王_尤弥尔《[【假药】睦头的莫提斯人格来自妈妈，寡言人格来自爸爸。](https://www.bilibili.com/read/cv40554015)》（阅读 1010）
+- 杀鸡取卵-《[若叶睦-Mortis：自由意志的诅咒](https://www.bilibili.com/read/cv43400465)》（阅读 906）
+- 明明铭子《[【Ave Mujica 同人文/睦墨/即兴短篇/轻度ooc】蛇发妖的悼词](https://www.bilibili.com/read/cv40776562)》（阅读 889）
+- 沉墨染纸_《[【重写mujica/假如mortis是睦的妹妹】#1废案](https://www.bilibili.com/read/cv40760820)》（阅读 704）
+- 特别铃鹿《[若叶睦与Mortis：“双重人格！这个不需要了！”](https://www.bilibili.com/read/cv40574541)》（阅读 683）
+- 杀鸡取卵-《[悼若叶睦和Mortis的死：最甜美的噩梦，诅咒你也祝福你](https://www.bilibili.com/read/cv43747767)》（阅读 664）
+- 老白菜腌醋《[【AveMujica】睦头被Mortis夺舍后的放飞自我之旅](https://www.bilibili.com/read/cv40518544)》（阅读 650）
+- 你怎么给黄毛牛了啊《[Mortis的“谎言”](https://www.bilibili.com/read/cv40717949)》（阅读 620）
+- 年糕睦子米《[【霍格沃兹之遗】若叶睦/Mortis外观mod](https://www.bilibili.com/read/cv43350875)》（阅读 525）
+- 清水依在《[个人分析的睦和Mortis](https://www.bilibili.com/read/cv40776921)》（阅读 429）
+- 户山打鲜橙《[选择的批判——与闪耀莫提斯对话：论若叶睦对长崎素世情感的隐秘结构](https://www.bilibili.com/read/cv44445638)》（阅读 404）
+- 朝汐desu《[祥子曾经见过Mortis形态睦？](https://www.bilibili.com/read/cv40454470)》（阅读 369）
+- 辰晨尘Chencc《[【Mygo二创/睦墨】我来成为你的半身#1](https://www.bilibili.com/read/cv53154722)》（阅读 319）
+- 西村宜隆《[mujica第八集观后感：睦与mortis的剧本回文](https://www.bilibili.com/read/cv40771910)》（阅读 279）
+- 日均摸鱼二十五小时《[12集为止，一颗星给素睦、初祥和希海的好结局，剩下一颗给超诗祥这首暗线睦墨水仙曲子](https://www.bilibili.com/read/cv41071850)》（阅读 273）
+- 城山-当麻《[睦-Mortis和黑江：Mujica监督与魔纪监督创造的新角色](https://www.bilibili.com/read/cv41519368)》（阅读 273）
+- 辰晨尘Chencc《[【MYGO二创/睦墨】我来成为你的半身#2 完](https://www.bilibili.com/read/cv53605520)》（阅读 233）
+- LaLaLuLa_Luck《[【真睦/真莫/假药】以后就叫你甜甜圈姐姐了！！！p1](https://www.bilibili.com/read/cv43061334)》（阅读 190）
+- 冰钓少女西野君《[【剧本对偶说】从“庄周梦蝶”看睦与莫提斯](https://www.bilibili.com/read/cv40596938)》（阅读 171）
+- In_Falsus_《[没有人爱墨缇丝，又名，千分之三](https://www.bilibili.com/read/cv41584179)》（阅读 157）
+- 阿克夏馆馆主-冰姬zk《[猜测：睦与莫提丝同为一体](https://www.bilibili.com/read/cv40513916)》（阅读 152）
+- LaLaLuLa_Luck《[【真睦/真莫/假药】以后就叫你甜甜圈姐姐了！！！p0（序）](https://www.bilibili.com/read/cv42999589)》（阅读 128）
+- QGhappy兽腥《[写给莫提斯的情书](https://www.bilibili.com/read/cv40920014)》（阅读 117）
+- 龍舌蘭小姐《[睦 和 Mortis的關係](https://www.bilibili.com/read/cv40628070)》（阅读 104）
+- 巨大Fecl3爱喝水变胶体《[【若叶睦个人向/睦墨】守睦人](https://www.bilibili.com/read/cv46796915)》（阅读 102）
+- 渔业人民委员《[睦头，Mortis；吉他手，演员](https://www.bilibili.com/read/cv40515904)》（阅读 89）
+- 37mm手拉机《[睦莫是睦本体思想的映射？从现有剧情推测睦本体究竟是何物](https://www.bilibili.com/read/cv40792906)》（阅读 82）
+- 毒风鼠特林《[【墨缇丝/若叶睦】希望实现的愿望](https://www.bilibili.com/read/cv40788494)》（阅读 76）
+- 尾雾烂铭记《[假如第七集睦莫是两个人(0.1)(0.2)](https://www.bilibili.com/read/cv42722792)》（阅读 65）
+- 活人1234《[【睦墨】第一章 坠梦套餐：买一送一](https://www.bilibili.com/read/cv42887619)》（阅读 30）
+
+@[/details]
+
 ---
 
 ## 五、信息来源

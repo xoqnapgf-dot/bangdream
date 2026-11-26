@@ -46,6 +46,8 @@
 
 - **更多 B 站视频（按播放排）**：我耶格要爆了你的头《[【MyGo|立希素世】宿敌就是宿敌啊](https://www.bilibili.com/video/BV1p91qYaE1v)》（9571 播放，2024-10）。
 
+- **更多专栏（按阅读排）**：林间雀鸣《[mygo立希殴打长崎素世动图](https://www.bilibili.com/read/cv25702048)》（阅读 14407）；再笑最后一次《[第七集立希素世前段情感解析](https://www.bilibili.com/read/cv40717895)》（阅读 98）。
+
 ---
 
 ## 四、信息来源

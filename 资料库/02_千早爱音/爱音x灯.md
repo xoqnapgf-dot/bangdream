@@ -374,6 +374,59 @@ B 站专栏里有 SiN_Ask 整理的《やぶのき老师的爱灯合集》、Sin
 
 @[/details]
 
+- **更多专栏（按阅读排）**：里芙《[【爱灯】控制不住](https://www.bilibili.com/read/cv27165447)》（阅读 41432）；超勇的厉鬼《[【Mygo/爱灯】天文部的星空](https://www.bilibili.com/read/cv28963220)》（阅读 20094）；笑得正派《[【破防指南】你:“爱灯好嗑”，我:“爱灯烂完了”。当下节奏的结果就是你和圈子都坏掉](https://www.bilibili.com/read/cv40746823)》（阅读 11163）；SiN_Ask《[【MyGO!!!!!】やぶのき老师的爱灯合集](https://www.bilibili.com/read/cv27798370)》（阅读 6007）；虾头睦子米《[【怪味爱灯】 独有欲](https://www.bilibili.com/read/cv43854133)》（阅读 3561）；黑羽仙洛《[【授权翻译】将你杀死的话语【MyGO】【千早爱音×高松灯】](https://www.bilibili.com/read/cv27798786)》（阅读 3439）；Sinogi《[【MyGO!!!!!】【爱灯】膝毯（ちょくじょう）（个人翻译）](https://www.bilibili.com/read/cv28273713)》（阅读 2750）；黑羽仙洛《[【授权翻译】翻过身来吧，空蝉。【MyGO】【千早爱音×高松灯】](https://www.bilibili.com/read/cv27784994)》（阅读 2705）；早川与飞鸟仍在人间《[【爱灯/退坑作/he】去北国吧。](https://www.bilibili.com/read/cv45292775)》（阅读 2698）；柚風《[【爱灯同人】吸血鬼](https://www.bilibili.com/read/cv26641562)》（阅读 2468）；某科学的对苯二酚《[【爱灯/ksar/筑白】【女孩节特辑】邦邦闯关问答综艺](https://www.bilibili.com/read/cv41180682)》（阅读 2453）；某科学的对苯二酚《[【爱灯】【情人节特辑】巧克力风波](https://www.bilibili.com/read/cv40721648)》（阅读 1872）。
+
+@[details](另有 46 条，同样按阅读排)
+
+- AH141《[【爱灯】天文部的一辈子](https://www.bilibili.com/read/cv34073059)》（阅读 1819）
+- 桜流兔BunnysAKurA《[【MyGO】灵魂互换，但是同居爱灯](https://www.bilibili.com/read/cv33789130)》（阅读 1629）
+- Sinogi《[【MyGO!!!!!】【爱灯】电风扇（ちょくじょう）（个人翻译）](https://www.bilibili.com/read/cv37022184)》（阅读 1572）
+- 潜行者M《[【MyGO/同人/爱灯】最终心愿](https://www.bilibili.com/read/cv27433311)》（阅读 1570）
+- 早川与飞鸟仍在人间《[【爱灯/be/异地】氧化](https://www.bilibili.com/read/cv45268011)》（阅读 1555）
+- 某科学的对苯二酚《[【爱灯】天文部的长椅太窄了？！](https://www.bilibili.com/read/cv46740875)》（阅读 1355）
+- 某科学的对苯二酚《[【爱灯】小企鹅也不可以有恋爱脑](https://www.bilibili.com/read/cv40464831)》（阅读 1308）
+- 邱凌雁《[【爱灯】迷失于回忆](https://www.bilibili.com/read/cv26789469)》（阅读 1148）
+- AH141《[【千灯映星河Day4 23:00/爱灯】最需要的你](https://www.bilibili.com/read/cv37181148)》（阅读 1057）
+- 睦叶若曦《[爱与创可贴——爱灯同人](https://www.bilibili.com/read/cv50491844)》（阅读 949）
+- 超级风火伦《[【爱灯】啾（原作者：なずな）](https://www.bilibili.com/read/cv34376420)》（阅读 946）
+- 二爻二爻二《[【mygoMAD】爱灯 写给我第一个喜欢的女孩的歌](https://www.bilibili.com/read/cv28406552)》（阅读 924）
+- Ameko0819《[【授权转载/mygo同人文】纯粹感性承诺（千早爱音×高松灯）](https://www.bilibili.com/read/cv40387028)》（阅读 856）
+- 桜流兔BunnysAKurA《[【爱灯】过度依爱](https://www.bilibili.com/read/cv28577218)》（阅读 786）
+- 桜流兔BunnysAKurA《[【MYGO/爱灯】某些令人在意的](https://www.bilibili.com/read/cv27361582)》（阅读 715）
+- 金灿灿的橘子www《[【爱灯】海棠花](https://www.bilibili.com/read/cv47481507)》（阅读 677）
+- 超级D大X《[【爱灯】高松灯的一日消失（#1&#2）](https://www.bilibili.com/read/cv39916827)》（阅读 596）
+- 捣鼓爱唱的八幡雫《[【爱灯的孩子】完结CG与隐藏壁纸纪念](https://www.bilibili.com/read/cv52055113)》（阅读 525）
+- 捣鼓爱唱的八幡雫《[《爱灯的孩子》专属表情包](https://www.bilibili.com/read/cv51983618)》（阅读 494）
+- トワツガイ-百合央《[迷途爱 歌词中2（爱灯、剧中剧）](https://www.bilibili.com/read/cv26816682)》（阅读 486）
+- 符文司制《[【邦多利×宝可梦】爱音的旅途#3 灯和霸主](https://www.bilibili.com/read/cv34297242)》（阅读 421）
+- 这有个十二《[高松灯＆千早爱音 ♥](https://www.bilibili.com/read/cv43734511)》（阅读 314）
+- 阿塔尼斯主教《[【友情巧克力】爱灯篇](https://www.bilibili.com/read/cv41441432)》（阅读 287）
+- 潜行者M《[【Mygo/同人/爱灯】圣诞前夜](https://www.bilibili.com/read/cv28745952)》（阅读 272）
+- 捣鼓爱唱的八幡雫《[《爱灯的孩子》神秘表情包 · 第一弹！](https://www.bilibili.com/read/cv52801604)》（阅读 261）
+- 紫昕keyboard《[mygo爱灯cp（帕累托最优）](https://www.bilibili.com/read/cv34057293)》（阅读 248）
+- 潜行者M《[【MyGO/同人/爱灯】螺旋楼梯](https://www.bilibili.com/read/cv33287679)》（阅读 241）
+- Kaltz_Lech《[【MyGO同人二创/爱灯】眼泪里的星光](https://www.bilibili.com/read/cv33902737)》（阅读 240）
+- 潜行者M《[【MyGO/同人/爱灯】千年](https://www.bilibili.com/read/cv31020395)》（阅读 233）
+- AnonCosmos《[迷途之孙—爱灯的孩子～](https://www.bilibili.com/read/cv52804253)》（阅读 233）
+- 北地雪魔氏《[【爱灯】假如爱音第十集往楼下跑，但好像混入了神金的设定…](https://www.bilibili.com/read/cv43049447)》（阅读 196）
+- Kaltz_Lech《[【MyGO同人二创/爱灯】原谅我这一首，只为你而作的歌](https://www.bilibili.com/read/cv34169645)》（阅读 183）
+- 小鱼子也《[《被爱灯收养的蝉》——其一，三生万物](https://www.bilibili.com/read/cv42558048)》（阅读 158）
+- TYYyaiwj《[【爱灯】耍酒疯？](https://www.bilibili.com/read/cv53087558)》（阅读 149）
+- 无眼猫《[【同人】【爱灯】千早爱音，拨动灯的心弦③](https://www.bilibili.com/read/cv41023060)》（阅读 149）
+- 灯之诗《[［mygo\爱灯］一起看星星！](https://www.bilibili.com/read/cv52727713)》（阅读 130）
+- 无眼猫《[【同人】【爱灯】千早爱音，拨动灯的心弦④](https://www.bilibili.com/read/cv41016451)》（阅读 128）
+- Kaltz_Lech《[【MyGO同人二创/爱灯】爱你的星空](https://www.bilibili.com/read/cv33990354)》（阅读 124）
+- 小迪咯_PA2hiro《[BDmygo（爱灯向）同人短文：食欲之秋](https://www.bilibili.com/read/cv35772557)》（阅读 112）
+- 无眼猫《[【同人】【爱灯】千早爱音，拨动灯的心弦②](https://www.bilibili.com/read/cv41002808)》（阅读 103）
+- QW_安歌《[我是灯和爱音厨](https://www.bilibili.com/read/cv41082549)》（阅读 92）
+- 无眼猫《[【同人】【爱灯】千早爱音，拨动灯的心弦⑥](https://www.bilibili.com/read/cv41023015)》（阅读 88）
+- Lily-chanです《[对于爱音是灯幻想出来的理想人格投射的假说分析](https://www.bilibili.com/read/cv47834457)》（阅读 83）
+- kkk是啥子《[什么叫做无所不能的高松灯？/假如千早爱音去混黑道#1](https://www.bilibili.com/read/cv44869313)》（阅读 49）
+- 零米唐黄牛《[爱音与灯数星星](https://www.bilibili.com/read/cv45131269)》（阅读 44）
+- 闲鱼轩风《[（mygo/爱灯同人）二人的烟花](https://www.bilibili.com/read/cv53337947)》（阅读 14）
+
+@[/details]
+
 ---
 
 ## 七、信息来源

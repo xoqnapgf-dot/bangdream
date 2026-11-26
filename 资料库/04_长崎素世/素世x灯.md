@@ -174,7 +174,7 @@ Novi《人混み》：https://www.pixiv.net/artworks/118029957 ；Novi《放課�
 - 换脑手术成功《[【素灯】绣球花](https://www.bilibili.com/video/BV1G9p16VEsi)》（440 播放，2026-10）
 
 @[/details]
-- **更多专栏**：芋泥啵啵肠粉《[刚看完MYGO，写写为什么素世是另一个高松灯](https://www.bilibili.com/read/cv37570246)》（阅读 1457）。
+- **更多专栏（按阅读排）**：芋泥啵啵肠粉《[刚看完MYGO，写写为什么素世是另一个高松灯](https://www.bilibili.com/read/cv37570246)》（阅读 1457）；兰陵宵晓生《[【素灯】孤独曲](https://www.bilibili.com/read/cv41533306)》（阅读 295）；不人气的金卦子《[（素灯向/crychic合租公寓三创）公园漫步](https://www.bilibili.com/read/cv41083698)》（阅读 147）；灯之诗《[［mygo/素灯］我会握住你的手](https://www.bilibili.com/read/cv51720221)》（阅读 144）。
 
 ---
 

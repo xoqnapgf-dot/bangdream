@@ -79,6 +79,15 @@ NamuWiki 英文版把这一对写成若麦所有配对里最主流的一个，�
 
 @[/details]
 
+- **更多专栏（按阅读排）**：真实二号心理医师《[【mujica同人文/喵睦】爱为何物](https://www.bilibili.com/read/cv41441201)》（阅读 6779）；無奈来着w《[【喵睦】请一直记住我](https://www.bilibili.com/read/cv41385469)》（阅读 6625）；喜欢波奇多一点《[本应如此的喵睦](https://www.bilibili.com/read/cv41593432)》（阅读 5470）；YRFLY《[【喵睦】农舍](https://www.bilibili.com/read/cv42670885)》（阅读 4379）；粉笔Kun《[【喵睦】法莫替丁](https://www.bilibili.com/read/cv42390164)》（阅读 1351）；秋月桐枫《[【喵睦】爱，死亡和虚拟伴侣](https://www.bilibili.com/read/cv41872757)》（阅读 490）；云雀鸣于月桂的周二《[拟剧论（喵睦同人）](https://www.bilibili.com/read/cv41474177)》（阅读 462）；云雀鸣于月桂的周二《[暴君与弄臣（喵睦同人）](https://www.bilibili.com/read/cv42533227)》（阅读 207）；龙华寺烧麦《[（喵睦/喵莫）假如森美奈美要去熊本拍戏](https://www.bilibili.com/read/cv50159538)》（阅读 186）；D文文D《[【喵睦】无所谓](https://www.bilibili.com/read/cv43562132)》（阅读 175）；梦想成为希海头子《[【喵睦/睦水仙】爱莫能助](https://www.bilibili.com/read/cv47014819)》（阅读 124）；轻浮奋力软糯要强《[懂点喵睦的逻辑](https://www.bilibili.com/read/cv41363825)》（阅读 70）。
+
+@[details](另有 2 条，同样按阅读排)
+
+- 睦子米就是睦子米哒《[喵睦到底在哪？？？！！](https://www.bilibili.com/read/cv53157376)》（阅读 52）
+- Tanatos_-《[【喵睦/个人汉化】一起去水族馆](https://www.bilibili.com/read/cv53667779)》（阅读 44）
+
+@[/details]
+
 ---
 
 ## 五、信息来源

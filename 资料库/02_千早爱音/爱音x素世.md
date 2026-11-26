@@ -39,10 +39,12 @@
 
 MyGO!!!!! 第 6 话，立希刚冲着大家发了火。RiNG 门外，素世看着她离开的方向：
 
+@[details](展开对白原文（4 句）)
 > 素世：立希太勉强自己了吧
 > 素世：也对啊
 > 素世：必须要大家都在才行啊……
 > 爱音：……
+@[/details]
 
 爱音没有接话。第二天在 RiNG 大厅，素世说立希不接电话，爱音一边给立希发消息，一边想起素世那句话：
 
@@ -55,11 +57,13 @@ MyGO!!!!! 第 6 话，立希刚冲着大家发了火。RiNG 门外，素世看�
 
 MyGO!!!!! 第 10 话，爱音在月之森门口堵到素世：「我有话跟你说」。素世说「别跟过来」，爱音：「你不听我说 我就一直跟着」。一路跟到素世家楼下，素世回头看了她一眼，到了门口说：「进来吧。」
 
+@[details](展开对白原文（5 句）)
 > 爱音：简直就是豪华酒店 一点生活感都没有啊
 > 爱音：你不会是一个人住吧
 > 素世：我母亲也住在这（端来红茶）
 > 爱音：这个香气
 > 爱音：是我们第一次见面时 一起喝的那种红茶
+@[/details]
 
 素世问「你都听说了吧」，爱音说：「虽然很来气」「但又觉得，原来你也是个普通人」「其实你表里不一」「还满嘴谎言」「而且心眼挺坏的，不是吗」（说着说着笑了出来）。最后是那一来一回：「就算你说不需要我」「我也还要继续」——「你明明一开始只是想出风头」——「没错」「但这是由我们两个开始的乐队啊」——「既然如此…」「我来亲手结束它」。
 
@@ -79,11 +83,13 @@ B 站 up 主「-比奇堡的比奇」的分析视频也说，真正让爱素脱�
 
 第 11 话夜里，同一个方向回家，爱音先替灯说了话：「乐队和你，她都没有放弃」「即使只剩她自己」，然后：
 
+@[details](展开对白原文（5 句）)
 > 爱音：对了 我以后不会再叫你素世同学了
 > 爱音：我不会退出乐队的，Soyorin 也不要退出哦
 > 素世：哈？Soyorin？
 > 爱音：不要退出哦（跑开）
 > 素世：别这么叫啊！
+@[/details]
 
 后来爱音抱怨「Rikki 和 Soyorin 都好过分哦」，素世夹着嗓子回：「『Soyorin』这个叫法听起来有点讨厌呢。」
 
@@ -329,10 +335,12 @@ hero啊
 
 《少女乐团派对！》2023 年 9 月 15 日上线的素世五星卡「我来结束这一切」，剧情《只是一个点心而已》。素世办完事正要回去，听见爱音在喊她，装作没听见，爱音喊到第三遍她才叹气：「……不要大声喊我那么多次。很丢人的。」乐奈忽然四下张望：「好香……爽世身上。」是素世包里的费南雪，烹饪课上做的。
 
+@[details](展开对白原文（4 句）)
 > 乐奈：想吃
 > 素世：……想吃就吃吧
 > 爱音：诶，可以吗？
 > 素世：就算带回去也吃不完，我还收到了好多其他点心
+@[/details]
 
 两人吃得直喊好吃，爱音问「焦化……什么？」，素世解释是把黄油烧焦。点心只剩最后一个，爱音劝素世也吃一点，素世说：「……还是算了。你们两个分吧」。爱音提议分成三份，乐奈一伸手拿走了大的那块：
 
@@ -343,17 +351,21 @@ hero啊
 
 2024 年 2 月 20 日的素世五星卡「雨一直下」，剧情《雨，真的是……》。MyGO!!!!! 的五个人被大雨困在素世家里，雨渐渐小了，立希说差不多该回去了，爱音偏偏说回去好麻烦。
 
+@[details](展开对白原文（4 句）)
 > 爱音：我说啊，Soyorin。可以就这样在你家留宿吗？
 > 素世：不行
 > 爱音：诶~不是挺好的嘛~
 > 素世：不好
+@[/details]
 
 爱音说在素世家看到的雨天景色很优雅，像拍 MV 的氛围，「难得有这样的机会，要是拍张照片就好了」，素世：「我家可不是摄影棚」。爱音又说自己不太喜欢下雨，今天的雨倒还挺喜欢的，素世沉默了一会儿：
 
+@[details](展开对白原文（4 句）)
 > 素世：……唉。小爱音的人生似乎很快乐，真好啊
 > 爱音：等下，这是什么意思~？喜欢的天气多一些，每天不是会更开心吗？
 > 素世：我觉得这种想法很有小爱音的风格哦
 > 爱音：你绝对不是在夸我吧？
+@[/details]
 
 走之前爱音想到「下次的新歌要不要在这里拍 MV」，素世：「可以不要以在我家拍摄为前提吗？」。大家出门时，素世还叮嘱下次要带折叠伞，怕大家感冒：
 
@@ -371,6 +383,7 @@ hero啊
 
 素世指出，把惊喜内容滔滔不绝说出来的人是爱音自己。爱音退一步：就算注意到了，装作没注意到不是也挺好吗？素世说：「如果你可以藏得更好一些的话，我也可以装作没发现哦？」。聊到谁擅长准备惊喜，爱音说：
 
+@[details](展开对白原文（7 句）)
 > 爱音：Soyorin应该很擅长准备惊喜！
 > 素世：诶，是吗……？
 > 爱音：不不，Soyorin绝对很擅长这个！
@@ -378,15 +391,18 @@ hero啊
 > 爱音：明明没有这种打算，却还能说出『组一辈子乐队』这种话，或者笑眯眯地利用别人
 > 爱音：既然这种事都做得出来，准备惊喜不就是小菜一碟嘛……
 > 素世：……难道你是想找我吵架？
+@[/details]
 
 ### 2.10 「一口甜蜜，一次放松」
 
 2025 年 3 月 15 日的素世五星卡「开幕前的片刻」，剧情《一口甜蜜，一次放松》。演出结束后，爱音和素世在小吃车附近找那种小圆甜甜圈，没找到，遇上了来买点心的绯玛丽、亚子和巴。学姐们说，不知道选哪个口味的时候，就把乐队成员的份一起买下来分着吃，爱音转头问素世：
 
+@[details](展开对白原文（4 句）)
 > 爱音：哎~Soyorin！我们也一起买些想吃的口味来分享吧~！
 > 素世：……哈？
 > 素世：嗯——感觉不太适合我们呢~
 > 爱音：……听到了吧。快来快来，Soyorin~~
+@[/details]
 
 最后素世还是答应了：「………………嗯，那就这个吧」，买的是奶茶味。买完以后，素世问：「小爱音……刚才，你是什么意思？」爱音说：「Soyorin在学姐们面前，也不好拒绝我吧？」素世：「真的是你能做出来的事啊」「以后不要再擅自替我做决定了。……我开动了」。爱音要尝一口，素世说「怎么可能给你。吃你自己的」。故事最后是素世的心里话：
 
@@ -416,6 +432,7 @@ dauuricus 搬运的熟肉《【爱素/官粮】长崎素世八周年卡面剧情
 
 爱音说，那种情况下根本不会考虑 MyGO!!!!! 怎么样，「总之呢，我也希望事情能有个了结。而且你们好不容易聚在一起，却一直都不干不脆的。那我肯定想推你们一把啊」。
 
+@[details](展开对白原文（7 句）)
 > 素世：……这样啊
 > 素世：说不定，就是这么简单的事吧……
 > 素世：谢谢你。小爱音
@@ -423,6 +440,7 @@ dauuricus 搬运的熟肉《【爱素/官粮】长崎素世八周年卡面剧情
 > 爱音：Soyorin居然坦率地道谢，明天该不会下雪吧！？
 > 素世：哈？
 > 素世：啊啊，真是的。我就不该道谢
+@[/details]
 
 爱音赶紧道歉，说自己是真的很意外，又说「现在Soyorin的表情看上去神清气爽嘛」，临走前喊了一句：「Soyorin也别放弃啊！」素世在原地想：「就是因为没放弃 MyGO!!!!!……一边迷茫着，一边向前迈进……所以才能好好回顾 CRYCHIC」，最后说了一句：「……『再见啦』」。
 
@@ -1287,6 +1305,210 @@ pixiv「あのそよ」近一年收藏最多的有 materWolen《即将被爽食�
 - rxpvovkcyfd《[爱素](https://www.bilibili.com/video/BV1vq5y6dExy)》（620 播放，2026-05）
 - LightningO0o《[爱素 当你](https://www.bilibili.com/video/BV1BqsH69EHZ)》（600 播放，2026-11）
 - 杀一只烈焰雕《[【MyGO/爱素/MAD】心墙](https://www.bilibili.com/video/BV1KtKVe9ELk)》（233 播放，2025-02）
+
+@[/details]
+
+- **更多专栏（按阅读排）**：里芙《[相爱相杀的爱素](https://www.bilibili.com/read/cv26268268)》（阅读 21917）；幻羽莹殇雪紫蝶琉璃风《[（mygo/爱素）污秽不堪的我](https://www.bilibili.com/read/cv25969497)》（阅读 20757）；洛猫猫不是猫《[【MyGO  爱素】她给的实在是太多了  之白蝴蝶与告白](https://www.bilibili.com/read/cv26893925)》（阅读 18048）；不穿裤子的艾克斯《[【mygo/爱素】18岁的素世（上）](https://www.bilibili.com/read/cv27083627)》（阅读 17380）；不穿裤子的艾克斯《[【mygo/爱素】与爱音的一辈子。](https://www.bilibili.com/read/cv26829136)》（阅读 15962）；里芙《[【爱素】她展露的表情](https://www.bilibili.com/read/cv26940855)》（阅读 15869）；啥都懂的长颈鹿《[挣脱不开的拥抱【爱素】](https://www.bilibili.com/read/cv26456529)》（阅读 14412）；里芙《[【爱素】幸福的吻](https://www.bilibili.com/read/cv26772653)》（阅读 14298）；好梦在何方nanoda《[【mygo/爱素】终将成为你](https://www.bilibili.com/read/cv28365080)》（阅读 12718）；不穿裤子的艾克斯《[【mygo/爱素】长崎素世的追忆。](https://www.bilibili.com/read/cv28239380)》（阅读 12223）；里芙《[【爱素】丹桂的香味](https://www.bilibili.com/read/cv26637548)》（阅读 12088）；洛猫猫不是猫《[【MyGO 爱素】星空迷情](https://www.bilibili.com/read/cv26672107)》（阅读 11977）。
+
+@[details](另有 197 条，同样按阅读排)
+
+- HyToking《[【爱素】小故事两则](https://www.bilibili.com/read/cv26510295)》（阅读 11514）
+- 饮汐也会袖里乾坤《[我记得（爱素ooc）](https://www.bilibili.com/read/cv40717634)》（阅读 11429）
+- 芸草冰《[【MyGO同人】【爱素】冬景雨](https://www.bilibili.com/read/cv27051721)》（阅读 11347）
+- 南红枫SRMaple《[【MyGO!!!!!】【やしげ️】(爱素)同人短漫(重投)](https://www.bilibili.com/read/cv27913728)》（阅读 10012）
+- 不穿裤子的艾克斯《[【mygo/爱素】成为爱人的爱音](https://www.bilibili.com/read/cv26934088)》（阅读 8886）
+- Araki打杂《[【爱素】过去的花与未来的她](https://www.bilibili.com/read/cv26875568)》（阅读 8759）
+- 悲剧over君《[【个人汉化】同居后的爱素(BanG Dream!)(わたぬき)](https://www.bilibili.com/read/cv30475330)》（阅读 7611）
+- skywalkerwen《[【Mygo爱素同人文翻译代发】堕落](https://www.bilibili.com/read/cv26654176)》（阅读 6855）
+- 荞麦粉《[【Mygo/爱素/纯言情/微扭】愛物语（2w+）](https://www.bilibili.com/read/cv42119006)》（阅读 6844）
+- 芸草冰《[【MyGO同人漫画】【爱素】最好的礼物](https://www.bilibili.com/read/cv27407312)》（阅读 6756）
+- skywalkerwen《[【Mygo同人文翻译代发】爱音×素世 你不是孤身一人](https://www.bilibili.com/read/cv26689731)》（阅读 6714）
+- 南红枫SRMaple《[【MyGO!!!!!】【わたぬき】同人短漫「同居二日的爱素」](https://www.bilibili.com/read/cv33256086)》（阅读 6570）
+- Sinogi《[【MyGO!!!!!】【爱素】无法入睡（ちょくじょう）（个人翻译）](https://www.bilibili.com/read/cv26686448)》（阅读 6432）
+- 南红枫SRMaple《[【MyGO!!!!!】【わたぬき】同人短漫「成年同居爱素」](https://www.bilibili.com/read/cv30523295)》（阅读 6293）
+- Sinogi《[【MyGO!!!!!】爱音×素世短漫（ちょくじょう）（个人翻译）](https://www.bilibili.com/read/cv26553570)》（阅读 6086）
+- Sinogi《[【MyGO!!!!!】【爱素】留不住的时间（ちょくじょう）（个人翻译）](https://www.bilibili.com/read/cv27050367)》（阅读 6068）
+- 灰色新月GrayCrescent《[【爱素/素世生贺（筹）/催泪治愈向】长崎素世的七十八个生日 一辈子之后#特辑](https://www.bilibili.com/read/cv41759768)》（阅读 5902）
+- 汐雾影《[MyGO!!!!! 4th Single限定盘封面爱素双人截修](https://www.bilibili.com/read/cv29105665)》（阅读 5853）
+- 南红枫SRMaple《[【MyGO!!!!!】【ひだま】(爱素)同人短漫](https://www.bilibili.com/read/cv27483084)》（阅读 5712）
+- 灰白的花《[【MyGo/爱素】春之神风(6)](https://www.bilibili.com/read/cv41137086)》（阅读 5465）
+- 洛猫猫不是猫《[【MyGO 爱素 万圣活动文】失真](https://www.bilibili.com/read/cv27356296)》（阅读 5347）
+- 缘素子《[【MyGO爱素/超短篇】彼岸呼唤](https://www.bilibili.com/read/cv31043588)》（阅读 5009）
+- 南红枫SRMaple《[【MyGO!!!!!】【わたぬき】(爱素)同人短漫](https://www.bilibili.com/read/cv31358058)》（阅读 4890）
+- 好梦在何方nanoda《[【MyGO/爱素】擅长捉弄的素世同学](https://www.bilibili.com/read/cv27060896)》（阅读 4691）
+- 轮回之焰《[爱素图](https://www.bilibili.com/read/cv31050186)》（阅读 4688）
+- 千早小草《[【爱素】农农万事屋#2素世世有喜欢的人了怎么办？](https://www.bilibili.com/read/cv40705345)》（阅读 4604）
+- 南红枫SRMaple《[【MyGO!!!!!】【わたぬき】(爱素)同人短漫「寒冷的日子」](https://www.bilibili.com/read/cv29854229)》（阅读 4596）
+- 南红枫SRMaple《[【MyGO!!!!!】【わたぬき】(爱素)同人短漫](https://www.bilibili.com/read/cv32322724)》（阅读 4416）
+- 零-死前的百物语《[【爱素】醒来变成小学生](https://www.bilibili.com/read/cv33262077)》（阅读 4396）
+- 季陌寂寞《[【MYGO填词/爱素】惊世一跪惹人笑，从此荣获挺王称号](https://www.bilibili.com/read/cv37041091)》（阅读 4376）
+- 不穿裤子的艾克斯《[【mygo/爱素】18岁的素世（下）](https://www.bilibili.com/read/cv27152914)》（阅读 4343）
+- 方舟骑士ArkadiA《[爱音X素世 无罪可赎](https://www.bilibili.com/read/cv26636204)》（阅读 4307）
+- 江鱼君《[【MyGO同人】【爱素】无可替代](https://www.bilibili.com/read/cv26469249)》（阅读 4200）
+- 洛猫猫不是猫《[【MyGO 爱素】谎花if：大雨不停歇](https://www.bilibili.com/read/cv33185574)》（阅读 4029）
+- 洛猫猫不是猫《[【MyGO 爱素】暮雨、飞鸟](https://www.bilibili.com/read/cv33905822)》（阅读 3975）
+- 希马酋长最不可爱了《[（爱素） 基于一个灵感而诞生的另一个灵感](https://www.bilibili.com/read/cv26897432)》（阅读 3956）
+- Sinogi《[【MyGO!!!!!】【爱素】学习会（ちょくじょう）（个人翻译）](https://www.bilibili.com/read/cv27196904)》（阅读 3784）
+- 好梦在何方nanoda《[【MyGo/爱素】我们开启的故事](https://www.bilibili.com/read/cv26926860)》（阅读 3460）
+- 灰色新月GrayCrescent《[【爱素/高糖微刀/团魂】一辈子之后#1.5 千早爱音的幸福之问](https://www.bilibili.com/read/cv42176098)》（阅读 3435）
+- 符烨桦《[爱素](https://www.bilibili.com/read/cv41924347)》（阅读 3419）
+- 南红枫SRMaple《[【MyGO!!!!!】【ちょくじょう】(爱素)同人短漫⑧「三明治制作」](https://www.bilibili.com/read/cv27789267)》（阅读 3361）
+- 洛猫猫不是猫《[【MyGO 爱素】意迟迟](https://www.bilibili.com/read/cv38704837)》（阅读 3320）
+- 希马酋长最不可爱了《[（爱音X素世）   随便写写的怪东西](https://www.bilibili.com/read/cv26226875)》（阅读 3102）
+- 零-死前的百物语《[【爱素】何时知女心](https://www.bilibili.com/read/cv38850666)》（阅读 3083）
+- 风追の落叶《[【MyGO 爱素】我早已喜欢上你](https://www.bilibili.com/read/cv26842390)》（阅读 2967）
+- 洛猫猫不是猫《[【MyGO 爱素】利兹与青鸟](https://www.bilibili.com/read/cv38502194)》（阅读 2906）
+- HyToking《[【爱素】小故事两则（二）](https://www.bilibili.com/read/cv27040939)》（阅读 2753）
+- SpringShann《[【MyGO/爱素】淮观终临](https://www.bilibili.com/read/cv31300539)》（阅读 2748）
+- 江鱼君《[【MyGO同人】【爱素】夜谈](https://www.bilibili.com/read/cv26580839)》（阅读 2605）
+- 玉澄渊《[【爱素】宽容](https://www.bilibili.com/read/cv42630394)》（阅读 2530）
+- 黑羽仙洛《[【授权翻译】白昼之萤只是区区虫豸【MyGO】【爱素/ansy】](https://www.bilibili.com/read/cv27914525)》（阅读 2512）
+- 爆浆高松灯《[【MyGO!!!!!】【爱素】【短篇】最后之后](https://www.bilibili.com/read/cv26699664)》（阅读 2504）
+- 江鱼君《[【MyGO同人】【爱素】归国一夜](https://www.bilibili.com/read/cv26380344)》（阅读 2467）
+- 江鱼君《[【MyGO同人】【爱素】【一瞬一瞬】](https://www.bilibili.com/read/cv27010831)》（阅读 2426）
+- 长崎食素素《[爱素](https://www.bilibili.com/read/cv43541411)》（阅读 2402）
+- 希马酋长最不可爱了《[（爱素）  并不存在的童话](https://www.bilibili.com/read/cv31072815)》（阅读 2375）
+- 希马酋长最不可爱了《[（爱音X素世）  基于第11集所衍生出的一个灵感](https://www.bilibili.com/read/cv26351871)》（阅读 2340）
+- 江鱼君《[【MyGO同人】【爱素】托付认可](https://www.bilibili.com/read/cv26807064)》（阅读 2281）
+- 猫头波比《[【Mygo】【爱素】Zauberkoenig（上）](https://www.bilibili.com/read/cv39360992)》（阅读 2234）
+- 黄岩君《[【mygo同人/爱素糖】我们的故事](https://www.bilibili.com/read/cv40946022)》（阅读 2230）
+- We四月糸雨《[【爱素同人】 天气预报](https://www.bilibili.com/read/cv42038557)》（阅读 2181）
+- 爱素食的千早爱1《[【爱素/ansy】我最讨厌的人是千早爱音（1）](https://www.bilibili.com/read/cv34030499)》（阅读 2126）
+- 江鱼君《[【MyGO同人】【爱素】病名为孤独](https://www.bilibili.com/read/cv26425995)》（阅读 2093）
+- 江鱼君《[【MyGO同人】爱素短篇二则](https://www.bilibili.com/read/cv26658614)》（阅读 2090）
+- 瞎剪虾《[那么，我要怎样才能发泄属于我自己的愤怒呢？【爱素】](https://www.bilibili.com/read/cv50215138)》（阅读 1980）
+- 我是铜主任《[【爱音x素世】烂人之恋（1）](https://www.bilibili.com/read/cv26735219)》（阅读 1966）
+- 符文司制《[【mygo/爱素】致爱音的信](https://www.bilibili.com/read/cv32160780)》（阅读 1956）
+- SpringShann《[【爱素/HE】于是长崎素世踏上旅途寻找神隐的爱音。｜“背对背的神隐”](https://www.bilibili.com/read/cv43334916)》（阅读 1886）
+- 南道落花《[【MyGO！！！！！】【爱素】【纯糖】宁和之夜](https://www.bilibili.com/read/cv34481771)》（阅读 1861）
+- 零-死前的百物语《[【爱素】出……出轨？](https://www.bilibili.com/read/cv35512775)》（阅读 1832）
+- 我是咕咕子《[mygo同人/爱素：第二次的回应](https://www.bilibili.com/read/cv29663205)》（阅读 1816）
+- 时雨家绫月《[爱素/ansy 二创 说不出口的话，你与我](https://www.bilibili.com/read/cv41571029)》（阅读 1778）
+- MeeiME《[【玩偶与你】爱素同人漫全本](https://www.bilibili.com/read/cv47112031)》（阅读 1754）
+- 季陌寂寞《[【爱素|曝光】](https://www.bilibili.com/read/cv42487383)》（阅读 1753）
+- 樱小路陽炎《[【爱素】与心爱的你行至世界尽头#1](https://www.bilibili.com/read/cv41859539)》（阅读 1683）
+- 零-死前的百物语《[【爱素】我才不是千早爱音单推人](https://www.bilibili.com/read/cv33623501)》（阅读 1680）
+- 灰色新月GrayCrescent《[【爱素/催泪向/治愈向】一辈子之后#1 银杏叶与樱花瓣（重制版）](https://www.bilibili.com/read/cv41741482)》（阅读 1677）
+- 墨墨捂文《[【Mygo同人/爱素/ansy】放学，捡到一只栗色狐狸](https://www.bilibili.com/read/cv34830079)》（阅读 1677）
+- 符文司制《[【MyGO/爱素】剧场版 穿越时空的恋与至死不渝的爱](https://www.bilibili.com/read/cv39269464)》（阅读 1625）
+- 希马酋长最不可爱了《[『MyGO』 （爱素） 意义不明的怪东西2](https://www.bilibili.com/read/cv28350343)》（阅读 1591）
+- 赶稿星人赶稿爱《[【爱素】魔法少女♥冒险家 到达！钢板城！](https://www.bilibili.com/read/cv47696483)》（阅读 1575）
+- 花火花是火花火《[【MYGO&爱素】以考试作为比较的两人](https://www.bilibili.com/read/cv31171601)》（阅读 1571）
+- 广藿香-一种香草《[【mygo同人】【ansy|爱素】零落泪滴化作雪](https://www.bilibili.com/read/cv28408303)》（阅读 1558）
+- 夜血冥殇《[【MyGO】【爱素】一丘之貉](https://www.bilibili.com/read/cv26899116)》（阅读 1546）
+- Index叶九《[【爱素】渴血症](https://www.bilibili.com/read/cv32008596)》（阅读 1546）
+- 灰色新月GrayCrescent《[【架空/爱素】致化作光明的你](https://www.bilibili.com/read/cv42925796)》（阅读 1526）
+- 灰白的花《[【MyGo/爱素】春之神风(上)](https://www.bilibili.com/read/cv41400668)》（阅读 1473）
+- 零-死前的百物语《[【爱素】于是我成为了长崎素世（下）](https://www.bilibili.com/read/cv28719070)》（阅读 1444）
+- 樱小路陽炎《[【爱素】与心爱的你行至世界尽头#2](https://www.bilibili.com/read/cv41939682)》（阅读 1437）
+- 某科学的对苯二酚《[爱素短篇两则 选餐挑战&过头的玩笑](https://www.bilibili.com/read/cv41094644)》（阅读 1430）
+- 夏影-AIRness《[【MyGO/爱音 x 素世】如果那天晚上爱音遇到了素世](https://www.bilibili.com/read/cv26898758)》（阅读 1415）
+- 我是铜主任《[【爱音x素世】见习死神爱音酱！！（下）](https://www.bilibili.com/read/cv26778239)》（阅读 1365）
+- 零-死前的百物语《[【爱素】于是，我成为了长崎素世（上）](https://www.bilibili.com/read/cv28537132)》（阅读 1305）
+- 饼干_AmeKawa《[【爱素/ansy】相互依靠的迷子](https://www.bilibili.com/read/cv26534554)》（阅读 1296）
+- 零-死前的百物语《[【爱素】生日当天吃了酒心巧克力](https://www.bilibili.com/read/cv39525220)》（阅读 1284）
+- 零-死前的百物语《[【爱素】长崎素世不会唱歌](https://www.bilibili.com/read/cv32461966)》（阅读 1282）
+- _黍黍我呀《[爱素同人短篇《伪装的温度》](https://www.bilibili.com/read/cv43720174)》（阅读 1258）
+- 爱素食的千早爱1《[【爱素/ansy】我最讨厌的人是千早爱音（2）](https://www.bilibili.com/read/cv34081659)》（阅读 1231）
+- 夏影-AIRness《[【MyGO/爱音 x 素世】遗忘](https://www.bilibili.com/read/cv26898678)》（阅读 1215）
+- _黍黍我呀《[爱素同人短篇《伪装的温度》](https://www.bilibili.com/read/cv43730161)》（阅读 1169）
+- 零-死前的百物语《[【爱素】擅长写爱0的长崎素世](https://www.bilibili.com/read/cv34306992)》（阅读 1168）
+- 零-死前的百物语《[【爱素】于是我成为了长崎素世（中）](https://www.bilibili.com/read/cv28580659)》（阅读 1147）
+- 百乐Airy《[【爱素】 习惯](https://www.bilibili.com/read/cv27312529)》（阅读 1141）
+- 我是铜主任《[【爱音x素世】见习死神爱音酱！！（上）](https://www.bilibili.com/read/cv26778011)》（阅读 1105）
+- 零-死前的百物语《[【爱素】爱撒娇的soyorin](https://www.bilibili.com/read/cv36003621)》（阅读 1105）
+- 雑魚大人《[【MyGo!!!!!同人二创/爱素】变小的爱音想要放弃恢复正常（1）](https://www.bilibili.com/read/cv39660760)》（阅读 1070）
+- 枕梦晚眠《[爱素文（soyo第一人称视角）——章二](https://www.bilibili.com/read/cv44919220)》（阅读 1060）
+- 猫猫猫宫《[【mygo/爱素】千早爱音想要喝草莓牛奶#1 上半先行文字版](https://www.bilibili.com/read/cv40092454)》（阅读 1050）
+- 我是铜主任《[【爱音x素世】见习死神爱音酱！！（中）](https://www.bilibili.com/read/cv26778113)》（阅读 1015）
+- 零-死前的百物语《[【爱素】笨蛋才把“喜欢”藏起来](https://www.bilibili.com/read/cv37688585)》（阅读 1005）
+- 鳩轉桜嵐LainHate《[【爱素/心情藏在另一面】](https://www.bilibili.com/read/cv40581134)》（阅读 985）
+- 零-死前的百物语《[【爱素】爱音残响](https://www.bilibili.com/read/cv34454622)》（阅读 949）
+- 快乐沙雕夏琉《[MyGo爱素同人 交换身体的一天](https://www.bilibili.com/read/cv26727151)》（阅读 936）
+- 湖光无毁《[【MYGO/爱素ansy】夏日](https://www.bilibili.com/read/cv27072966)》（阅读 928）
+- 我是咕咕子《[mygo：灵魂互换爱素/爱音家的晚上（5）](https://www.bilibili.com/read/cv35856970)》（阅读 898）
+- 我是咕咕子《[mygo:灵魂互换爱素/第三次的并肩](https://www.bilibili.com/read/cv35083103)》（阅读 896）
+- 符烨桦《[爱素](https://www.bilibili.com/read/cv40136970)》（阅读 889）
+- 我是咕咕子《[mygo/灵魂互换爱素：第四次，同居！](https://www.bilibili.com/read/cv35732776)》（阅读 869）
+- -月下桜-《[【MyGO!!!!!】（爱素) アールグレイに角砂糖 短篇3](https://www.bilibili.com/read/cv41196698)》（阅读 862）
+- 睦织墨提斯《[爱素 「同人」](https://www.bilibili.com/read/cv35434589)》（阅读 813）
+- 赶稿星人赶稿爱《[【爱素】爱音突然觉醒吸血鬼，还给素世吸小了?!](https://www.bilibili.com/read/cv50480074)》（阅读 788）
+- 雪夜观星《[雨天（爱素）](https://www.bilibili.com/read/cv26802006)》（阅读 742）
+- 鳩轉桜嵐LainHate《[【爱素/心情藏在另一面】](https://www.bilibili.com/read/cv40573189)》（阅读 715）
+- トワツガイ-百合央《[魔女素世与狗狗爱音 第一章（爱素）](https://www.bilibili.com/read/cv26985192)》（阅读 677）
+- -月下桜-《[【MyGO!!!!!】（爱素) アールグレイに角砂糖 短篇1](https://www.bilibili.com/read/cv41168260)》（阅读 623）
+- 符烨桦《[爱素](https://www.bilibili.com/read/cv41492554)》（阅读 602）
+- 赶稿星人赶稿爱《[【爱素】⭐️素世⭐️闪光⭐️](https://www.bilibili.com/read/cv46726802)》（阅读 600）
+- 李问道《[【MyGo同人|OOC】千早爱音和长崎爽世差点结婚了](https://www.bilibili.com/read/cv27833129)》（阅读 597）
+- トワツガイ-百合央《[爱妒忌的素世小姐-做梦篇（爱素）](https://www.bilibili.com/read/cv26913400)》（阅读 594）
+- 邱凌雁《[【ansy/爱素】带着灵魂流浪（2）](https://www.bilibili.com/read/cv27659059)》（阅读 572）
+- トワツガイ-百合央《[君の隣で息をする 爱素隐藏剧情](https://www.bilibili.com/read/cv27754279)》（阅读 571）
+- 土豆丝比尔《[次日清晨的爱素](https://www.bilibili.com/read/cv28238800)》（阅读 544）
+- 希马酋长最不可爱了《[『MyGO』 爱素的简单小短篇](https://www.bilibili.com/read/cv32379367)》（阅读 537）
+- Momster《[【MyGO | 爱素 ansy】 雨过天晴](https://www.bilibili.com/read/cv42153588)》（阅读 504）
+- 千鸟ちどり《[【爱素/ansy】今天开始做妈妈（一）](https://www.bilibili.com/read/cv40811809)》（阅读 488）
+- 邱凌雁《[【ansy/爱素】带着灵魂流浪（3）](https://www.bilibili.com/read/cv27803164)》（阅读 486）
+- 希马酋长最不可爱了《[（爱素） 概念小短篇](https://www.bilibili.com/read/cv33342651)》（阅读 485）
+- 眞縭《[【Mygo|爱素】《曾经的你与现在的我》Chap.11](https://www.bilibili.com/read/cv41608142)》（阅读 438）
+- -月下桜-《[【MyGO!!!!!】（爱素) アールグレイに角砂糖 短篇2](https://www.bilibili.com/read/cv41176836)》（阅读 438）
+- Momster《[【MyGO | 爱素 ansy】 我要送你九十九朵玫瑰](https://www.bilibili.com/read/cv42187893)》（阅读 434）
+- -月下桜-《[【MyGO!!!!!】（爱素) アールグレイに角砂糖 短篇11](https://www.bilibili.com/read/cv41437766)》（阅读 433）
+- 符文司制《[【MyGO短篇/爱素】爱音的诗歌](https://www.bilibili.com/read/cv33247894)》（阅读 428）
+- 李问道《[【MyGo同人|爱素】暧昧](https://www.bilibili.com/read/cv27730977)》（阅读 420）
+- 安然kaki《[【MyGO/爱素同人】于命运中终将相遇的我们](https://www.bilibili.com/read/cv29087389)》（阅读 417）
+- 羊宫家殃殃《[［爱素／ansy ］单翼](https://www.bilibili.com/read/cv44380253)》（阅读 400）
+- 眞縭《[【Mygo|爱素】《曾经的你与现在的我》Chap.8](https://www.bilibili.com/read/cv41464547)》（阅读 392）
+- 千鸟ちどり《[【爱素/ansy】 二分之一的天空（补档）](https://www.bilibili.com/read/cv40648662)》（阅读 386）
+- Momster《[【MyGO | 爱素 ansy】 只是想听你说爱我](https://www.bilibili.com/read/cv42145846)》（阅读 381）
+- _丛雨_official《[爱素cp小作文](https://www.bilibili.com/read/cv41866819)》（阅读 379）
+- 孤九影墨《[（爱素）喜欢你的眼睛](https://www.bilibili.com/read/cv41113576)》（阅读 375）
+- -月下桜-《[【MyGO!!!!!】（爱素) アールグレイに角砂糖 短篇5](https://www.bilibili.com/read/cv41242689)》（阅读 374）
+- Momster《[【MyGO | 爱素 ansy】 深海鱼](https://www.bilibili.com/read/cv42156789)》（阅读 367）
+- 符文司制《[【短篇/爱素】美梦中的人生](https://www.bilibili.com/read/cv33379792)》（阅读 361）
+- 红烧鳗鱼饭_Yukika《[【Mygo/爱素】融雪冬音](https://www.bilibili.com/read/cv41486088)》（阅读 340）
+- K-brot马铃薯面包《[mygo第十集爱素对线](https://www.bilibili.com/read/cv37651564)》（阅读 336）
+- 千鸟ちどり《[【爱素/ansy】掌心拢火（上）](https://www.bilibili.com/read/cv40746956)》（阅读 329）
+- Momster《[【MyGO | 爱素 ansy】 空间迷向](https://www.bilibili.com/read/cv42146030)》（阅读 311）
+- Momster《[【MyGO | 爱素 ansy】 安全距离](https://www.bilibili.com/read/cv42147715)》（阅读 308）
+- DMeower《[【MyGO同人|爱素】月神](https://www.bilibili.com/read/cv34780442)》（阅读 298）
+- 符文司制《[【MyGo/爱素】勇者爱音与魔法师素世（1）](https://www.bilibili.com/read/cv31848147)》（阅读 296）
+- 眞縭《[【Mygo|爱素】《曾经的你与现在的我》Chap.9](https://www.bilibili.com/read/cv41529379)》（阅读 287）
+- -月下桜-《[【MyGO!!!!!】（爱素) アールグレイに角砂糖 短篇8](https://www.bilibili.com/read/cv41317417)》（阅读 286）
+- -月下桜-《[【MyGO!!!!!】（爱素) アールグレイに角砂糖 短篇4](https://www.bilibili.com/read/cv41220128)》（阅读 285）
+- 符文司制《[【MyGo/爱素】勇者爱音与魔法师素世（2）](https://www.bilibili.com/read/cv31954971)》（阅读 278）
+- 漠山浮路_陈道安《[【BanGdream It's MyGO】【同人】【爱素】《弦和雨夜》](https://www.bilibili.com/read/cv39902914)》（阅读 276）
+- 中子水晶《[【爱素】素世世，我家有猫，会翻跟头！](https://www.bilibili.com/read/cv53589780)》（阅读 271）
+- 符文司制《[【MyGo/爱素】想要独占，想要藏起来（2）](https://www.bilibili.com/read/cv31719001)》（阅读 270）
+- 莫十七-《[「Mygo/Ansy/爱素」我讨厌雨天，但是我更喜欢你](https://www.bilibili.com/read/cv44862457)》（阅读 267）
+- 符文司制《[【爱素】勇者爱音与魔法师素世（3）](https://www.bilibili.com/read/cv32003911)》（阅读 265）
+- -丨啾咪丨-《[【MyGO/爱素】剧场版 穿越时空的恋与至死不渝的爱](https://www.bilibili.com/read/cv39281910)》（阅读 264）
+- Krabs39《[mygo爱素文卡壳，关于soyo的讨论](https://www.bilibili.com/read/cv25902006)》（阅读 262）
+- 学美术七年的养猫萌新《[mygo同人—当乐队只能有五个人是世界规则（爱素向）](https://www.bilibili.com/read/cv40597198)》（阅读 260）
+- -月下桜-《[【MyGO!!!!!】（爱素) アールグレイに角砂糖 短篇10](https://www.bilibili.com/read/cv41403923)》（阅读 256）
+- ゚゙八奈见杏菜《[【MyGO｜爱素】：第一次拥抱](https://www.bilibili.com/read/cv50671063)》（阅读 251）
+- ちずる千鶴《[爱素。暴雨。一千七百字短篇](https://www.bilibili.com/read/cv40796292)》（阅读 241）
+- DMeower《[【MyGO同人|爱素】解脱感](https://www.bilibili.com/read/cv34306297)》（阅读 233）
+- -月下桜-《[【MyGO!!!!!】（爱素) アールグレイに角砂糖 短篇9](https://www.bilibili.com/read/cv41338365)》（阅读 231）
+- 浅仓透今天吃什么《[【爱素/素爱】候补之人（约4k）](https://www.bilibili.com/read/cv26564443)》（阅读 228）
+- -月下桜-《[【MyGO!!!!!】（爱素) アールグレイに角砂糖 短篇7](https://www.bilibili.com/read/cv41300845)》（阅读 224）
+- ValoeColober《[【爱素】千早爱音今天的突然巨大化会震撼长崎素世一整年吗？](https://www.bilibili.com/read/cv41051230)》（阅读 223）
+- 中子水晶《[【爱素】执着于过去，会被俘虏吗](https://www.bilibili.com/read/cv53475904)》（阅读 212）
+- 李问道《[【MyGo同人|爱素】无事生非](https://www.bilibili.com/read/cv28407597)》（阅读 209）
+- スーパーサイヤ三三《[【ANSY/爱素】红茶](https://www.bilibili.com/read/cv28106647)》（阅读 203）
+- DMeower《[【MyGO同人|爱素】安心感](https://www.bilibili.com/read/cv34306295)》（阅读 198）
+- Momster《[【MyGO | 爱素 ansy】 太阳掉进了素世的红茶里](https://www.bilibili.com/read/cv42176187)》（阅读 198）
+- ゚゙八奈见杏菜《[【MyGO｜爱素】：特殊的存在](https://www.bilibili.com/read/cv50818204)》（阅读 192）
+- ゚゙八奈见杏菜《[【MyGO｜爱素（四）】：她的颜色](https://www.bilibili.com/read/cv51217869)》（阅读 172）
+- 符烨桦《[阳光素世和阴暗爱音？](https://www.bilibili.com/read/cv41164524)》（阅读 168）
+- 启哈啊爱音《[【爱素】杂鱼体力素世不会遇知千早爱音帮她强身健体？](https://www.bilibili.com/read/cv42322439)》（阅读 158）
+- 凯Kesidge《[千早爱音的土拨鼠之日 x 长崎素世的月之暗面 剧情解析](https://www.bilibili.com/read/cv50766710)》（阅读 154）
+- 启哈啊爱音《[【爱素】是，素世小姐](https://www.bilibili.com/read/cv41553363)》（阅读 151）
+- 大天才日菜《[MyGO！！！！！【爱素同人】灿若星河之物](https://www.bilibili.com/read/cv36988154)》（阅读 145）
+- ゚゙八奈见杏菜《[【MyGO｜爱素（五）】：此时恰好](https://www.bilibili.com/read/cv51514406)》（阅读 145）
+- 赤勒马《[（爱素）爱人错过](https://www.bilibili.com/read/cv40946664)》（阅读 112）
+- 抹茶猫小猫《[【ansy/爱素/日常】假如爱素都是兽娘](https://www.bilibili.com/read/cv41613549)》（阅读 106）
+- 楹莓_优门《[〖mygo同人/「余爱」#8（爱素）〗](https://www.bilibili.com/read/cv42188319)》（阅读 92）
+- 摸鱼卷毛凉《[【mygo同人/爱素/ansy】那个粉色头发的女孩总是来我家过夜](https://www.bilibili.com/read/cv47838401)》（阅读 73）
 
 @[/details]
 
