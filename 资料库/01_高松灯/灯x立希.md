@@ -375,6 +375,78 @@ PTT 在 2025 年 9 月有人把「活动上下篇」五人的卡面剧情整理�
 
 更多见《立希x灯.md》。
 
+- **更多 B 站视频（按播放排）**：Sennyuki风早千雪《[【崩坏3】灯姐的最后一舞！全流程细节语音讲解！简单好抄！灯希丽轻取官服红莲542扰动火伤梅比乌斯783&814&738分！](https://www.bilibili.com/video/BV1ge8g6REgC)》（2 万播放，2026-08）；千早上飞《[（灯希）灯的ASMR](https://www.bilibili.com/video/BV12uEWzuEdZ)》（1.5 万播放，2025-05）；未亡人余辰《[【灯希】立希怎么变成石头了？！](https://www.bilibili.com/video/BV1Bsjn6eEjL)》（1.2 万播放，2026-06）；魔法少女神川极乐《[【MyGO!!!/灯希？】椎名立希与被霸凌的高松灯](https://www.bilibili.com/video/BV1Y8nFzsE2Y)》（1 万播放，2025-09）；椎名立希的熊猫壁纸《[【MyGO/灯希】你唇边的色彩](https://www.bilibili.com/video/BV1vXSGYfEd7)》（8303 播放，2024-10）；无法访问em《[【灯希翻唱】【进步的小曲】《牡丹亭DJ》“为利禄为功名”](https://www.bilibili.com/video/BV1A1ph6pE38)》（7004 播放，2026-10）；千早家爱音《[【灯希】雪夜望灯——不言的残响](https://www.bilibili.com/video/BV1GzjRzAEPH)》（5964 播放，2025-05）；soyorin不熬夜《[崩铁疑似出现灯希组合](https://www.bilibili.com/video/BV1acyZYeET2)》（5886 播放，2024-10）；高松灯的读书频道《[【MyGO/灯希】灯希恋爱手书](https://www.bilibili.com/video/BV1isEdzEEtr)》（5138 播放，2025-05）；小柴老师丿《[【灯希】【骑士与诗篇】](https://www.bilibili.com/video/BV1BMuWzqEVn)》（4343 播放，2025-07）；疯芝乐麻《[【灯希灯】别用本人真事写同人啊！](https://www.bilibili.com/video/BV1b7Ma68EY1)》（3803 播放，2026-07）；泽子超乖巧《[！？灯希？！](https://www.bilibili.com/video/BV1mv7T6VEPg)》（3791 播放，2026-06）。
+
+@[details](另有 65 条，同样按播放排)
+
+- MikhailVedder《[【立希生贺/灯希纯糖】八月九日，鼓槌停摆的晴空#1完](https://www.bilibili.com/video/BV1Qi8xzUEJY)》（3535 播放，2025-08）
+- 发癫Nemo《[【灯希/填词】《奔赴星空》“你落在了星空也落在我心中”](https://www.bilibili.com/video/BV1mBHbzvEqZ)》（3371 播放，2025-10）
+- 華蓮社Official《[【MyGO/灯希】是的! 我们恋爱了！](https://www.bilibili.com/video/BV19W6GBdEz7)》（3298 播放，2026-01）
+- 波波不自闭《[【MyGO/灯希】椎名立希万圣节想告白](https://www.bilibili.com/video/BV116SUYCERU)》（3109 播放，2024-11）
+- cosAsinBtanC《[【灯希】灯听说这能让立希放松下来...](https://www.bilibili.com/video/BV13tY9zzEUd)》（2642 播放，2025-08）
+- 铸币大头sensei《[灯希 对话](https://www.bilibili.com/video/BV1yR3vzQEmh)》（2402 播放，2025-07）
+- 千早上飞《[（灯希）熬夜被灯发现的立希](https://www.bilibili.com/video/BV1MsMfzSExs)》（2370 播放，2025-07）
+- W-12490《[MYGO潜兵第六回 上（全配音剧场版）：即便如此【灯希篇】](https://www.bilibili.com/video/BV1D5dYB7Ej9)》（2327 播放，2026-04）
+- 牛奶糖233《[【⚠️灯希cp向】你怎么会觉得我要离开你？](https://www.bilibili.com/video/BV1irJ166EPi)》（2324 播放，2026-10）
+- 千早上飞《[（灯希）情歌](https://www.bilibili.com/video/BV1d3QfYcEzP)》（2315 播放，2025-03）
+- 夜幕初升-Mila《[(灯希手书)恋爱裁判](https://www.bilibili.com/video/BV1NBAnzfE43)》（2190 播放，2026-03）
+- cosAsinBtanC《[【灯希】自溜灯希双人舞](https://www.bilibili.com/video/BV14YYMzBE9a)》（2163 播放，2025-09）
+- 不死の祥云《[【MyGO/MAD/灯希】陪伴是最长情的告白【椎名立希生日会「望明希」单品】](https://www.bilibili.com/video/BV1mktmzTEdp)》（2028 播放，2025-08）
+- 千早上飞《[灯希](https://www.bilibili.com/video/BV1eUrhBLEAz)》（1833 播放，2026-01）
+- 御酒阁《[【mygo/希灯/灯希】冬日邂逅．灯向立希坦白心意了？](https://www.bilibili.com/video/BV1x4qQBjEDT)》（1731 播放，2025-12）
+- 亮闪闪初华《[【MyGO/灯希】星屑，鼓点和你的话语](https://www.bilibili.com/video/BV1tr8ZzvEn2)》（1659 播放，2025-07）
+- 荆门交运迷《[【光敏性癫痫警告⚠️】灯希TV](https://www.bilibili.com/video/BV1uyM26MEEB)》（1571 播放，2026-08）
+- 食盐Salt_《[【Mygo二创/灯希】 再无重逢的永别#6 孪生幻梦（上）](https://www.bilibili.com/video/BV1cGH7zREDu)》（1543 播放，2025-10）
+- 开朗偷摸零《[【MyGo|灯希】青空与蓝色，都走向透明#1](https://www.bilibili.com/video/BV1yPt3z4EQe)》（1429 播放，2025-08）
+- Drummer后藤一里《[【mygo中字/灯希】立希：我现在就感到很幸福😄](https://www.bilibili.com/video/BV1AjP1eeEa2)》（1426 播放，2025-02）
+- 剑锋指天涯《[立将行（mygo灯希）](https://www.bilibili.com/video/BV1V9rPYmE9Y)》（1422 播放，2025-01）
+- 藕树w《[留在我身边做我老婆好不好【MyGo/灯希】](https://www.bilibili.com/video/BV1yKnZe2EZA)》（1335 播放，2024-08）
+- 春日殘息將影《[灯希](https://www.bilibili.com/video/BV12eVU6nEQx)》（1216 播放，2026-05）
+- 千早上飞《[灯希](https://www.bilibili.com/video/BV1AMNY6yEK1)》（1158 播放，2026-07）
+- 楚茗敬酒《[【MyGo!!!!!/自用生肉切】点击就看灯希暖心对话（灯卡面剧情）](https://www.bilibili.com/video/BV12QWVztELH)》（1156 播放，2025-09）
+- 食盐Salt_《[【Mygo二创/灯希】 再无重逢的永别#5 惯性枷锁（下）](https://www.bilibili.com/video/BV1fCG7zFES3)》（1148 播放，2025-07）
+- 我是高松灯《[在调情的灯希](https://www.bilibili.com/video/BV1XZ421s7pv)》（1126 播放，2024-05）
+- 梓倩与威廉卡特《[【MyGO填词/灯希对唱】打上花火](https://www.bilibili.com/video/BV1Y6q1BVEBa)》（1115 播放，2025-12）
+- 小柴老师丿《[【灯希】梦的彼岸](https://www.bilibili.com/video/BV1rsXYBfEbh)》（1107 播放，2026-03）
+- 啃大瓜吧您《[【MYGO!!!!!|灯希MAD】只有你是天蓝色【天外来物】](https://www.bilibili.com/video/BV1eksseUEuP)》（1075 播放，2024-08）
+- 四石Fst《[【mygo/灯希灯】我们终将归于何方 第一话](https://www.bilibili.com/video/BV1ZYnhzXET8)》（1073 播放，2025-09）
+- 黄龍氏《[灯希羁绊剧情](https://www.bilibili.com/video/BV1wtag62EMu)》（1071 播放，2026-09）
+- 偷摸零不偷摸《[🐧灯希“这是缘，亦是命中最美的相见”🐧](https://www.bilibili.com/video/BV1jA7Z6ME9R)》（934 播放，2026-06）
+- しゅうゆう《[【灯希】游戏结算页面对话合集（更新中）](https://www.bilibili.com/video/BV1kbNAeEEjC)》（876 播放，2025-02）
+- WuTvT9《[【It's MyGO!!!!!/灯希】Pretender](https://www.bilibili.com/video/BV1Vu411K7aT)》（854 播放，2023-09）
+- 艾克芝士《[【MYGO/灯希】你给的爱一直很安静](https://www.bilibili.com/video/BV1N3KC6jEAf)》（822 播放，2026-07）
+- 胖头鱼GINGA《[【灯希】直接的告白](https://www.bilibili.com/video/BV12ArnBKEvP)》（819 播放，2026-01）
+- 无法抵达的理想《[TRUELOVE【希灯希】](https://www.bilibili.com/video/BV1H9Nv6QEnA)》（759 播放，2026-07）
+- 泽子超乖巧《[（灯希）鼓手的嘴似乎不怎么干净【re4mod】](https://www.bilibili.com/video/BV1Vkby6sEHi)》（682 播放，2026-08）
+- 四石Fst《[【mygo/灯希灯】我们终将归于何方 序章](https://www.bilibili.com/video/BV1ZvnhzHE7f)》（670 播放，2025-09）
+- SeawardRip《[【灯希/MAD】《promise with you》-“Towards the place I promised to be.”](https://www.bilibili.com/video/BV1o6n9z7E6h)》（663 播放，2025-09）
+- 希亦微《[【MyGo/灯希】《我不是黄蓉》我只要灯哥哥 完美的爱情](https://www.bilibili.com/video/BV1zw411r71b)》（628 播放，2023-10）
+- 情ちゃん《[灯希99](https://www.bilibili.com/video/BV1i4bHzLEWG)》（620 播放，2025-08）
+- cosAsinBtanC《[灯希/竖屏 || WORK](https://www.bilibili.com/video/BV1Z3CJBZEmL)》（606 播放，2025-11）
+- 雪音YukinoKoe《[【MyGO/灯希】爱你我不能说，看你们拥抱甜蜜【冬天的秘密】](https://www.bilibili.com/video/BV1Hc411o7Cv)》（546 播放，2023-10）
+- 爱-永恒不朽《[【灯希】爱，憧憬与友谊00](https://www.bilibili.com/video/BV1TDxjzCEQL)》（488 播放，2025-10）
+- 爱-永恒不朽《[【灯希】爱，憧憬与友谊02](https://www.bilibili.com/video/BV1Mj4BzgEpR)》（482 播放，2025-10）
+- 鹿一十二《[【ai立希cover/灯希】不要对我像块石头](https://www.bilibili.com/video/BV1HsadzxE2S)》（479 播放，2025-09）
+- 邪恶最快乐《[红莲534干扰灯希丽801分](https://www.bilibili.com/video/BV1dgu96qEDV)》（472 播放，2026-08）
+- 陌一千里《[【灯希/MAD】如果有超能力，圈住你](https://www.bilibili.com/video/BV1SoKFexErv)》（462 播放，2025-02）
+- 薄荷有希那《[【MyGO 灯希】  水星记  “至少还可以陪着你”](https://www.bilibili.com/video/BV1tUHweeEKz)》（449 播放，2024-09）
+- 灯祥马希洛《[【灯希】想看立希在灯灯怀里哭哭](https://www.bilibili.com/video/BV1dyg96MEsb)》（390 播放，2026-07）
+- 鱼会梦到鸟在飞吗《[鸡狗二创/灯希/海梦？立希要表白了？那我怎么办](https://www.bilibili.com/video/BV1ejpm6jEwf)》（378 播放，2026-10）
+- 中二の咸鱼sama《[【MAD·Mygo】灯希·连备胎都不是](https://www.bilibili.com/video/BV1SC4y1o7nP)》（334 播放，2023-10）
+- 轰擂金刚希《[【MyGO/灯希】期待大学并约定一辈子的灯希](https://www.bilibili.com/video/BV1CFFWecEuu)》（315 播放，2025-01）
+- 食盐Salt_《[【Mygo二创/灯希】 再无重逢的永别#? 崩颓前夜](https://www.bilibili.com/video/BV1r7PgzxEhC)》（314 播放，2026-03）
+- 食盐Salt_《[【Mygo二创/灯希】 再无重逢的永别#？ 快乐跃迁](https://www.bilibili.com/video/BV1NaNKzWEpw)》（298 播放，2026-03）
+- 食虫物质《[【MyGO/灯希奈/纪念初次视频】至死不休的争论Live!!!(微剧情mad)](https://www.bilibili.com/video/BV18H4y177YY)》（286 播放，2024-02）
+- 迟到惯犯团《[【MAD/灯希】“我不是她的菜，早该把手松开”](https://www.bilibili.com/video/BV1Xt421H7fi)》（249 播放，2024-02）
+- 夙汐z《[同时刷到灯希二人……这辈子有了😨](https://www.bilibili.com/video/BV1M6ehe2E9J)》（248 播放，2024-07）
+- chris-嗜灵《[灯希最欢乐的一集](https://www.bilibili.com/video/BV1M9gpeaEKn)》（236 播放，2024-06）
+- 山后的樱花《[灯希最感人的一集](https://www.bilibili.com/video/BV16ZN26mEH5)》（204 播放，2026-07）
+- 兵分十五路《[【MyGO/灯希】''我现在就很幸福''](https://www.bilibili.com/video/BV19QX7Y1ECf)》（125 播放，2025-03）
+- 無趣太無趣《[灯希结婚 💍](https://www.bilibili.com/video/BV1Ks8w6fEjK)》（122 播放，2026-08）
+- 曦锹《[立希生日剧情上篇，灯希是对的！](https://www.bilibili.com/video/BV1bRtHzAEaD)》（91 播放，2025-08）
+
+@[/details]
+
 ---
 
 ## 六、信息来源

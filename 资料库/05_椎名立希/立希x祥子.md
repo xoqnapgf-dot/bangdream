@@ -85,6 +85,93 @@ NGA 希厨楼的结论叫「王不见王」：希祥的关系性正是 CRYCHIC �
 - **短剧**：《【MyGo二创/希祥】假如长崎素世在CRYCHIC解散那天发动惊世智慧认为小祥要退团的原因是希祥小情侣之间闹矛盾吵架了》（蓝夏芝，BV1cfPeeKE5C）；《【MyGO二创/希祥】回到过去的我和她对上暗号了？》（夏攸Ayui，#0 BV1gwjwzmELZ）；《【希祥】鸡飞狗跳的同居日常》（奈小伍，BV1J59hBXEX7）
 - **解析**：《丰川祥子洗白后 立希会被清算吗？【希祥】》（鸡魔如血，BV1QRi2YEEfn，10.7 万播放）；《【MYGO故事谈】磕学DLC2：立希与祥子的精神联结（希祥）》（比色法vc，BV1oG411B7WE）；《【希祥】立希对祥子的微妙情感#1》（BV13xBrBcEJz）
 
+- **更多 B 站视频（按播放排）**：葡萄果冻王《[【webgal/希祥】【bilibilionly同人扶持计划】](https://www.bilibili.com/video/BV1TxtW6DE11)》（2.1 万播放，2026-08）；无料梦昏睡《[【希祥/mygo手书】失去你的我](https://www.bilibili.com/video/BV1BRGczmEzk)》（1.2 万播放，2025-07）；托儿_松山下的小蟲子《[【剧情向/希祥】立希和祥子灵魂互换](https://www.bilibili.com/video/BV1BcoXBQEdu)》系列，共 5 集（累计 1.2 万播放，2026-04 至 2026-06；链接是播放最高的一集，各集见下方折叠）；-Diewelt-《[【MyGO/希祥】春风沉醉的晚上](https://www.bilibili.com/video/BV1iKY1zQEB4)》（1.1 万播放，2025-08）；追命利息《[【情人节特辑/欢乐向】初华海铃的希祥阻止同盟！](https://www.bilibili.com/video/BV1CEcjzMEox)》（9501 播放，2026-02）；沉墨染纸_《[【MYGO/希祥短篇】过去的倒影](https://www.bilibili.com/video/BV1nS411N7ZW)》（7631 播放，2024-06）；还是我李尼玛《[【MyGO!!!!!XAve mujica】爆弹魔完整版（希祥）](https://www.bilibili.com/video/BV1dXvhehEm3)》（7241 播放，2024-08）；比色法vc《[【MyGo/MAD】希祥：我比所知的更爱你(One Last Kiss)](https://www.bilibili.com/video/BV15H4y1Y7qk)》（6833 播放，2024-02）；千早家爱音《[【希祥】假如丰川祥子的妈妈越打越粘手](https://www.bilibili.com/video/BV1MTyFB9E8S)》（6476 播放，2025-11）；洋溢翔《[【MyGO/希祥】“爱着你，请你听我唱完这段旋律【Melody】”](https://www.bilibili.com/video/BV1KfYHeUEkh)》（6460 播放，2024-08）；SeawardRip《[【希祥/MAD】《爱人》-“可是恨的人没死成，爱的人没可能。”](https://www.bilibili.com/video/BV11AezzWErt)》（5888 播放，2025-08）；此心亦有远方《[【希祥】参加乐队面试结果面试官是前女友](https://www.bilibili.com/video/BV1c1ooBMExp)》（5683 播放，2026-04）。
+
+@[details](另有 70 条，同样按播放排)
+
+- 丸菈《[【希祥篇】假如祥子获得了重女攻略模拟器（追妻火葬场的立希）](https://www.bilibili.com/video/BV1k2hA64E7o)》（5656 播放，2026-08）
+- 弦音RhythmEcho《[【MyGO/希祥】14 Years](https://www.bilibili.com/video/BV1TjZeBXEXt)》（5100 播放，2026-02）
+- 大表姐Kenny酱《[【MyGO二创/假药/希祥向】 雨中舞曲#0 初遇，相遇，再遇。](https://www.bilibili.com/video/BV1psnhzFES3)》（4796 播放，2025-09）
+- ヰ世界芽组《[【鼓手余命十日谭】希祥结尾片段BGM](https://www.bilibili.com/video/BV1TezNYYEKx)》（4657 播放，2024-11）
+- 千早上飞《[（病弱祥子/希祥）为什么你是这样的表情呢？](https://www.bilibili.com/video/BV1ZtGrztEzu)》（4576 播放，2025-04）
+- 托儿_松山下的小蟲子《[【希祥/一口气看完】经典灵魂互换，但立希和祥子](https://www.bilibili.com/video/BV1uvu26uE6b)》（4209 播放，2026-08）
+- 飘渺一朵云《[【mygo/希祥】回到过去的我想要提前结束这段感情#1](https://www.bilibili.com/video/BV1sU4Ez2EWy)》（4083 播放，2025-10）
+- 大表姐Kenny酱《[【MyGO二创/假药/本篇略为希祥向】乌云月光小短片 #4 如水流般的作曲家](https://www.bilibili.com/video/BV1d7eAzMExV)》（3977 播放，2025-08）
+- 大表姐Kenny酱《[【MyGO二创/假药/希祥向】 雨中舞曲#3 回到我们的家！](https://www.bilibili.com/video/BV1Xb4tznEEt)》（3887 播放，2025-10）
+- 葡萄果冻王《[【希祥/MAD//老街/填词】我们的道路被隔阂点燃...](https://www.bilibili.com/video/BV1nTcbzNEiF)》（3781 播放，2026-02）
+- 宇宙子诗《[水一个希祥](https://www.bilibili.com/video/BV1vE421A7qy)》（3689 播放，2024-07）
+- 弦音RhythmEcho《[【MyGO/希祥】椎名立希的火热之夏（上）](https://www.bilibili.com/video/BV1UZ8e6xEm9)》（3626 播放，2026-08）
+- SeawardRip《[【希祥/MAD】你和我《都一样》](https://www.bilibili.com/video/BV18k17B2Erm)》（3597 播放，2025-11）
+- 蓝夏芝《[【MyGo二创/希祥】雨夜#1“可能性”](https://www.bilibili.com/video/BV1WSPCePEQp)》（3557 播放，2025-02）
+- 菠萝塞一口《[【👯‍希希祥祥和好吧】椎名立希&丰川祥子 - poetic justice（Kendrick Lamar,Drake）](https://www.bilibili.com/video/BV1ARVwzhEuq)》（3488 播放，2025-05）
+- YRFLY《[【希祥】各种原因](https://www.bilibili.com/video/BV1EjwtzAENb)》（3260 播放，2026-03）
+- 千早上飞《[（希祥）和以前一样](https://www.bilibili.com/video/BV1cQgoz3EJi)》（3142 播放，2025-06）
+- 是似好呀《[鼓手余命十日谭 希祥CG](https://www.bilibili.com/video/BV1qDBQY5EwA)》（3076 播放，2024-11）
+- 大表姐Kenny酱《[【MyGO二创/假药/希祥向】 雨中舞曲#2 你藏起的秘密](https://www.bilibili.com/video/BV15HxMzaE6t)》（3058 播放，2025-10）
+- 勇气花咲《[【mygo/希祥】小说 夏与罚（上） 讨厌的蓝色天空与自卑的我](https://www.bilibili.com/video/BV1ZJ4m1M7oD)》（3038 播放，2024-06）
+- 蓝夏芝《[【MyGo二创/希祥】雨夜＃0“毁灭性”](https://www.bilibili.com/video/BV14jKne5Eoi)》（2904 播放，2025-02）
+- MikhailVedder《[【希祥/爱人穿过你】她们的爱，心如潮涌，沉静如海](https://www.bilibili.com/video/BV1DHjHzvEM6)》（2782 播放，2025-05）
+- 大表姐Kenny酱《[【MyGO二创/假药/希祥向】 雨中舞曲#1 雨中的昙花](https://www.bilibili.com/video/BV1wRnmzCEt9)》（2682 播放，2025-09）
+- 蓝夏芝《[【MyGo二创/希祥】碧天伴走【？？？？？？？.Ver】∈《假如长崎素世发动惊世智慧......》](https://www.bilibili.com/video/BV12nRNYKEVw)》（2667 播放，2025-03）
+- 是似好呀《[鼓手余命十日谭 希祥作曲CG](https://www.bilibili.com/video/BV1FSzzYnEAq)》（2626 播放，2024-11）
+- 千早亚季《[【希祥】【立希生贺】奶冻，琴键与架子鼓](https://www.bilibili.com/video/BV1Tqu562EfD)》（2562 播放，2026-08）
+- SeawardRip《[【误解向/希祥/MAD】"对你唱情歌《落俗》"](https://www.bilibili.com/video/BV142C2BSESp)》（2478 播放，2025-11）
+- 大表姐Kenny酱《[【MyGO二创/假药/希祥向】 雨中舞曲#7 别离亦是重逢](https://www.bilibili.com/video/BV1ZVCJB4EKJ)》（2132 播放，2025-11）
+- 大表姐Kenny酱《[【MyGO二创/假药/希祥向】 雨中舞曲#6 我便化作曙光](https://www.bilibili.com/video/BV1CQy8BKEuD)》（2043 播放，2025-10）
+- MikhailVedder《[【祥生贺/老歌电台/AI希祥】C团路漫漫 Those Were The Days](https://www.bilibili.com/video/BV153cVzjEv7)》（1995 播放，2026-02）
+- 蓝夏芝《[【MyGo二创/希祥】九重现实（未完成）](https://www.bilibili.com/video/BV1WqXHYkEDh)》（1946 播放，2025-03）
+- 蓝夏芝《[【MyGo二创/希祥】雨夜#0.5“引子”](https://www.bilibili.com/video/BV1cBPdeFEE3)》（1938 播放，2025-02）
+- 大表姐Kenny酱《[【MyGO二创/假药/希祥向】 雨中舞曲#4 拥有自己的幸福](https://www.bilibili.com/video/BV1Uismz8E1V)》（1913 播放，2025-10）
+- ktil6108《[希祥乐章探讨](https://www.bilibili.com/video/BV1DGAdzYEUB)》（1906 播放，2026-03）
+- 云初Xeno《[【自存CUT】希祥的心灵感应与音乐追求](https://www.bilibili.com/video/BV18KTvzDEXL)》（1855 播放，2025-06）
+- MikhailVedder《[【AI椎名立希/希祥/爱人穿过你】她们的爱，心如潮涌，沉静如海](https://www.bilibili.com/video/BV1UWjHzPEeb)》（1833 播放，2025-05）
+- 大表姐Kenny酱《[【MyGO二创/假药/希祥向】 雨中舞曲#5 若在雨中漫步](https://www.bilibili.com/video/BV1mdyBBeE65)》（1827 播放，2025-10）
+- 蓝夏芝《[【希祥/生贺】罚酒饮得](https://www.bilibili.com/video/BV1eft8zaEKQ)》（1802 播放，2025-08）
+- 大表姐Kenny酱《[【MyGO二创/假药/希祥向】 雨中舞曲#10 唯一的牵挂](https://www.bilibili.com/video/BV1MtBrBfEqo)》（1704 播放，2025-12）
+- 大表姐Kenny酱《[【MyGO二创/假药/希祥向】 雨中舞曲#9 不再为谁受伤](https://www.bilibili.com/video/BV1fNm9BvEXW)》（1653 播放，2025-12）
+- 大表姐Kenny酱《[【MyGO二创/假药/希祥向】 雨中舞曲 片头曲OP 随便小剪一个](https://www.bilibili.com/video/BV1wJxtzeEkq)》（1646 播放，2025-10）
+- 大表姐Kenny酱《[【MyGO二创/假药/希祥向】 雨中舞曲#8 我会重拾幸福](https://www.bilibili.com/video/BV13cScBLEm5)》（1625 播放，2025-11）
+- 7777777y《[MyGO/『希祥』停留](https://www.bilibili.com/video/BV1cYgg6oEz3)》（1542 播放，2026-08）
+- 大表姐Kenny酱《[【MyGO二创/假药/希祥向】 雨中舞曲#11 描绘记忆的画笔](https://www.bilibili.com/video/BV1QezkBqEJv)》（1532 播放，2026-01）
+- 小橙小汁i《[【crychic/希祥/最佳损友】“来年陌生的 是昨日 最亲的某某”](https://www.bilibili.com/video/BV1YXdWB8Eeg)》（1495 播放，2026-04）
+- 托儿_松山下的小蟲子《[【希祥】立希和祥子灵魂互换#9 (完)](https://www.bilibili.com/video/BV13Q7H6fEiD)》（1449 播放，2026-06）
+- 大表姐Kenny酱《[【MyGO二创/假药/希祥向】 雨中舞曲#14（完结） 春日](https://www.bilibili.com/video/BV1jw9FB8Erm)》（1436 播放，2026-04）
+- 花六币改名避难《[【希祥】来自真希的助攻#2](https://www.bilibili.com/video/BV1xvFCzEESX)》（1435 播放，2026-02）
+- 大表姐Kenny酱《[【MyGO二创/假药/希祥向】 雨中舞曲#13 托付](https://www.bilibili.com/video/BV1PDP9zXEWT)》（1379 播放，2026-03）
+- 比色法vc《[【MYGO/希祥】站在屋顶只对风说不想被左右](https://www.bilibili.com/video/BV1kB3szXERK)》（1361 播放，2025-07）
+- 大表姐Kenny酱《[【MyGO二创/假药/希祥向】 雨中舞曲#12 由你抉择命运](https://www.bilibili.com/video/BV1RwZeBwECv)》（1312 播放，2026-02）
+- 魂龙隐梦《[【MyGO/希祥】《尘曦》【椎名立希生日会单品】](https://www.bilibili.com/video/BV1tktmzTEdF)》（1243 播放，2025-08）
+- 柳锌《[［希祥MAD］退后](https://www.bilibili.com/video/BV1z5nFzvEiD)》（1236 播放，2025-09）
+- Linn有山《[【希祥】讨厌您来，请问有什么不帮助您？](https://www.bilibili.com/video/BV1jyNDeCERN)》（1219 播放，2025-02）
+- -玻璃球玩家-《[【AI配音/鼓手余命】希祥 结尾段](https://www.bilibili.com/video/BV1JHWwzJEoT)》（1217 播放，2025-09）
+- 花六币改名避难《[【希祥】和解，原谅，重逢，被……#3](https://www.bilibili.com/video/BV1G9tH69EZG)》（1180 播放，2026-08）
+- 蓝夏芝《[【mygo/希祥/尘埃】我的爱也因你而存在](https://www.bilibili.com/video/BV1HY6DYXEkj)》（1128 播放，2024-12）
+- 蓝夏芝《[【MyGo二创mad/希祥/小幸运】原来我们和爱情曾经靠得那么近](https://www.bilibili.com/video/BV1KvqfYyE1W)》（1052 播放，2024-12）
+- 魂龙隐梦《[【MyGO/希祥】《谁》【椎名立希生贺】](https://www.bilibili.com/video/BV1bXuV62E8J)》（937 播放，2026-08）
+- 艾特M4x《[【IMAX的碎碎念——37＊/活动】（希祥谷雨）同人海报制作流程分享](https://www.bilibili.com/video/BV1VYdfBcEhx)》（764 播放，2026-04）
+- 托儿_松山下的小蟲子《[【希祥】立希和祥子灵魂互换#8](https://www.bilibili.com/video/BV1wzjJ6KEwg)》（738 播放，2026-06）
+- 卢基乌斯-普隆贝乌斯《[Roselia×Mygo!!!!! 但是鼓手互换 #14 无需遗忘【微希祥】](https://www.bilibili.com/video/BV1SgN861EGo)》（679 播放，2026-07）
+- 春日殘息將影《[希祥](https://www.bilibili.com/video/BV1XMcRzbErv)》（637 播放，2026-03）
+- 乜伤《[希祥99](https://www.bilibili.com/video/BV1ZpdVBgEtH)》（599 播放，2026-04）
+- 柳锌《[［希祥MAD］刻在我心底的名字](https://www.bilibili.com/video/BV1JwSCByEnb)》（386 播放，2025-12）
+- 托儿_松山下的小蟲子《[【MyGo/希祥向】Bang Dream It's My World | 《My World》SPYAIR (《高達AGE》ED2 )](https://www.bilibili.com/video/BV1n61BYFEVx)》（386 播放，2024-10）
+- 煦泞《[【希祥】少女レイ](https://www.bilibili.com/video/BV1VYsV6sEgh)》（383 播放，2026-11）
+- W1ndFish《[好久不见   【余命十日/希祥】](https://www.bilibili.com/video/BV1x4A2zwEvL)》（308 播放，2026-02）
+- 破碎若叶睦《[希祥，立希和祥子拥抱](https://www.bilibili.com/video/BV1wTVj6SEiE)》（283 播放，2026-05）
+- ihatebngwthyou《[【希祥/绘画过程】液化工具真好用](https://www.bilibili.com/video/BV1naZRBAEKJ)》（83 播放，2026-02）
+
+@[/details]
+
+@[details](《【剧情向/希祥】立希和祥子灵魂互换》各集链接，共 5 集)
+
+- [【剧情向/希祥】立希和祥子灵魂互换#1](https://www.bilibili.com/video/BV1BcoXBQEdu)（4997 播放，2026-04）
+- [【剧情向/希祥】立希和祥子灵魂互换#2](https://www.bilibili.com/video/BV1sGREBbEgD)（2082 播放，2026-05）
+- [【剧情向/希祥】立希和祥子灵魂互换#3](https://www.bilibili.com/video/BV1erR1BWEgi)（2033 播放，2026-05）
+- [【剧情向/希祥】立希和祥子灵魂互换#4](https://www.bilibili.com/video/BV1oNGi6ZEgK)（2095 播放，2026-05）
+- [【剧情向/希祥】立希和祥子灵魂互换#7](https://www.bilibili.com/video/BV12jJn6DEhw)（881 播放，2026-06）
+
+@[/details]
+
 ---
 
 ## 五、信息来源

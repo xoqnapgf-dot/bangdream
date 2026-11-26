@@ -767,7 +767,7 @@ MyGO!!!!! 第 13 话里，Ave Mujica 首演那天，开场的舞台剧中初华�
 
 - **更多 B 站视频（按播放排）**：御星是个弟弟《[【填词/初祥】“小姨不可以，你靠的越来越近”](https://www.bilibili.com/video/BV17cQ3YYE9k)》（64.7 万播放，2025-03）；栀四《[【初祥】你没怀孕吗？](https://www.bilibili.com/video/BV1LEdXBjEHk)》（32.7 万播放，2026-04）；落谷Ochita《[以防你不知道金毛初华躺在床上会抱着祥祥看星星](https://www.bilibili.com/video/BV15taBzhEDH)》（21.2 万播放，2025-09）；Mikoi_《[【中字/官方联动】初祥新干线旅行语音](https://www.bilibili.com/video/BV12wZ4YzEh1)》（17.1 万播放，2025-04）；么么浊蒂《[体育生祥子，蹬20公里找初华](https://www.bilibili.com/video/BV1kNamzTE2Z)》（13.3 万播放，2025-09）；地图上F《[【初祥】用缘分天空的方式打开第12集](https://www.bilibili.com/video/BV1ftoiYUE4z)》（12.6 万播放，2025-03）；影上川丶《[【Ave mujica】【初祥】看看三角初华写的歌词](https://www.bilibili.com/video/BV1Vsr9YDEih)》（10.9 万播放，2025-01）；御星是个弟弟《[【填词/初祥】“夜夜笙歌不停歇成天想着solo”---《苦茶子》](https://www.bilibili.com/video/BV1mT7JzcEUp)》（10.3 万播放，2025-05）；菌事猫傻喵《[过来握手好的主人（初祥初整活向）](https://www.bilibili.com/video/BV17wKgzWEZ4)》（6.7 万播放，2025-06）；悠游POI《[【初祥】另一个雨天](https://www.bilibili.com/video/BV19CnRe9Eyr)》（4.8 万播放，2024-08）；不爱整活的小虫《[Our Notes初祥同居剧情](https://www.bilibili.com/video/BV1NE7h6VEht)》（4.3 万播放，2026-06）；北极暖水港《[邦邦2024情人节对话：初祥](https://www.bilibili.com/video/BV1Aq421P7CN)》（2.9 万播放，2024-03）。
 
-@[details](另有 68 条，同样按播放排)
+@[details](另有 69 条，同样按播放排)
 
 - 尤佐sama《[【初祥同居生活#0】第12话后的故事](https://www.bilibili.com/video/BV1vEoNYsEjw)》（2.8 万播放，2025-04）
 - 白琥珀虎《[【认真分析】第十集初祥同姓间的关系性](https://www.bilibili.com/video/BV19eRHYhECk)》（2.7 万播放，2025-03）
@@ -790,6 +790,7 @@ MyGO!!!!! 第 13 话里，Ave Mujica 首演那天，开场的舞台剧中初华�
 - 初溡TU《[【初祥】如果我在睡前跟你说了声晚安](https://www.bilibili.com/video/BV12dghzrETG)》（7232 播放，2025-07）
 - 乐无愁乐无忧《[【初祥/讨厌】“讨厌爱上了你，要我苦苦压抑委屈”](https://www.bilibili.com/video/BV1V43b6qEoL)》（6762 播放，2026-07）
 - 丰川祥子吧desuwa《[不知道在做什么的键盘和主唱～初祥同人图合集2【丰川祥子吧】侵删](https://www.bilibili.com/video/BV1dcbtz4ERF)》（5517 播放，2025-08）
+- 忧伤节拍器《[【OurNotes内测】初祥Live互动语音熟肉](https://www.bilibili.com/video/BV1zi7Y6BEXb)》（5513 播放，2026-06）
 - 西红柿ta《[小祥....其实姨并不喜欢你......](https://www.bilibili.com/video/BV15owHzrEAt)》（5291 播放，2026-03）
 - AAA好女人薇欧拉《[【初祥】方舟联动治好了我的祥压抑](https://www.bilibili.com/video/BV1dDarz3Eox)》（4554 播放，2025-09）
 - 西里EmpPg《[【初祥/手书】神曲](https://www.bilibili.com/video/BV1bPcSe7E56)》（4524 播放，2025-01）

@@ -350,16 +350,86 @@ soyo 是唯二看出来睦就是喜欢嘲讽，报复的人。所以她才带着
 - **整活和杂谈**：《若叶睦都干了哪些坏事？【feat. 长崎素世】》（千早爱音的紧身衣，BV1zT4y1n7Wd，39 万播放）；《【MyGO/若叶睦】“soyo回忆对着我进攻”》（碎月枕头，BV1U64y1E7fw，23 万播放）；《【泛式】素睦决战喜剧之巅 一集笑了20次 回顾看MyGO的初心》（波奇と惑星，BV1ZSFYemEGc，22 万播放）
 - **文**：B 站专栏《长崎素世的世界》（opus/896855004668755974，2024-02-12）；B 站专栏《三万字解析带你看不懂若叶睦》（read/mobile?id=32008154），对黄瓜事件逐帧拆解。
 
-- **更多 B 站视频（按播放排）**：螢石的时空残影《[【MyGO/素睦】原来你是我最想留住的幸运 【挺好萌应援】](https://www.bilibili.com/video/BV1nV411P7XP)》（34.3 万播放，2023-09）；风化的磷《[【填词/素睦】暖暖](https://www.bilibili.com/video/BV17kNUeTEiR)》（21.7 万播放，2025-02）；波奇と惑星《[【泛式】我从来没有觉得杂谈回聊Mujica很开心 速速入股“素睦”股](https://www.bilibili.com/video/BV1PMwMetEqH)》（2.3 万播放，2025-01）；Memzzz《[【MyGO描改手书/素睦】三秒炸虾](https://www.bilibili.com/video/BV1Xj421R7P4)》（2 万播放，2024-03）；同班同学三日三晚一緒《[【素睦素】26集互动cut](https://www.bilibili.com/video/BV1o9JgzREEi)》（1.2 万播放，2025-05）；尾崎流夏《[乙女解剖 / 素睦](https://www.bilibili.com/video/BV1fHc4eiEQX)》（5662 播放，2025-01）；可憐可愛元氣君《[【MYGO/素睦】长欺小睦04（初中篇完结）](https://www.bilibili.com/video/BV1rcxteTEfR)》（5434 播放，2024-09）；梦世琉璃《[【MyGO/素睦】一辈子不够爱你【若叶睦生贺】](https://www.bilibili.com/video/BV1CZcbeSEya)》（3642 播放，2025-01）；素睦磕生磕死中《[【MYGO二创/素睦】不是友情，是本命！](https://www.bilibili.com/video/BV1bkAjeFEgw)》（3515 播放，2025-02）；K丶岚希《[【MyGO/素睦/AMV】其实我俩看起来蛮像一对](https://www.bilibili.com/video/BV1QUnRenEKr)》（3423 播放，2024-08）；素睦磕生磕死中《[【MYGO二创/素睦】Ouroboros](https://www.bilibili.com/video/BV188Q6YKEBk)》（3334 播放，2025-03）；Nagasaki-Mutsumi《[【素睦】我死去的前女友突然复活攻击我](https://www.bilibili.com/video/BV1Wn8RzpEYG)》（2531 播放，2025-07）。
+- **更多 B 站视频（按播放排）**：螢石的时空残影《[【MyGO/素睦】原来你是我最想留住的幸运 【挺好萌应援】](https://www.bilibili.com/video/BV1nV411P7XP)》（34.3 万播放，2023-09）；风化的磷《[【填词/素睦】暖暖](https://www.bilibili.com/video/BV17kNUeTEiR)》（21.7 万播放，2025-02）；一只俩fish《[泛式看顶级素睦MAD「以后别做朋友」直呼牛逼！做的太好了！限制这个mad发挥了反而是原片！【泛式】](https://www.bilibili.com/video/BV1jJXxY6EZ9)》（7.6 万播放，2025-03）；南部天邪《[【四补/Mygo/素睦】假如若叶睦真的长出了XX？！](https://www.bilibili.com/video/BV1a5Vh63EbZ)》（5.2 万播放，2026-05）；墨叶盏《[【AI素睦】"我可以把头发染成祥子那种蓝色的"](https://www.bilibili.com/video/BV1W7xQeCEmW)》（4.5 万播放，2024-10）；orimmn《[【万字解析】现在磕素睦还来得及么？小睦性格解析（第六集）](https://www.bilibili.com/video/BV1phNjesEhy)》（3.2 万播放，2025-02）；可憐可愛元氣君《[【MYGO Mujica/素睦】🦊🦊の驯服方法！](https://www.bilibili.com/video/BV1qS78zGEsi)》（2.3 万播放，2025-06）；波奇と惑星《[【泛式】我从来没有觉得杂谈回聊Mujica很开心 速速入股“素睦”股](https://www.bilibili.com/video/BV1PMwMetEqH)》（2.3 万播放，2025-01）；しゅうゆう《[【素睦】26集全勤奖 MVP回顾！](https://www.bilibili.com/video/BV1cxoBYfEHz)》（2.2 万播放，2025-03）；花开富贵爱《[【mygo素睦】素世和睦子米平日里是如何相处的？](https://www.bilibili.com/video/BV1Ky7PzDE1G)》（2.1 万播放，2025-06）；Memzzz《[【MyGO描改手书/素睦】三秒炸虾](https://www.bilibili.com/video/BV1Xj421R7P4)》（2 万播放，2024-03）；素睦磕生磕死中《[【MYGO二创/素睦】IF被退黄瓜睦穿越到了素睦热恋的同人世界](https://www.bilibili.com/video/BV1GrJ3zXEaW)》（1.7 万播放，2025-05）。
 
-@[details](另有 6 条，同样按播放排)
+@[details](另有 68 条，同样按播放排)
 
+- 南部天邪《[【二补/Mygo/素睦】假如若叶睦真的长出了XX？！【2】](https://www.bilibili.com/video/BV1wcV26KESG)》（1.6 万播放，2026-06）
+- 星辰之沙《[素睦人抠糖合集](https://www.bilibili.com/video/BV1Wx5DzBEUJ)》（1.6 万播放，2025-04）
+- holyela《[【Mygo/素睦】沉默专一的爱](https://www.bilibili.com/video/BV1eZ421n7mj)》系列，共 3 集（累计 1.6 万播放，2024-04 至 2024-06；链接是播放最高的一集，各集见下方折叠）
+- vertinno录播《[【Mygo二创/素睦扭曲向】距离我越来越远的素世#1](https://www.bilibili.com/video/BV165411q7hE)》（1.4 万播放，2024-01）
+- 可憐可愛元氣君《[【🦊素睦🥒】偷瞧妈妈の坏小孩！！！](https://www.bilibili.com/video/BV1DuGsziE5D)》（1.4 万播放，2025-07）
+- 十六夜猫咪QWQ《[【MyGO/素睦/绘画】交往后的道歉](https://www.bilibili.com/video/BV15H4y1o7Xu)》（1.3 万播放，2023-10）
+- 南部天邪《[【Mygo/素睦/日配】假如若叶睦真的长出了XX？！【8】](https://www.bilibili.com/video/BV1aetR61EF8)》（1.2 万播放，2026-09）
+- 同班同学三日三晚一緒《[【素睦素】26集互动cut](https://www.bilibili.com/video/BV1o9JgzREEi)》（1.2 万播放，2025-05）
+- 南部天邪《[【二补/Mygo/素睦】假如若叶睦真的长出了XX？！【3】](https://www.bilibili.com/video/BV1ohEH6KENe)》（1.1 万播放，2026-06）
+- 南部天邪《[【二补/Mygo/素睦】假如若叶睦真的长出了XX？！【6】](https://www.bilibili.com/video/BV1Xtjq6iEeq)》（1.1 万播放，2026-06）
+- 时雨时英《[皆草的若叶睦#2 若叶睦草飞素世（下）素睦 这个大小不是莫提斯 mygo/ave mujica](https://www.bilibili.com/video/BV1waLwzPEqi)》（1.1 万播放，2025-04）
+- 南部天邪《[【补档/Mygo/素睦】假如若叶睦真的长出了XX？！【4】](https://www.bilibili.com/video/BV1XbES63EL4)》（1 万播放，2026-06）
+- 漆晴弦卷心《[素睦同居睡觉](https://www.bilibili.com/video/BV1b6gwzFEt9)》（9654 播放，2025-07）
+- orimmn《[【填词/素睦/Mygo】我会等黄瓜开出花，让你忘记回忆的她](https://www.bilibili.com/video/BV1xKN6efERU)》（9214 播放，2025-02）
+- 可憐可愛元氣君《[（补档）【MYGO Mujica/素睦】❤爱吃白面馍馍的若叶睦❤](https://www.bilibili.com/video/BV1n1JWzBEyp)》（8571 播放，2025-05）
+- holyela《[【Mygo/素睦】长崎素世失忆了](https://www.bilibili.com/video/BV1NEu4eGErW)》（8492 播放，2024-05）
+- 可憐可愛元氣君《[【MYGO/素睦】长欺小睦05（月之森）](https://www.bilibili.com/video/BV1ZSmpY9EcQ)》（8108 播放，2024-11）
+- 北屿语北《[【MYGO/素睦】这个，不需要了](https://www.bilibili.com/video/BV1W2dcYdEZX)》（7235 播放，2025-04）
+- 素睦磕生磕死中《[【MYGO二创/素睦】IF素睦热恋中的睦穿越到被退黄瓜一周的世界](https://www.bilibili.com/video/BV1YJvCBwEAD)》（7145 播放，2025-12）
+- 长崎食素素《[【素睦】素世因祥子退团而公然霸凌睦子米？？](https://www.bilibili.com/video/BV1QzNzzoELx)》（6885 播放，2025-06）
+- 漆晴弦卷心《[【素睦】假如soyo自C团开始就喜欢上小睦并且表白……](https://www.bilibili.com/video/BV165NvztEKe)》（6839 播放，2025-06）
+- 拭去她的眼泪《[素睦情感线五千字剖析！愧疚？怨恨？亦或是爱？退还黄瓜并非结束！](https://www.bilibili.com/video/BV1haq7YvEoL)》（6610 播放，2024-12）
+- 筱子《[【素睦】请和这样的我恋爱吧](https://www.bilibili.com/video/BV1eFbd6QEjL)》（6421 播放，2026-08）
+- 芋圆晓山糖《[【素睦/MAD】想念是会呼吸的痛，它活在我身上所有角落](https://www.bilibili.com/video/BV17HoXYZEc9)》（6412 播放，2025-03）
+- 长崎食素素《[【素睦】长崎素世竟然让睦子米管她叫妈妈？?](https://www.bilibili.com/video/BV1eSMezxEt2)》（5997 播放，2025-06）
+- 尾崎流夏《[乙女解剖 / 素睦](https://www.bilibili.com/video/BV1fHc4eiEQX)》（5662 播放，2025-01）
+- 可憐可愛元氣君《[【MYGO/素睦】长欺小睦04（初中篇完结）](https://www.bilibili.com/video/BV1rcxteTEfR)》（5434 播放，2024-09）
+- 月森真昼《[【素睦/MAD】倘若那天，把该说的话好好说。](https://www.bilibili.com/video/BV1DwhmzLEx5)》（5427 播放，2025-08）
+- 养菇工厂《[一口气看完素睦线但无双重人格版（自用）](https://www.bilibili.com/video/BV13xZnYfEJE)》（5166 播放，2025-03）
+- holyela《[【Mygo/素睦】沉默专一的爱#后日谈](https://www.bilibili.com/video/BV1CkTxeREgY)》（4607 播放，2024-06）
+- 可憐可愛元氣君《[【MYGO Mujica/素睦】若小睦🥒👈😡你怎么这么自私！！！](https://www.bilibili.com/video/BV1BR3bztE1J)》（4438 播放，2025-07）
+- 莫子kuku《[【kigurumi】还有“素睦”的故事！看完不笑算我输！](https://www.bilibili.com/video/BV1SxHa6cEGp)》（3986 播放，2026-10）
+- 可憐可愛元氣君《[【MYGO Mujica/素睦】哭包小睦的表白计划...?](https://www.bilibili.com/video/BV1X4goz4Epa)》（3889 播放，2025-06）
+- H3C-周正《[【素睦/全配音】我素世怎么能成为手控？不行不行！（上）](https://www.bilibili.com/video/BV16wtA62EUi)》（3674 播放，2026-08）
+- 梦世琉璃《[【MyGO/素睦】一辈子不够爱你【若叶睦生贺】](https://www.bilibili.com/video/BV1CZcbeSEya)》（3642 播放，2025-01）
+- 一得个拉米星人《[【MYGO Ave Mujica/素睦】自制剧情（絮乱心情）](https://www.bilibili.com/video/BV1YzosYkE9m)》（3597 播放，2025-03）
+- 素睦磕生磕死中《[【MYGO二创/素睦】不是友情，是本命！](https://www.bilibili.com/video/BV1bkAjeFEgw)》（3515 播放，2025-02）
+- K丶岚希《[【MyGO/素睦/AMV】其实我俩看起来蛮像一对](https://www.bilibili.com/video/BV1QUnRenEKr)》（3423 播放，2024-08）
+- 素睦磕生磕死中《[【MYGO二创/素睦】Ouroboros](https://www.bilibili.com/video/BV188Q6YKEBk)》（3334 播放，2025-03）
+- Nagasaki-Mutsumi《[【素睦】我死去的前女友突然复活攻击我](https://www.bilibili.com/video/BV1Wn8RzpEYG)》（2531 播放，2025-07）
+- 葡萄汁达人《[【MYGO手书/素睦】ウェルテル](https://www.bilibili.com/video/BV1zDfUBUErq)》（2508 播放，2026-02）
 - 素睦磕生磕死中《[【MYGO二创/素睦】最后一次拥抱](https://www.bilibili.com/video/BV1duXMYWEod)》（2331 播放，2025-03）
+- 试试昵称可以几个字呀《[【MYGO/素睦】真相是假](https://www.bilibili.com/video/BV1yj2SYMExA)》（2171 播放，2024-10）
+- 小日向彩羽01《[【Mygo/素睦】🥒清空/“是我爱的太蠢太过天真，才会把你的寂寞当作契合的灵魂”🥒](https://www.bilibili.com/video/BV1LbCPYQE4J)》（2077 播放，2024-12）
+- 希罗加纳《[【素睦/MAD】我怀念的](https://www.bilibili.com/video/BV1NkFvewEWM)》（2017 播放，2025-02）
 - 希罗加纳《[【素睦/MAD】我们好像在哪见过](https://www.bilibili.com/video/BV1y1NmeLEBk)》（1999 播放，2025-02）
+- 白露糖浆《[『素睦向』“刀剑如梦”](https://www.bilibili.com/video/BV13jsA6xEKw)》（1930 播放，2026-11）
+- 丰川祥子OffciaI《[素睦原片Cut（自用）](https://www.bilibili.com/video/BV1MzdyYnEAw)》（1919 播放，2025-04）
 - 月光海雾售卖机《[【素睦素手书】浴槽とネオンテトラ/浴槽与霓虹灯鱼](https://www.bilibili.com/video/BV1vCXsYNEK6)》（1849 播放，2025-03）
 - palpapition《[【MyGO/素睦AMV】“你怎么蠢到我喜欢你都不知道”](https://www.bilibili.com/video/BV127t1eKEdE)》（1809 播放，2024-09）
 - Nagasaki-Mutsumi《[【素睦】假如crychic没有解散](https://www.bilibili.com/video/BV1PrhTz4EQ5)》（1773 播放，2025-08）
+- 南部天邪《[【补档/Mygo/素睦】假如若叶睦真的长出了XX？！【5】](https://www.bilibili.com/video/BV1rLtR6ZEHx)》（1674 播放，2026-09）
+- notUNYwm《[【MyGO/素睦AMV】雨一直下](https://www.bilibili.com/video/BV1CK421C7Lt)》（1633 播放，2024-02）
+- 巴念之才良《[【素睦】托物](https://www.bilibili.com/video/BV1tAzyBqEae)》（1572 播放，2026-01）
 - 罐装龙眼树《[【素睦/MAD】年少有为](https://www.bilibili.com/video/BV1GLxizuE7o)》（962 播放，2025-10）
+- 月狼_萌《[【MyGO/素睦/MAD】《爱情买卖》全部 都是睦的错啊](https://www.bilibili.com/video/BV1kN411E7ts)》（948 播放，2023-10）
+- 虾_饺-_-《[【MyGO/素睦/MAD】男二号](https://www.bilibili.com/video/BV1Zi421X7UE)》（692 播放，2024-03）
+- 秋庭樱《[【素睦AMV·MyGO】睦黑化向·“你怎能辜负我的好意？”（《无人区玫瑰》）庆祝MyGO登陆邦邦！](https://www.bilibili.com/video/BV1fE421M7wa)》（665 播放，2024-04）
+- GD_望潮《[【素睦/Mad】“我还愿享受你的荒唐。”](https://www.bilibili.com/video/BV137JbzAERh)》（513 播放，2025-05）
+- 乐希是正确的《[“像没天赋的【演员】”素睦MAD](https://www.bilibili.com/video/BV16LrFBqERk)》（459 播放，2026-01）
+- Ciaofish《[【MyGO/素睦】我们的失败](https://www.bilibili.com/video/BV1nhHA6NE7W)》（450 播放，2026-10）
+- 子沐ァ《[【MyGO/素睦/误解向】下沙](https://www.bilibili.com/video/BV1LG411o7vJ)》（377 播放，2023-09）
+- 可爱的蠢团子QWQ《[【Mygo素睦MAD】《太多》为了爱情我也放弃了soyo](https://www.bilibili.com/video/BV1JisUzJELP)》（375 播放，2025-10）
+- 小兢Kyou《[素睦AMV｜只有紧紧抱住，好让你不会就此破碎](https://www.bilibili.com/video/BV1fMsr6LE4r)》（366 播放，2026-11）
+- 距离感压抑《[【MyGO|素睦AMV】《一 无 SOYO》<一无所有>](https://www.bilibili.com/video/BV1Fm4y1K7EA)》（308 播放，2023-09）
+- 对不起T《[to wreck 素睦同人游戏手机端游玩教程](https://www.bilibili.com/video/BV1EWf3BkE19)》（176 播放，2026-02）
+- 每天都在喜欢soyo《[坏女孩-素睦](https://www.bilibili.com/video/BV1e5466uECu)》（161 播放，2026-11）
+- 都说了不想注册《[【素睦/MAD】紫陽花の夜](https://www.bilibili.com/video/BV1jEPTeUEgr)》（156 播放，2025-02）
+
+@[/details]
+
+@[details](《【Mygo/素睦】沉默专一的爱》各集链接，共 3 集)
+
+- [【Mygo/素睦】沉默专一的爱#0](https://www.bilibili.com/video/BV1eZ421n7mj)（6761 播放，2024-04）
+- [【Mygo/素睦】沉默专一的爱#2](https://www.bilibili.com/video/BV18r42177UM)（4748 播放，2024-05）
+- [【Mygo/素睦】沉默专一的爱#完](https://www.bilibili.com/video/BV1kyTxeWEoq)（4283 播放，2024-06）
 
 @[/details]
 

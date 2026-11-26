@@ -327,6 +327,28 @@ soyo对此会抱有什么心情，不耐烦？愧疚？感激？
 
 更多见《素世x灯.md》。
 
+- **更多 B 站视频（按播放排）**：素世的硬刀《[JG宝宝之⚡️钕铜大饭店⚡️1（灯素）](https://www.bilibili.com/video/BV1USrSB4EHD)》（7340 播放，2026-01）；安东卫曙星《[【灯素】长崎素世变成石被高松灯剑石](https://www.bilibili.com/video/BV1i7G2z6EnD)》（4902 播放，2025-04）；椰狼の鸣菓《[【灯素】来看我们家贝斯手……小小一只……](https://www.bilibili.com/video/BV1McMH6hE8V)》（2933 播放，2026-07）；椰狼の鸣菓《[【mygo同人漫画】素世在排练室睡着了（含微量灯素）](https://www.bilibili.com/video/BV1UZNR6SEgg)》（2918 播放，2026-07）；梓不语-《[【灯素】"愿意用一支黑色的铅笔，画一出沉默舞台剧"](https://www.bilibili.com/video/BV1Uh4y1h7z8)》（2769 播放，2023-10）；椰狼の鸣菓《[【素灯素】素世内心:“这简直就是音乐……”](https://www.bilibili.com/video/BV1E6TZ62EBE)》（2363 播放，2026-07）；Atak荏柯《[灯素灯](https://www.bilibili.com/video/BV1B9s3zGEgL)》（2334 播放，2025-10）；白石仞《[【羊柑/灯素/素灯】好了是闺蜜，不好了是敌蜜](https://www.bilibili.com/video/BV1WceZzqEZM)》（2280 播放，2025-08）；赤月陌七《[【MyGo/中字】一起逛杂货店的灯素](https://www.bilibili.com/video/BV17rw8e5EpK)》（2153 播放，2025-01）；椰狼の鸣菓《[【灯素】想听你说月色真美……](https://www.bilibili.com/video/BV1RsNc6kEVm)》（1916 播放，2026-07）；椰狼の鸣菓《[【灯素】长崎素世高调向高松灯求婚！？](https://www.bilibili.com/video/BV1ugbW6REpy)》（1686 播放，2026-09）；白石仞《[久违的灯素](https://www.bilibili.com/video/BV1cygj6CEUs)》（1472 播放，2026-08）。
+
+@[details](另有 15 条，同样按播放排)
+
+- 椰狼の鸣菓《[【灯素】如果我变成石头，你还会爱我吗](https://www.bilibili.com/video/BV1bXHy6wERe)》（1332 播放，2026-10）
+- 椰狼の鸣菓《[【灯素】想要“亲吻”你的眼睫](https://www.bilibili.com/video/BV1HtpE6jEVR)》（1233 播放，2026-10）
+- 春日殘息將影《[灯素](https://www.bilibili.com/video/BV1Hmjq69Emu)》（1215 播放，2026-06）
+- 换脑手术成功《[【素灯素】你的歌词里会有我吗](https://www.bilibili.com/video/BV1zFHE6rEqs)》（1212 播放，2026-10）
+- 椰狼の鸣菓《[【灯素】“喜欢”是视线总在寻找你的轨迹](https://www.bilibili.com/video/BV1Rxpg6yEx6)》（1100 播放，2026-10）
+- 椰狼の鸣菓《[【灯素短文】夏夜一曲，微风不燥](https://www.bilibili.com/video/BV1rDNg62Eyy)》（977 播放，2026-07）
+- 白石仞《[【素灯\灯素】第一次剪辑，会很怪](https://www.bilibili.com/video/BV1bM2qBvEUi)》（833 播放，2025-12）
+- 椰狼の鸣菓《[【灯素】巧克力棒的味道……](https://www.bilibili.com/video/BV15iHh6vEke)》（772 播放，2026-10）
+- 椰狼の鸣菓《[【灯素】……素世✖️灯，(づ￣ ³￣)づ](https://www.bilibili.com/video/BV1wdx96RE7t)》（735 播放，2026-11）
+- 不想下雨哈《[【灯素】yipyip](https://www.bilibili.com/video/BV1hHWPemEra)》（638 播放，2024-08）
+- 白石仞《[素灯/灯素人自用](https://www.bilibili.com/video/BV113NDz1EaW)》（593 播放，2025-06）
+- Scheinliebe《[【灯素灯】你不要那样看着我的眼睛](https://www.bilibili.com/video/BV1yS4q6mE6A)》（473 播放，2026-11）
+- 六本木之声《[【灯素/mad】《大概》](https://www.bilibili.com/video/BV1BrDVB8EGv)》（214 播放，2026-04）
+- 春日殘息將影《[灯素](https://www.bilibili.com/video/BV1ZHcGzSEB9)》（178 播放，2026-02）
+- -クロウ-《[我必须立刻向灯素厨分享这个充满希望的视频](https://www.bilibili.com/video/BV1XCu4zgEow)》（139 播放，2025-07）
+
+@[/details]
+
 ---
 
 ## 六、信息来源

@@ -60,10 +60,12 @@ NGA 早期的海睦讨论帖（tid 38454968）里，被引用最多的一句是�
 - LOFTER：《为你的三次破例》
 - 更多见《睦x海铃.md》第四节。
 
-- **更多 B 站视频（按播放排）**：ましゃ《[【海睦】喵梦百合营业计划](https://www.bilibili.com/video/BV1yEPfezEMR)》（7.5 万播放，2025-02）；千早家爱音《[【Mygo/海睦】若叶睦的人格排泄计划#1](https://www.bilibili.com/video/BV1LhAteTEin)》（4.4 万播放，2025-02）；ましゃ《[【avemujica】海睦的akage](https://www.bilibili.com/video/BV1M8X9YqE4K)》（2.1 万播放，2025-03）；养菇工厂《[【海睦海】海铃收养日记（上）](https://www.bilibili.com/video/BV1wG7PzkEem)》（1.9 万播放，2025-06）；ましゃ《[【海睦】我们来讲一下这个海睦的磕点吧](https://www.bilibili.com/video/BV1LZNRenEU6)》（1.8 万播放，2025-02）；养菇工厂《[【海睦海】海铃收养日记（下）](https://www.bilibili.com/video/BV1BH3JzFE3L)》（1.2 万播放，2025-07）；安达想牵手《[【若葉睦生誕祭/海睦】magnet covered by 若葉睦/海玲](https://www.bilibili.com/video/BV1XSwTezEFf)》（7881 播放，2025-01）；TASC_extension《[海睦30级羁绊剧情](https://www.bilibili.com/video/BV1hWYw63Epo)》（7104 播放，2026-10）；蒍华《[【海睦/手书】Purgatory](https://www.bilibili.com/video/BV1nKqsYiE73)》（6235 播放，2024-12）；ましゃ《[【Avemujica/海睦】海铃一直在这里](https://www.bilibili.com/video/BV1Kn99YqEDn)》（5375 播放，2025-03）；可爱睦子米《[海睦羁绊剧情part1](https://www.bilibili.com/video/BV1aLaN6JExE)》（4938 播放，2026-09）；ましゃ《[【海睦/伪rpg】海边.mp4](https://www.bilibili.com/video/BV1RrftYREjr)》（4872 播放，2025-01）。
+- **更多 B 站视频（按播放排）**：ましゃ《[【海睦】喵梦百合营业计划](https://www.bilibili.com/video/BV1yEPfezEMR)》（7.5 万播放，2025-02）；千早家爱音《[【Mygo/海睦】若叶睦的人格排泄计划#1](https://www.bilibili.com/video/BV1LhAteTEin)》（4.4 万播放，2025-02）；ましゃ《[【avemujica】海睦的akage](https://www.bilibili.com/video/BV1M8X9YqE4K)》（2.1 万播放，2025-03）；养菇工厂《[【海睦海】海铃收养日记（上）](https://www.bilibili.com/video/BV1wG7PzkEem)》（1.9 万播放，2025-06）；ましゃ《[【海睦】我们来讲一下这个海睦的磕点吧](https://www.bilibili.com/video/BV1LZNRenEU6)》（1.8 万播放，2025-02）；养菇工厂《[【海睦海】海铃收养日记（下）](https://www.bilibili.com/video/BV1BH3JzFE3L)》（1.2 万播放，2025-07）；千早上飞《[海睦](https://www.bilibili.com/video/BV1BKQcBfEXj)》系列，共 4 集（累计 1.2 万播放，2026-04 至 2026-08；链接是播放最高的一集，各集见下方折叠）；安达想牵手《[【若葉睦生誕祭/海睦】magnet covered by 若葉睦/海玲](https://www.bilibili.com/video/BV1XSwTezEFf)》（7881 播放，2025-01）；陽冬YEAHLS《[【海睦/手书】はいよろこんで (乐意效劳)](https://www.bilibili.com/video/BV1b3qNYhE9L)》（7131 播放，2024-12）；TASC_extension《[海睦30级羁绊剧情](https://www.bilibili.com/video/BV1hWYw63Epo)》（7104 播放，2026-10）；蒍华《[【海睦/手书】Purgatory](https://www.bilibili.com/video/BV1nKqsYiE73)》（6235 播放，2024-12）；ましゃ《[【Avemujica/海睦】海铃一直在这里](https://www.bilibili.com/video/BV1Kn99YqEDn)》（5375 播放，2025-03）。
 
-@[details](另有 11 条，同样按播放排)
+@[details](另有 14 条，同样按播放排)
 
+- 可爱睦子米《[海睦羁绊剧情part1](https://www.bilibili.com/video/BV1aLaN6JExE)》（4938 播放，2026-09）
+- ましゃ《[【海睦/伪rpg】海边.mp4](https://www.bilibili.com/video/BV1RrftYREjr)》（4872 播放，2025-01）
 - 汰稻明彡《[【海睦微剧情】我知道你想要拍到什么](https://www.bilibili.com/video/BV1z1RCYYEzv)》（4194 播放，2025-04）
 - 每天使用黑人牙膏《[海睦羁绊剧情2](https://www.bilibili.com/video/BV1sghX6NEFN)》（3533 播放，2026-09）
 - ましゃ《[【avemujica/海睦】Fly me to the star(飞我去星)](https://www.bilibili.com/video/BV1rNQBYyEh3)》（2854 播放，2025-03）
@@ -75,6 +77,16 @@ NGA 早期的海睦讨论帖（tid 38454968）里，被引用最多的一句是�
 - Keisenpai《[【AMV/海睦】 Umiri x Mutsumi (BanG Dream! Ave Mujica) | Subtitle](https://www.bilibili.com/video/BV1wkNaeAEpc)》（261 播放，2025-02）
 - Keisenpai《[【AMV/海睦】 Umiri x Mutsumi (BanG Dream! Ave Mujica) | Trouble Maker](https://www.bilibili.com/video/BV1YpAye2ED7)》（136 播放，2025-02）
 - Keisenpai《[【海睦/ BanG Dream! It's MyGO!!!!!】 Umiri x Mutsumi | Not friends](https://www.bilibili.com/video/BV18HB7YKEtm)》（104 播放，2024-12）
+- Keisenpai《[【海睦/ AMV】 Umiri x Mutsumi (BanG Dream! Ave Mujica) | 梦时](https://www.bilibili.com/video/BV19DfpYVEZc)》（26 播放，2025-01）
+
+@[/details]
+
+@[details](《海睦》各集链接，共 4 集)
+
+- [海睦](https://www.bilibili.com/video/BV1BKQcBfEXj)（4241 播放，2026-04）
+- [海睦](https://www.bilibili.com/video/BV1jidKBEEPh)（3625 播放，2026-05）
+- [海睦](https://www.bilibili.com/video/BV1peL16rEfF)（1726 播放，2026-05）
+- [海睦](https://www.bilibili.com/video/BV1b58C6mEZW)（1930 播放，2026-08）
 
 @[/details]
 

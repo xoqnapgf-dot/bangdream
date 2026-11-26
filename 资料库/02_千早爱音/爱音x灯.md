@@ -323,6 +323,57 @@ B 站专栏里有 SiN_Ask 整理的《やぶのき老师的爱灯合集》、Sin
 - **pixiv 小说**：鬼翅融《企鹅的忏悔日记》（novel 21316888）
 - **安科**：NGA 上有《[安科/安价] 特级咒术师高松灯要和千早爱音打一辈子咒灵?》（tid=46246862）、《[安科] 高松灯今天的石》（tid=45170795）、《[安科] [东方project] 千早爱音想在幻想乡找齐乐队少女》（tid=42765988）；NGA 另有爱灯散图楼（tid=46467243）
 
+- **更多 B 站视频（按播放排）**：北风的猫5306《[【爱灯】”tomorin别哭啦，我只是换了一种方式陪伴你“](https://www.bilibili.com/video/BV1Gg75z9Eaa)》（2.9 万播放，2025-05）；LightningO0o《[爱音战败后集结复仇莫偷袭素世替换灯和大喵让祥崩溃感化然后爱灯](https://www.bilibili.com/video/BV1KBpb6JELw)》（1.6 万播放，2026-10）；殻殻殻殻子《[（衤卜）【爱灯】s○x需要的啊！](https://www.bilibili.com/video/BV1fYGVznEjQ)》（8594 播放，2025-07）；金灿灿的橘子www《[【爱灯】酒后/界限](https://www.bilibili.com/video/BV1usANzpE37)》（6997 播放，2026-03）；超重的酒精灯《[【高松灯生日会单品】我们都被生命所厌恶着【爱灯】【剧情MAD】](https://www.bilibili.com/video/BV1aeynBdEra)》（6960 播放，2025-11）；粉色苦瓜心情《[【MyGO】Airwaves ——献给爱灯的真情羁绊【补字幕】](https://www.bilibili.com/video/BV1c4ak6qEvs)》（6788 播放，2026-10）；-realself-《[我愿称之为爱灯人圣经…mygo 爱灯cp同人志-䛛恋詩 简短开箱](https://www.bilibili.com/video/BV1VZZEYFEPG)》（6175 播放，2025-03）；雪菜人啊啊啊《[【MyGo/爱灯MAD】“ 若能与你一同化作星座”](https://www.bilibili.com/video/BV1GN411W7nB)》（5957 播放，2023-09）；金灿灿的橘子www《[【爱灯】青春烦恼/爱的身份](https://www.bilibili.com/video/BV1sUL96PEAJ)》（5859 播放，2026-06）；北风的猫5306《[【爱灯】我喜欢你这件事你到底知不知道鸭？](https://www.bilibili.com/video/BV1mGcjzGE48)》（5745 播放，2026-02）；多倍体深海食人寄居蟹《[【爱灯】【手书】fly me to the star](https://www.bilibili.com/video/BV17Tz1BXEbM)》（5499 播放，2026-01）；无法访问em《[【AI爱灯】《风吹落花·DJ戏腔版》对+合唱【B萌应援】](https://www.bilibili.com/video/BV1o83d6JEkY)》（5406 播放，2026-08）。
+
+@[details](另有 44 条，同样按播放排)
+
+- 艾萨克_崭新出厂《[【mygo】从夯到NPC，给爱灯webgal剧情向二创排个名！](https://www.bilibili.com/video/BV1zusnzPEWm)》（4900 播放，2025-10）
+- 高松型结灯《[爱灯神人转场](https://www.bilibili.com/video/BV1dzLr6DErs)》（4651 播放，2026-05）
+- 欠草偷摸零《[（已完结/扭曲向/爱灯）爱死爱墓](https://www.bilibili.com/video/BV1oGHe6mEXA)》（4461 播放，2026-10）
+- 枫沫LZ《[【MyGO!!!!!/爱灯/MAD】可爱女人](https://www.bilibili.com/video/BV1ZN4y1s7ED)》（4266 播放，2023-12）
+- 失真偷摸零《[<爱灯>知晓一切的爱音回到了曾经与灯一起待着的天文部，在这里她看到了——（7）](https://www.bilibili.com/video/BV1sx9yYGEiV)》（3976 播放，2025-03）
+- 破防骑士厨《[【粥味/爱灯】假如灯的“饺子”天下最美味？](https://www.bilibili.com/video/BV1pKhU6HEGu)》（3517 播放，2026-09）
+- 账号已注销《[【爱灯】（上）说好排练，你俩怎么贴贴到一起了？偷偷写情话被同班暗恋对象发现了！【上】](https://www.bilibili.com/video/BV1PSw8zEEq5)》（3479 播放，2026-03）
+- baka小巡《[【MyGO/爱灯】如果灯和爱音是初中同学#6](https://www.bilibili.com/video/BV1QmcheNEU9)》（3474 播放，2025-01）
+- 溶溶溶容溶解《[【爱灯】ageha](https://www.bilibili.com/video/BV1E38czfExa)》（3370 播放，2025-07）
+- 芝士雪狸捏《[【爱灯/小爱音梦到和灯灯结婚了?！】](https://www.bilibili.com/video/BV1AKtr6tE7z)》（3358 播放，2026-09）
+- 滑稽之神哒《[【MyGO/爱灯】只是某个由爱音代班送灯回家的夜晚](https://www.bilibili.com/video/BV1theGzJEoz)》（3296 播放，2025-08）
+- silvertulip_114G《[【MYGO/爱灯/嗜睡症候群】是我喜欢的二创，直接开画](https://www.bilibili.com/video/BV1pm8dzXE7N)》（2280 播放，2025-07）
+- 雪人不是拿来吃的《[啊啊啊宝宝你是一个爱灯…](https://www.bilibili.com/video/BV1cq4L67E6c)》（2267 播放，2026-11）
+- Another_Serval《[【MyGO假药/爱灯】等雨停](https://www.bilibili.com/video/BV12fBRYvEpH)》（2262 播放，2024-11）
+- 胖头鱼GINGA《[【爱灯】一辈子](https://www.bilibili.com/video/BV1phvqB8Eqj)》（2171 播放，2025-12）
+- 无敌写诗大王《[【爱灯/MAD】「僕は...」—“是你让我看到，这世界有多么美丽”](https://www.bilibili.com/video/BV1gWZ6BGEKz)》（2049 播放，2026-02）
+- 芝士雪狸捏《[【爱灯】爱音，和企鹅一起征服北极！（?）](https://www.bilibili.com/video/BV1aypt6xEnu)》（2030 播放，2026-10）
+- 千早の牢肖《[爱灯情歌！全站最直白最区《碧天伴走》中文填词？（无翻唱）](https://www.bilibili.com/video/BV1rGgC6JEUi)》（1923 播放，2026-07）
+- 千早有爱灯《[【mygo/爱灯】假如爱音压力爆表并且离开了灯（上）？！](https://www.bilibili.com/video/BV1YyaY6PEsR)》（1802 播放，2026-09）
+- 双木LYS《[也许是另类的爱灯合照](https://www.bilibili.com/video/BV1AuHP6uE66)》（1786 播放，2026-10）
+- 破防骑士厨《[【爱灯】假如小灯在万圣节去要糖果~](https://www.bilibili.com/video/BV193xn61Evk)》（1722 播放，2026-10）
+- 一匹善长奔跑的马《[狐狸和道士（爱灯）](https://www.bilibili.com/video/BV1wvxC6bEsh)》（1583 播放，2026-10）
+- 红中CCB《[万圣节の爱灯](https://www.bilibili.com/video/BV1mGxx6nERe)》（1507 播放，2026-11）
+- 三文鳕鱼堡《[爱灯｜感谢你的出现 过去往事如烟](https://www.bilibili.com/video/BV1yBtN6fEG1)》（1159 播放，2026-08）
+- 亚凉頁《[【爱灯/Mad】Misty Memory](https://www.bilibili.com/video/BV12sFDzMEnk)》（1125 播放，2026-02）
+- 鱼的椰壳里《[【二创/爱灯】旧回忆止于水族馆](https://www.bilibili.com/video/BV1avKn6hEbm)》（1093 播放，2026-07）
+- 亿条魔法鱼《[【MyGO/爱灯/混剪】“我们一起，在迷失中前进”](https://www.bilibili.com/video/BV1antNzHEjJ)》（1048 播放，2025-08）
+- 子夜抒怀T_《[【Mygo/爱灯】只是顺便而已 #第4话的一半](https://www.bilibili.com/video/BV1rQHV6hEN4)》（1036 播放，2026-10）
+- 亿条魔法鱼《[【MyGO/爱灯】有点甜](https://www.bilibili.com/video/BV1Yjb3zGE7r)》（903 播放，2025-08）
+- 试试昵称可以几个字呀《[【MYGO】爱灯的《Love Story》](https://www.bilibili.com/video/BV1s1DVY7Eau)》（764 播放，2024-11）
+- LightningO0o《[爱灯 说爱你](https://www.bilibili.com/video/BV1Kcn862Eh2)》（727 播放，2026-10）
+- 小雨maru《[【MyGO/爱灯】心灵的创可贴](https://www.bilibili.com/video/BV13S411w7Gj)》（625 播放，2024-07）
+- 磁包《[【爱灯】「ai」世界上的另一个我](https://www.bilibili.com/video/BV1atsozoEFb)》（575 播放，2025-10）
+- 自娱唱片《[【MyGO金曲/爱灯】我不想你默然离开/《空气》](https://www.bilibili.com/video/BV1jsWGe2EgT)》（571 播放，2024-08）
+- 末特辽《[迷子集会爱灯Cut](https://www.bilibili.com/video/BV1J142167Zz)》（552 播放，2024-05）
+- 海归丸山彩《[【爱灯/MAD】绝对不会放开你的手](https://www.bilibili.com/video/BV1FxHy6SEkC)》（460 播放，2026-10）
+- 藕树w《[【Mygo/爱灯】听你说](https://www.bilibili.com/video/BV1x4VieMEmP)》（396 播放，2024-06）
+- 一直赖宿室《[【爱音生贺/爱灯/mad】“谁的眼泪惹哭了雨云”](https://www.bilibili.com/video/BV13UbG6FEFg)》（386 播放，2026-09）
+- 次卿迪奥猫《[【MyGO/爱灯MAD】长夜未央 前路盛放](https://www.bilibili.com/video/BV1Lbb76EEvk)》（360 播放，2026-09）
+- 自娱唱片《[【MyGO金曲/爱灯】但是，心却跳动在/《左边》](https://www.bilibili.com/video/BV1raCGYQE56)》（326 播放，2024-12）
+- 寒月溪ovo《[【MYGO/爱灯】你就像天外来物一样](https://www.bilibili.com/video/BV1u28U6cEx5)》（294 播放，2026-08）
+- 八佰伴片柠《[【AI爱灯】误红妆](https://www.bilibili.com/video/BV1bwnF6eEvD)》（184 播放，2026-10）
+- 白波跃水《[OurNotes视角故事 爱灯水族馆](https://www.bilibili.com/video/BV16Rae6LEBG)》（166 播放，2026-09）
+- 账号已注销《[【音乐】爱灯-vinethen-Remix](https://www.bilibili.com/video/BV1ZMWH6SEUr)》（25 播放，2026-11）
+
+@[/details]
+
 ---
 
 ## 七、信息来源
