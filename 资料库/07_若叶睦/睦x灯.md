@@ -149,7 +149,7 @@ pixiv「ともむつ」下收藏最多的是広肉ル《病んでますわ初華
 - 贴吧：《【灯睦纯爱】一场普通的约会》（邦多利怀孕吧，2024-02）、《灵魂互换，但是睦灯》（mygo 吧，2024-02）、《【MyGO!!!!!三周年二创（灯睦灯）（文字）】》（mygo 吧，2025-05，搬运自 LOFTER 同名文《人偶也配拥有爱情吗？》，约 1.3 万字）
 - LOFTER：南羽乗り・八封久川《静默的回响》
 
-- **更多 B 站视频（标题里写明这一对，按播放排）**：混的入野睦《[睦灯在河边捡石头](https://www.bilibili.com/video/BV1oS3R6mEoq)》（1020 播放，2026-08）；还不能够马匹《[【mygo × mujica/睦灯中心】如果表达注定被误解……「mirage voyage」](https://www.bilibili.com/video/BV1pMFAeNEwm)》（609 播放，2025-01）；风云之巅X《[【睦灯/MAD/样young】“我怎么变这样，变得这样倔强”](https://www.bilibili.com/video/BV1EFR8YoEse)》（600 播放，2025-03）；TYYyaiwj《[【睦灯】黄瓜，石头。](https://www.bilibili.com/video/BV19ssp6DEVR)》（497 播放，2026-11）。
+- **更多 B 站视频（按播放排）**：混的入野睦《[睦灯在河边捡石头](https://www.bilibili.com/video/BV1oS3R6mEoq)》（1020 播放，2026-08）；还不能够马匹《[【mygo × mujica/睦灯中心】如果表达注定被误解……「mirage voyage」](https://www.bilibili.com/video/BV1pMFAeNEwm)》（609 播放，2025-01）；风云之巅X《[【睦灯/MAD/样young】“我怎么变这样，变得这样倔强”](https://www.bilibili.com/video/BV1EFR8YoEse)》（600 播放，2025-03）；TYYyaiwj《[【睦灯】黄瓜，石头。](https://www.bilibili.com/video/BV19ssp6DEVR)》（497 播放，2026-11）。
 
 ---
 

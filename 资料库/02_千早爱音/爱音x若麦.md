@@ -335,7 +335,7 @@ mygo ep11 就出现了爱音常服戴心形项链，而从喵梦视频里可以�
 
 - LOFTER「爱喵」标签下有老阴的《「扣你几喵姆喵姆～」》。老阴（也写作吉利蛋真的很萌萌哒）的《红线缠绕着千早爱音》是以爱音为中心的多 CP 长篇，爱喵是其中一条线；B 站有经作者授权的有声图文转载：[第十章《记得要看消息！》](https://www.bilibili.com/video/BV1o1NKzCE6Q)、[第十三章《那一天，喵梦亲看见了爱！》](https://www.bilibili.com/video/BV17WAPzPErM)（巴念之才良，2026 年 3 月）。
 
-- **更多 B 站视频（标题里写明这一对，按播放排）**：大只风筝鱼《[【mygo/爱喵】喵底边4！喵梦送给智障儿童的一封情书！](https://www.bilibili.com/video/BV1mRKKzhEFK)》（4564 播放，2025-06）；大只风筝鱼《[［mygo/爱喵］假如喵梦是底边爱音是纸张3](https://www.bilibili.com/video/BV1VHNdz5EQJ)》（3034 播放，2025-06）。
+- **更多 B 站视频（按播放排）**：大只风筝鱼《[【mygo/爱喵】喵底边4！喵梦送给智障儿童的一封情书！](https://www.bilibili.com/video/BV1mRKKzhEFK)》（4564 播放，2025-06）；大只风筝鱼《[［mygo/爱喵］假如喵梦是底边爱音是纸张3](https://www.bilibili.com/video/BV1VHNdz5EQJ)》（3034 播放，2025-06）。
 
 ---
 

@@ -75,7 +75,7 @@ Megami 2026 年 12 月号的剧场版介绍（NGA tid 47809778 转载译文）�
 - Lofter：叁水合甘草糖《【喵初】逢生多雪》
 - 更多见《初华x若麦.md》第三节。
 
-- **更多 B 站视频（标题里写明这一对，按播放排）**：龙虾NL《[【Ave mujica/喵初】自用互动 cut](https://www.bilibili.com/video/BV13aZfYuEH2)》（1.4 万播放，2025-04）；黑井日菜子《[【喵初】初华摔倒被喵梦捡走](https://www.bilibili.com/video/BV18soqY6Eok)》（1 万播放，2025-03）；吃饭不要暴风吸入《[【喵初】你能教我骂人吗](https://www.bilibili.com/video/BV1nsMZ6DE38)》（4532 播放，2026-08）；吃饭不要暴风吸入《[【喵初】碰到我我就嫁给你](https://www.bilibili.com/video/BV18RPTzYESW)》（2023 播放，2026-03）；吃饭不要暴风吸入《[【自用】喵初结算语音+单人部分语音](https://www.bilibili.com/video/BV12maP6BEvc)》（589 播放，2026-09）；自由高松灯《[【喵初？】喵梦胁迫初华导致祥子吃到无双大黄瓜](https://www.bilibili.com/video/BV1atXWY4Es9)》（429 播放，2025-03）。
+- **更多 B 站视频（按播放排）**：龙虾NL《[【Ave mujica/喵初】自用互动 cut](https://www.bilibili.com/video/BV13aZfYuEH2)》（1.4 万播放，2025-04）；黑井日菜子《[【喵初】初华摔倒被喵梦捡走](https://www.bilibili.com/video/BV18soqY6Eok)》（1 万播放，2025-03）；吃饭不要暴风吸入《[【喵初】你能教我骂人吗](https://www.bilibili.com/video/BV1nsMZ6DE38)》（4532 播放，2026-08）；吃饭不要暴风吸入《[【喵初】碰到我我就嫁给你](https://www.bilibili.com/video/BV18RPTzYESW)》（2023 播放，2026-03）；吃饭不要暴风吸入《[【自用】喵初结算语音+单人部分语音](https://www.bilibili.com/video/BV12maP6BEvc)》（589 播放，2026-09）；自由高松灯《[【喵初？】喵梦胁迫初华导致祥子吃到无双大黄瓜](https://www.bilibili.com/video/BV1atXWY4Es9)》（429 播放，2025-03）。
 - **更多专栏**：银灰潮汐《[喵姆亲独家报道！《开膛手初华》幕后大揭秘！](https://www.bilibili.com/read/cv40931932)》（阅读 8440）。
 
 ---

@@ -53,7 +53,7 @@ B 站 UP 主还是我李尼玛从 2023 年 12 月起连载的《奇事不死于�
 
 @[bilibili](BV1wt4y1R7MJ "奇事不死于鼓手！#3（MyGO X Ave Mujica 鼓手灵魂互换） · 作者：还是我李尼玛")
 
-- **更多 B 站视频（标题里写明这一对，按播放排）**：四石Fst《[【喵希喵】怒放的生命（#1/完）](https://www.bilibili.com/video/BV11DShBpEAG)》（5950 播放，2025-12）。
+- **更多 B 站视频（按播放排）**：四石Fst《[【喵希喵】怒放的生命（#1/完）](https://www.bilibili.com/video/BV11DShBpEAG)》（5950 播放，2025-12）。
 
 ---
 
