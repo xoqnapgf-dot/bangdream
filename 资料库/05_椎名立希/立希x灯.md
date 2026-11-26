@@ -199,6 +199,34 @@ AL光《立希生贺》：https://www.pixiv.net/artworks/133662430 ；Lemtun《�
 - 贴吧：《【my go 假药文】乐队解散五年后，在天桥偶遇的爱音和立希》（2023-08）、《【二创】灯、立希和兼职》（2024-09，从官方小动画得的灵感）、《假如椎名立希戴上了眼镜》（2024-12）。
 - 希灯吧、灯希吧和希灯同好群（2025 年 10 月在椎名立希吧宣群）是同人文的主要集散地。
 
+- **更多 B 站视频（按播放排）**：月夜-涙《[Ave Mujica 希灯甜蜜时刻！！！](https://www.bilibili.com/video/BV1EzF7egEB9)》（6.8 万播放，2025-01）；参宿五十一《[（希灯）当然是想见你](https://www.bilibili.com/video/BV1ZDqsYvE9P)》（4 万播放，2024-12）；张希秋《[谁是卧底mygo【八】立希灯](https://www.bilibili.com/video/BV1SgQfB3E7Z)》（2.1 万播放，2026-03）；MikhailVedder《[【AI希灯交替合唱】梦限大ED うちゅうのふしぎ](https://www.bilibili.com/video/BV1SaTC6REET)》（7071 播放，2026-07）；骑兵极光马卡龙《[【希灯】陪伴是最长情的告白](https://www.bilibili.com/video/BV1w4421S7rW)》（5560 播放，2024-07）；什么都想不起来了《[（希灯）我早就知道那个人相当糟糕了](https://www.bilibili.com/video/BV1UBY96QEjV)》（5005 播放，2026-09）；汤川莓莓《[【MYGO丨希灯】你是我未曾拥有无法捕捉的虚拟](https://www.bilibili.com/video/BV1Dk4y1U7H2)》（4471 播放，2024-01）；雨澪AmeMio《[【MyGo｜希灯】再见，在所有世界线之外](https://www.bilibili.com/video/BV1C1qUBiENe)》（4425 播放，2025-12）；2L3_《[立希向小灯表白大成功【希灯】](https://www.bilibili.com/video/BV1tUodBjE3n)》（2958 播放，2026-04）；MikhailVedder《[【小灯生贺/希灯游记/AI希灯】莫斯科郊外的晚上](https://www.bilibili.com/video/BV1xZU7B7E2a)》（2848 播放，2025-11）；千辰万晓《[希灯play之千pi万co【2025椎名立希生日会单品】](https://www.bilibili.com/video/BV1MJtyzxEMQ)》（2637 播放，2025-08）；雨澪AmeMio《[【希灯/立希生贺】椎名立希的emoji](https://www.bilibili.com/video/BV1Jit2zpEhV)》（2569 播放，2025-08）。
+
+@[details](另有 21 条，同样按播放排)
+
+- MikhailVedder《[【小灯生贺/希灯宇宙/AI希灯】最美好的前途](https://www.bilibili.com/video/BV1WcUEBLEdD)》（2531 播放，2025-11）
+- Q1uer《[【希灯MAD/剧情向】「幸福」到底是什么呢](https://www.bilibili.com/video/BV14nP6exEEh)》（2263 播放，2025-02）
+- -Kodoku-《[【希灯｜Lucky One】](https://www.bilibili.com/video/BV1eFCXBjE9R)》（2109 播放，2025-11）
+- MikhailVedder《[【小灯生日/希灯游记/AI希灯】翻转岩石，晨光洒落你身](https://www.bilibili.com/video/BV1ww2PBhEUg)》（2093 播放，2025-11）
+- 企鹅家立希《[【mygo】灯希灯 占有欲极强的立希同学](https://www.bilibili.com/video/BV1De6UBREqf)》（1808 播放，2026-01）
+- 蜚雨PIE《[【希灯】我会一直注视着灯的](https://www.bilibili.com/video/BV1bKeAeKEma)》（1756 播放，2024-08）
+- 湯里没有鱼《[【MAD/希灯/MyGO】她出现的天文特征](https://www.bilibili.com/video/BV1SAkpYtES5)》（1749 播放，2024-12）
+- MikhailVedder《[【小灯生贺/希灯游记/AI希灯】成都](https://www.bilibili.com/video/BV1tRU7BJE3K)》（1650 播放，2025-11）
+- MikhailVedder《[【520希灯崩坏宇宙绘画/AI希灯合唱】崩坏世界の歌姬](https://www.bilibili.com/video/BV1PA5o6BERo)》（1547 播放，2026-05）
+- 九光_《[「Mygo/希灯」真相是真“可我早把她安排进 全部余生里”](https://www.bilibili.com/video/BV1nHzvBYEjq)》（1418 播放，2026-01）
+- 无敌狂暴海豹球《[【MyGo/希灯】～istant attraction~♡](https://www.bilibili.com/video/BV1X6ghzQEnt)》（1370 播放，2025-07）
+- 鸠白天黑夜都在睡大觉《[【MyGO/希灯CP向绘画过程】我眼中所倒映出的你](https://www.bilibili.com/video/BV1vMtUzJEiV)》（1022 播放，2025-08）
+- 素食小爱音《[【希灯】写给taki酱看的](https://www.bilibili.com/video/BV1FoUvYaEqJ)》（751 播放，2024-11）
+- 企鹅家立希《[【mygo/灯希灯】立希眼中的小灯](https://www.bilibili.com/video/BV1ZHYd63EX4)》（576 播放，2026-09）
+- kiiiiam《[【MyGo/误解向/希灯】真相是假](https://www.bilibili.com/video/BV138NwefEpg)》（444 播放，2025-02）
+- 企鹅家立希《[【mygo/灯希灯】自行避雷](https://www.bilibili.com/video/BV1AffmBsEod)》（360 播放，2026-02）
+- 伊吹風白《[【MyGO剪辑｜希灯｜纵此生】“此生聚散如风吹 何必离愁换憔悴”](https://www.bilibili.com/video/BV1ehgp62EnU)》（336 播放，2026-08）
+- YuMeMi1《[【希灯】立希数了四十颗石头许愿，灯：那拿出来](https://www.bilibili.com/video/BV1sPWz6jESG)》（291 播放，2026-11）
+- 斯卡拉喵梦《[「希灯向」AI椎名立希——《直到你降临》](https://www.bilibili.com/video/BV1c4aGzKEfq)》（232 播放，2025-08）
+- 高松燈所長《[【高松灯/希灯？】再见二丁目丨假如椎名立希约了高松灯去某地见面…](https://www.bilibili.com/video/BV1rBxe6vEJ4)》（215 播放，2026-10）
+- 当归白芍肝《[希灯/双人合唱《求婚》](https://www.bilibili.com/video/BV1s3no69EGs)》（62 播放，2026-10）
+
+@[/details]
+
 ---
 
 ## 六、信息来源

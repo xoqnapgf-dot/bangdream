@@ -66,6 +66,8 @@ NGA《该以什么角度磕祥子x立希》（2023-09-22，tid 37798639）是中
 
 - **pixiv「さきたき」标签**（全年龄，共 6 件标了祥子；两个方向的标签常混用，下面是收藏最多、资料库里还没有的）：yugawa《无题》（收藏 316，2024-07，https://www.pixiv.net/artworks/121046777 ）；瑪卡巴卡《「Forbidden Fruit」》（收藏 154，2026-06，https://www.pixiv.net/artworks/146441265 ）；瑪卡巴卡《椎名立希x丰川祥子 「以前那些又算什么？」》（收藏 143，2026-06，https://www.pixiv.net/artworks/146311216 ）；瑪卡巴卡《「太阳就算落下，阳光也会反射为月光笼罩，一辈子。」》（收藏 92，2026-06，https://www.pixiv.net/artworks/146007229 ）；瑪卡巴卡《「立希さん，要拍啰！」》（收藏 78，2026-06，https://www.pixiv.net/artworks/146441348 ）；瑪卡巴卡《「此亦神明所存之证明」》（收藏 68，2026-06，https://www.pixiv.net/artworks/146039275 ）。
 
+- **更多 B 站视频（按播放排）**：寄生虫209《[【唯美祥希】](https://www.bilibili.com/video/BV1wNeqz5ELj)》（1312 播放，2025-08）。
+
 ---
 
 ## 三、信息来源

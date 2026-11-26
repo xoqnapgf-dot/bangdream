@@ -1161,15 +1161,132 @@ pixiv「あのそよ」近一年收藏最多的有 materWolen《即将被爽食�
 - 晋江文学城：沿途的风《爱素合集》（2025-03 起，短篇合集，素爱素无差）
 - 粉丝站：素年锦音（anon-soyo.love），非官方爱素同人站，收角色资料、磕点整理和作品导航
 
-- **更多 B 站视频（按播放排）**：星观后《[【mygo/爱素】素世重生了，但是灰爱音?（上）](https://www.bilibili.com/video/BV14dPAzjEzP)》（6.4 万播放，2026-03）；禅心平常《[「聊聊CP」爱素：虽然剧情没那么推，但也确实有火的潜力](https://www.bilibili.com/video/BV1WKs36NEBB)》（3.6 万播放，2026-11）；千早爱邓酱《[爱素情歌：不是因为爱素才想你~](https://www.bilibili.com/video/BV1MpJbzfEv5)》（2 万播放，2025-05）；贝壳雪花《[【爱素/微电影】义无反顾地找到我心中的太阳](https://www.bilibili.com/video/BV1hwKw63Eo4)》（1.8 万播放，2026-07）；华屿听琴弦《[聊天记录(爱素)](https://www.bilibili.com/video/BV1Rnsn61EVo)》（1.2 万播放，2026-11）；灰月Haitsuki《[【2026素爱素新春会】爱素的BUCCHIGIRI?!](https://www.bilibili.com/video/BV17PfcB1EmA)》（1 万播放，2026-02）；yokogaga《[(MyGO/爱素】因为老是当0所以退队的素世](https://www.bilibili.com/video/BV1dpao6iEre)》（8377 播放，2026-09）；华屿听琴弦《[聊天记录(爱素)](https://www.bilibili.com/video/BV1nzsA66EYb)》（3863 播放，2026-11）；土豆呼叫地瓜p《[爱素の双人游戏](https://www.bilibili.com/video/BV16tWi6AEXC)》（3495 播放，2026-11）；远离鼠标手《[【爱素】让我充充电吧soyorin——](https://www.bilibili.com/video/BV1Z6sc6cEnq)》（2285 播放，2026-11）；漂骁扬《[（mygo手书）爱素/ansy 《反正》](https://www.bilibili.com/video/BV1iS421A7db)》（1920 播放，2024-03）；知言Z1yan《[【Mygo/爱素】千早素世想要记录 第三章 爱音，我要嫁给你了对吗](https://www.bilibili.com/video/BV1gtsr6aEXy)》（1880 播放，2026-11）。
+- **更多 B 站视频（按播放排）**：闪光丸山彩《[双面爽姐（可爱素世合集）](https://www.bilibili.com/video/BV1Db4y1A77E)》（48.1 万播放，2024-01）；得soyo得天下《[【AI爱素】古风合集“误闯天家，劝余放下手中砂”](https://www.bilibili.com/video/BV1TP2gBWEHn)》（30.6 万播放，2025-11）；XCWすごい《[爱素情头](https://www.bilibili.com/video/BV1W1vGeWE5Y)》（29.2 万播放，2024-07）；-sentien《[超爱素甲](https://www.bilibili.com/video/BV1PK4y1a7e3)》（27 万播放，2020-09）；希灵empire《[⚡玉指牵丝，渊涌春水⚡《爱素の牵丝戏》](https://www.bilibili.com/video/BV1Mx7zzDEnB)》（11.7 万播放，2025-06）；某火柴灬灬《[【补】【爱素微TV】多年以后，Soyo轻轻地抚摸着这张照片……](https://www.bilibili.com/video/BV1FwyHBqEvw)》（7.8 万播放，2025-11）；mfr258《[爱素教培本推荐（lz想要，不是我）](https://www.bilibili.com/video/BV1zWzwYkEvz)》（7.4 万播放，2024-11）；爱素推一生《[【爱素】请输入文本](https://www.bilibili.com/video/BV1fEn86NENm)》（7.4 万播放，2026-10）；得soyo得天下《[【古风爱素】《真英雄》“若是真英雄怎会怕，快刀斩乱麻金戈伴铁马”【B萌应援】](https://www.bilibili.com/video/BV1qxMy6kEHF)》（7 万播放，2026-08）；星观后《[【mygo/爱素】素世重生了，但是灰爱音?（上）](https://www.bilibili.com/video/BV14dPAzjEzP)》（6.4 万播放，2026-03）；过客古城《[【MYGO/爱素】余命十年#2(素世视角)](https://www.bilibili.com/video/BV1fe411J77a)》（6.4 万播放，2024-01）；账号已注销《[爱音这撩素世的头发，我真的好喜欢啊，这能磕的吧？爱素好文明](https://www.bilibili.com/video/BV1Fp4y1n7oP)》（5 万播放，2023-08）。
 
-@[details](另有 5 条，同样按播放排)
+@[details](另有 122 条，同样按播放排)
 
+- 爱素推一生《[【爱素】我才是1!](https://www.bilibili.com/video/BV15w4VzCEst)》（4.8 万播放，2025-10）
+- 悠游POI《[【爱素】蛋糕](https://www.bilibili.com/video/BV1juScY8Ew5)》（4.7 万播放，2024-11）
+- 某火柴灬灬《[【91r稿件展示】爱素贴贴🫶](https://www.bilibili.com/video/BV1samQBuEys)》（4.7 万播放，2025-12）
+- 账号已注销《[收集了好久的爱素图](https://www.bilibili.com/video/BV1Tu411g7kY)》（4.2 万播放，2023-10）
+- 人间未可知《[【爱素/填词】素世的《精卫》](https://www.bilibili.com/video/BV1QifnBsEJV)》（3.9 万播放，2026-02）
+- 视奸型爱音《[【MyGO】【ansy】【爱素】千早爱音，她躲起来了！](https://www.bilibili.com/video/BV1ZD41eSEPA)》（3.8 万播放，2024-09）
+- 账号已注销《[【爱素】※压抑素世VS※冷淡爱音？直接（）飞！](https://www.bilibili.com/video/BV1yjW4zfEmF)》（3.7 万播放，2025-10）
+- 禅心平常《[「聊聊CP」爱素：虽然剧情没那么推，但也确实有火的潜力](https://www.bilibili.com/video/BV1WKs36NEBB)》（3.6 万播放，2026-11）
+- 民哥wang《[【MyGO/爱素】That Girl  如果我能把爱说出口](https://www.bilibili.com/video/BV1oe411X7Yo)》（3.5 万播放，2023-11）
+- White_AE《[【爱素/全配音】可恶!求婚技能的释放对象对我使用了同样招数......](https://www.bilibili.com/video/BV1LxUCBNELe)》（3.5 万播放，2025-11）
+- 千早小草《[【爱素/七夕特别篇】小素世会梦见粉毛仙女吗](https://www.bilibili.com/video/BV1eCYgeFEo4)》（3.2 万播放，2024-08）
+- YukiAle《[爱素](https://www.bilibili.com/video/BV1NuYqzmELo)》（3.1 万播放，2025-08）
+- 一白鸟合龙《[【爱素】假如千早爱音长出了玉米 ?#4 上](https://www.bilibili.com/video/BV1c4e1zwEw2)》（3.1 万播放，2025-08）
+- 我是爱素份子呐《[【mygo/ansy/爱素】堕化](https://www.bilibili.com/video/BV1ykmfYKEdY)》（3.1 万播放，2024-11）
+- Atl-电子少女企划《[【Mygo二创/爱素】爱音想给素世下药然而自食其果变成蛇女，二人幸终可喜可贺 #1（短篇）](https://www.bilibili.com/video/BV1jpS7BNEKu)》（3 万播放，2025-11）
+- 東佰anon《[【mygo/爱素】单相思（上）](https://www.bilibili.com/video/BV1Q1z4YeES4)》（3 万播放，2024-12）
+- 爱素推一生《[【爱素】吹风机呼呼呼](https://www.bilibili.com/video/BV1Q1Wo63Egm)》（2.9 万播放，2026-11）
+- 爱素推一生《[【爱素】天冷就该看爱素](https://www.bilibili.com/video/BV1mPnR6DEBt)》（2.6 万播放，2026-10）
+- 爱素推一生《[【爱素】女人，我的耐心有限](https://www.bilibili.com/video/BV16d4A61EiX)》（2.6 万播放，2026-11）
+- 爱音爽世了《[【爱素/填词】妄想感伤代偿联盟](https://www.bilibili.com/video/BV1xuVwzwEL7)》（2.5 万播放，2025-05）
+- 得soyo得天下《[我本该命途齐天，唯有破开了天《新·与天齐》【古风爱素】](https://www.bilibili.com/video/BV1RJW26EEaL)》（2.4 万播放，2026-11）
+- 账号已注销《[【爱素】即使分手那么久你也依然爱着我，不是吗？长崎小姐......  分手之后总集篇（重新剪辑配乐）](https://www.bilibili.com/video/BV1VSBZBUEts)》（2.4 万播放，2026-01）
+- 三角初华唯一信仰《[爱素.爱音嫌弃素世脚不干净被踩](https://www.bilibili.com/video/BV1jKgx6hEfs)》（2.2 万播放，2026-07）
+- 视奸型爱音《[【MyGO】【ansy】【爱素】千早爱音，她躲起来了！#11](https://www.bilibili.com/video/BV1VUr3YNEVo)》（2.1 万播放，2025-01）
+- 千早爱邓酱《[爱素情歌：不是因为爱素才想你~](https://www.bilibili.com/video/BV1MpJbzfEv5)》（2 万播放，2025-05）
+- 千早家爱音《[【爱素】盒装圣杯长崎素世（一补）](https://www.bilibili.com/video/BV1FRhXzLEyx)》（1.9 万播放，2025-08）
+- 土豆呼叫地瓜p《[【爱素/全配音】终于拿下美丽的长崎小姐了](https://www.bilibili.com/video/BV1VWuW67EPV)》（1.9 万播放，2026-08）
+- 千早家爱音《[【爱素】邻家少女千早爱音](https://www.bilibili.com/video/BV1nLYdzxEh4)》（1.8 万播放，2025-08）
+- 贝壳雪花《[【爱素/微电影】义无反顾地找到我心中的太阳](https://www.bilibili.com/video/BV1hwKw63Eo4)》（1.8 万播放，2026-07）
+- 星曉汐《[【MyGo/爱素】败犬素世会赢的！#2今日我手震](https://www.bilibili.com/video/BV1BTJHzdEhf)》（1.7 万播放，2025-05）
+- 汉斯咖小啡《[【MyGO/病娇爱素】同谋秘笼](https://www.bilibili.com/video/BV1h9ZiBNEsH)》（1.6 万播放，2026-02）
+- 过客古城《[【MYGO/爱素】耀眼的你 完结](https://www.bilibili.com/video/BV12x421Z7hJ)》（1.6 万播放，2024-02）
+- 回来的废物《[（mygo）（爱素）#4 电休克，不该存在的长崎素世](https://www.bilibili.com/video/BV1Juxf6aEDw)》（1.5 万播放，2026-11）
+- xind_eee《[【爱素/全配音】我没说你不能来我家...](https://www.bilibili.com/video/BV1mAj866Euy)》（1.5 万播放，2026-06）
+- 青卡其BeTa《[【爱素】有点暧昧了](https://www.bilibili.com/video/BV1X2xz6eEpv)》（1.5 万播放，2026-10）
+- 我是爱素份子呐《[【ansy/爱素/mygo】错身巷#2](https://www.bilibili.com/video/BV1AatLeLEHh)》（1.5 万播放，2024-09）
+- 一白鸟合龙《[【爱素/补档】假如千早爱音长出了玉米 ?#5 上](https://www.bilibili.com/video/BV12GHGzEEfD)》（1.4 万播放，2025-10）
+- 黒羽桜鵺SakuYa《[【正经的激奏卡组介绍】爱素LUCK队：教科书般的LUCK爆分流](https://www.bilibili.com/video/BV17UaD6sESP)》（1.2 万播放，2026-10）
+- 华屿听琴弦《[聊天记录(爱素)](https://www.bilibili.com/video/BV1Rnsn61EVo)》（1.2 万播放，2026-11）
+- W汤豆腐W《[【MMD】爱素のChatter Chatter](https://www.bilibili.com/video/BV1oZGY6RExa)》（1.1 万播放，2026-05）
+- 冬栀与天《[♡爱素小图集♡](https://www.bilibili.com/video/BV1bqamzLE7h)》（1.1 万播放，2025-09）
+- 这个会好吃吗《[从夯到拉锐评拉踩爱素的评论](https://www.bilibili.com/video/BV1Ripj6wE8k)》（1 万播放，2026-10）
+- 灰月Haitsuki《[【2026素爱素新春会】爱素的BUCCHIGIRI?!](https://www.bilibili.com/video/BV17PfcB1EmA)》（1 万播放，2026-02）
+- 抽屉里的我《[【FF44】MyGO 场贩漫画开箱~好多爱素~](https://www.bilibili.com/video/BV1EtPieNEWD)》（9755 播放，2025-02）
+- 千早早素世《[【ansy/爱素】落花时节](https://www.bilibili.com/video/BV1kUoKBAEec)》（9256 播放，2026-04）
+- 烈雨蓝影《[（mygo/爱素）永日与残月——破碎人偶的爱之光#剧场版](https://www.bilibili.com/video/BV1qAohYhETu)》（9063 播放，2025-03）
+- 花开富贵爱《[【mygo】爱素到底有没有背着立希偷偷的去约会？](https://www.bilibili.com/video/BV1zp4E6WEs5)》（8741 播放，2026-11）
+- 爱素推一生《[【爱素】说真话会被干嘛](https://www.bilibili.com/video/BV1k5W86mEjh)》（8469 播放，2026-11）
+- yokogaga《[(MyGO/爱素】因为老是当0所以退队的素世](https://www.bilibili.com/video/BV1dpao6iEre)》（8377 播放，2026-09）
+- 千早爱喑子《[【mygo二创/ansy/爱素】静谧之恋#1](https://www.bilibili.com/video/BV1dyLozCEA5)》（7960 播放，2025-04）
+- _椎名丶真白《[「爱素/全配音」偷偷叫老婆被听到了还要说是没听见是什么意思啊](https://www.bilibili.com/video/BV1mq426mEh7)》（7933 播放，2026-08）
+- 不会占卜的先知《[【MyGO二创/爱素】若能于终点站相遇 #01 AfterLife](https://www.bilibili.com/video/BV1JoPEeHEjY)》（7793 播放，2025-02）
+- 南局爱素段《[【Ansy/爱素】甚至连猫的醋都吃的长崎素世](https://www.bilibili.com/video/BV1VGxu6jEFN)》（7776 播放，2026-10）
+- blkgs《[【MyGO/爱素/HE】依存感](https://www.bilibili.com/video/BV1dDANzeEV5)》（7553 播放，2026-03）
+- rxpvovkcyfd《[年轻的素世与成熟的素世（爱素）](https://www.bilibili.com/video/BV1H7Ey65E1A)》（7405 播放，2026-06）
+- xind_eee《[【爱素ansy/全配音】执着于你的温暖（含ABO）](https://www.bilibili.com/video/BV1rR3M6oEDq)》（7300 播放，2026-07）
+- L1tbyuside《[【MyGO/爱素/全配音】这种关系的名字是...？](https://www.bilibili.com/video/BV1UQVf6UEXs)》（7278 播放，2026-06）
+- 茶洛只想睡觉《[【Mygo/爱素】同人游戏《迷子公路》PV](https://www.bilibili.com/video/BV1wTcJz5EQe)》（7076 播放，2026-02）
+- 瀣燮xiexie《[【mygo/ansy/爱素/纯糖】爱素生了双胞胎#0](https://www.bilibili.com/video/BV1MSZ9YpEGh)》（6618 播放，2025-04）
+- 若葉睦の吉他《[【mygo二创/爱素】生理性喜欢](https://www.bilibili.com/video/BV1Pzhx6hEzm)》（6086 播放，2026-09）
+- 墨奏Kanade《[［Mygo/贴吧讨论］爱素王朝了？](https://www.bilibili.com/video/BV19L9zYCE1Z)》（5988 播放，2025-03）
+- 比目鱼-flounder-gun《[【mygo/爱素】倘能予你我剩余的梦#1](https://www.bilibili.com/video/BV1pgdoBMEoK)》（5913 播放，2026-04）
+- AN0N_LONDON《[今日爱素](https://www.bilibili.com/video/BV17nx96UE9J)》（5718 播放，2026-11）
+- 华屿听琴弦《[聊天记录(爱素)](https://www.bilibili.com/video/BV19dWh6BEw4)》（5579 播放，2026-11）
+- 墨奏Kanade《[［Mygo/爱素讨论］其实我对“暗恋”不满，是因为它表达了但不全面](https://www.bilibili.com/video/BV1Hg9FYyEad)》（5377 播放，2025-03）
+- 星曉汐《[【Mygo/爱素】项链](https://www.bilibili.com/video/BV1eKAwetEGP)》（5350 播放，2025-02）
+- 我是爱素份子呐《[【mygo/ansy/爱素】上床睡](https://www.bilibili.com/video/BV11JV66ZEqX)》（5265 播放，2026-06）
+- 凛雨晴灯《[【爱素】想帮队友和好结果她两告白了？](https://www.bilibili.com/video/BV1hHWy6gEQK)》（4919 播放，2026-11）
+- 闲鱼tudou《[【爱素/全配音】你是mygo的吉他手，也是我的吉他手](https://www.bilibili.com/video/BV1sJ8E6TE5M)》（4713 播放，2026-08）
+- 星曉汐《[【mygo/爱素】败犬素世会赢的！完结篇"逃兵"羁绊](https://www.bilibili.com/video/BV1ziiFBsEQ9)》（4517 播放，2026-01）
+- 月下の蓑衣客《[【爱素/ansy】静止钟](https://www.bilibili.com/video/BV1oF8ezLEwt)》（4359 播放，2025-07）
+- 欢喜的眼睛《[魅魔版爱素！魅魔化千早爱音注入黑暗力量给长崎素世将其魅魔化，小两口天天如胶似漆卿卿我我，让我一次爱个go！](https://www.bilibili.com/video/BV1WTVE6tEfn)》（4217 播放，2026-05）
+- 我是爱素份子呐《[【mygo/ansy/爱素】爱音酱和素世酱……不会已经牵手了吧？](https://www.bilibili.com/video/BV1sUW86sE3m)》（4154 播放，2026-11）
+- 赶稿星人赶稿爱《[【爱素小剧场/配音】Soyorin原来这么爱我呀～](https://www.bilibili.com/video/BV1UjJV6qENx)》（4029 播放，2026-06）
+- 华屿听琴弦《[聊天记录(爱素)](https://www.bilibili.com/video/BV1nzsA66EYb)》（3863 播放，2026-11）
+- ansor1n《[【mygo/爱素/ansy/剧情向长篇/he】心锁#1](https://www.bilibili.com/video/BV13DbzzXEyp)》（3529 播放，2025-08）
+- 土豆呼叫地瓜p《[爱素の双人游戏](https://www.bilibili.com/video/BV16tWi6AEXC)》（3495 播放，2026-11）
+- 神烦夜《[【MYGO/爱素】假如爱音带球跑路了十年  #10](https://www.bilibili.com/video/BV1sf4n6qEhk)》（3489 播放，2026-11）
+- 独酌听雨-《[【练习62】爱素-怪盗与警探2](https://www.bilibili.com/video/BV1XcW16kEqH)》（3453 播放，2026-11）
+- 月下の蓑衣客《[【爱素/ansy】敬启：致过去的我们](https://www.bilibili.com/video/BV19RK2zXEZX)》（2802 播放，2025-06）
+- 月下の蓑衣客《[【爱素/ansy】迷路猫（下）](https://www.bilibili.com/video/BV17wKgzWE6N)》（2715 播放，2025-06）
+- 悲伤的鸡《[爱素可真好看，爱音和爽世疯狂贴贴，真不错。](https://www.bilibili.com/video/BV1BFeB64EUA)》（2412 播放，2026-09）
+- 千早受诱零_《[【MyGO/爱素/欢乐向】默契度测试](https://www.bilibili.com/video/BV1M7WP6DEF6)》（2391 播放，2026-11）
+- -寒寒不是憨-《[【ansy/爱素】 桑榆非晚 （上）](https://www.bilibili.com/video/BV1gFWR6NEWh)》（2319 播放，2026-11）
+- 远离鼠标手《[【爱素】让我充充电吧soyorin——](https://www.bilibili.com/video/BV1Z6sc6cEnq)》（2285 播放，2026-11）
+- AG靓仔长的帅《[爱素小剧场II](https://www.bilibili.com/video/BV1CHxj6pEH3)》（2204 播放，2026-10）
+- AnonTokyovo《[【千早爱音x长崎素世】爱素 Trouble Maker](https://www.bilibili.com/video/BV1XiWR6zEeH)》（2188 播放，2026-11）
+- 兔猫锚《[爱素的万圣节🎃【bilibilionly同人扶持计划】](https://www.bilibili.com/video/BV1hcW36yE3e)》（2124 播放，2026-11）
+- 兰yaa《[【爱素原创曲】その繋がるメロディーの永遠](https://www.bilibili.com/video/BV1KnLn65E6g)》（2031 播放，2026-05）
+- 德川sama_qwq《[【爱素/Ansy】聿日箋秋爱素合照是怎么来的？](https://www.bilibili.com/video/BV13Uxt6eEPc)》（1989 播放，2026-11）
+- 隔壁王八先生《[【爱素】最贴的一集](https://www.bilibili.com/video/BV1CHJwzyENJ)》（1986 播放，2025-05）
+- 漂骁扬《[（mygo手书）爱素/ansy 《反正》](https://www.bilibili.com/video/BV1iS421A7db)》（1920 播放，2024-03）
+- 知言Z1yan《[【Mygo/爱素】千早素世想要记录 第三章 爱音，我要嫁给你了对吗](https://www.bilibili.com/video/BV1gtsr6aEXy)》（1880 播放，2026-11）
+- lO_w_Ol《[【MyGo/爱素/mad】 “这是命运的相遇”](https://www.bilibili.com/video/BV1GV8i6NETE)》（1667 播放，2026-08）
+- 哈桑_Channel《[【爱素】错意了的爽世](https://www.bilibili.com/video/BV1VAWs6DEcs)》（1640 播放，2026-11）
+- 一杯咸咸的白开水《[【爱素/cb cp随意】设定上…狗不能吃巧克力…](https://www.bilibili.com/video/BV1UAWR6AE9t)》（1626 播放，2026-11）
+- kyv38《[【爱素】素世送爱音回家之后的故事](https://www.bilibili.com/video/BV1aZnd6YEep)》（1623 播放，2026-10）
+- 莺时_-《[［爱素/ansy］不知道什么视频的视频](https://www.bilibili.com/video/BV1LqWm6dEyW)》（1608 播放，2026-11）
+- 白屿k_《[【MyGO/爱素】心墙“你的心有一道墙，但我发现一扇窗。”](https://www.bilibili.com/video/BV1oujGzXE9q)》（1562 播放，2025-05）
+- 开罗市酋长《[【mygo/爱素/微刀】千早爱音奇事：不想继续前进了](https://www.bilibili.com/video/BV1usnG6TEUN)》（1479 播放，2026-10）
+- 这个会好吃吗《[从夯到拉锐评拉踩爱素的评论（2）](https://www.bilibili.com/video/BV1eb4q6AEAe)》（1421 播放，2026-11）
 - 莺时_-《[［爱素/ansy］你就如太阳般照亮我的世界](https://www.bilibili.com/video/BV1Lgsz6KES5)》（1420 播放，2026-11）
+- 远离鼠标手《[【爱素 吸血鬼】午夜甜点❤](https://www.bilibili.com/video/BV1H4436BE6r)》（1395 播放，2026-11）
+- 这知识它进脑子《[正经科普：爱素为什么是对的](https://www.bilibili.com/video/BV1pmpJ6HEXE)》（1360 播放，2026-10）
+- 长梦短怀《[爱素](https://www.bilibili.com/video/BV19r4p6oEBA)》（1303 播放，2026-11）
 - 花狸子大人《[【爱素】排练之后躲在走廊上闲聊的两人【bilibilionly同人扶持计划】](https://www.bilibili.com/video/BV1t5sH6zEqL)》（1299 播放，2026-11）
+- HonorWingsss《[【MyGO】❤【爱素】甜甜的](https://www.bilibili.com/video/BV1wA4m1N7Xx)》（1162 播放，2024-03）
+- 洛_-_竹《[【MyGO/爱素】勇气](https://www.bilibili.com/video/BV1Nz42127g9)》（1104 播放，2024-05）
+- 无敌纯良句句号《[【MyGO/爱素】雨天与粉色暖阳](https://www.bilibili.com/video/BV1ZtWo6XEkx)》（1018 播放，2026-11）
+- 漆黑若夜睦《[爱素小剧场（2）](https://www.bilibili.com/video/BV1GkW362ELx)》（1003 播放，2026-11）
+- 爵士阿侬厨《[【爱素】长崎素世被下药后求千早爱音](https://www.bilibili.com/video/BV1dNW76KEYv)》（974 播放，2026-11）
 - T34不是T-34《[【MyGO!!!!!二创/ansy】不愿与中等朋友相同](https://www.bilibili.com/video/BV1j24B6zECM)》（923 播放，2026-11）
+- 油菜籽之涵《[【爱素】俗套的剧本](https://www.bilibili.com/video/BV1QRWb6hEzR)》（820 播放，2026-11）
+- 我已无心芋泥一嚼膏虾《[【爱素】第三季剧情劲爆流出](https://www.bilibili.com/video/BV1zSjv6CE8g)》（777 播放，2026-06）
+- 自娱唱片《[【MyGO金曲/爱素】可就是谁也替代不了/《在一起》](https://www.bilibili.com/video/BV1bDqxYsEoF)》（776 播放，2024-12）
+- 长崎搜哟林《[初音发表豪文，爱素却嘲笑，这下初音可惨了](https://www.bilibili.com/video/BV1mUWR6hEYz)》（755 播放，2026-11）
+- 北部受悠零《[【mygo/爱素】回家路](https://www.bilibili.com/video/BV16hJR6uEYu)》（692 播放，2026-10）
 - TYYyaiwj《[【爱素】熬夜有害健康](https://www.bilibili.com/video/BV1dQsz6TEsN)》（688 播放，2026-11）
+- 是睦不是小睦《[要吃一休尼爱素啊](https://www.bilibili.com/video/BV1gwWa6vEKC)》（642 播放，2026-11）
+- rxpvovkcyfd《[爱素](https://www.bilibili.com/video/BV1vq5y6dExy)》（620 播放，2026-05）
 - LightningO0o《[爱素 当你](https://www.bilibili.com/video/BV1BqsH69EHZ)》（600 播放，2026-11）
+- 杀一只烈焰雕《[【MyGO/爱素/MAD】心墙](https://www.bilibili.com/video/BV1KtKVe9ELk)》（233 播放，2025-02）
 
 @[/details]
 

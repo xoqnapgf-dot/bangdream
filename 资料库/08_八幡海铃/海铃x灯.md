@@ -45,6 +45,8 @@
 
 - AO3 上以 Yahata Umiri/Takamatsu Tomori 为配对标签的作品只找到一篇：[Shiori_Raine](https://archiveofourown.org/users/Shiori_Raine) 的短篇（2026 年 5 月 26 日，1697 词，标了 Comedy、Rarepair，同时标了 Shiina Taki/Takamatsu Tomori 的单箭头）。立希视角，简介写海铃把立希拉到 RiNG 去见一个对她很特别的人，这次见面会成为立希最糟糕的日子之一；标签里写着「What do you do if your loser friend starts dating your crush? Taki's POV」（要是你那个窝囊朋友和你暗恋的人交往了，你会怎么办？立希视角）。
 
+- **更多 B 站视频（按播放排）**：兰兰沚《[我以为魈的海灯节vs实际上魈的海灯劫](https://www.bilibili.com/video/BV1uP4y1z7at)》（64 万播放，2023-01）；古韵今声工作室《[海灯逐月——【原神】原创同人曲](https://www.bilibili.com/video/BV1PT411q72j)》（14 万播放，2023-02）；apple竹《[1988 大陆功夫剧《海灯传奇》精彩片段合集](https://www.bilibili.com/video/BV1yV41187nu)》（9.1 万播放，2020-12）；伊衣yuki《[海灯节堂主！](https://www.bilibili.com/video/BV1jVKUz8EwU)》（3.3 万播放，2025-06）；谭笨小鹿医馆《[《原神/文案》原神中那些具有“年味”的经典语录，期待今年海灯节ing](https://www.bilibili.com/video/BV1FC4y1i7pz)》（2.7 万播放，2023-12）；转生差点经验《[“暗海灯”](https://www.bilibili.com/video/BV1aJuWzFEmc)》（1.2 万播放，2025-07）；邦德治吉福特《[海灯传奇](https://www.bilibili.com/video/BV1Hq7q6sEfX)》（1 万播放，2026-06）；看纳豆的魔鬼天使《[《海灯法师》共16集全 小时候看的，对一开始海灯法师二指禅的镜头印象深刻！](https://www.bilibili.com/video/BV1P9VC6AEN2)》（1 万播放，2026-06）；一念一莲花《[《海灯法师》全16集 合集](https://www.bilibili.com/video/BV1zrTx6dEEA)》（1 万播放，2026-07）；逗我战利品《[钟离：有我在，璃月的天就塌不下来，对了，过两天海灯节别忘了来…至今不知道当初那句璃月病夫给的压力有多大…](https://www.bilibili.com/video/BV1X74h6LEWs)》（588 播放，2026-11）；高能游戏眼《[自由魂看完钟离单通判罚之钉试炼后再也忍不住了：米哈游我求你赶紧给钟离出个海灯节皮肤吧！](https://www.bilibili.com/video/BV1X34i6RETa)》（166 播放，2026-11）；314studio咪《[【AI短片】《海灯三日》](https://www.bilibili.com/video/BV1q54G6vEZG)》（84 播放，2026-11）。
+
 ---
 
 ## 三、信息来源

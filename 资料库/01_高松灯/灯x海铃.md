@@ -159,6 +159,19 @@ Ave Mujica 播完，有人翻出 MyGO!!!!! 播出期间绫奈由仁子发在 X �
 - 《[无职小祥！白祥即使身处异世界也要组建 Crychic？！](https://bbs.nga.cn/read.php?tid=43949282&page=3)》（NGA 安科，2025 年 5 月）的番外 1「雇佣兵」：灯和海铃各自赶路去魔法大学，路上海铃被魔物打落了剑，灯用水魔术把魔物推开，喊「不，不许！」「我可以治疗你！」。打完以后海铃说「我叫八幡海铃，叫我海铃就好」，灯说「我是高松灯，海铃小姐……」；海铃看着灯，想起了很久以前跟着她、后来死掉的孩子，吐了出来，最后还是说「我给你当护卫，就当路上有照应了」。到了学校，海铃问「你也是来这上学的啊……？怎么不早说？」，灯说「因为海铃小姐没找我说过话」。这是群像安科里的一段番外，没有标攻受，海铃在里面是护着灯的一边。
 - 贴吧有人提到首相小祥的三创《迦南之影》里有一段海铃和灯一起经历的剧情，不是 CP 向。
 
+- **更多 B 站视频（按播放排）**：慕寒MH《[【原神海灯节✨原创曲】璃月群星共谱《灯海照月》——元宵节快乐！](https://www.bilibili.com/video/BV17x421f79m)》（42.1 万播放，2024-02）；孤独的酒仙《[（补档57） 盗墓笔记之灯海寻尸 完整版（up自己读的](https://www.bilibili.com/video/BV1VnhNzAE1X)》（21.2 万播放，2025-08）；up猪秘籍《[佛门最强，灯海大师！为人类入地狱的他最后的结局是？！【尸兄】](https://www.bilibili.com/video/BV1gN411x7vx)》（14.7 万播放，2023-10）；声视界FM《[盗墓笔记之【灯海寻尸】周建龙演播](https://www.bilibili.com/video/BV1zVe26SEaT)》（4.4 万播放，2026-09）；阿赫official《[【初音ミク】ネオンライトの海を往く（前往霓虹灯海）【Ponchi♪】](https://www.bilibili.com/video/BV1Fo4y1n7Sb)》（3.8 万播放，2023-04）；宝藏读书《[有声书《灯海寻尸+老九门》周建龙丨盗墓笔记系列合集](https://www.bilibili.com/video/BV1aX816bEEG)》（3.5 万播放，2026-08）；悦悦悦月悦悦悦《[（自用存档）灯海寻尸/睡前读物](https://www.bilibili.com/video/BV11Ruoz5E7v)》（3.5 万播放，2025-07）；茫z崖《[我的世界灯海寻尸《天下第二陵》上篇](https://www.bilibili.com/video/BV1hY4y1A7yQ)》（2.8 万播放，2022-07）；_罹咎_《[灯海寻尸多人有声剧](https://www.bilibili.com/video/BV1Q7tG64EmL)》（2.6 万播放，2026-09）；_罹咎_《[灯海寻尸盗墓笔记](https://www.bilibili.com/video/BV1iGQGBWEGk)》（2.1 万播放，2026-04）；老叶-ready《[《盗墓笔记》番外篇灯海寻尸](https://www.bilibili.com/video/BV1Kkgn6hEHu)》（1.4 万播放，2026-08）；天天小糖豆《[【听小说】灯海迷踪：青铜古尸的萤火密码，周建龙的烟熏嗓重启盗墓宇宙](https://www.bilibili.com/video/BV12JKK6LE2s)》（3519 播放，2026-07）。
+
+@[details](另有 6 条，同样按播放排)
+
+- K先生是学霸《[【Blue Hour Jazz】布鲁克林秋夜蓝调｜大桥灯海 × 暖灯咖啡 · 沉浸爵士BGM · 窗畔蘑菇灯下，在爵士里静听东河夜色](https://www.bilibili.com/video/BV11BpM6ZEQp)》（2871 播放，2026-10）
+- 电子榨菜FM《[已完结《盗墓笔记番外篇灯海寻尸》有声小说-全集-超爽有声书-畅听](https://www.bilibili.com/video/BV1r5ej6qE7v)》（2040 播放，2026-09）
+- 叶子不生《["想回头又没有路，是迷雾"《秘密》——盗墓笔记《万山极夜·灯海寻尸》印象曲](https://www.bilibili.com/video/BV1H34y1M7Bj)》（1793 播放，2023-10）
+- 开火车的北鼻《[盗墓笔记之灯海寻尸第五集](https://www.bilibili.com/video/BV1Qeso6kETz)》（255 播放，2026-10）
+- 开火车的北鼻《[盗墓笔记之灯海寻尸第三集](https://www.bilibili.com/video/BV1R2nM6vE4G)》（195 播放，2026-10）
+- 开火车的北鼻《[盗墓笔记之灯海寻尸第一集](https://www.bilibili.com/video/BV1dLHC6qEUP)》（177 播放，2026-10）
+
+@[/details]
+
 ---
 
 ## 七、信息来源

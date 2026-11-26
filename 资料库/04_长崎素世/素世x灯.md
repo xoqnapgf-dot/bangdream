@@ -149,7 +149,31 @@ Novi《人混み》：https://www.pixiv.net/artworks/118029957 ；Novi《放課�
 
 - 贴吧：《【MyGO】【灯爱素？】Polaris》（2023-08）、《关于灯素的一点发散》（2024-12）；2026 年 10 月 mygo 吧有人发画《【素灯】小狐狸吃小企鹅》。
 
-- **更多 B 站视频（按播放排）**：白石仞《[MEATGRINDER animationmeme/素灯](https://www.bilibili.com/video/BV1dQK2zRE4J)》（1830 播放，2025-06）。
+- **更多 B 站视频（按播放排）**：cosAsinBtanC《[【漫画】素灯最新回旋镖](https://www.bilibili.com/video/BV1VZJHzQEyN)》（4920 播放，2025-05）；空格kkkk《[【绘画过程】素灯 心脏](https://www.bilibili.com/video/BV12HYRzaEgB)》（3878 播放，2025-08）；长期滑滑蛋《[【MyGO!!!!!】素灯在约会！而立希，正在被猫敲诈和军训爱音！劳苦人+1位！](https://www.bilibili.com/video/BV1mT421y7nY)》（3602 播放，2024-04）；作者君《[【MyGO/素灯】我此刻却只想亲吻你倔强的嘴](https://www.bilibili.com/video/BV1hQ4y177sb)》（3379 播放，2024-01）；椰狼の鸣菓《[【素灯】素世的下面是……？！](https://www.bilibili.com/video/BV1fGNh6AEmG)》（3236 播放，2026-07）；深圳市尚明光电《[麦爵士madrix幻彩相素灯条灯带广场立体造型灯光秀](https://www.bilibili.com/video/BV1Tp4y1h7kZ)》（3090 播放，2021-03）；cosAsinBtanC《[【素灯】素灯这一块](https://www.bilibili.com/video/BV17ze7zJEjk)》（2822 播放，2025-08）；空格kkkk《[（绘画过程）素灯 注视](https://www.bilibili.com/video/BV1DZAmeJE42)》（2814 播放，2025-02）；星空track《[【千灯愿】（逸仙小姐姐哦）千盏素灯，谁伴君旁。愿得伊人，共往今生](https://www.bilibili.com/video/BV1Lt411m7K3)》（2760 播放，2018-11）；也有上火《[【mygo/素灯】Sweet Boy](https://www.bilibili.com/video/BV1u4BTBaEYG)》（2575 播放，2025-12）；空格kkkk《[【绘画过程】素灯 行驶](https://www.bilibili.com/video/BV1EjK8z1E89)》（2483 播放，2025-06）；超大声汪汪炮《[【素灯/短手书】用来做跑团op的所以你和我](https://www.bilibili.com/video/BV1zVRfY6Egj)》（2356 播放，2025-04）。
+
+@[details](另有 19 条，同样按播放排)
+
+- 白石仞《[素灯爽](https://www.bilibili.com/video/BV1N3MUzUEaH)》（2080 播放，2025-06）
+- 椰狼の鸣菓《[【素灯】小灯兔爬不上去滑梯🥺](https://www.bilibili.com/video/BV1gp3n6ME4u)》（1932 播放，2026-07）
+- 白石仞《[MEATGRINDER animationmeme/素灯](https://www.bilibili.com/video/BV1dQK2zRE4J)》（1830 播放，2025-06）
+- 椰狼の鸣菓《[【素灯】哈喽～嗨～](https://www.bilibili.com/video/BV1jyN16BEox)》（1398 播放，2026-07）
+- しゅうゆう《[【素灯】游戏结算页面对话合集](https://www.bilibili.com/video/BV196NceAEUy)》（1180 播放，2025-02）
+- KHJ豪杰《[素灯](https://www.bilibili.com/video/BV1WZ7B6fE6s)》（1173 播放，2026-06）
+- 白石仞《[if线素灯](https://www.bilibili.com/video/BV1QtgpzZEdF)》（1154 播放，2025-07）
+- 白石仞《[得意的素灯姐](https://www.bilibili.com/video/BV11behzYEnN)》（980 播放，2025-08）
+- 白石仞《[【素灯TV\if线注意】你戴不戴](https://www.bilibili.com/video/BV1u28TzFEz2)》（948 播放，2025-07）
+- 白石仞《[【素灯】CHUNKY](https://www.bilibili.com/video/BV1KUvPzfE4D)》（941 播放，2025-08）
+- 乜伤《[【素灯】天使X恶魔](https://www.bilibili.com/video/BV1sJup6cEmH)》（822 播放，2026-08）
+- 幻月夜Luvu2《[【素灯】“好喜欢你 也能成为嗜好”](https://www.bilibili.com/video/BV18H4M65EvH)》（818 播放，2026-11）
+- 椰狼の鸣菓《[关于【素灯】的谁更喜欢……](https://www.bilibili.com/video/BV1VNjV6NEGG)》（772 播放，2026-06）
+- 换脑手术成功《[【素灯】安静地](https://www.bilibili.com/video/BV1X9p16VEee)》（740 播放，2026-10）
+- 张师傅-_-《[【Bangdream/mygo同人】素灯线-核雨后的拯救（四阶段）](https://www.bilibili.com/video/BV14Zad6XEg3)》（730 播放，2026-09）
+- kazigummie《[【MyGO素灯MAD】一无所有](https://www.bilibili.com/video/BV1r7YSenE2K)》（647 播放，2024-08）
+- 风驰电掣-青龙降魔《[邦邦289卡池抽素灯（286时候总共600抽没出货的福报）](https://www.bilibili.com/video/BV1J7n3zAECU)》（585 播放，2025-09）
+- 刻字机254《[素灯~](https://www.bilibili.com/video/BV19Ag96KEvy)》（542 播放，2026-07）
+- 换脑手术成功《[【素灯】绣球花](https://www.bilibili.com/video/BV1G9p16VEsi)》（440 播放，2026-10）
+
+@[/details]
 - **更多专栏**：芋泥啵啵肠粉《[刚看完MYGO，写写为什么素世是另一个高松灯](https://www.bilibili.com/read/cv37570246)》（阅读 1457）。
 
 ---

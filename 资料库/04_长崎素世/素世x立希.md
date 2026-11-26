@@ -98,6 +98,33 @@ Wrong Every Time 写这一话（2025-09-20）：「No surprise that Taki would o
 
 - **更多专栏**：獭狸だつたぬき《[关于素希、素音对峙的一点小思考：](https://www.bilibili.com/read/cv25954159)》（阅读 418）。
 
+- **更多 B 站视频（按播放排）**：Hello楚萍芳《[【AI素希】青丝DJ版](https://www.bilibili.com/video/BV1MT59zEETz)》（3.5 万播放，2025-04）；18_28《[【MMD】No Title | 素希](https://www.bilibili.com/video/BV1BxJazWEbg)》（1.9 万播放，2025-05）；你瞧那月亮又大又圆《[【素希】那就把你○到哭出来](https://www.bilibili.com/video/BV1aypnzpEYC)》（1.7 万播放，2025-09）；仓田家真白《[【素希】在大楼后门吸烟的二人](https://www.bilibili.com/video/BV1YYjt6GEwt)》（6796 播放，2026-06）；千早上飞《[素希的互相挑逗](https://www.bilibili.com/video/BV1EcPheEENc)》（6523 播放，2025-02）；per碎铅秋《[【our notes】素希羁绊剧情三](https://www.bilibili.com/video/BV1KNaf6oEi5)》（6420 播放，2026-10）；YRFLY《[【mygo/素希】许愿](https://www.bilibili.com/video/BV1wHhBzrEU8)》（6305 播放，2025-08）；是似好呀《[鼓手余命十日谭 素希乘车CG](https://www.bilibili.com/video/BV1NDBDYxEeF)》（5988 播放，2024-11）；素世的硬刀《[（素希）假如立希当时选择赣素世](https://www.bilibili.com/video/BV1v8ZNBnEBo)》（5969 播放，2026-02）；応为《[【素希】忘了](https://www.bilibili.com/video/BV1qPrGBYEVr)》（5887 播放，2026-01）；Chloe塞小林《[【素希】不好好吃饭的下场是…](https://www.bilibili.com/video/BV1y136zPEoJ)》（4643 播放，2025-07）；尘凌君哦《[素希之间真是一对苦命鸳鸯…](https://www.bilibili.com/video/BV1D42BB3ESL)》（4358 播放，2025-12）。
+
+@[details](另有 20 条，同样按播放排)
+
+- 是似好呀《[鼓手余命十日谭 素希共舞CG](https://www.bilibili.com/video/BV1aFBXYMEzW)》（4193 播放，2024-11）
+- 南部天邪《[【Mygo/素希/日配】手机聊天不能断！【完】](https://www.bilibili.com/video/BV1shu662EZT)》（3760 播放，2026-08）
+- SeawardRip《[【素希/MAD】《不搭》-“一个故作气派看另一个置身事外。”](https://www.bilibili.com/video/BV1rEeRztEfV)》（3685 播放，2025-08）
+- 居元是剧院《[【椎不到就崎希再追/素希素七夕】安可舞](https://www.bilibili.com/video/BV1q6h9zCEXP)》（3530 播放，2025-08）
+- 応为《[【素希】同尘](https://www.bilibili.com/video/BV1bvo7BrE8k)》（3419 播放，2026-04）
+- 小车莫爆胎《[【素希】鼓手余命十日谭 配音——素世篇](https://www.bilibili.com/video/BV15R3izrEYW)》（3216 播放，2025-07）
+- 朝暮不言-《[【素希】我们之间的距离](https://www.bilibili.com/video/BV1mLKf6ZEw4)》（2841 播放，2026-07）
+- 鹅鹅鹅企鹅《[【素希】立希打工的原因？待人接物有了巨大进步 意外的bandman？ournotes 15级羁绊剧情2](https://www.bilibili.com/video/BV1mUaM6WEdr)》（2543 播放，2026-09）
+- 蜂神扇《[🎵【MYGO】素希组合🎵](https://www.bilibili.com/video/BV1MKWn6AEUs)》（2011 播放，2026-11）
+- 入梦Chaos《[【MyGO/素希】(有素希kiss🧡)如何让你明白我爱你~（长崎素世X椎名立希）](https://www.bilibili.com/video/BV1qDtzzfE4G)》（1981 播放，2025-08）
+- SSSS久樽《[【素希TV】父母爱情](https://www.bilibili.com/video/BV1yZPczTEjd)》（1827 播放，2026-03）
+- 椰狼の鸣菓《[【素希】会不会太甜了](https://www.bilibili.com/video/BV1ikh76xEo5)》（1752 播放，2026-09）
+- 黄白小火狐《[【狐杂谈/素希片段（可能是）最详细解说】mujica.7part1 丝线悄然易手](https://www.bilibili.com/video/BV1J5AWeaEig)》（1331 播放，2025-02）
+- 玄仙居士《[【AI素希】-牵丝戏](https://www.bilibili.com/video/BV1hU3UzPE54)》（858 播放，2025-07）
+- 梓倩与威廉卡特《[【MyGO填词/素希对唱】灰色与青](https://www.bilibili.com/video/BV1AWiEBjEAD)》（852 播放，2026-01）
+- _妙脆角先生_《[【素希线CUT】"慢慢喜欢你"---为双人舞曲换个bgm](https://www.bilibili.com/video/BV1WviqY3EG7)》（657 播放，2024-12）
+- 藍原かざき《[【mygo配音】给素希改个坏女人声线](https://www.bilibili.com/video/BV17J3b6GExz)》（370 播放，2026-07）
+- 应当立希希《[纯正的素希素风味](https://www.bilibili.com/video/BV1sTWz6LEe2)》（343 播放，2026-11）
+- 柑汁橘子柚《[素希幸福好不好](https://www.bilibili.com/video/BV1wZ576tEbr)》（296 播放，2026-05）
+- 术力口读术人《[【素希】手游主要街区小对话「刚才在咖啡厅……」](https://www.bilibili.com/video/BV17GgnzwEYZ)》（203 播放，2025-07）
+
+@[/details]
+
 ---
 
 ## 五、信息来源
