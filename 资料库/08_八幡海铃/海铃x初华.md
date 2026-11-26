@@ -57,7 +57,7 @@ Ave Mujica 第 5 话，初华在学校里问海铃有没有和其他人联络、
 - 《【海初】失语者》（一曲清风旧，BV1pgKRzdEML）：「海月初弦——海初海 22h 接力」的一棒。
 - 更多见《初华x海铃.md》第四节。
 
-- **更多 B 站视频（按播放排）**：IHJin《[泛鸽鸽看也许是“全站第一个海初CP”视频：如果初华喜欢的是海玲【泛式】](https://www.bilibili.com/video/BV1nPZaYCELB)》（1735 播放，2025-03）。
+- **更多 B 站视频（按播放排）**：冰川日菜HikawaHina《[【海初向？】这些母鸡卡的冷知识你都知道吗？](https://www.bilibili.com/video/BV1TM7kzfEZ6)》（2.4 万播放，2025-06）；IHJin《[泛鸽鸽看也许是“全站第一个海初CP”视频：如果初华喜欢的是海玲【泛式】](https://www.bilibili.com/video/BV1nPZaYCELB)》（1735 播放，2025-03）。
 
 - **更多 pixiv 作品（按收藏排）**：矢澤はぴあら☘️《[メンズコーチ海鈴](https://www.pixiv.net/artworks/150969553)》（收藏 325）。
 

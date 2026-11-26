@@ -793,7 +793,7 @@ MyGO!!!!! 第 13 话里，Ave Mujica 首演那天，开场的舞台剧中初华�
 
 - **更多 B 站视频（按播放排）**：御星是个弟弟《[【填词/初祥】“小姨不可以，你靠的越来越近”](https://www.bilibili.com/video/BV17cQ3YYE9k)》（64.7 万播放，2025-03）；栀四《[【初祥】你没怀孕吗？](https://www.bilibili.com/video/BV1LEdXBjEHk)》（32.7 万播放，2026-04）；落谷Ochita《[以防你不知道金毛初华躺在床上会抱着祥祥看星星](https://www.bilibili.com/video/BV15taBzhEDH)》（21.2 万播放，2025-09）；Mikoi_《[【中字/官方联动】初祥新干线旅行语音](https://www.bilibili.com/video/BV12wZ4YzEh1)》（17.1 万播放，2025-04）；么么浊蒂《[体育生祥子，蹬20公里找初华](https://www.bilibili.com/video/BV1kNamzTE2Z)》（13.3 万播放，2025-09）；地图上F《[【初祥】用缘分天空的方式打开第12集](https://www.bilibili.com/video/BV1ftoiYUE4z)》（12.6 万播放，2025-03）；影上川丶《[【Ave mujica】【初祥】看看三角初华写的歌词](https://www.bilibili.com/video/BV1Vsr9YDEih)》（10.9 万播放，2025-01）；御星是个弟弟《[【填词/初祥】“夜夜笙歌不停歇成天想着solo”---《苦茶子》](https://www.bilibili.com/video/BV1mT7JzcEUp)》（10.3 万播放，2025-05）；菌事猫傻喵《[过来握手好的主人（初祥初整活向）](https://www.bilibili.com/video/BV17wKgzWEZ4)》（6.7 万播放，2025-06）；悠游POI《[【初祥】另一个雨天](https://www.bilibili.com/video/BV19CnRe9Eyr)》（4.8 万播放，2024-08）；不爱整活的小虫《[Our Notes初祥同居剧情](https://www.bilibili.com/video/BV1NE7h6VEht)》（4.3 万播放，2026-06）；北极暖水港《[邦邦2024情人节对话：初祥](https://www.bilibili.com/video/BV1Aq421P7CN)》（2.9 万播放，2024-03）。
 
-@[details](另有 69 条，同样按播放排)
+@[details](另有 78 条，同样按播放排)
 
 - 尤佐sama《[【初祥同居生活#0】第12话后的故事](https://www.bilibili.com/video/BV1vEoNYsEjw)》（2.8 万播放，2025-04）
 - 白琥珀虎《[【认真分析】第十集初祥同姓间的关系性](https://www.bilibili.com/video/BV19eRHYhECk)》（2.7 万播放，2025-03）
@@ -809,8 +809,10 @@ MyGO!!!!! 第 13 话里，Ave Mujica 首演那天，开场的舞台剧中初华�
 - 高仁zweir《[【初祥】戒断之后](https://www.bilibili.com/video/BV1FE7V6JEhk)》（1.5 万播放，2026-06）
 - 乃贝今晚上大分《[【初祥】小情侣同居日常](https://www.bilibili.com/video/BV1AANHzbEk9)》（1.4 万播放，2025-06）
 - Oblivionis本人《[关于初祥的女儿穿越到初祥的婚礼现场这档事 前篇](https://www.bilibili.com/video/BV17bKBzzEd2)》（1.4 万播放，2025-06）
+- 丰川祥子吧desuwa《[lyy小漫画初祥内容引吧友吐槽【丰川祥子吧】](https://www.bilibili.com/video/BV13k3WzwEkP)》（1.2 万播放，2025-07）
 - 奪命小喵_《[【初祥/微虐】把暗恋对象的小号误认为AI并表白了？！](https://www.bilibili.com/video/BV11kfEBkELD)》（1.2 万播放，2026-02）
 - 八百歳汐莉《[【mygo/mujica/初祥】苏丹小祥特别篇/初祥专场](https://www.bilibili.com/video/BV1BwSHYREHF)》（1.1 万播放，2024-11）
+- v蓝莓与黑巧v《[【初祥/对话框meme】 说一百遍喜欢我](https://www.bilibili.com/video/BV1uCZNBrE9M)》（1 万播放，2026-02）
 - 南部天邪《[【Mygo/初祥】我以为是直女的侄女其实是无性恋【完】](https://www.bilibili.com/video/BV1huXyBzEMe)》（9942 播放，2026-03）
 - 八百歳汐莉《[【mujica/初祥/苏丹小祥】后日谈#2#3 如果母鸡卡世界观是奥斯曼帝国](https://www.bilibili.com/video/BV1aPfTY8Evq)》（8094 播放，2025-04）
 - 初溡TU《[【初祥】如果我在睡前跟你说了声晚安](https://www.bilibili.com/video/BV12dghzrETG)》（7232 播放，2025-07）
@@ -818,6 +820,7 @@ MyGO!!!!! 第 13 话里，Ave Mujica 首演那天，开场的舞台剧中初华�
 - 丰川祥子吧desuwa《[不知道在做什么的键盘和主唱～初祥同人图合集2【丰川祥子吧】侵删](https://www.bilibili.com/video/BV1dcbtz4ERF)》（5517 播放，2025-08）
 - 忧伤节拍器《[【OurNotes内测】初祥Live互动语音熟肉](https://www.bilibili.com/video/BV1zi7Y6BEXb)》（5513 播放，2026-06）
 - 西红柿ta《[小祥....其实姨并不喜欢你......](https://www.bilibili.com/video/BV15owHzrEAt)》（5291 播放，2026-03）
+- 我画不出来啊啊《[初祥【nastydog meme】](https://www.bilibili.com/video/BV1yvL7zjEE2)》（4829 播放，2025-04）
 - AAA好女人薇欧拉《[【初祥】方舟联动治好了我的祥压抑](https://www.bilibili.com/video/BV1dDarz3Eox)》（4554 播放，2025-09）
 - 西里EmpPg《[【初祥/手书】神曲](https://www.bilibili.com/video/BV1bPcSe7E56)》（4524 播放，2025-01）
 - avemujica的uisaki《[【初祥/剧情MAD】我们的爱能做到什么](https://www.bilibili.com/video/BV1a1gyzdEhj)》（4449 播放，2025-07）
@@ -848,17 +851,23 @@ MyGO!!!!! 第 13 话里，Ave Mujica 首演那天，开场的舞台剧中初华�
 - 白日梦做尽的夜晚《[假如给你60秒向上帝提问 初祥篇](https://www.bilibili.com/video/BV1pTwtzuEG1)》（1360 播放，2026-03）
 - 豊川祥さきこ《[【初祥】【科幻】【微恐】全自动乐队主义](https://www.bilibili.com/video/BV1aze86oEBa)》（1339 播放，2026-09）
 - 莫茶芭菲猫《[【初祥】藏在谎言底下的爱 #4](https://www.bilibili.com/video/BV14r8czuE87)》（1310 播放，2025-07）
+- 清芳婉莹《[“怪我把你呼吸，当作是我氧气。”【初祥/MAD】](https://www.bilibili.com/video/BV18sAMezEuo)》（1071 播放，2025-02）
 - 友希友希那《[【初祥】七夕……](https://www.bilibili.com/video/BV1sjhSzCE5C)》（932 播放，2025-08）
 - 想复活李宁玉的豆沙《[【初祥MAD/初华生贺】繫生](https://www.bilibili.com/video/BV1Gsjd6HEu5)》（866 播放，2026-06）
+- 墨骨鲨《[【初祥/绘画过程】冬日早晨](https://www.bilibili.com/video/BV1xmq9YcEQy)》（817 播放，2024-12）
+- 其名为呆《[初祥](https://www.bilibili.com/video/BV1Pj8EzJEoA)》（734 播放，2025-07）
 - 软糯猫猫祥《[【初祥/生贺单品】"最好的礼物"](https://www.bilibili.com/video/BV15X7q65Err)》（713 播放，2026-06）
 - 灵眸酱《[【Ave Mujica/初祥(Episode 12.ver)】Enchanted](https://www.bilibili.com/video/BV1Z5otYxERf)》（621 播放，2025-03）
 - 思安倾《[【mujica/初祥mad】我真的爱你，句句不轻易](https://www.bilibili.com/video/BV1AUNoeKE7m)》（614 播放，2025-02）
 - 萝卜samaの妮可爸爸《[【初祥初】星空下](https://www.bilibili.com/video/BV1gennzVErk)》（556 播放，2025-09）
 - 右右几《[【初祥】内含初华的小心思](https://www.bilibili.com/video/BV1HeeJzhEDE)》（530 播放，2025-08）
+- 速食初祥足《[【初祥】看完十二集有感而发](https://www.bilibili.com/video/BV16sVfz7EWr)》（441 播放，2025-05）
+- 初华大人秒了一切《[【MAD/初祥/初华生贺】](https://www.bilibili.com/video/BV1e77j62E3V)》（351 播放，2026-06）
 - 冰渡香名江《[【mygo/初祥/MAD】书里说，山不见我，那我便去见山](https://www.bilibili.com/video/BV1wTgRzYEuS)》（324 播放，2025-06）
 - 麦子IlI《[【初祥】 三日月step](https://www.bilibili.com/video/BV1Vq8TzKEpv)》（282 播放，2025-07）
 - Jolshika_久鹿希卡《[CD结束后拍的一些初祥短视频](https://www.bilibili.com/video/BV1pdgBzRE7o)》（271 播放，2025-07）
 - 昙华依仙《[【Mujica/初祥】“分分钟都渴望与她相见”](https://www.bilibili.com/video/BV1pyZ1YXEBG)》（255 播放，2025-04）
+- PunkYuri《[【初祥】Georgette Me, Georgette You](https://www.bilibili.com/video/BV15KFbeaESq)》（234 播放，2025-01）
 - Lost-in-Fjord《[【初祥/爱素/mygo】人偶操纵师与完美箱庭 | 第一章](https://www.bilibili.com/video/BV1m9RZYWEHQ)》（204 播放，2025-04）
 - yyyd233《[初祥/“是不是放下仑理，撞向初华，才会让音想起，她是我小姨妈](https://www.bilibili.com/video/BV1TdLRztEfs)》（178 播放，2025-04）
 - 三角初电音《[《天外来客》/初祥](https://www.bilibili.com/video/BV1ueRUBdELV)》（138 播放，2026-05）

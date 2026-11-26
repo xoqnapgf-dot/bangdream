@@ -177,15 +177,19 @@ Ave Mujica 第 7 话，CRYCHIC 的几个人要在 RiNG 的舞台上合奏。MyGO
 - **画**：[《＞＜爱猫》](https://www.bilibili.com/video/BV18iA5exEvA)（干脆就叫盐水鸭吧）、[《[绘画过程]爱猫》](https://www.bilibili.com/video/BV1Lid6BjEmq)（Pulvinus）。
 - **NGA 安科**：《千早爱音与要乐奈的品酒大会(爱猫)》（https://ngabbs.com/read.php?tid=44206853 ，2025-05 起，5 页）。设定是 MyGO 五人上了大学，爱音和乐奈读同一所学校的设计专业、合租，每天中午晚上为了找设计灵感一起喝酒吃东西；楼主在开篇说是看了《立石凛观察日记#7》有感而写。已有[视频版（上）](https://www.bilibili.com/video/BV15vaHzDEQq)。
 
-- **更多 B 站视频（按播放排）**：千早炫音258《[【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子](https://www.bilibili.com/video/BV1CxXfYyEGi)》系列，共 31 集（累计 17.8 万播放，2025-03 至 2025-10；链接是播放最高的一集，各集见下方折叠）；Space的乐奈《[【补档】【MyGO!!!!!】【爱all/all爱】完蛋，我被二周目重女包围了#-3：爱猫篇](https://www.bilibili.com/video/BV1ajGkzREU8)》（2.2 万播放，2025-04）；魔法帕小朵《[【mygo/爱猫】爱音退团，乐奈黑化！#27   血雨腥风！！！](https://www.bilibili.com/video/BV1ZFxRzwEQi)》（5786 播放，2025-10）；此心亦有远方《[【爱猫】猫咪的午后时光](https://www.bilibili.com/video/BV1uzdpBnEAH)》（3955 播放，2026-04）；此心亦有远方《[【爱猫】少女与猫：假如爱音是被乐奈从深渊里拉出来的（下）](https://www.bilibili.com/video/BV1pU7a6rEHj)》（2838 播放，2026-06）；晴仙雪球《[【爱猫/日常向】爱音猫猫一日约会大作战！](https://www.bilibili.com/video/BV1DqH764EDP)》（2816 播放，2026-10）；YRFLY《[【MYGO二创/爱猫】清汤寡水的养猫日常（六上）](https://www.bilibili.com/video/BV1xr54zgEJf)》（2202 播放，2025-04）；要家乐奈酱《[【MyGO/爱猫】经典灵魂互换，但是爱猫 #2 落空的希冀](https://www.bilibili.com/video/BV1Na5r6YEEc)》（1708 播放，2026-05）；刀客塔Who《[【MYGO二创/爱猫】假如乐奈是时间领主 第一集（"普通"的一天）](https://www.bilibili.com/video/BV19rACeyERe)》（1576 播放，2025-02）；要家乐奈酱《[【MyGO/爱猫】经典灵魂互换，但是爱猫 #4(完）要乐奈想要被抱抱](https://www.bilibili.com/video/BV187VH67Efx)》（1448 播放，2026-05）；要家乐奈酱《[【MyGO/爱猫】一天和一辈子](https://www.bilibili.com/video/BV1H27X6YEgW)》（1446 播放，2026-06）；SAO老汉《[【MYGO 母鸡卡二创/爱猫】战雷 #1](https://www.bilibili.com/video/BV12tKY69E8y)》（1294 播放，2026-07）。
+- **更多 B 站视频（按播放排）**：Space的乐奈《[【补档】【MyGO!!!!!】【爱all/all爱】完蛋，我被二周目重女包围了#-3：爱猫篇](https://www.bilibili.com/video/BV1ajGkzREU8)》（2.2 万播放，2025-04）；千早上飞《[（爱猫）不兴奋吗？](https://www.bilibili.com/video/BV19WgozbEUB)》（7074 播放，2025-06）；東佰anon《[【mygo/爱猫】一个人，静一静](https://www.bilibili.com/video/BV13LALefExE)》（5985 播放，2025-02）；魔法帕小朵《[【mygo/爱猫】爱音退团，乐奈黑化！#27   血雨腥风！！！](https://www.bilibili.com/video/BV1ZFxRzwEQi)》（5786 播放，2025-10）；此心亦有远方《[【爱猫】猫咪的午后时光](https://www.bilibili.com/video/BV1uzdpBnEAH)》（3955 播放，2026-04）；要乐奈吐槽吧_Offical《[爱猫](https://www.bilibili.com/video/BV1nz3n64EZJ)》（3616 播放，2026-07）；此心亦有远方《[【爱猫】少女与猫：假如爱音是被乐奈从深渊里拉出来的（下）](https://www.bilibili.com/video/BV1pU7a6rEHj)》（2838 播放，2026-06）；晴仙雪球《[【爱猫/日常向】爱音猫猫一日约会大作战！](https://www.bilibili.com/video/BV1DqH764EDP)》（2816 播放，2026-10）；和秳咲栌叶《[【ai/爱猫】睡觉](https://www.bilibili.com/video/BV1wfAmzFEME)》（2780 播放，2026-02）；YRFLY《[【MYGO二创/爱猫】清汤寡水的养猫日常（六上）](https://www.bilibili.com/video/BV1xr54zgEJf)》（2202 播放，2025-04）；要家乐奈酱《[【MyGO/爱猫】经典灵魂互换，但是爱猫 #2 落空的希冀](https://www.bilibili.com/video/BV1Na5r6YEEc)》（1708 播放，2026-05）；刀客塔Who《[【MYGO二创/爱猫】假如乐奈是时间领主 第一集（"普通"的一天）](https://www.bilibili.com/video/BV19rACeyERe)》（1576 播放，2025-02）。
 
-@[details](另有 5 条，同样按播放排)
+@[details](另有 9 条，同样按播放排)
 
+- 要家乐奈酱《[【MyGO/爱猫】经典灵魂互换，但是爱猫 #4(完）要乐奈想要被抱抱](https://www.bilibili.com/video/BV187VH67Efx)》（1448 播放，2026-05）
+- 要家乐奈酱《[【MyGO/爱猫】一天和一辈子](https://www.bilibili.com/video/BV1H27X6YEgW)》（1446 播放，2026-06）
+- SAO老汉《[【MYGO 母鸡卡二创/爱猫】战雷 #1](https://www.bilibili.com/video/BV12tKY69E8y)》（1294 播放，2026-07）
 - 要家乐奈酱《[【MyGO/爱猫】乐队中有两只猫（下）](https://www.bilibili.com/video/BV1ptD1BbE2a)》（1094 播放，2026-04）
 - 虚妄の月轮《[Mygo二创短篇《为了没有泪水的明天》（爱猫向）](https://www.bilibili.com/video/BV13dFNznE1Y)》（1029 播放，2026-02）
 - bili_56634834210《[【Mygo】甜到极致，爱猫TV](https://www.bilibili.com/video/BV19PPbeqEMT)》（984 播放，2025-02）
 - YRFLY《[【MYGO二创/爱猫】破碎人生（六下）](https://www.bilibili.com/video/BV1g95DzJEXv)》（756 播放，2025-04）
 - 要家乐奈酱《[【爱猫】不被他人需要的她 5](https://www.bilibili.com/video/BV13wSvBkEdQ)》（457 播放，2025-11）
+- 千早炫音258《[【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子](https://www.bilibili.com/video/BV1CxXfYyEGi)》系列，共 31 集（累计 17.8 万播放，2025-03 至 2025-10；链接是播放最高的一集，各集见下方折叠）
 
 @[/details]
 

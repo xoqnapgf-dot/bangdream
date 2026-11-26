@@ -429,7 +429,29 @@ mortis在通过拙劣的计谋、表演欺骗其他人；
 
 @[/原文]
 
-- **更多 B 站视频（按播放排）**：RegressionMonkey《[【猫睦】阴阳先生](https://www.bilibili.com/video/BV1f2N8eDEwf)》（3.7 万播放，2025-02）；那只Tub1《[（自用）内存不足的猫睦自我介绍 一分钟循环](https://www.bilibili.com/video/BV199NteMEqV)》（3.5 万播放，2025-02）；木偶的时间toki《[睦头人飞踢循环加变速加猫睦对踢](https://www.bilibili.com/video/BV1U9ZGYqEVJ)》（2.7 万播放，2025-03）；哈基米南北律哆《[猫睦一起踢海铃皮鼓](https://www.bilibili.com/video/BV1vPYCzLEjY)》（9311 播放，2025-08）；乐奈超可爱《[猫睦弹吉他，让你飞起来](https://www.bilibili.com/video/BV1eweBzNEx3)》（2753 播放，2025-08）；小祥葬花吟《[猫睦哭哭](https://www.bilibili.com/video/BV1R8JXz3EUd)》（2064 播放，2025-09）；此心亦有远方《[【微猫睦】献给日与月的花束#5](https://www.bilibili.com/video/BV1po9GB3EQB)》（1348 播放，2026-04）；乐创派《[【邦邦二创/猫睦】户山香澄把若叶睦当抹茶芭菲送给了要乐奈](https://www.bilibili.com/video/BV1SU8RzAEqX)》（934 播放，2025-07）；H3C-周正《[【补档】【MyGO/千恋万花/安科】 猫莫的穗织之旅 #0.5 序:睦叶丸](https://www.bilibili.com/video/BV1CQeDzJE3Z)》（565 播放，2025-08）；账号已注销《[猫睦关系性探讨，及若叶睦设定今后的何去何从（乐奈篇（上））](https://www.bilibili.com/video/BV1Y8KuzLEgw)》（371 播放，2025-06）；Navivican《[猫睦卡面剧情个人翻译【MYGO】](https://www.bilibili.com/video/BV1RajFzEE9q)》（191 播放，2025-04）；小木曾北上《[人森与少女乐队之猫睦吉他论](https://www.bilibili.com/video/BV1QFdPBNE8e)》（123 播放，2026-05）。
+- **更多 B 站视频（按播放排）**：RegressionMonkey《[【猫睦】阴阳先生](https://www.bilibili.com/video/BV1f2N8eDEwf)》（3.7 万播放，2025-02）；那只Tub1《[（自用）内存不足的猫睦自我介绍 一分钟循环](https://www.bilibili.com/video/BV199NteMEqV)》（3.5 万播放，2025-02）；木偶的时间toki《[睦头人飞踢循环加变速加猫睦对踢](https://www.bilibili.com/video/BV1U9ZGYqEVJ)》（2.7 万播放，2025-03）；哈基米南北律哆《[猫睦一起踢海铃皮鼓](https://www.bilibili.com/video/BV1vPYCzLEjY)》（9311 播放，2025-08）；乐奈超可爱《[猫睦弹吉他，让你飞起来](https://www.bilibili.com/video/BV1eweBzNEx3)》（2753 播放，2025-08）；小祥葬花吟《[猫睦哭哭](https://www.bilibili.com/video/BV1R8JXz3EUd)》（2064 播放，2025-09）；小祥葬花吟《[来点猫睦](https://www.bilibili.com/video/BV1CNWEzNEJi)》（1969 播放，2025-10）；小祥葬花吟《[猫睦亲](https://www.bilibili.com/video/BV1UTUSBrEEd)》（1622 播放，2025-11）；混的入野睦《[猫睦](https://www.bilibili.com/video/BV1Na3F6rEkd)》（1545 播放，2026-07）；此心亦有远方《[【微猫睦】献给日与月的花束#5](https://www.bilibili.com/video/BV1po9GB3EQB)》（1348 播放，2026-04）；乐创派《[【邦邦二创/猫睦】户山香澄把若叶睦当抹茶芭菲送给了要乐奈](https://www.bilibili.com/video/BV1SU8RzAEqX)》（934 播放，2025-07）；O甜妹本甜O《[看完猫睦剧情还有活着的睦厨吗【MYGO】](https://www.bilibili.com/video/BV1hHGkzHEPK)》（700 播放，2025-04）。
+
+@[details](另有 17 条，同样按播放排)
+
+- --死鱼-《[【猫墨/猫睦】抹茶猫猫和黄瓜小狗初次相遇](https://www.bilibili.com/video/BV1txN8eKEnU)》（589 播放，2025-02）
+- H3C-周正《[【补档】【MyGO/千恋万花/安科】 猫莫的穗织之旅 #0.5 序:睦叶丸](https://www.bilibili.com/video/BV1CQeDzJE3Z)》（565 播放，2025-08）
+- 困栀栀《[猫睦TV：女巫的毒药大挑战！！！](https://www.bilibili.com/video/BV1dX4J6QEey)》（505 播放，2026-11）
+- Iseri-Nina《[【仅填词/猫睦/Mujica/MyGO】《追光者》（画面招租/看简介）](https://www.bilibili.com/video/BV18wNMeGELo)》（500 播放，2025-02）
+- O甜妹本甜O《[看猫睦剧情那睦的设定合着真的就一直是这样的？【MYGO】](https://www.bilibili.com/video/BV1KXjwzCEuv)》（498 播放，2025-04）
+- 账号已注销《[猫睦关系性探讨，及若叶睦设定今后的何去何从（乐奈篇（上））](https://www.bilibili.com/video/BV1Y8KuzLEgw)》（371 播放，2025-06）
+- 超大号芭菲《[猫睦](https://www.bilibili.com/video/BV19WytB1EoT)》（332 播放，2025-10）
+- 小祥葬花吟《[是猫睦](https://www.bilibili.com/video/BV1uy16ByEPN)》（322 播放，2025-11）
+- rxpvovkcyfd《[猫睦](https://www.bilibili.com/video/BV1qALF6NEA7)》（280 播放，2026-05）
+- 雏羽_《[猫睦这一块，不可能不磕](https://www.bilibili.com/video/BV1n2NpeBEQa)》（254 播放，2025-02）
+- O甜妹本甜O《[猫睦这个配对才是最奇怪的吧【MYGO】](https://www.bilibili.com/video/BV13rdDYVEt8)》（251 播放，2025-04）
+- Navivican《[猫睦卡面剧情个人翻译【MYGO】](https://www.bilibili.com/video/BV1RajFzEE9q)》（191 播放，2025-04）
+- rxpvovkcyfd《[猫睦](https://www.bilibili.com/video/BV1RUL36AE74)》（166 播放，2026-05）
+- 雨托托《[猫睦](https://www.bilibili.com/video/BV1LpVr61E82)》（163 播放，2026-06）
+- 韵戈蓝《[【猫睦/误解向】一杯抹茶巴菲的逍遥一客](https://www.bilibili.com/video/BV1ykAYePEh2)》（154 播放，2025-02）
+- 小木曾北上《[人森与少女乐队之猫睦吉他论](https://www.bilibili.com/video/BV1QFdPBNE8e)》（123 播放，2026-05）
+- 我是坨金块《[猫睦好啊猫睦好](https://www.bilibili.com/video/BV1HC7Cz9Ebs)》（66 播放，2025-06）
+
+@[/details]
 
 - **更多 pixiv 作品（按收藏排）**：蛞蝓仔仔《[2025.3.27-2](https://www.pixiv.net/artworks/128676403)》（收藏 1330）。
 

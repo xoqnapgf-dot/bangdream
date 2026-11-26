@@ -144,7 +144,7 @@ NGA 那栋楼里有人替这段时光惋惜：「其实最开始这俩还有一�
 - 三人向：《【初祥睦/误解向】即便"声嘶力竭"地诉说，也得不到的"真物"。》（古贺唯，BV1boRzYzEju）。
 - 官方物料：《【CC中字】横K会场限定语音——三角初華×若葉睦×祐天寺喵梦》（BV1txLfzeETN）；《【OurNotes羁绊剧情】初华偷偷练习被小睦发现》（BV1QRaN6DEeE）；《【OurNotes羁绊剧情】岛民初华与农民若叶睦》（BV1nMa36JEkK）。
 
-- **更多 B 站视频（按播放排）**：爆爆豹豹堡《[初睦延续血脉](https://www.bilibili.com/video/BV1S7ajzoEtm)》（6385 播放，2025-09）；爆爆豹豹堡《[【Mujica/初睦】两只小狗~](https://www.bilibili.com/video/BV1FUa3zwEoK)》（3053 播放，2025-08）；叶睦降零《[初睦互相吃代餐这一块【bilibilionly同人扶持计划】](https://www.bilibili.com/video/BV1pHsQ67EyL)》（870 播放，2026-11）；ウォースパイト《[【初睦Jeans新】Ai 若叶睦&三角初华 - NewJeans曲目翻唱十选](https://www.bilibili.com/video/BV1Nmge6vEWy)》（201 播放，2026-07）。
+- **更多 B 站视频（按播放排）**：爆爆豹豹堡《[初睦延续血脉](https://www.bilibili.com/video/BV1S7ajzoEtm)》（6385 播放，2025-09）；爆爆豹豹堡《[【Mujica/初睦】两只小狗~](https://www.bilibili.com/video/BV1FUa3zwEoK)》（3053 播放，2025-08）；口袋迷馒头《[第九集初睦互动be like](https://www.bilibili.com/video/BV1PF9rYYEu7)》（1507 播放，2025-03）；Navivican《[完结到现在有什么初睦二创吗【MYGO】](https://www.bilibili.com/video/BV1PC5Pz6ER1)》（1180 播放，2025-05）；叶睦降零《[初睦互相吃代餐这一块【bilibilionly同人扶持计划】](https://www.bilibili.com/video/BV1pHsQ67EyL)》（870 播放，2026-11）；KHJ豪杰《[初睦](https://www.bilibili.com/video/BV1hJjM6JEtY)》（778 播放，2026-06）；ウォースパイト《[【初睦Jeans新】Ai 若叶睦&三角初华 - NewJeans曲目翻唱十选](https://www.bilibili.com/video/BV1Nmge6vEWy)》（201 播放，2026-07）。
 
 ---
 

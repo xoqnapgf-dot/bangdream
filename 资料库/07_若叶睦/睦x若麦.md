@@ -109,7 +109,13 @@ NGA 有人看完最速场，凭记忆复述了剧场版结尾若叶家地下室�
 - 解析：《【Mujica】第十集，为什么喵梦会爱上睦？甚至促成睦的人格融合？》（chord空，BV1Ng91YGEVZ）；《史上最尊重喵睦的主播！万字解析喵睦关系性！手把手教你嗑喵睦！》（花咲川，BV1QATk6dE9M）。
 - 官方剧情录屏：《OurNotes 喵睦羁绊剧情一》（BV1zAaN6tE3f）；《喵睦30级羁绊剧情》（BV1qhaQ6REqw）。
 
-- **更多 B 站视频（按播放排）**：御剑怜侍official_《[［喵睦喵］怪物……](https://www.bilibili.com/video/BV19ZNB61ELU)》（23.4 万播放，2026-07）；sekaikaKumei尾声《[【mygo二创/睦喵】只有我知道这个乐队被催眠了#4](https://www.bilibili.com/video/BV1zid3YVEGc)》（4.2 万播放，2025-04）；人菜瘾大的南极寒《[【喵睦喵/手书】枕边童话](https://www.bilibili.com/video/BV1dhKizbEjQ)》（1.8 万播放，2025-06）；早乙女弁天《[【💚喵睦💜】OTOMEROID](https://www.bilibili.com/video/BV1DJTz67Eui)》（1.4 万播放，2026-07）；御剑怜侍official_《[［喵睦喵cos］咱绝对不会输给你啊……](https://www.bilibili.com/video/BV1EaHc6dEdf)》（6689 播放，2026-10）；账号已注销《[【mjc手書/喵睦喵】vanpaidance](https://www.bilibili.com/video/BV1aKZGY6EuG)》（4042 播放，2025-03）；账号已注销《[【mjc手書/喵睦喵】「好きって言って」](https://www.bilibili.com/video/BV1iPZzYdEvg)》（3145 播放，2025-03）；账号已注销《[【mjc手書/喵睦喵】一號街的宇航員（廢案）](https://www.bilibili.com/video/BV1iaExzwEwG)》（1467 播放，2025-05）；Tanatos_-《[【喵睦喵/翻唱/误解向MAD】蠢货](https://www.bilibili.com/video/BV1hSypzVEw1)》（226 播放，2026-11）。
+- **更多 B 站视频（按播放排）**：御剑怜侍official_《[［喵睦喵］怪物……](https://www.bilibili.com/video/BV19ZNB61ELU)》（23.4 万播放，2026-07）；sekaikaKumei尾声《[【mygo二创/睦喵】只有我知道这个乐队被催眠了#4](https://www.bilibili.com/video/BV1zid3YVEGc)》（4.2 万播放，2025-04）；人菜瘾大的南极寒《[【喵睦喵/手书】枕边童话](https://www.bilibili.com/video/BV1dhKizbEjQ)》（1.8 万播放，2025-06）；睡姜《[若叶睦喵](https://www.bilibili.com/video/BV1dHoKBDEP1)》（1.5 万播放，2026-04）；早乙女弁天《[【💚喵睦💜】OTOMEROID](https://www.bilibili.com/video/BV1DJTz67Eui)》（1.4 万播放，2026-07）；御剑怜侍official_《[［喵睦喵cos］咱绝对不会输给你啊……](https://www.bilibili.com/video/BV1EaHc6dEdf)》（6689 播放，2026-10）；账号已注销《[【mjc手書/喵睦喵】vanpaidance](https://www.bilibili.com/video/BV1aKZGY6EuG)》（4042 播放，2025-03）；海花味的仁菜《[小睦喵~](https://www.bilibili.com/video/BV1bfy4zXEDw)》（3487 播放，2026-11）；账号已注销《[【mjc手書/喵睦喵】「好きって言って」](https://www.bilibili.com/video/BV1iPZzYdEvg)》（3145 播放，2025-03）；_向四季起誓__《[【喵睦喵meme】狼烟](https://www.bilibili.com/video/BV1DkJj67EgT)》（2823 播放，2026-06）；账号已注销《[【mjc手書/喵睦喵】一號街的宇航員（廢案）](https://www.bilibili.com/video/BV1iaExzwEwG)》（1467 播放，2025-05）；栖夜_Official《[巨睦喵](https://www.bilibili.com/video/BV14gyRzcEbB)》（803 播放，2026-11）。
+
+@[details](另有 1 条，同样按播放排)
+
+- Tanatos_-《[【喵睦喵/翻唱/误解向MAD】蠢货](https://www.bilibili.com/video/BV1hSypzVEw1)》（226 播放，2026-11）
+
+@[/details]
 
 - **更多专栏（按阅读排）**：花开富贵爱《[【喵梦党】睦子米爆了，很让人同情，但这锅喵梦不背](https://www.bilibili.com/read/cv40378711)》（阅读 8674）；Z-h-y《[各种Mujica的万字解析仍值得一看，喵梦对睦态度的转变类似睦推的迷茫](https://www.bilibili.com/read/cv41097613)》（阅读 908）；不愿写作业《[把睦子米和喵梦的表情抠出来喽！](https://www.bilibili.com/read/cv44041230)》（阅读 817）；南极进口北极狐《[【喵睦喵】仙女座星云](https://www.bilibili.com/read/cv44465692)》（阅读 331）；TYYyaiwj《[【睦→喵←莫】（神人向）若麦生下了mortis？！](https://www.bilibili.com/read/cv49582455)》（阅读 166）。
 
