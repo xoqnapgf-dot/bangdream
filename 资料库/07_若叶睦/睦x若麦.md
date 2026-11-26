@@ -113,6 +113,8 @@ NGA 有人看完最速场，凭记忆复述了剧场版结尾若叶家地下室�
 
 - **更多专栏（按阅读排）**：花开富贵爱《[【喵梦党】睦子米爆了，很让人同情，但这锅喵梦不背](https://www.bilibili.com/read/cv40378711)》（阅读 8674）；Z-h-y《[各种Mujica的万字解析仍值得一看，喵梦对睦态度的转变类似睦推的迷茫](https://www.bilibili.com/read/cv41097613)》（阅读 908）；不愿写作业《[把睦子米和喵梦的表情抠出来喽！](https://www.bilibili.com/read/cv44041230)》（阅读 817）；南极进口北极狐《[【喵睦喵】仙女座星云](https://www.bilibili.com/read/cv44465692)》（阅读 331）；TYYyaiwj《[【睦→喵←莫】（神人向）若麦生下了mortis？！](https://www.bilibili.com/read/cv49582455)》（阅读 166）。
 
+- **更多 pixiv 作品（按收藏排）**：load lawer《[にゃむちチャンネル配信中](https://www.pixiv.net/artworks/137598455)》（收藏 1695）。
+
 ---
 
 ## 五、信息来源

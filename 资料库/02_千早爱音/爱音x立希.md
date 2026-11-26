@@ -311,6 +311,8 @@ Ave Mujica 首演散场，素世头也不回地走了，爱音马上给立希发
 
 @[/details]
 
+- **更多 pixiv 作品（按收藏排）**：画失联《[Rikki总不好好吃饭？Anon亲自下厨给做英国美食](https://www.pixiv.net/artworks/139376897)》（收藏 1422）。
+
 ---
 
 ## 六、信息来源
