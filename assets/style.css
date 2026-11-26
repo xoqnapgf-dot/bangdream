@@ -22,6 +22,8 @@
   --sidebar-w: 300px;
   --toc-w:     212px;
   --topbar-h:  56px;
+  /* 正文阅读字体：霞鹜文楷 屏幕阅读版（index.html 里异步加载），没加载到时退回系统黑体 */
+  --read: "LXGW WenKai Screen", var(--sans);
   --mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, monospace;
   --sans: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
           "Hiragino Sans GB", "Microsoft YaHei", "Noto Sans CJK SC", sans-serif;
@@ -393,6 +395,7 @@ html[data-theme="dark"] .row.active .lock.gold { color: #e6b422; }
 }
 
 /* ───────────── Markdown 排版 ───────────── */
+.md, .prose-view .prose, .post-modal .pm-body { font-family: var(--read); }
 .md h1, .md h2, .md h3, .md h4 {
   line-height: 1.4; letter-spacing: -.15px;
   scroll-margin-top: 62px;
