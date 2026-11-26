@@ -1,9 +1,6 @@
 # 长崎素世 × 要乐奈（素猫）
 
-@[gallery]
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
-@[/gallery]
+![素世与乐奈 · 長崎 楽奈《そよらな④&イベントの宣伝/活動宣傳/promotion》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=140745985 "pixiv · 長崎 楽奈《そよらな④&イベントの宣伝/活動宣傳/promotion》")
 
 > 素世在前的写法，中文圈叫「素猫」，B 站标签 28 个投稿（2026 年 11 月）。这一路写的多是素世照顾、管教乐奈，评论区叫她「严母」「小寡妇养猫」。两人在动画和游戏里的交集见《乐奈x素世.md》。
 
@@ -27,6 +24,8 @@
 - **留不住的猫**：《BanG Dream! Our Notes》第二段羁绊故事里，素世先拿柠檬糖、再拿抹茶芭菲想留住乐奈一起去 RiNG，两次都被拒，B 站有一条剪辑的标题就叫《【素猫】如何跟猫咪相处 怎样才能留下要溜走的要乐奈》。
 - **请客被识破**：素世的五星卡「这种关系的名字是」里，素世为了凑校外合照的作业，主动说「抹茶芭菲也可以哦」，乐奈回她：「爽世不会请我吃芭菲」「怪」。
 - **教用手机**：官方小剧场《好学的猫》里素世手把手教乐奈发消息，中字视频的标题写「总有一种妈妈带娃的感觉」。
+
+@[bilibili](BV1wnaM6CE38 "【素猫】如何跟猫咪相处 怎样才能留下要溜走的要乐奈（羁绊故事 2） · UP：鹅鹅鹅企鹅")
 
 ---
 

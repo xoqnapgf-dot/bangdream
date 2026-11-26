@@ -1,9 +1,6 @@
 # 祐天寺若麦 × 八幡海铃（喵海）
 
-@[gallery]
-![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
-![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
-@[/gallery]
+![若麦与海铃 · 秋月《うみにゃむ》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=127794491 "pixiv · 秋月《うみにゃむ》")
 
 > 若麦在前的写法。海铃在前的写法、正片里的几场戏和 mikanayuip 的评语见《08_八幡海铃/海铃x若麦.md》。
 

@@ -1,9 +1,6 @@
 # 祐天寺若麦 × 三角初华（喵初）
 
-@[gallery]
-![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
-![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
-@[/gallery]
+![若麦与初华 · すず《Ave Mujicaのワンちゃんとにゃーんちゃん》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=139266650 "pixiv · すず《Ave Mujicaのワンちゃんとにゃーんちゃん》")
 
 > 若麦在前的写法。「喵初」指若麦主动；这一对在 B 站和 Lofter 上，标「喵初」的作品比标「初喵」的多。初华在前的写法、社区原帖和更多作品见《06_三角初华/初华x若麦.md》。
 

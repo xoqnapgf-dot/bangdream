@@ -1,9 +1,6 @@
 # 若叶睦 × 三角初华（睦初）
 
-@[gallery]
-![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
-![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt. & Vo.")
-@[/gallery]
+![睦与初华 · ぽっぽむぢか《🎪》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=146726360 "pixiv · ぽっぽむぢか《🎪》")
 
 > 睦在前的写法。中文圈多叫「初睦」，「睦初」用得少，也不太分谁主动。初华在前的写法、社区原帖和作品推荐见《06_三角初华/初华x睦.md》。
 

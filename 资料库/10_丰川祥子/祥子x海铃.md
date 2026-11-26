@@ -1,9 +1,6 @@
 # 丰川祥子 × 八幡海铃（祥海）
 
-@[gallery]
-![丰川祥子官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_sakiko.webp "丰川祥子 / Oblivionis · Key.")
-![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
-@[/gallery]
+![祥子与海铃 · 榆糖（Candy Yu）《结婚》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=151184965 "pixiv · 榆糖（Candy Yu）《结婚》")
 
 > 祥子在前的写法。这一对很少有人磕，「祥海」「海祥」都有人用。祥子组了 Ave Mujica，海铃是她找来的贝斯手；两人的来往几乎都在乐队的事上。海铃在前的写法见《08_八幡海铃/海铃x祥子.md》。
 

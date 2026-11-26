@@ -1,9 +1,6 @@
 # 要乐奈 × 八幡海铃（猫海）
 
-@[gallery]
-![要乐奈官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_rana.png "要乐奈 · Gt.")
-![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
-@[/gallery]
+![乐奈与海铃 · 宇宙柚_yuko《无题》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=131302103 "pixiv · 宇宙柚_yuko《无题》")
 
 > 乐奈在前的写法，中文圈叫「猫海」，也有人写「海猫」。NGA 上「海猫」还常指海铃和喵梦（大猫），要看上下文。safebooru 上两个角色标签同时出现的有 232 张，画面里只有她们两人的只有 3 张（2026 年 11 月）。海铃在前的写法见《海铃x乐奈.md》。
 

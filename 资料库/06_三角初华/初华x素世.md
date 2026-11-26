@@ -1,9 +1,6 @@
 # 三角初华 × 长崎素世（初素）
 
-@[gallery]
-![三角初华官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_uika.webp "三角初华 / Doloris · Gt.&Vo.")
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-@[/gallery]
+![初华与素世 · PM《Furtivus & Fidus Amor》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=146484248 "pixiv · PM《Furtivus & Fidus Amor》")
 
 > 初华在前的写法，B 站「初素」标签 13 个投稿，比「素初」多（2026 年 11 月），播放最高的几部也是初素向。两人在动画里的同场和社区的说法见《04_长崎素世/素世x初华.md》。
 

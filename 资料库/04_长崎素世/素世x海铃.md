@@ -1,9 +1,6 @@
 # 长崎素世 × 八幡海铃（素海）
 
-@[gallery]
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
-@[/gallery]
+![素世与海铃 · kmi《bassists》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=128511630 "pixiv · kmi《bassists》")
 
 > 素世在前的写法，B 站「素海」标签 6 个投稿，「海素」21 个（2026 年 11 月），两个叫法混着用，作品里谁主动要看内容。两人都是贝斯手，动画里没有说过一句话。海铃主动的写法见《08_八幡海铃/海铃x素世.md》。
 

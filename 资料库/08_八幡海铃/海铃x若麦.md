@@ -1,9 +1,6 @@
 # 八幡海铃 × 祐天寺若麦（海喵）
 
-@[gallery]
-![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
-![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
-@[/gallery]
+![海铃与若麦 · 東京急行《うみにゃむrkgk》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=129754659 "pixiv · 東京急行《うみにゃむrkgk》")
 
 > 海铃在前的写法，「海喵」「喵海」都有人用。Ave Mujica 的贝斯和鼓。海铃叫她「祐天寺小姐」，她叫海铃「海子」。若麦在前的写法见《09_祐天寺若麦/若麦x海铃.md》。
 

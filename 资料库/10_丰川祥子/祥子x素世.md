@@ -1,5 +1,7 @@
 # 丰川祥子 × 长崎素世（祥素）
 
+![祥子与素世 · 绘梦本心《可还记得往日种种》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=140632193 "pixiv · 绘梦本心《可还记得往日种种》")
+
 ![素世与祥子 · 素世「时间长河的尽头」特训前（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res039012_rip/card_normal.png "素世「时间长河的尽头」特训前")
 
 > 祥子在前的写法，B 站「祥素」标签 346 个投稿（2026 年 11 月），日文叫「さきそよ」。这一路的出发点是 CRYCHIC 的开头：是祥子在音乐会散场后叫住了素世。两人在动画和游戏里的对手戏见《04_长崎素世/素世x祥子.md》。

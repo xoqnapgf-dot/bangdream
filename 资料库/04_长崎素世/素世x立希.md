@@ -1,9 +1,6 @@
 # 长崎素世 × 椎名立希（素希）
 
-@[gallery]
-![长崎素世官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_soyo.png "长崎素世 · Ba.")
-![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
-@[/gallery]
+![素世与立希 · 打个胶先《是公主抱捏》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=132970827 "pixiv · 打个胶先《是公主抱捏》")
 
 > 素世在前的写法，B 站「素希」标签 259 个投稿，「希素」18 个（2026 年 11 月），「素希」底下两个方向的作品都有。两人是 CRYCHIC 和 MyGO!!!!! 两代的节奏组，社区叫她们乐队的「家长组」「老夫老妻」。立希在前的写法见《05_椎名立希/立希x素世.md》。
 

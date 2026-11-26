@@ -1,9 +1,6 @@
 # 高松灯 × 祐天寺若麦（灯喵）
 
-@[gallery]
-![高松灯官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_tomori.png "高松灯 · Vo.")
-![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
-@[/gallery]
+![灯与若麦 · 半截袜子《“看看我抓到了谁~”》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=133828627 "pixiv · 半截袜子《“看看我抓到了谁~”》")
 
 > 灯在前的写法，叫「灯喵」，也有人写「灯瞄」。这一对几乎没有真正的 CP 内容，大家玩的是两个人长得像：撞脸、代餐、「喵梦就是未来的灯」、「喵梦是灯的小姨」。若麦在前的「喵灯」和更多二创见《若麦x灯.md》。
 

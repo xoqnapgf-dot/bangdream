@@ -1,5 +1,7 @@
 # 长崎素世 × 丰川祥子（素祥）
 
+![素世与祥子 · 绘梦本心《可还记得往日种种》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=140632193 "pixiv · 绘梦本心《可还记得往日种种》")
+
 ![素世与祥子 · 素世「时间长河的尽头」特训前（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res039012_rip/card_normal.png "素世「时间长河的尽头」特训前")
 
 > 素世在前的写法，B 站「素祥」标签 3907 个投稿，「祥素」346 个（2026 年 11 月），日文 pixiv 叫「そよさき」。中文圈说起素祥先想到的是第 8 话的飞鸟山，素世追、祥子走；到了 Ave Mujica 第 7 话，素世把祥子推倒在路边，拖着她去见睦。祥子在前的写法见《10_丰川祥子/祥子x素世.md》。

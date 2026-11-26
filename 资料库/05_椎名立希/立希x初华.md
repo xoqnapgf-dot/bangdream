@@ -1,5 +1,7 @@
 # 椎名立希 × 三角初华（希初）
 
+![立希与初华 · 宇宙子詩《无题》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=132134826 "pixiv · 宇宙子詩《无题》")
+
 ![立希与初华 · 立希「意料之外的慰劳品」特训前（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res040014_rip/card_normal.png "立希「意料之外的慰劳品」特训前")
 
 > 立希在前的写法。这一对几乎没有固定叫法，B 站「希初」标签很少有人用，Lofter 上「初希」比「希初」多；日文圈也没有给这一对起 CP 名。两人是花咲川一年级同班同学，加上海铃，社区叫「花女三剑客」。正片里两人真正说上话只有 Ave Mujica 第 12 话那一回。初华在前的写法见《06_三角初华/初华x立希.md》。

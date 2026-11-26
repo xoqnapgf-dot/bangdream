@@ -1,5 +1,7 @@
 # 三角初华 × 椎名立希（初希）
 
+![初华与立希 · 宇宙子詩《无题》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=132134826 "pixiv · 宇宙子詩《无题》")
+
 ![初华与立希 · 立希「意料之外的慰劳品」特训前（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res040014_rip/card_normal.png "立希「意料之外的慰劳品」特训前")
 
 > 初华在前的写法。这一对没有固定叫法，Lofter 上「初希」比「希初」多，写初华主动的占多数；日文圈没有给这一对起 CP 名。花咲川一年级同班，加上海铃，社区叫「花女三剑客」。立希在前的写法、官方材料和社区讨论见《05_椎名立希/立希x初华.md》。

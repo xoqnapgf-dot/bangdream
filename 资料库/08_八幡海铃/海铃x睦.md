@@ -1,9 +1,6 @@
 # 八幡海铃 × 若叶睦（海睦）
 
-@[gallery]
-![八幡海铃官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_umiri.webp "八幡海铃 / Timoris · Ba.")
-![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
-@[/gallery]
+![海铃与睦 · べねぼれ《うみむつ》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=117834538 "pixiv · べねぼれ《うみむつ》")
 
 > 海铃在前的写法，中文圈通行的叫法，日文叫「うみむつ」。睦在前的写法、社区原帖和作品推荐见《07_若叶睦/睦x海铃.md》。
 

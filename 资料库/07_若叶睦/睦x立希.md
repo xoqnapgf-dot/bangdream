@@ -1,9 +1,6 @@
 # 若叶睦 × 椎名立希（睦希）
 
-@[gallery]
-![若叶睦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_mutsumi.webp "若叶睦 / Mortis · Gt.")
-![椎名立希官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_taki.png "椎名立希 · Dr.")
-@[/gallery]
+![睦与立希 · オダメ投稿垢《睦と立希》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=128366300 "pixiv · オダメ投稿垢《睦と立希》")
 
 > 睦在前的写法。中文圈说「睦希」多数不分谁上谁下，B 站「睦希」标签 56 个投稿，「希睦」31 个（2026 年 11 月）；日文 tag「むつたき」是睦在前。CRYCHIC 的吉他手和鼓手，一个在 Ave Mujica，一个在 MyGO!!!!!。立希在前的写法、社区原帖和作品推荐见《05_椎名立希/立希x睦.md》。
 

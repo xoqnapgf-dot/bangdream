@@ -1,5 +1,7 @@
 # 长崎素世 × 若叶睦（素睦）
 
+![素世与睦 · coldcat.《🥒🎃》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=136925634 "pixiv · coldcat.《🥒🎃》")
+
 ![素世与睦 · 素世「崭新的萌芽」特训前（少女乐团派对！）](https://bestdori.com/assets/jp/characters/resourceset/res039014_rip/card_normal.png "素世「崭新的萌芽」特训前")
 
 > 素世在前的写法，B 站「素睦」标签 2427 个投稿，「睦素」197 个（2026 年 11 月），日文叫「そよむつ」。两人是月之森的同班同学、CRYCHIC 的旧队友。MyGO!!!!! 里是素世把睦送的小黄瓜退了回去，Ave Mujica 里是素世陪墨缇丝过了三天三夜。睦在前的写法见《07_若叶睦/睦x素世.md》。

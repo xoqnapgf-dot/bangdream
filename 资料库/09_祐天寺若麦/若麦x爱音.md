@@ -1,9 +1,6 @@
 # 祐天寺若麦 × 千早爱音（喵爱）
 
-@[gallery]
-![祐天寺若麦官方角色图](https://avemujica-movie.bang-dream.com/wordpress/wp-content/themes/avemujica-movie/assets/webp/common/character/img_full_nyamu.webp "祐天寺若麦 / Amoris · Dr.")
-![千早爱音官方角色图](https://mygo-movie.bang-dream.com/wordpress/wp-content/themes/mygo_movie_v1/assets/images/common/character/img_anon.png "千早爱音 · Gt.")
-@[/gallery]
+![若麦与爱音 · 普通与理所当然是什么呢？《【all爱】#7打铁的主播，流水的榜一》（pixiv）](https://embed.pixiv.net/artwork.php?illust_id=143602887 "pixiv · 普通与理所当然是什么呢？《【all爱】#7打铁的主播，流水的榜一》")
 
 > 若麦在前的写法，中文圈偶尔叫「喵爱」，通行的是「爱喵」。B 站「喵爱」标签 5 个投稿、「喵爱TV」12 个，「爱喵」799 个；日文 pixiv 上没有这对的作品（2026 年 11 月）。卡面剧情的完整经过和更多作品见《爱音x若麦.md》。
 
