@@ -361,6 +361,8 @@ ooc致歉。
 - **pixiv「さきうい」标签**（全年龄，共 66 件标了祥子；两个方向的标签常混用，下面是收藏最多、资料库里还没有的）：かせ《むつそよとさきういの話。》（收藏 759，2025-11，https://www.pixiv.net/artworks/137189509 ）；Ra.《ういさき (3)》（收藏 712，2025-09，https://www.pixiv.net/artworks/135662034 ）；魚魚《初祥初無差》（收藏 658，2026-01，https://www.pixiv.net/artworks/139998812 ）；YU《My Mujica》（收藏 641，2025-07，https://www.pixiv.net/artworks/132514603 ）；17AIJO《百翁新刊《契印》試閱》（收藏 621，2026-09，https://www.pixiv.net/artworks/149689133 ）；Ra.《ういさき (12)》（收藏 579，2026-02，https://www.pixiv.net/artworks/140852887 ）。
 - **YouTube**：《[【AveMujica】三角初華の「さきちゃん♡」(+α)まとめ](https://www.youtube.com/watch?v=28nnyzlDYGQ)》（ロックハンダー，1:54，11.2 万次）；《[【ガルパ】どうしても”ういさき”をカップリングしたい李子ちゃん](https://www.youtube.com/watch?v=gUzsAXAiL-M)》（中級音ゲーマー　冷やしメロン，1:25，1.3 万次）；《[[アワーノーツ]アニメ本編後　ひたすらイチャイチャしているはつさき集(初華、祥子 絆ストーリー1、2)](https://www.youtube.com/watch?v=Wy2LrZwbqgY)》（眠的，6:42，3100 次）。后两条是《Our Notes》羁绊剧情录屏和直播切片，只列标题，没有核对内容。
 
+- **更多 B 站视频（按播放排）**：软糯猫猫祥《[【黑道祥/祥初】"浮生若梦，爱意如初"](https://www.bilibili.com/video/BV1rUwqzwEcG)》（2573 播放，2026-03）；红色幽灵__《[【祥初】初华飞鸟山偶遇祥1，保镖若叶睦强如怪物，拼尽全力无法战胜。](https://www.bilibili.com/video/BV1hpKZzLEc3)》（1943 播放，2025-06）。
+
 ---
 
 ## 四、信息来源

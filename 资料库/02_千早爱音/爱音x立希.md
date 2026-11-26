@@ -258,7 +258,30 @@ Ave Mujica 首演散场，素世头也不回地走了，爱音马上给立希发
 - **其他**：[《聊一聊爱希》](https://www.bilibili.com/video/BV1ptGmzXEEw)（比奇堡的比奇，1 万）、[《爱音和立希的亲密互动合集》](https://www.bilibili.com/video/BV1qGijexESB)（XCWすごい，1.7 万）；[《椎名立希跟千早爱音是不是仇人啊？…》](https://www.bilibili.com/video/BV1SS9tBcEpk)（玄冥二老板，1.3 万播放），标题问的是手游剧情里立希对爱音是不是双标到了极致。
 - **贴吧文**：《【爱希】云翳遮蔽太阳之时》（mygo 吧，2024-01）、《【爱希】潮湿的拼图》（mygo 吧，2024-02）、《应当立希の秘密调查：当她误以为爱音是小楠娘》（2025-02）、《暮春雨霁放晴时》（mygo爱希吧，2025-05）、《爱希▏雪花与春日》（椎名立希吧，2026-01）
 
-- **更多 B 站视频（按播放排）**：NekOoYo《[【mygo/熟切】爱希又在打情骂俏...猫猫表情最丰富的一集！](https://www.bilibili.com/video/BV1St6aYLEFG)》（31.6 万播放，2024-12）；子非鱼kun《[爱希谈心却没共频？素世为何突然转念？](https://www.bilibili.com/video/BV19QB4YiE57)》（14.4 万播放，2024-11）；叶垚《[【MyGO/爱希】我胖吗？](https://www.bilibili.com/video/BV1dy411a7us)》（8.9 万播放，2024-06）；小爱音音的《[爱希tv之爱希户外违规使用起爆器并演唱迷星交](https://www.bilibili.com/video/BV16MmGBpEv6)》（4.2 万播放，2025-12）；镇东_Towneast《[【MyGo/爱希】为什么乐队内禁止谈恋爱](https://www.bilibili.com/video/BV1vPBVYwEMB)》（3.3 万播放，2024-12）；巴念之才良《[【MyGO二创/爱希】吐真剂？与无法隐藏的爱意！](https://www.bilibili.com/video/BV1a2N1zjEDa)》（2 万播放，2025-07）；反人员地雷《[『🎪MyGO!!!!!/欢乐向』🚨呐，你今天有在偷看我对吧......](https://www.bilibili.com/video/BV1WX7f69E3c)》（2 万播放，2026-06）；赤赤川《[【MyGO手书/爱希/描改】纱麻](https://www.bilibili.com/video/BV1cDGWzSEnY)》（8094 播放，2025-07）；不足挂镰刀《[【MyGO二创|爱希向】爱希约会，但是Rikki要打工？#2 斜阳般温暖的你](https://www.bilibili.com/video/BV1k6NQzyEem)》（4257 播放，2025-06）；巴念之才良《[【爱希】Love You So](https://www.bilibili.com/video/BV1b9ad6xEpd)》（3426 播放，2026-09）；魔法少女神川极乐《[【MyGO!二创】爱希的里世界冒险#SP](https://www.bilibili.com/video/BV1f2Y4zrEQG)》（422 播放，2025-08）。
+- **更多 B 站视频（按播放排）**：NekOoYo《[【mygo/熟切】爱希又在打情骂俏...猫猫表情最丰富的一集！](https://www.bilibili.com/video/BV1St6aYLEFG)》（31.6 万播放，2024-12）；子非鱼kun《[爱希谈心却没共频？素世为何突然转念？](https://www.bilibili.com/video/BV19QB4YiE57)》（14.4 万播放，2024-11）；叶垚《[【MyGO/爱希】我胖吗？](https://www.bilibili.com/video/BV1dy411a7us)》（8.9 万播放，2024-06）；小爱音音的《[爱希tv之爱希户外违规使用起爆器并演唱迷星交](https://www.bilibili.com/video/BV16MmGBpEv6)》（4.2 万播放，2025-12）；镇东_Towneast《[【MyGo/爱希】为什么乐队内禁止谈恋爱](https://www.bilibili.com/video/BV1vPBVYwEMB)》（3.3 万播放，2024-12）；巴念之才良《[【MyGO二创/爱希】吐真剂？与无法隐藏的爱意！](https://www.bilibili.com/video/BV1a2N1zjEDa)》（2 万播放，2025-07）；反人员地雷《[『🎪MyGO!!!!!/欢乐向』🚨呐，你今天有在偷看我对吧......](https://www.bilibili.com/video/BV1WX7f69E3c)》（2 万播放，2026-06）；赤赤川《[【MyGO手书/爱希/描改】纱麻](https://www.bilibili.com/video/BV1cDGWzSEnY)》（8094 播放，2025-07）；畕冝《[🍬爱音陪你磕爱希🥁](https://www.bilibili.com/video/BV1xLqVBgE9P)》（6168 播放，2025-12）；是个复制壬《[「爱希」救下队里粉毛吉他手后，她似乎不对劲起来了#3](https://www.bilibili.com/video/BV1fGRvBYEDm)》（4611 播放，2026-05）；不足挂镰刀《[【MyGO二创|爱希向】爱希约会，但是Rikki要打工？#2 斜阳般温暖的你](https://www.bilibili.com/video/BV1k6NQzyEem)》（4257 播放，2025-06）；巴念之才良《[【爱希】Love You So](https://www.bilibili.com/video/BV1b9ad6xEpd)》（3426 播放，2026-09）。
+
+@[details](另有 18 条，同样按播放排)
+
+- 重生之我在东软剪视频《[【mygo/爱希/误解向mad】爱音x立希  快进来乖乖接受爱堕！](https://www.bilibili.com/video/BV1qB4y1o7m8)》（2710 播放，2023-10）
+- 天才透子酱《[【爱希】](https://www.bilibili.com/video/BV1YUDpB1E9k)》（2703 播放，2026-04）
+- SeawardRip《[【爱希/MAD】其实都算是《有理想》](https://www.bilibili.com/video/BV13xyZBoEUK)》（2238 播放，2025-11）
+- 邪王睡不着《[【爱希】理理我嘛！！！（七夕快乐](https://www.bilibili.com/video/BV1D3h9zYECM)》（2111 播放，2025-08）
+- 巴念之才良《[【爱希】雪后回声](https://www.bilibili.com/video/BV1teN967Ees)》（1804 播放，2026-07）
+- 白翎优《[【MyGO|爱希】隐居，然后与“老情人”重逢，然后被吃醋的粉毛大小姐一脚踹出生物圈（10）](https://www.bilibili.com/video/BV1kQDcBPEue)》（1504 播放，2026-04）
+- 想给所有白毛一个家《[【MyGO/爱希】《她的猫》](https://www.bilibili.com/video/BV1Hy4y1P7H2)》（1205 播放，2023-10）
+- 糊涂穷奇《[【爱希】迷子特别回——说反话挑战](https://www.bilibili.com/video/BV1aS4p6HENz)》（1076 播放，2026-11）
+- Raana-Rimba《[【MyGO/爱希】 千早爱音&椎名立希 - 私はピアノ「如果没有你在身边，我只是孤身一人」](https://www.bilibili.com/video/BV18zzMBKETV)》（1072 播放，2026-01）
+- GinkgobilobaY《[【爱希】粉黑食堂#5 关东煮  粉黑竞演预热](https://www.bilibili.com/video/BV1eAtyzTEmk)》（1007 播放，2025-08）
+- rxpvovkcyfd《[爱希［歌曲：粉色泡泡糖】](https://www.bilibili.com/video/BV1n2omB1EdA)》（958 播放，2026-04）
+- 藕树w《[【MyGo/爱希】爱上你是我情非得已](https://www.bilibili.com/video/BV1EMV7eBEEq)》（916 播放，2024-06）
+- 白翎优《[【MyGO|爱希】隐居，然后当着制琴大师之面与粉毛大小姐大秀恩爱（15）](https://www.bilibili.com/video/BV1GLK96WEC1)》（800 播放，2026-06）
+- 某科学的对苯二酚《[【爱希】粉黑食堂 #13 冰糖葫芦](https://www.bilibili.com/video/BV175VU6NEqr)》（797 播放，2026-06）
+- 我桶某人《[【明日方舟 x Mygo/Ave Mujica】【爱希】粉与黑色的假日#1](https://www.bilibili.com/video/BV1kEnV6FE5N)》（758 播放，2026-10）
+- SeawardRip《[【爱希/MAD】《羞于启齿》--“看花飞高还是原地枯萎”](https://www.bilibili.com/video/BV1Vzx5zVEAy)》（751 播放，2025-10）
+- 魔法少女神川极乐《[【MyGO!二创】爱希的里世界冒险#SP](https://www.bilibili.com/video/BV1f2Y4zrEQG)》（422 播放，2025-08）
+- 応为《[【爱希MAD】以前乱剪的](https://www.bilibili.com/video/BV1qEDdBLEar)》（388 播放，2026-04）
+
+@[/details]
 
 ---
 
