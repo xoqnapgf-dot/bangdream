@@ -129,14 +129,94 @@ CRYCHIC 五个人站上 RiNG 的舞台，睦背着爱音的吉他，弹了《想
 - **LOFTER**：贴吧有人推荐 s2k4adfheila，说「乱码老师撑起了爱睦的一片天」，她画过爱睦短篇漫画《诅咒》。NGA 2024 年 7 月的推荐帖《有喜欢爱睦的朋友么（附推荐）》还整理过一批 LOFTER 文：《她与爱与裁决者》（初见短篇）、《校门口的太阳》、《一辈子的约定》（救赎向）、《空心人偶》、《假如爱音选择复活c团》、《木头女友的喝茶习惯》（爱祥睦）、《溶解在空中》、《此处氧气不足》。
 - **贴吧文**：《【同人文】邪道cp爱睦 --- 我们的情愫终将成为爱慕》（萌战吧，2023-09）、《【MyGO/爱睦（假药）】Coppélia》（萌战吧，2023-10）、《[MyGO假药][爱睦]有幸遇见你》（萌战吧，2023-10）、《【mygo同人/爱睦】你爱慕虚荣，我爱慕你》（萌战吧，2023-10）、《[假药]似乎是拿到利兹与青鸟剧本的爱睦》（mygo 吧，2024-09）
 
-- **更多 B 站视频（标题里写明这一对，按播放排）**：花花花花寻《[【爱睦】假如千早爱音是社恐 #01（重制版）](https://www.bilibili.com/video/BV1sD4Tz1EGZ)》（3.4 万播放，2025-10）；VV病病梅《[【爱睦】喜欢的人和我的朋友在交往【MyGO/Avemujica/若叶睦X千早爱音】](https://www.bilibili.com/video/BV1YxoNYSEjP)》（2.2 万播放，2025-04）；江南花苼《[【mygo×mujica假药|爱睦】神探若叶睦#0](https://www.bilibili.com/video/BV1fj6sYzEVJ)》（1.9 万播放，2024-12）；冮玉笔《[【mygo/爱睦】梦中的爱睦](https://www.bilibili.com/video/BV1xCYgzzEh1)》系列，共 6 集（累计 1.6 万播放，2025-07 至 2025-09；链接是播放最高的一集，各集见下方折叠）；千早家爱音《[【爱睦】能拉出黄瓜的若叶睦#1：总裁爱音爱上我（三千粉新坑）](https://www.bilibili.com/video/BV1HqR8YaEJr)》（9752 播放，2025-03）；花花花花寻《[【爱睦】假如千早爱音是社恐 #04](https://www.bilibili.com/video/BV1rLCcBVE8M)》（8230 播放，2025-11）；天丶玖川《[【MyGO二创/爱睦】“纯情”大小姐爱上帅气转校生？＃1](https://www.bilibili.com/video/BV1S2Gt6ZETq)》（8210 播放，2026-05）；花花花花寻《[【爱睦】假如千早爱音是社恐 #05](https://www.bilibili.com/video/BV1TkS7BHECE)》（6676 播放，2025-11）；江南花苼《[【mygo×mujica假药|爱睦】神探若叶睦#1-1《礼物的研究》](https://www.bilibili.com/video/BV18hf7YQEuJ)》（4715 播放，2025-01）；Blick-Winkel《[【爱睦】海边的粉与绿/不说话就当你默许了](https://www.bilibili.com/video/BV1eJe2zRE9N)》（4050 播放，2025-08）；秋月夜澪《[【爱睦】假如若叶睦对爱音言听计从#2](https://www.bilibili.com/video/BV12G7b6BEw5)》（3569 播放，2026-06）；正迷失的飞鸟《[【爱睦】#7 假如爱音妈妈是精神科专家？](https://www.bilibili.com/video/BV1zbR3BeEtA)》（2442 播放，2026-05）。
+- **更多 B 站视频（按播放排）**：aaa鱿鱼泡面批发商《[【爱睦】这里有两种求婚](https://www.bilibili.com/video/BV1amkvBxEeW)》（3.7 万播放，2025-11）；花花花花寻《[【爱睦】假如千早爱音是社恐 #01（重制版）](https://www.bilibili.com/video/BV1sD4Tz1EGZ)》（3.4 万播放，2025-10）；花花花花寻《[【爱睦】千早爱音的姛直播吧台](https://www.bilibili.com/video/BV1TeyWBWEVX)》系列，共 5 集（累计 3.1 万播放，2025-10 至 2025-11；链接是播放最高的一集，各集见下方折叠）；VV病病梅《[【爱睦】喜欢的人和我的朋友在交往【MyGO/Avemujica/若叶睦X千早爱音】](https://www.bilibili.com/video/BV1YxoNYSEjP)》（2.2 万播放，2025-04）；秋夕灰爱莫《[【爱睦|纯糖无扭】爱音因为爱慕虚荣所以用身体来交朋友费？](https://www.bilibili.com/video/BV17M3ezKEAR)》（2 万播放，2025-07）；江南花苼《[【mygo×mujica假药|爱睦】神探若叶睦#0](https://www.bilibili.com/video/BV1fj6sYzEVJ)》（1.9 万播放，2024-12）；奇怪猫喵《[【爱睦】什么叫“竹马”变“青梅”了](https://www.bilibili.com/video/BV1CAVj6nEYV)》（1.4 万播放，2026-05）；应当Anon酱《[【爱睦】纯洁白小睦 虽有嫉妒仍忍让 实两情相悦](https://www.bilibili.com/video/BV1SwskzEEUS)》（1.3 万播放，2025-10）；爱音爱素食《[【爱睦】被抛弃的人偶们#1](https://www.bilibili.com/video/BV11Mw8zjEnG)》（1.3 万播放，2026-03）；闲鱼tudou《[【爱睦】小睦，你能跟我谈恋爱吗](https://www.bilibili.com/video/BV1E8pj6TE97)》（1.2 万播放，2026-10）；二十九号鸭《[【Mygo/爱睦】黄瓜藤上会有蝴蝶落下吗？#1](https://www.bilibili.com/video/BV1LrHNzjEEM)》（1.1 万播放，2025-10）；应当Anon酱《[【爱睦】若叶睦的手 从小抚上爱音腰 食髓知味了](https://www.bilibili.com/video/BV1f9swznEmC)》（1.1 万播放，2025-10）。
 
-@[details](另有 4 条，同样按播放排)
+@[details](另有 56 条，同样按播放排)
 
+- 失心石头人《[【mygo.假药】所有人都如愿以偿的世界（爱睦结婚！）#2.5](https://www.bilibili.com/video/BV1yPH8eMERs)》（1 万播放，2024-09）
+- _临睦《[【爱睦】千早爱音的姛直播吧台](https://www.bilibili.com/video/BV1C6RWByE2s)》系列，共 4 集（累计 9975 播放，2026-05 至 2026-10；链接是播放最高的一集，各集见下方折叠）
+- 千早家爱音《[【爱睦】能拉出黄瓜的若叶睦#1：总裁爱音爱上我（三千粉新坑）](https://www.bilibili.com/video/BV1HqR8YaEJr)》（9752 播放，2025-03）
+- shiki就是力量《[【爱睦】下跪，然后被爱音捡走#8飞行](https://www.bilibili.com/video/BV1bmCbY1ENK)》（9307 播放，2024-12）
+- 爱音爱素食《[【爱睦】被夺走的专属品#5](https://www.bilibili.com/video/BV1ytdWB2Erw)》（9060 播放，2026-04）
+- 无敌薯条大王-真《[【mygo/爱睦】梦中的爱睦#02](https://www.bilibili.com/video/BV1bUw2eCEYB)》（8642 播放，2025-01）
+- ohti-Mine《[【爱睦】为了和爱音泡温泉，这个，墨提斯，不需要了](https://www.bilibili.com/video/BV1DZAZzzEnR)》（8303 播放，2026-03）
+- 用户453455436《[【爱睦】爱睦能助的少女乐队](https://www.bilibili.com/video/BV1sbNw6fEDc)》系列，共 4 集（累计 8274 播放，2026-07 至 2026-11；链接是播放最高的一集，各集见下方折叠）
+- 花花花花寻《[【爱睦】假如千早爱音是社恐 #04](https://www.bilibili.com/video/BV1rLCcBVE8M)》（8230 播放，2025-11）
+- 天丶玖川《[【MyGO二创/爱睦】“纯情”大小姐爱上帅气转校生？＃1](https://www.bilibili.com/video/BV1S2Gt6ZETq)》（8210 播放，2026-05）
+- 秋夕灰爱莫《[【ooc预警|爱睦|灰爱莫|he】《心为君跃-我的心脏只为你而跳动》](https://www.bilibili.com/video/BV17PieBLE3t)》（7624 播放，2026-01）
+- 一白鸟合龙《[【爱睦】和小睦kiss的爱音不会被莫提斯反杀](https://www.bilibili.com/video/BV1kQt1zpE1f)》（7533 播放，2025-08）
+- 冈部侖太郎《[爱睦宝贝](https://www.bilibili.com/video/BV1jcYE6cEE2)》（6811 播放，2026-09）
+- 来自曼哈德的恋恋《[【中秋特辑】 爱睦的亲亲小游戏](https://www.bilibili.com/video/BV1BztsehEvH)》（6711 播放，2024-09）
+- 花花花花寻《[【爱睦】假如千早爱音是社恐 #05](https://www.bilibili.com/video/BV1TkS7BHECE)》（6676 播放，2025-11）
+- 日渐咸鱼ing《[【Mygo二创】千早爱音是她的影子 #if【爱睦-错误推演】深海](https://www.bilibili.com/video/BV1o9sYeGEvD)》（6595 播放，2024-09）
+- 向葉新生的晓畅《[我推的爱睦（睦头生日特别篇）](https://www.bilibili.com/video/BV1eQ4y157e4)》（6489 播放，2024-01）
+- 托儿_松山下的小蟲子《[【爱睦/一口气看完】假如爱音和睦是青梅竹马](https://www.bilibili.com/video/BV1cd9hBREw7)》（6116 播放，2026-04）
+- 奇怪猫喵《[【爱睦】假装有个小女友，结果真的有了？](https://www.bilibili.com/video/BV1Ju4k6HEnQ)》（5775 播放，2026-08）
+- 赊我贰佰《[【Mygo/爱睦】旧日之影 #4——我妈都没打过我!!!!!](https://www.bilibili.com/video/BV1AGknYyErp)》（5576 播放，2024-12）
+- 你瞧现在哪有名字《[【爱睦/中长篇】离婚之后](https://www.bilibili.com/video/BV1bG8R6mEx4)》（5069 播放，2026-08）
+- 一白鸟合龙《[【爱睦】假如睦捡到了小爱音 #2](https://www.bilibili.com/video/BV1vG1jBEELF)》（4860 播放，2025-11）
+- 江南花苼《[【mygo×mujica假药|爱睦】神探若叶睦#1-1《礼物的研究》](https://www.bilibili.com/video/BV18hf7YQEuJ)》（4715 播放，2025-01）
+- 赊我贰佰《[【Mygo/爱睦】旧日之影 #3——坏了，被扣了](https://www.bilibili.com/video/BV1BxqYYREwf)》（4621 播放，2024-12）
+- 花花花花寻《[【爱睦】假如千早爱音是社恐 #10](https://www.bilibili.com/video/BV1FfAiz8Eo4)》（4458 播放，2026-03）
+- Blick-Winkel《[【爱睦】海边的粉与绿/不说话就当你默许了](https://www.bilibili.com/video/BV1eJe2zRE9N)》（4050 播放，2025-08）
+- 一白鸟合龙《[【爱睦】假如睦捡到了小爱音 #3](https://www.bilibili.com/video/BV1feCuBAECQ)》（3569 播放，2025-11）
+- 秋月夜澪《[【爱睦】假如若叶睦对爱音言听计从#2](https://www.bilibili.com/video/BV12G7b6BEw5)》（3569 播放，2026-06）
+- 张希秋《[谁是卧底mygo【16.5】爱睦偷偷约会](https://www.bilibili.com/video/BV16X9QBjEkm)》（3534 播放，2026-05）
+- 5tsukihl279《[【爱睦】如果能早点遇见你就好了](https://www.bilibili.com/video/BV1WLab6qECn)》（3206 播放，2026-09）
+- 秋夕灰爱莫《[【三补|爱睦】在另一个世界相爱的你我](https://www.bilibili.com/video/BV1vppyzREkk)》（2784 播放，2025-09）
+- 秋月夜澪《[【爱睦】突然闯进我家的睦居然掏出了结婚登记表？！（10.22爱睦接力预热）](https://www.bilibili.com/video/BV1Kwnr61Ey4)》（2730 播放，2026-10）
+- 正迷失的飞鸟《[【爱睦】#7 假如爱音妈妈是精神科专家？](https://www.bilibili.com/video/BV1zbR3BeEtA)》（2442 播放，2026-05）
+- 5tsukihl279《[【爱睦】一起种一辈子黄瓜吧！](https://www.bilibili.com/video/BV1gJaU6iEte)》（2335 播放，2026-10）
+- 向葉新生的晓畅《[【MYGO同人】她与她的故事第2集（爱睦）](https://www.bilibili.com/video/BV1wJSoYcErR)》（2230 播放，2024-11）
+- 向葉新生的晓畅《[【MYGO同人】她与她的故事第1集（爱睦）](https://www.bilibili.com/video/BV163xRe5Evh)》（2027 播放，2024-10）
+- Blick-Winkel《[【爱睦】假如爱音能听到睦的心声](https://www.bilibili.com/video/BV1vxJ266EDN)》（1946 播放，2026-10）
+- 睦家莫提斯《[【爱睦】假如爱音能看到别人头上的标签·下](https://www.bilibili.com/video/BV1cQxQ6SE34)》（1878 播放，2026-11）
 - SH再来一次《[【爱睦】人偶与太阳#5：告白](https://www.bilibili.com/video/BV1iPj66SEjE)》（1824 播放，2026-06）
+- 赊我贰佰《[【Mygo/爱睦】旧日之影 #5——睦の黑手](https://www.bilibili.com/video/BV1n2k2YjEhA)》（1786 播放，2024-12）
+- 5tsukihl279《[【爱睦】超级智能睦无法爱上千早爱音](https://www.bilibili.com/video/BV1d6n66fEoo)》（1683 播放，2026-10）
+- 白桃liang《[【爱睦】 那一天，千早爱音连人带行李，强势征用了我的客厅 | 无声的绿意与喧嚣的你](https://www.bilibili.com/video/BV1Ro5r6LEpj)》（1597 播放，2026-05）
+- 苟活很润《[【爱睦】假如千早爱音是黄瓜控#1](https://www.bilibili.com/video/BV1Lwh769ExP)》（1564 播放，2026-09）
+- _临睦《[【爱睦】千早爱音的姛直播吧台 #10（完）](https://www.bilibili.com/video/BV1ehWE6MEPK)》（1434 播放，2026-11）
+- 奈小伍《[【MyGO/爱睦】暮雨悼亡诗#8](https://www.bilibili.com/video/BV1N47W69Eya)》（1389 播放，2026-06）
+- Blick-Winkel《[【爱睦】赤月下的私语](https://www.bilibili.com/video/BV1BT3R6jEUH)》（1353 播放，2026-08）
+- 千草愛愛音《[【AI爱睦】只对你有感觉](https://www.bilibili.com/video/BV1R7HF6jEVR)》（1275 播放，2026-10）
+- TYYyaiwj《[【爱睦】朋友](https://www.bilibili.com/video/BV1q3TX6cENr)》（1218 播放，2026-07）
+- 长崎家安农《[【MYGO/爱睦】抑郁爱音捡到野生若叶睦#11](https://www.bilibili.com/video/BV1mZ436jE7y)》（926 播放，2026-11）
+- 奇怪猫喵《[【爱睦】糖水](https://www.bilibili.com/video/BV1tD4E6NEgu)》（888 播放，2026-11）
+- 长崎家安农《[【MYGO/爱睦】抑郁爱音捡到野生若叶睦#12](https://www.bilibili.com/video/BV18eWx6EEVK)》（795 播放，2026-11）
 - HT_PesBom《[「爱睦」Sic Locuta Est 她如是说#2](https://www.bilibili.com/video/BV11tEn6JEGe)》（781 播放，2026-06）
+- David_Su1024《[【AI爱睦/俄式后朋克】Небо（天空）](https://www.bilibili.com/video/BV18xEs6TEsT)》（604 播放，2026-06）
 - 卡欧斯小薰《[（若叶睦2025年生贺）中文配音【MyGo!!!!!二创假药/爱睦】如果爱音和睦从小就是青梅竹马 #3](https://www.bilibili.com/video/BV1eu6UYYENJ)》（409 播放，2025-01）
 - 卡欧斯小薰《[中文配音【MyGo!!!!!二创假药/爱睦】如果爱音和睦从小就是青梅竹马 #5.5](https://www.bilibili.com/video/BV17WFDe8Ewh)》（296 播放，2025-02）
+- 冮玉笔《[【mygo/爱睦】梦中的爱睦](https://www.bilibili.com/video/BV1xCYgzzEh1)》系列，共 6 集（累计 1.6 万播放，2025-07 至 2025-09；链接是播放最高的一集，各集见下方折叠）
+
+@[/details]
+
+@[details](《【爱睦】爱睦能助的少女乐队》各集链接，共 4 集)
+
+- [【爱睦】爱睦能助的少女乐队#01：阴云](https://www.bilibili.com/video/BV1sbNw6fEDc)（4821 播放，2026-07）
+- [【爱睦】爱睦能助的少女乐队#02：拂晓](https://www.bilibili.com/video/BV1NjNz6YEND)（1872 播放，2026-07）
+- [【爱睦】爱睦能助的少女乐队#18：启程](https://www.bilibili.com/video/BV1Dxxs6QEe5)（844 播放，2026-11）
+- [【爱睦】爱睦能助的少女乐队#19：邀约](https://www.bilibili.com/video/BV1rkWH64ESk)（737 播放，2026-11）
+
+@[/details]
+
+@[details](《【爱睦】千早爱音的姛直播吧台》各集链接，共 5 集)
+
+- [【爱睦】千早爱音的姛直播吧台 #01](https://www.bilibili.com/video/BV1TeyWBWEVX)（9382 播放，2025-10）
+- [【爱睦】千早爱音的姛直播吧台 #02](https://www.bilibili.com/video/BV1k8yQBfE9N)（4236 播放，2025-11）
+- [【爱睦】千早爱音的姛直播吧台 #03](https://www.bilibili.com/video/BV1ck1EBiEmV)（4981 播放，2025-11）
+- [【爱睦】千早爱音的姛直播吧台 #04](https://www.bilibili.com/video/BV1dQ1DBUEEr)（6984 播放，2025-11）
+- [【爱睦】千早爱音的姛直播吧台 #05](https://www.bilibili.com/video/BV1foCgBKEEh)（5873 播放，2025-11）
+
+@[/details]
+
+@[details](《【爱睦】千早爱音的姛直播吧台》各集链接，共 4 集)
+
+- [【爱睦】千早爱音的姛直播吧台 #6](https://www.bilibili.com/video/BV1VCRsBaEB2)（2978 播放，2026-05）
+- [【爱睦】千早爱音的姛直播吧台 #7](https://www.bilibili.com/video/BV1b3RsBWEyD)（1811 播放，2026-05）
+- [【爱睦】千早爱音的姛直播吧台 #8](https://www.bilibili.com/video/BV1C6RWByE2s)（3736 播放，2026-05）
+- [【爱睦】千早爱音的姛直播吧台 #9](https://www.bilibili.com/video/BV1MNpU6CEbF)（1450 播放，2026-10）
 
 @[/details]
 

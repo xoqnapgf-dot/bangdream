@@ -425,7 +425,7 @@ mortis在通过拙劣的计谋、表演欺骗其他人；
 
 @[/原文]
 
-- **更多 B 站视频（标题里写明这一对，按播放排）**：乐创派《[【邦邦二创/猫睦】户山香澄把若叶睦当抹茶芭菲送给了要乐奈](https://www.bilibili.com/video/BV1SU8RzAEqX)》（934 播放，2025-07）；H3C-周正《[【补档】【MyGO/千恋万花/安科】 猫莫的穗织之旅 #0.5 序:睦叶丸](https://www.bilibili.com/video/BV1CQeDzJE3Z)》（565 播放，2025-08）。
+- **更多 B 站视频（按播放排）**：RegressionMonkey《[【猫睦】阴阳先生](https://www.bilibili.com/video/BV1f2N8eDEwf)》（3.7 万播放，2025-02）；那只Tub1《[（自用）内存不足的猫睦自我介绍 一分钟循环](https://www.bilibili.com/video/BV199NteMEqV)》（3.5 万播放，2025-02）；木偶的时间toki《[睦头人飞踢循环加变速加猫睦对踢](https://www.bilibili.com/video/BV1U9ZGYqEVJ)》（2.7 万播放，2025-03）；哈基米南北律哆《[猫睦一起踢海铃皮鼓](https://www.bilibili.com/video/BV1vPYCzLEjY)》（9311 播放，2025-08）；乐奈超可爱《[猫睦弹吉他，让你飞起来](https://www.bilibili.com/video/BV1eweBzNEx3)》（2753 播放，2025-08）；小祥葬花吟《[猫睦哭哭](https://www.bilibili.com/video/BV1R8JXz3EUd)》（2064 播放，2025-09）；此心亦有远方《[【微猫睦】献给日与月的花束#5](https://www.bilibili.com/video/BV1po9GB3EQB)》（1348 播放，2026-04）；乐创派《[【邦邦二创/猫睦】户山香澄把若叶睦当抹茶芭菲送给了要乐奈](https://www.bilibili.com/video/BV1SU8RzAEqX)》（934 播放，2025-07）；H3C-周正《[【补档】【MyGO/千恋万花/安科】 猫莫的穗织之旅 #0.5 序:睦叶丸](https://www.bilibili.com/video/BV1CQeDzJE3Z)》（565 播放，2025-08）；账号已注销《[猫睦关系性探讨，及若叶睦设定今后的何去何从（乐奈篇（上））](https://www.bilibili.com/video/BV1Y8KuzLEgw)》（371 播放，2025-06）；Navivican《[猫睦卡面剧情个人翻译【MYGO】](https://www.bilibili.com/video/BV1RajFzEE9q)》（191 播放，2025-04）；小木曾北上《[人森与少女乐队之猫睦吉他论](https://www.bilibili.com/video/BV1QFdPBNE8e)》（123 播放，2026-05）。
 
 ---
 

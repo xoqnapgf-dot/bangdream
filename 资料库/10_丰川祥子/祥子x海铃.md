@@ -70,7 +70,7 @@ Ave Mujica 第 1 话武道馆的舞台剧里，Oblivionis 替 Timoris 理了理�
 - **pixiv「さきうみ」标签**（全年龄，共 8 件标了祥子；两个方向的标签常混用，下面是收藏最多、资料库里还没有的）：榆糖（Candy Yu）《亲亲》（收藏 354，2026-08，https://www.pixiv.net/artworks/148789766 ）；榆糖（Candy Yu）《结婚》（收藏 325，2026-10，https://www.pixiv.net/artworks/151184965 ）；旭《うみさきまとめlog ⚠️キャプション必読》（收藏 303，2025-08，https://www.pixiv.net/artworks/134025620 ）；榆糖（Candy Yu）《贝斯手是被绑来的》（收藏 301，2026-01，https://www.pixiv.net/artworks/140420454 ）；Gear.cc.Pluto《海祥场合》（收藏 273，2025-04，https://www.pixiv.net/artworks/128999748 ）；榆糖（Candy Yu）《海祥海》（收藏 253，2026-01，https://www.pixiv.net/artworks/140278561 ）。
 - **YouTube**：《[[アワーノーツ]くしゃみをする祥子と心配性な海鈴(祥子、海鈴　絆ストーリー2)](https://www.youtube.com/watch?v=cZ7QoatxrFQ)》（眠的，3:16，1.0 万次）；《[【OurNotes】メンバートーク(海鈴×初華×にゃむ×睦×祥子)【AveMujica】](https://www.youtube.com/watch?v=C1pUeVHLRJY)》（オノマトペ天使，0:48，1.9 万次）。第一条是《Our Notes》祥子和海铃的羁绊剧情第 2 话的录屏，剧情内容这里还没有整理。
 
-- **更多 B 站视频（标题里写明这一对，按播放排）**：煦泞《[【祥海/君臣组】春涧](https://www.bilibili.com/video/BV1Pe4b6oERZ)》（2432 播放，2026-11）。
+- **更多 B 站视频（按播放排）**：煦泞《[【祥海/君臣组】春涧](https://www.bilibili.com/video/BV1Pe4b6oERZ)》（2432 播放，2026-11）。
 
 ---
 

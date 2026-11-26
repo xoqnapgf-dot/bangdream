@@ -51,7 +51,7 @@
 - 《以防你不知道睦和初华做了相反的十字【第十集的一些细节探究】》（しゅうゆう，BV1Kj9QYaEKg）。
 - 更多见《初华x睦.md》第四节。
 
-- **更多 B 站视频（标题里写明这一对，按播放排）**：半岛小迦音《[【睦初】祥，你出去打工吧我帮你照顾狗狗](https://www.bilibili.com/video/BV1JockzME7K)》（2.3 万播放，2026-03）；自己価値《[初睦无差cp向捏](https://www.bilibili.com/video/BV16n8A6nExi)》（273 播放，2026-08）。
+- **更多 B 站视频（按播放排）**：半岛小迦音《[【睦初】祥，你出去打工吧我帮你照顾狗狗](https://www.bilibili.com/video/BV1JockzME7K)》（2.3 万播放，2026-03）；自己価値《[初睦无差cp向捏](https://www.bilibili.com/video/BV16n8A6nExi)》（273 播放，2026-08）。
 
 ---
 

@@ -226,6 +226,8 @@ MyGO!!!!! ZEPP TOUR 2025 的东京限定语音也是这个路数。排练后爱�
 
 更多见《爱音x素世.md》。
 
+- **更多 B 站视频（按播放排）**：Serism_official《[【💞MyGO/爱素/素爱】🙏我…我再也不敢装不良了……！](https://www.bilibili.com/video/BV1avgs6QEey)》（1.4 万播放，2026-08）。
+
 ---
 
 ## 六、信息来源
