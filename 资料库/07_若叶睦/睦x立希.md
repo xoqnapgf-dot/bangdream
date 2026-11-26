@@ -85,6 +85,16 @@ Ave Mujica 第 7 话，睦对素世和立希说：「是我毁了乐队。我吉
 - 《【希睦】異星にいこうね/去往外星吧》（ましゃ，BV1tkryY7ENr，3 万播放）；《【希睦】造谣一下c团时期聊天》（牛奶糖233，BV1nJcLeuEnf）；《[小睦生贺/睦希睦手书]失去你的我В последний раз》（MikhailVedder，BV1B6i3BHEZq）；《【睦希睦】即便是「若叶」也总有一天会消失》（倾轧下拭目，BV1PPMJ6DEBq）
 - 更多见《立希x睦.md》第四节。
 
+- **更多 B 站视频（标题里写明这一对，按播放排）**：辰曦です《[【泛式/Mujica二创】睦希的七日王朝！泛式看【理性分析】其实睦一直以来喜欢的人就是立希](https://www.bilibili.com/video/BV1W2w6eDEpP)》（3.3 万播放，2025-01）；月森真昼《[【MyGO_AveMujica 新春会单品】睦希/填词 | 需要睦！](https://www.bilibili.com/video/BV1p1fQYgErR)》（1 万播放，2025-01）；入梦Chaos《[【Mygo睦希纯糖 / 短篇】想成为你的光](https://www.bilibili.com/video/BV1uZ9gYpE41)》（5007 播放，2025-02）；YRFLY《[【睦希/莫希】山丘](https://www.bilibili.com/video/BV19b1LBmE6P)》（4371 播放，2025-11）；璃奈璃奈璃_《[【MyGO/睦希】迟到一个月的情人节回礼](https://www.bilibili.com/video/BV1qbQGYAEwN)》（3798 播放，2025-03）；璃奈璃奈璃_《[【MyGO/睦希】小小恋歌](https://www.bilibili.com/video/BV1Pqo2YWEdc)》（3297 播放，2025-03）；璃奈璃奈璃_《[【MyGO/睦希】栞](https://www.bilibili.com/video/BV1jYdDYUEE2)》（2901 播放，2025-04）；啃大瓜吧您《[【睦希】ラストリゾート/最终手段](https://www.bilibili.com/video/BV1vqKTepEWm)》（2798 播放，2025-02）；璃奈璃奈璃_《[【MyGO/睦希】稳稳的幸福-“无论我身在何处，都不会迷途”](https://www.bilibili.com/video/BV1yu9pYCEYm)》（2165 播放，2025-03）；璃奈璃奈璃_《[【MyGO/睦希】影色舞](https://www.bilibili.com/video/BV1vHZ3Y6EE7)》（2112 播放，2025-03）；SeawardRip《[【误解向/睦希/MAD】给某人的《诀别书》](https://www.bilibili.com/video/BV15YBLB8ECy)》（2044 播放，2025-12）；璃奈璃奈璃_《[【MyGO/睦希】海色回忆（上）](https://www.bilibili.com/video/BV1uuTyz6EM3)》（2001 播放，2025-06）。
+
+@[details](另有 3 条，同样按播放排)
+
+- 璃奈璃奈璃_《[【MyGO/睦希】海色回忆（下）](https://www.bilibili.com/video/BV1QXTUzdEJu)》（1780 播放，2025-06）
+- 璃奈璃奈璃_《[【MyGO/睦希】椎名立希想让她高兴](https://www.bilibili.com/video/BV14GXXYcEcs)》（1760 播放，2025-03）
+- 绿草如茵的丰茵《[【睦希】睦跳霹雳舞超金属酷毙了](https://www.bilibili.com/video/BV1ddh26uEA8)》（1385 播放，2026-09）
+
+@[/details]
+
 ---
 
 ## 五、信息来源

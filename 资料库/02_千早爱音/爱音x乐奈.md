@@ -169,7 +169,53 @@ Ave Mujica 第 7 话，CRYCHIC 的几个人要在 RiNG 的舞台上合奏。MyGO
 - **画**：[《＞＜爱猫》](https://www.bilibili.com/video/BV18iA5exEvA)（干脆就叫盐水鸭吧）、[《[绘画过程]爱猫》](https://www.bilibili.com/video/BV1Lid6BjEmq)（Pulvinus）。
 - **NGA 安科**：《千早爱音与要乐奈的品酒大会(爱猫)》（https://ngabbs.com/read.php?tid=44206853 ，2025-05 起，5 页）。设定是 MyGO 五人上了大学，爱音和乐奈读同一所学校的设计专业、合租，每天中午晚上为了找设计灵感一起喝酒吃东西；楼主在开篇说是看了《立石凛观察日记#7》有感而写。已有[视频版（上）](https://www.bilibili.com/video/BV15vaHzDEQq)。
 
-- **更多 B 站视频（标题里写明这一对，按播放排）**：此心亦有远方《[【爱猫】猫咪的午后时光](https://www.bilibili.com/video/BV1uzdpBnEAH)》（3955 播放，2026-04）；此心亦有远方《[【爱猫】少女与猫：假如爱音是被乐奈从深渊里拉出来的（下）](https://www.bilibili.com/video/BV1pU7a6rEHj)》（2838 播放，2026-06）；YRFLY《[【MYGO二创/爱猫】清汤寡水的养猫日常（六上）](https://www.bilibili.com/video/BV1xr54zgEJf)》（2202 播放，2025-04）；要家乐奈酱《[【MyGO/爱猫】经典灵魂互换，但是爱猫 #2 落空的希冀](https://www.bilibili.com/video/BV1Na5r6YEEc)》（1708 播放，2026-05）；要家乐奈酱《[【MyGO/爱猫】经典灵魂互换，但是爱猫 #4(完）要乐奈想要被抱抱](https://www.bilibili.com/video/BV187VH67Efx)》（1448 播放，2026-05）；虚妄の月轮《[Mygo二创短篇《为了没有泪水的明天》（爱猫向）](https://www.bilibili.com/video/BV13dFNznE1Y)》（1029 播放，2026-02）；bili_56634834210《[【Mygo】甜到极致，爱猫TV](https://www.bilibili.com/video/BV19PPbeqEMT)》（984 播放，2025-02）；YRFLY《[【MYGO二创/爱猫】破碎人生（六下）](https://www.bilibili.com/video/BV1g95DzJEXv)》（756 播放，2025-04）。
+- **更多 B 站视频（标题里写明这一对，按播放排）**：千早炫音258《[【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子](https://www.bilibili.com/video/BV1CxXfYyEGi)》系列，共 31 集（累计 17.8 万播放，2025-03 至 2025-10；链接是播放最高的一集，各集见下方折叠）；Space的乐奈《[【补档】【MyGO!!!!!】【爱all/all爱】完蛋，我被二周目重女包围了#-3：爱猫篇](https://www.bilibili.com/video/BV1ajGkzREU8)》（2.2 万播放，2025-04）；魔法帕小朵《[【mygo/爱猫】爱音退团，乐奈黑化！#27   血雨腥风！！！](https://www.bilibili.com/video/BV1ZFxRzwEQi)》（5786 播放，2025-10）；此心亦有远方《[【爱猫】猫咪的午后时光](https://www.bilibili.com/video/BV1uzdpBnEAH)》（3955 播放，2026-04）；此心亦有远方《[【爱猫】少女与猫：假如爱音是被乐奈从深渊里拉出来的（下）](https://www.bilibili.com/video/BV1pU7a6rEHj)》（2838 播放，2026-06）；晴仙雪球《[【爱猫/日常向】爱音猫猫一日约会大作战！](https://www.bilibili.com/video/BV1DqH764EDP)》（2816 播放，2026-10）；YRFLY《[【MYGO二创/爱猫】清汤寡水的养猫日常（六上）](https://www.bilibili.com/video/BV1xr54zgEJf)》（2202 播放，2025-04）；要家乐奈酱《[【MyGO/爱猫】经典灵魂互换，但是爱猫 #2 落空的希冀](https://www.bilibili.com/video/BV1Na5r6YEEc)》（1708 播放，2026-05）；刀客塔Who《[【MYGO二创/爱猫】假如乐奈是时间领主 第一集（"普通"的一天）](https://www.bilibili.com/video/BV19rACeyERe)》（1576 播放，2025-02）；要家乐奈酱《[【MyGO/爱猫】经典灵魂互换，但是爱猫 #4(完）要乐奈想要被抱抱](https://www.bilibili.com/video/BV187VH67Efx)》（1448 播放，2026-05）；要家乐奈酱《[【MyGO/爱猫】一天和一辈子](https://www.bilibili.com/video/BV1H27X6YEgW)》（1446 播放，2026-06）；SAO老汉《[【MYGO 母鸡卡二创/爱猫】战雷 #1](https://www.bilibili.com/video/BV12tKY69E8y)》（1294 播放，2026-07）。
+
+@[details](另有 5 条，同样按播放排)
+
+- 要家乐奈酱《[【MyGO/爱猫】乐队中有两只猫（下）](https://www.bilibili.com/video/BV1ptD1BbE2a)》（1094 播放，2026-04）
+- 虚妄の月轮《[Mygo二创短篇《为了没有泪水的明天》（爱猫向）](https://www.bilibili.com/video/BV13dFNznE1Y)》（1029 播放，2026-02）
+- bili_56634834210《[【Mygo】甜到极致，爱猫TV](https://www.bilibili.com/video/BV19PPbeqEMT)》（984 播放，2025-02）
+- YRFLY《[【MYGO二创/爱猫】破碎人生（六下）](https://www.bilibili.com/video/BV1g95DzJEXv)》（756 播放，2025-04）
+- 要家乐奈酱《[【爱猫】不被他人需要的她 5](https://www.bilibili.com/video/BV13wSvBkEdQ)》（457 播放，2025-11）
+
+@[/details]
+
+@[details](《【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子》各集链接，共 31 集)
+
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃2](https://www.bilibili.com/video/BV1CxXfYyEGi)（1.1 万播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃3](https://www.bilibili.com/video/BV11V94Y4Ec3)（8472 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃4](https://www.bilibili.com/video/BV1nC9UY7EPN)（8147 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃5](https://www.bilibili.com/video/BV1NLRWYpEzh)（8771 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃6](https://www.bilibili.com/video/BV1ptRjYcEMN)（7748 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃7](https://www.bilibili.com/video/BV12CDfYLEXv)（6736 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃8](https://www.bilibili.com/video/BV1huQTYrEHw)（6861 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃9](https://www.bilibili.com/video/BV1wuQkYbEqc)（6486 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃10  11](https://www.bilibili.com/video/BV1doQSYBEps)（6781 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃12 13](https://www.bilibili.com/video/BV1tsQeYLE7K)（6357 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃14 15](https://www.bilibili.com/video/BV11QXuYCEiN)（6408 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃16 17](https://www.bilibili.com/video/BV1o3QfYcEiU)（6144 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃18 19](https://www.bilibili.com/video/BV1aAXeYWE8w)（6079 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃20 21](https://www.bilibili.com/video/BV1jJXxY6EHh)（5308 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃22 23](https://www.bilibili.com/video/BV14YoqYNEUc)（5550 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃24 25](https://www.bilibili.com/video/BV1FGo8YiEyL)（5424 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃26 27](https://www.bilibili.com/video/BV1gDZGY6EnJ)（6101 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃28 29](https://www.bilibili.com/video/BV1voZaYTEuS)（4831 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃30 31](https://www.bilibili.com/video/BV1uyZ6YEEpU)（5454 播放，2025-03）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃32 33](https://www.bilibili.com/video/BV1mpfFYPEJd)（6432 播放，2025-04）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃34 35](https://www.bilibili.com/video/BV1LrdpYzEzs)（4904 播放，2025-04）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃36 37](https://www.bilibili.com/video/BV1QFdTYHEeD)（4902 播放，2025-04）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃40 41](https://www.bilibili.com/video/BV1b8dkYUEtJ)（5335 播放，2025-04）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃44 45](https://www.bilibili.com/video/BV1SiEgzVEsR)（4506 播放，2025-05）
+- [【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃完](https://www.bilibili.com/video/BV1u8EbzcEqq)（8074 播放，2025-05）
+- [be【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃35 36](https://www.bilibili.com/video/BV1sogkz6EYe)（4849 播放，2025-07）
+- [be【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃37 38](https://www.bilibili.com/video/BV1kz4czfEyM)（3176 播放，2025-10）
+- [be【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃39 40](https://www.bilibili.com/video/BV1uhswzTEZj)（2058 播放，2025-10）
+- [be【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃41 42](https://www.bilibili.com/video/BV1y3s7zKEFg)（1388 播放，2025-10）
+- [be【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃43 44](https://www.bilibili.com/video/BV1YJsnz4EMs)（1763 播放，2025-10）
+- [be【MYGO/爱猫同人】离开MYGO，爱音和乐奈的一辈子＃45 46](https://www.bilibili.com/video/BV1m8sRzmEvW)（1743 播放，2025-10）
+
+@[/details]
 
 ---
 
