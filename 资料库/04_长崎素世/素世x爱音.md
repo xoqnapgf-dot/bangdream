@@ -230,6 +230,8 @@ MyGO!!!!! ZEPP TOUR 2025 的东京限定语音也是这个路数。排练后爱�
 
 - **更多 B 站视频（按播放排）**：Serism_official《[【💞MyGO/爱素/素爱】🙏我…我再也不敢装不良了……！](https://www.bilibili.com/video/BV1avgs6QEey)》（1.4 万播放，2026-08）。
 
+- **更多专栏（按阅读排）**：幸运咪啪之谣《[长崎素世教你爆改千早爱音(webgal live2d换头教程)](https://www.bilibili.com/read/cv38728340)》（阅读 10479）；弹簧史蒂夫《[《长崎素世的月之暗面》与《千早爱音的土拨鼠之日》个人解析](https://www.bilibili.com/read/cv42805102)》（阅读 2104）；被乖離光照耀的楊花《[［Mygo/素爱］占有物](https://www.bilibili.com/read/cv26730745)》（阅读 1983）；符文司制《[【MyGo/整活向】武神之刃素世VS时王爱音](https://www.bilibili.com/read/cv31754695)》（阅读 1064）；未世之花LC《[【MyGO/素爱】爱音，这次轮到你依靠我了#5（完）](https://www.bilibili.com/read/cv37922584)》（阅读 686）；binary-reality《[千早爱音的土拨鼠之日与长崎素世月之暗面（无dlc）的小解读](https://www.bilibili.com/read/cv42648033)》（阅读 414）；酩酊的爱《[素世X爱音](https://www.bilibili.com/read/cv40391817)》（阅读 235）；宁哥2022《[素爱手机](https://www.bilibili.com/read/cv24072550)》（阅读 123）；启哈啊爱音《[【素爱】无法诉说的心意](https://www.bilibili.com/read/cv41405939)》（阅读 107）；全自动石取《[【素世生贺|syan|素爱】爱因溯时](https://www.bilibili.com/read/cv49722513)》（阅读 63）。
+
 ---
 
 ## 六、信息来源

@@ -227,6 +227,8 @@ AL光《立希生贺》：https://www.pixiv.net/artworks/133662430 ；Lemtun《�
 
 @[/details]
 
+- **更多专栏（按阅读排）**：一江天尘《[「灯希灯」悦鸣中的生日](https://www.bilibili.com/read/cv43829614)》（阅读 747）；Asriter《[【杀戮尖塔2 高松灯ModVer0.0.7 boss：椎名立希更新](https://www.bilibili.com/read/cv48673901)》（阅读 310）；李仰韶《[【希灯】黑夜就是从很远的地方奔跑着回来](https://www.bilibili.com/read/cv45240529)》（阅读 143）；发愁滴萌物《[同人写作|希灯|即兴乐章里的走火警告](https://www.bilibili.com/read/cv40863512)》（阅读 76）。
+
 ---
 
 ## 六、信息来源

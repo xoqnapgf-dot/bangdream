@@ -163,6 +163,8 @@ mikanayuip 的 CP 论给这一段的标题是「口下手ブラザーズ」（�
 - pixiv：eucalyptus《Untitled》（https://www.pixiv.net/artworks/147763320 ）、《mutsutomo》（https://www.pixiv.net/artworks/141287461 ）；広肉ル《病んでますわ初華》（https://www.pixiv.net/artworks/127893022 ）。
 - 文：《【灯睦纯爱】一场普通的约会》（邦多利怀孕吧，2024-02）。
 
+- **更多专栏（按阅读排）**：不碎的艾露猫《[若叶睦和高松灯关系的考察](https://www.bilibili.com/read/cv40162196)》（阅读 1356）；青灯green《[蓝色太阳——高松灯、若叶睦六一研读](https://www.bilibili.com/read/cv41869681)》（阅读 407）。
+
 ---
 
 ## 六、信息来源

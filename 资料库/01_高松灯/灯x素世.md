@@ -351,6 +351,8 @@ soyo对此会抱有什么心情，不耐烦？愧疚？感激？
 
 @[/details]
 
+- **更多专栏（按阅读排）**：南红枫SRMaple《[【MyGO!!!!!】【探偵の助手】(灯素)同人短漫(重投)](https://www.bilibili.com/read/cv27912593)》（阅读 4379）；南红枫SRMaple《[【MyGO!!!!!】【探偵の助手】(灯素)同人短漫](https://www.bilibili.com/read/cv27705627)》（阅读 3951）。
+
 ---
 
 ## 六、信息来源

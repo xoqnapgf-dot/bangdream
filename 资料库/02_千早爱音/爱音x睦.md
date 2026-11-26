@@ -233,6 +233,32 @@ CRYCHIC 五个人站上 RiNG 的舞台，睦背着爱音的吉他，弹了《想
 
 @[/details]
 
+- **更多专栏（按阅读排）**：盐渍腌鱼《[【爱睦】黄瓜花会渴望太阳吗 part2](https://www.bilibili.com/read/cv34986147)》（阅读 7325）；盐渍腌鱼《[【爱睦】黄瓜花会渴望太阳吗](https://www.bilibili.com/read/cv34970836)》（阅读 2250）；盐渍腌鱼《[【爱睦】空壳人偶会萌发名为心的嫩芽吗 序 提线木偶](https://www.bilibili.com/read/cv35704985)》（阅读 1610）；盐渍腌鱼《[【爱睦】空壳人偶会萌发名为心的嫩芽吗#1 家](https://www.bilibili.com/read/cv35891523)》（阅读 1379）；安洁-莉娜-《[Mygo 但是爱睦（5）](https://www.bilibili.com/read/cv38947679)》（阅读 1156）；盐渍腌鱼《[【爱睦】黄瓜花会渴望太阳吗part3](https://www.bilibili.com/read/cv35016608)》（阅读 1096）；安洁-莉娜-《[Mygo 但是爱睦（6）](https://www.bilibili.com/read/cv39099506)》（阅读 867）；盐渍腌鱼《[【爱睦】黄瓜花会渴望太阳吗 part5 歧路](https://www.bilibili.com/read/cv35124281)》（阅读 777）；墨提斯258《[【爱睦】暮雨悼亡诗（1-5章）](https://www.bilibili.com/read/cv44409960)》（阅读 756）；盐渍腌鱼《[【爱睦】黄瓜花会渴望太阳吗 part8 独舞](https://www.bilibili.com/read/cv35363870)》（阅读 743）；盐渍腌鱼《[【爱睦】人偶会萌发名为心的嫩芽吗#5 暗流](https://www.bilibili.com/read/cv37753077)》（阅读 661）；盐渍腌鱼《[【爱睦】黄瓜花会渴望太阳吗 part6 剪切线](https://www.bilibili.com/read/cv35182252)》（阅读 660）。
+
+@[details](另有 19 条，同样按阅读排)
+
+- 安洁-莉娜-《[Mygo 但是爱睦（4）](https://www.bilibili.com/read/cv38872840)》（阅读 621）
+- 盐渍腌鱼《[【爱睦】黄瓜花会渴望太阳吗 part4](https://www.bilibili.com/read/cv35036429)》（阅读 601）
+- 盐渍腌鱼《[【爱睦】人偶会萌发名为心的嫩芽吗#3 黄瓜花与太阳](https://www.bilibili.com/read/cv36091798)》（阅读 591）
+- 安洁-莉娜-《[Mygo 但是爱睦（2）](https://www.bilibili.com/read/cv38799652)》（阅读 554）
+- 盐渍腌鱼《[【爱睦】黄瓜花会渴望太阳吗 part7 交叉线](https://www.bilibili.com/read/cv35282590)》（阅读 542）
+- 来自曼哈德的恋恋《[与生爱睦respawn（结尾）](https://www.bilibili.com/read/cv37252567)》（阅读 475）
+- 托儿_松山下的小蟲子《[【爱睦】《假如爱音和睦是青梅竹马（没有人格障碍、双重人格等精神问题）》。](https://www.bilibili.com/read/cv46835345)》（阅读 470）
+- 盐渍腌鱼《[【爱睦】空壳人偶会萌发名为心的嫩芽吗#2 茧与剪](https://www.bilibili.com/read/cv36091773)》（阅读 462）
+- 安洁-莉娜-《[Mygo 但是爱睦（3）](https://www.bilibili.com/read/cv38849619)》（阅读 459）
+- 秋夕灰爱莫《[［灰爱莫（爱睦）|纯良版］想听你亲口说爱我](https://www.bilibili.com/read/cv43430965)》（阅读 422）
+- 来自曼哈德的恋恋《[与生俱来的爱睦：船新ed（我这是癫吗？）](https://www.bilibili.com/read/cv36180882)》（阅读 297）
+- 破风p_LeBeiAn《[GO学短评：S+爱睦/空之境界](https://www.bilibili.com/read/cv51450395)》（阅读 283）
+- 路过的米库《[【爱睦相声】《扒面罩》](https://www.bilibili.com/read/cv40357235)》（阅读 263）
+- TYYyaiwj《[【爱睦】朋友](https://www.bilibili.com/read/cv51204352)》（阅读 111）
+- 奈娅拉七八酱《[【爱睦】白色花束（其一）](https://www.bilibili.com/read/cv50756089)》（阅读 83）
+- 奈娅拉七八酱《[【爱睦】白色花束（其四）](https://www.bilibili.com/read/cv51150007)》（阅读 46）
+- 奈娅拉七八酱《[【爱睦】白色花束（其二）](https://www.bilibili.com/read/cv50786462)》（阅读 45）
+- 奈娅拉七八酱《[【爱睦】白色花束（其三）](https://www.bilibili.com/read/cv50854999)》（阅读 41）
+- 奈娅拉七八酱《[【爱睦】白色花束（其五）](https://www.bilibili.com/read/cv51809622)》（阅读 41）
+
+@[/details]
+
 ---
 
 ## 六、信息来源

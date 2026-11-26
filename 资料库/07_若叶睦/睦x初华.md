@@ -50,6 +50,8 @@
 
 - **更多 B 站视频（按播放排）**：半岛小迦音《[【睦初】祥，你出去打工吧我帮你照顾狗狗](https://www.bilibili.com/video/BV1JockzME7K)》（2.3 万播放，2026-03）；自己価値《[初睦无差cp向捏](https://www.bilibili.com/video/BV16n8A6nExi)》（273 播放，2026-08）。
 
+- **更多专栏（按阅读排）**：百合之鉴《[【揭秘！】三角初华的真实身份与睦头人之谜](https://www.bilibili.com/read/cv26229653)》（阅读 4066）；爱千早琉荧_BI7FFO《[初华推睦](https://www.bilibili.com/read/cv42463568)》（阅读 539）；郁芊泽花《[《Ave Mujica》原作睦初关系分析](https://www.bilibili.com/read/cv43971814)》（阅读 223）；下北泽第一狙击手喜多《[一颗给伟大的初华主唱，一颗给睦头。](https://www.bilibili.com/read/cv41773076)》（阅读 47）。
+
 ---
 
 ## 四、信息来源

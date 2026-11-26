@@ -69,6 +69,8 @@ Ave Mujica 第 8 话，海铃的手机收到睦的账号发来的消息：「我
 
 - **更多 B 站视频（按播放排）**：Glinde《[小睦海铃的末世日常](https://www.bilibili.com/video/BV18qsfzbEPi)》（1345 播放，2025-10）。
 
+- **更多专栏（按阅读排）**：五号落叶独角仙《[【渣翻】BanG_Dream!同人①——若葉睦x八幡海铃](https://www.bilibili.com/read/cv28876265)》（阅读 1935）。
+
 ---
 
 ## 五、信息来源

@@ -103,6 +103,8 @@ NGA 的帖子标题是「海祥语音出了，信任和神明属于是标准人�
 
 - **更多 B 站视频（按播放排）**：xe08《[【元祖！BanG Dream】#精制海祥盐](https://www.bilibili.com/video/BV1tPZqBtEg5)》（14 万播放，2026-02）；Mikoi_《[【懒得烤了】对邦会场海祥特别语音](https://www.bilibili.com/video/BV13SLnzeE8F)》（2.2 万播放，2025-04）；苗姐苗三水《[【mygo？/海祥】伪恋#番外：约定](https://www.bilibili.com/video/BV1FqqDY3EGn)》（1.7 万播放，2024-12）；YRFLY《[【avemujica/海祥】休息日](https://www.bilibili.com/video/BV13Ft6zXEZ3)》（4120 播放，2025-08）；江桥鸽不鸽《[【AI八幡海铃·丰川祥子】Bloody Groovy](https://www.bilibili.com/video/BV1CBhUzzESq)》（2934 播放，2025-08）；奈小伍《[【海祥】上门家政女仆小姐是我的贝斯手](https://www.bilibili.com/video/BV12rKN63E7s)》（2065 播放，2026-07）；江桥鸽不鸽《[【自用】Ournotes海祥羁绊剧情2](https://www.bilibili.com/video/BV1LBhm6rE5K)》（1846 播放，2026-09）；江桥鸽不鸽《[【AI八幡海铃·丰川祥子】フィクサー](https://www.bilibili.com/video/BV1bstNzUEP8)》（1285 播放，2025-08）；江桥鸽不鸽《[【自用】Ournotes海祥羁绊剧情1](https://www.bilibili.com/video/BV1fpaK6YEen)》（523 播放，2026-09）；木木音十《[【海祥】对邦会场海祥特别语言](https://www.bilibili.com/video/BV1c63n6dEdq)》（373 播放，2026-07）。
 
+- **更多专栏（按阅读排）**：UnifiedSelf《[关于颂乐人偶Ave Mujica的海祥迫真假药和end水墨画解读](https://www.bilibili.com/read/cv40556775)》（阅读 1389）；星辰子《[【后日谈/海祥】丰川祥子只是在和八幡海铃荒岛求生的样子(上)](https://www.bilibili.com/read/cv42231455)》（阅读 719）；星辰子《[【后日谈/海祥】丰川祥子只是在和八幡海铃荒岛求生的样子(下)](https://www.bilibili.com/read/cv42297808)》（阅读 718）。
+
 ---
 
 ## 四、信息来源

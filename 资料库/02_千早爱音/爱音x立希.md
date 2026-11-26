@@ -289,6 +289,28 @@ Ave Mujica 首演散场，素世头也不回地走了，爱音马上给立希发
 
 @[/details]
 
+- **更多专栏（按阅读排）**：里芙《[很黏立希的爱音](https://www.bilibili.com/read/cv29138159)》（阅读 19198）；無奈来着w《[【爱希】练习前的偶遇](https://www.bilibili.com/read/cv42402895)》（阅读 7914）；1ChRN《[［个人汉化］MyGO爱希同人漫画合集](https://www.bilibili.com/read/cv31706136)》（阅读 5411）；1ChRN《[情人节的爱音立希［个人汉化］](https://www.bilibili.com/read/cv31624227)》（阅读 3965）；好梦在何方nanoda《[【MyGO/爱希短篇】嘴臭一时爽，追妻（）](https://www.bilibili.com/read/cv28508544)》（阅读 3064）；草莓巧克力_Official《[【MyGo/爱希/授权转载】  用来修正吧！相合伞](https://www.bilibili.com/read/cv27685883)》（阅读 2965）；某科学的对苯二酚《[【爱希cb向】迟钝小狼狗就该被粉毛狗这样对待](https://www.bilibili.com/read/cv41076280)》（阅读 2006）；可不材《[MyGO 爱音&立希 动画外官方或官延的互动整理&指路](https://www.bilibili.com/read/cv25708527)》（阅读 1901）；海鸟之女园田鸥《[【Mygo！爱希】她改变了我](https://www.bilibili.com/read/cv26402730)》（阅读 1685）；海鸟之女园田鸥《[【爱希】你亲够了没啊？](https://www.bilibili.com/read/cv28022391)》（阅读 1149）；某科学的对苯二酚《[【爱希】经典爱音变成玩偶，但是爱希](https://www.bilibili.com/read/cv48923850)》（阅读 1094）；某科学的对苯二酚《[【爱希】冬天要注意保暖](https://www.bilibili.com/read/cv40307815)》（阅读 1009）。
+
+@[details](另有 15 条，同样按阅读排)
+
+- 某科学的对苯二酚《[【爱希】假如立希只能通过熊猫玩偶说话](https://www.bilibili.com/read/cv46411574)》（阅读 965）
+- 海鸟之女园田鸥《[【爱希】守护者！！](https://www.bilibili.com/read/cv26287392)》（阅读 828）
+- 秋山__akiyama《[「爱希」被那个粉毛骗出门，结果只是为了约会？](https://www.bilibili.com/read/cv42618784)》（阅读 497）
+- 柚風《[【爱希】猎物](https://www.bilibili.com/read/cv35241481)》（阅读 489）
+- 柚風《[【爱希】童谣](https://www.bilibili.com/read/cv35241556)》（阅读 452）
+- 千风逆羽《[【爱希】只有你们不在的世界（2）](https://www.bilibili.com/read/cv40835031)》（阅读 438）
+- 千风逆羽《[【爱希cb向】只有你不在的世界（1）](https://www.bilibili.com/read/cv40786507)》（阅读 415）
+- 桜流兔BunnysAKurA《[可能是爱希的 By your side](https://www.bilibili.com/read/cv31151853)》（阅读 394）
+- 椎名家爱将《[《我喜欢你！》（爱希）](https://www.bilibili.com/read/cv41573670)》（阅读 338）
+- 若叶家大莫《[爱希if 23章之后《不曾发生之事》](https://www.bilibili.com/read/cv43171709)》（阅读 194）
+- 五更小楠《[【MyGO爱希】在宝可梦世界当街溜子是不是搞错了什么](https://www.bilibili.com/read/cv43689469)》（阅读 174）
+- 柚風《[【爱希】转角遇到爱](https://www.bilibili.com/read/cv43358430)》（阅读 142）
+- 柚風《[【爱希】九十秒情歌](https://www.bilibili.com/read/cv52738115)》（阅读 129）
+- 秋山__akiyama《[「爱希」夏夜、祭典与你眼中的花火](https://www.bilibili.com/read/cv42959335)》（阅读 56）
+- 椎名家千早《[【爱希爱】想和你告白](https://www.bilibili.com/read/cv52467221)》（阅读 17）
+
+@[/details]
+
 ---
 
 ## 六、信息来源

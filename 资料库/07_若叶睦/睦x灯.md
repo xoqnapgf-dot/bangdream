@@ -153,6 +153,8 @@ pixiv「ともむつ」下收藏最多的是広肉ル《病んでますわ初華
 
 - **更多 B 站视频（按播放排）**：混的入野睦《[睦灯在河边捡石头](https://www.bilibili.com/video/BV1oS3R6mEoq)》（1020 播放，2026-08）；还不能够马匹《[【mygo × mujica/睦灯中心】如果表达注定被误解……「mirage voyage」](https://www.bilibili.com/video/BV1pMFAeNEwm)》（609 播放，2025-01）；风云之巅X《[【睦灯/MAD/样young】“我怎么变这样，变得这样倔强”](https://www.bilibili.com/video/BV1EFR8YoEse)》（600 播放，2025-03）；TYYyaiwj《[【睦灯】黄瓜，石头。](https://www.bilibili.com/video/BV19ssp6DEVR)》（497 播放，2026-11）。
 
+- **更多专栏（按阅读排）**：TYYyaiwj《[【睦灯】黄瓜，石头。](https://www.bilibili.com/read/cv53904464)》（阅读 83）。
+
 ---
 
 ## 六、信息来源

@@ -457,6 +457,21 @@ PTT 在 2025 年 9 月有人把「活动上下篇」五人的卡面剧情整理�
 
 @[/details]
 
+- **更多专栏（按阅读排）**：南红枫SRMaple《[【MyGO!!!!!】【メリイ】(灯希)同人短漫](https://www.bilibili.com/read/cv28244889)》（阅读 12071）；二二号飞行员《[【Mygo!!!!!丨灯希】考虑将来高中升学志向的小灯](https://www.bilibili.com/read/cv41484795)》（阅读 5815）；花开富贵爱《[【MyGO】聊聊我眼中的灯希关系](https://www.bilibili.com/read/cv40442613)》（阅读 2774）；無奈来着w《[【灯希】磷光的作用](https://www.bilibili.com/read/cv41607464)》（阅读 1809）；新海快乐门《[【MyGO同人】灯、立希与兼职](https://www.bilibili.com/read/cv39008718)》（阅读 1418）；Soft-Sweet-Sugar《[灯希-椎名立希不喜欢海洋馆](https://www.bilibili.com/read/cv41662179)》（阅读 1179）；一江天尘《[「灯希灯」心障两侧，异心同思](https://www.bilibili.com/read/cv43870138)》（阅读 1048）；優木そら《[【汉化/mygo/灯希】直到太阳东升西落](https://www.bilibili.com/read/cv27260241)》（阅读 1028）；一江天尘《[「灯希」倦中行迷，梦幽寻依](https://www.bilibili.com/read/cv43870121)》（阅读 1014）；某科学的对苯二酚《[【灯希】翻唱失败之后](https://www.bilibili.com/read/cv40416161)》（阅读 711）；J-BK-L《[【mygo/灯希】戒断反应（下）](https://www.bilibili.com/read/cv41697332)》（阅读 645）；粉笔Kun《[【真希.立希.灯】代偿](https://www.bilibili.com/read/cv42027430)》（阅读 631）。
+
+@[details](另有 8 条，同样按阅读排)
+
+- 诗帅RTG《[MyGO的灯希同人](https://www.bilibili.com/read/cv40716240)》（阅读 589）
+- 眞縭《[【Mygo|灯希】《椎名的内心可曾悸动》Chap.3](https://www.bilibili.com/read/cv43565457)》（阅读 315）
+- -凉席子-《[说一下我对灯希和立希这个角色的看法](https://www.bilibili.com/read/cv46325414)》（阅读 288）
+- 李仰韶《[【灯希】秦皇岛](https://www.bilibili.com/read/cv41617055)》（阅读 280）
+- 泛泛东风千千缕《[关于描写灯的心理变化，并且略带一点点灯希的作品！](https://www.bilibili.com/read/cv44219875)》（阅读 249）
+- 眞縭《[【Mygo|灯希】《椎名的内心可曾悸动》Chap.2](https://www.bilibili.com/read/cv43224859)》（阅读 220）
+- 眞縭《[【Mygo|灯希】《椎名的内心可曾悸动》序](https://www.bilibili.com/read/cv43061788)》（阅读 219）
+- 李仰韶《[【灯希】秦皇岛](https://www.bilibili.com/read/cv41617019)》（阅读 206）
+
+@[/details]
+
 ---
 
 ## 六、信息来源

@@ -1742,6 +1742,8 @@ Reply to
 
 更多手书、MAD、MMD、WebGal 和 LOFTER 推荐文见《爱音x灯.md》。
 
+- **更多专栏（按阅读排）**：牙缸底的青苔《[爱音和灯是怎么双向奔赴的？](https://www.bilibili.com/read/cv42155765)》（阅读 698）。
+
 ---
 
 ## 五、信息来源

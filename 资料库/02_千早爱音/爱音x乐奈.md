@@ -225,6 +225,8 @@ Ave Mujica 第 7 话，CRYCHIC 的几个人要在 RiNG 的舞台上合奏。MyGO
 
 @[/details]
 
+- **更多专栏（按阅读排）**：好梦在何方nanoda《[【MyGO/爱猫短篇】捡到的流浪猫](https://www.bilibili.com/read/cv28736741)》（阅读 1381）；Noa-Eveklein《[爱猫假药（十年，伦敦）](https://www.bilibili.com/read/cv40760767)》（阅读 590）。
+
 ---
 
 ## 六、信息来源

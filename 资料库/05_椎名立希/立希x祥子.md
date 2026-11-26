@@ -169,6 +169,8 @@ NGA 希厨楼的结论叫「王不见王」：希祥的关系性正是 CRYCHIC �
 
 @[/details]
 
+- **更多专栏（按阅读排）**：比色法vc《[【MYGO/希祥】夏日幽灵（留档）](https://www.bilibili.com/read/cv33278726)》（阅读 519）；不碎的艾露猫《[对《祥子与立希》一文的最后补充](https://www.bilibili.com/read/cv35501243)》（阅读 340）；乌特洛彩弹《[【希祥】与另一个自己的和解](https://www.bilibili.com/read/cv45796191)》（阅读 314）；托儿_松山下的小蟲子《[【希祥】假如15年未见之大陀螺是…？](https://www.bilibili.com/read/cv41790953)》（阅读 295）；救世干红酒《[【希祥希】罗兰之歌](https://www.bilibili.com/read/cv48102767)》（阅读 280）；星辰子《[【希祥希】终末旅行法则](https://www.bilibili.com/read/cv53598521)》（阅读 101）。
+
 ---
 
 ## 五、信息来源
