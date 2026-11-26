@@ -140,7 +140,7 @@ MyGO!!!!! 官方小剧场《好学的猫》，乐奈没看群消息，照原来�
 - **图**：ユリナメクジ「好かれると思う🐈‍⬛🫖」（https://twitter.com/YURINAMEKUZI/status/2046876750765006909 ）；Danbooru 上两人同框的 meme 图（https://donmai.moe/posts/7527240 ）。
 - **周边**：GSC 黏土人要乐奈、长崎素世同批推出，开箱视频的评论区在问「猫猫居然没有抹茶芭菲吃」（BV1UGjo6EEMu）。
 
-- **更多 B 站视频（按播放排）**：大饼吃一张《[(故事向)猫素回忆录之再见鼠幼栗](https://www.bilibili.com/video/BV1R1oNBjEuf)》（3737 播放，2026-04）。
+- **更多 B 站视频（按播放排）**：猪托邦市民《[【中配/喜剧】家猫素世14：爱音带小孩](https://www.bilibili.com/video/BV1QNxzzkEbU)》（2.5 万播放，2025-10）；大饼吃一张《[(故事向)猫素回忆录之再见鼠幼栗](https://www.bilibili.com/video/BV1R1oNBjEuf)》（3737 播放，2026-04）。
 
 ---
 

@@ -44,6 +44,8 @@
 
 - **更多 pixiv 作品（按收藏排）**：長崎 楽奈《[そよらな③](https://www.pixiv.net/artworks/138142209)》（收藏 50）；ベア베아🐻《[そよらな](https://www.pixiv.net/artworks/125664028)》（收藏 41）；渡辺 陸《[{ MyGO!!!!! 爽世×樂奈 }《單聲道》插圖之二](https://www.pixiv.net/artworks/149112553)》（收藏 29）。
 
+- **更多 B 站视频（按播放排）**：素猫喵呜《[◆素猫翻唱◆ #01 大きな古时计 古老的大钟 宫崎骏侧耳倾听剪辑](https://www.bilibili.com/video/BV1dx411M7km)》（1032 播放，2017-10）。
+
 ---
 
 ## 三、信息来源
