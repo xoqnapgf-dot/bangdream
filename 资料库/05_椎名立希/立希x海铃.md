@@ -234,8 +234,6 @@ mujica 之后，尤其是鸡 4 后，就变成最有青春校园小情侣谈恋�
 - **同人志**：向boooox《关于两人之间信任的相关症状》；凝胶蛋黄《八幡海铃的回忆》（2026-04-07 宣发，海铃视角写两人相识）；ZLeep《光线交汇之时》。
 - **英文圈**：Dynasty Reader 有「Taki x Umiri」标签；zoezoezoi 的图（2024-02-09）下面评论说两人「the prettiest girls between AveMyGO」（两团里最漂亮的女孩们）。
 
-- **更多 B 站视频（标题里写明这一对，按播放排）**：对你60s的心动《[〖海希/手书〗请吃我的CP…](https://www.bilibili.com/video/BV1v8MxzTECH)》（1687 播放，2025-06）。
-
 ---
 
 ## 五、信息来源
