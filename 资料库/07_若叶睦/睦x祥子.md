@@ -403,6 +403,10 @@ NGA《花叶式半身——睦祥关系的具象化》（tid 45783107）从这�
 
 @[/details]
 
+- **更多 pixiv 作品（按收藏排）**：猫猫猫耳朵《[婚礼](https://www.pixiv.net/artworks/141295535)》（收藏 1220）；灰烬《[回不到的CRYCHIC。](https://www.pixiv.net/artworks/111835256)》（收藏 966）；佐倉ツバメ＠お仕事募集中《[むつさきアクナイコラボ](https://www.pixiv.net/artworks/141912303)》（收藏 763）；佐倉ツバメ＠お仕事募集中《[むつさきコラボカフェ衣装](https://www.pixiv.net/artworks/145533922)》（收藏 527）。
+
+- **更多 YouTube 视频**：Angel Allen《[Bandori Our Notes it's MyGO Sakiko tells Mutsumi to stop telling everyone her business](https://www.youtube.com/watch?v=YslDFjBCOxE)》。
+
 ---
 
 ## 五、信息来源

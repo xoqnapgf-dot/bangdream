@@ -472,6 +472,8 @@ PTT 在 2025 年 9 月有人把「活动上下篇」五人的卡面剧情整理�
 
 @[/details]
 
+- **更多 pixiv 作品（按收藏排）**：gakiami《[無題](https://www.pixiv.net/artworks/129096360)》（收藏 878）；杉木砂舞《[無題](https://www.pixiv.net/artworks/141703792)》（收藏 106）。
+
 ---
 
 ## 六、信息来源

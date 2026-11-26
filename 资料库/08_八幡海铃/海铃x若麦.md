@@ -79,6 +79,8 @@ Animedia / Animage 2026 年 12 月号的访谈里（NGA tid 47887936 转载译�
 
 @[/details]
 
+- **更多 YouTube 视频**：ありしあ《[【バンドリ】Ave Mujica 絆ストーリ海鈴＆にゃむ　#1～#3【アワーノーツ】※ネタバレ有](https://www.youtube.com/watch?v=0tw__XPyRQc)》。
+
 ---
 
 ## 四、信息来源

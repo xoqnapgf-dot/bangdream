@@ -37,6 +37,8 @@
 
 - **更多 B 站视频（按播放排）**：枯れ葉-rotouzenn《[【同人动画/MyGO】 睦素自制逐帧手绘动画](https://www.bilibili.com/video/BV11r421g79X)》（6486 播放，2024-04）；这里是残庙啦《[【睦素/手书】同班同学是狐狸怎么办？](https://www.bilibili.com/video/BV1XZH1zdEfC)》（3843 播放，2025-09）；AS星轨共鸣_Official《[【原创音乐手书/睦素】遥かな青いシルエット【bilibilionly同人扶持计划】](https://www.bilibili.com/video/BV1iReH6yE5u)》（2736 播放，2026-09）。
 
+- **更多 pixiv 作品（按收藏排）**：coldcat.《[むつそよ](https://www.pixiv.net/artworks/110845356)》（收藏 5183）；coldcat.《[むつそよ](https://www.pixiv.net/artworks/130595711)》（收藏 2327）；coldcat.《[むつそよ](https://www.pixiv.net/artworks/129429905)》（收藏 2282）。
+
 ---
 
 ## 三、信息来源

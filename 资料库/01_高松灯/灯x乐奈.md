@@ -212,6 +212,8 @@ B 站录屏下的评论：「面对小灯的直球攻势，猫猫选择了有力
 
 - **更多专栏（按阅读排）**：凌光映鉴《[（补档）【Deepseek】关于高松灯、要乐奈两人的人物关系及故事创造方面的讨论](https://www.bilibili.com/read/cv42534252)》（阅读 451）。
 
+- **更多 pixiv 作品（按收藏排）**：coldcat.《[🐱🎤💡🎸](https://www.pixiv.net/artworks/147603771)》（收藏 957）；LXIOS39《[🤤](https://www.pixiv.net/artworks/119248526)》（收藏 645）；空格kkkk《[猫灯 玩耍](https://www.pixiv.net/artworks/134462183)》（收藏 37）。
+
 ---
 
 ## 五、信息来源
