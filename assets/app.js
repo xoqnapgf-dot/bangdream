@@ -1370,6 +1370,68 @@
     document.documentElement.dataset.theme = dark ? 'dark' : 'light';
   }
 
+  /* ─────────── 字号 / 行距调节 ─────────── */
+
+  var FS_STEPS = [0.86, 0.93, 1, 1.08, 1.17, 1.28, 1.4];
+  var LH_DEFAULT = 1.9, LH_CHOICES = [1.7, 1.9, 2.1];
+  var typeSet = { fs: 1, lh: LH_DEFAULT };
+
+  function applyType() {
+    var root = document.documentElement;
+    root.style.setProperty('--rs', String(typeSet.fs));
+    root.style.setProperty('--lh', String(typeSet.lh));
+    var i = FS_STEPS.indexOf(typeSet.fs);
+    $('fsVal').textContent = Math.round(typeSet.fs * 100) + '%';
+    $('fsDown').disabled = i <= 0;
+    $('fsUp').disabled = i >= FS_STEPS.length - 1;
+    var segs = $('typePop').querySelectorAll('.tp-seg button');
+    for (var k = 0; k < segs.length; k++) {
+      segs[k].classList.toggle('on', parseFloat(segs[k].dataset.lh) === typeSet.lh);
+    }
+  }
+  function saveType() {
+    try { localStorage.setItem('typeset', JSON.stringify(typeSet)); } catch (e) {}
+  }
+  function initType() {
+    try {
+      var s = JSON.parse(localStorage.getItem('typeset') || 'null');
+      if (s && FS_STEPS.indexOf(s.fs) >= 0) typeSet.fs = s.fs;
+      if (s && LH_CHOICES.indexOf(s.lh) >= 0) typeSet.lh = s.lh;
+    } catch (e) {}
+    applyType();
+
+    var btn = $('typeBtn'), pop = $('typePop');
+    function setOpen(open) {
+      pop.hidden = !open;
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+    }
+    btn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      setOpen(pop.hidden);
+    });
+    pop.addEventListener('click', function (e) { e.stopPropagation(); });
+    document.addEventListener('click', function () { if (!pop.hidden) setOpen(false); });
+    document.addEventListener('keydown', function (e) {
+      if (e.key === 'Escape' && !pop.hidden) { setOpen(false); btn.focus(); }
+    });
+
+    function step(d) {
+      var i = FS_STEPS.indexOf(typeSet.fs) + d;
+      if (i < 0 || i >= FS_STEPS.length) return;
+      typeSet.fs = FS_STEPS[i]; applyType(); saveType();
+    }
+    $('fsDown').addEventListener('click', function () { step(-1); });
+    $('fsUp').addEventListener('click', function () { step(1); });
+    pop.querySelector('.tp-seg').addEventListener('click', function (e) {
+      var b = e.target.closest('button[data-lh]');
+      if (!b) return;
+      typeSet.lh = parseFloat(b.dataset.lh); applyType(); saveType();
+    });
+    $('typeReset').addEventListener('click', function () {
+      typeSet = { fs: 1, lh: LH_DEFAULT }; applyType(); saveType();
+    });
+  }
+
   /* ─────────── 原文弹窗 ─────────── */
 
   var postBox = null, postReturn = null;
@@ -1414,6 +1476,7 @@
 
   function boot() {
     initTheme();
+    initType();
 
     $('themeBtn').addEventListener('click', function () {
       var d = document.documentElement.dataset.theme === 'dark';
