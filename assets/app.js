@@ -1370,7 +1370,7 @@
     document.documentElement.dataset.theme = dark ? 'dark' : 'light';
   }
 
-  /* ─────────── 字号 / 行距调节 ─────────── */
+  /* ─────────── 阅读设置：字号 / 行距 ─────────── */
 
   var FS_STEPS = [0.86, 0.93, 1, 1.08, 1.17, 1.28, 1.4];
   var LH_DEFAULT = 1.9, LH_CHOICES = [1.7, 1.9, 2.1];
@@ -1381,12 +1381,17 @@
     root.style.setProperty('--rs', String(typeSet.fs));
     root.style.setProperty('--lh', String(typeSet.lh));
     var i = FS_STEPS.indexOf(typeSet.fs);
-    $('fsVal').textContent = Math.round(typeSet.fs * 100) + '%';
+    var pct = Math.round(typeSet.fs * 100) + '%';
+    var range = $('fsRange');
+    range.value = String(i);
+    range.setAttribute('aria-valuetext', pct);
+    range.parentNode.style.setProperty('--p', (i / (FS_STEPS.length - 1) * 100) + '%');
+    $('fsVal').textContent = pct;
     $('fsDown').disabled = i <= 0;
     $('fsUp').disabled = i >= FS_STEPS.length - 1;
     var segs = $('typePop').querySelectorAll('.tp-seg button');
     for (var k = 0; k < segs.length; k++) {
-      segs[k].classList.toggle('on', parseFloat(segs[k].dataset.lh) === typeSet.lh);
+      segs[k].setAttribute('aria-checked', parseFloat(segs[k].dataset.lh) === typeSet.lh ? 'true' : 'false');
     }
   }
   function saveType() {
@@ -1400,28 +1405,33 @@
     } catch (e) {}
     applyType();
 
-    var btn = $('typeBtn'), pop = $('typePop');
+    var btn = $('typeBtn'), pop = $('typePop'), scrim = $('typeScrim');
+    function isOpen() { return pop.classList.contains('open'); }
     function setOpen(open) {
-      pop.hidden = !open;
+      pop.classList.toggle('open', open);
+      scrim.classList.toggle('show', open);
+      pop.setAttribute('aria-hidden', open ? 'false' : 'true');
       btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      if (open) { closeNav(); }
     }
-    btn.addEventListener('click', function (e) {
-      e.stopPropagation();
-      setOpen(pop.hidden);
+    btn.addEventListener('click', function (e) { e.stopPropagation(); setOpen(!isOpen()); });
+    $('typeClose').addEventListener('click', function () { setOpen(false); btn.focus(); });
+    scrim.addEventListener('click', function () { setOpen(false); });
+    document.addEventListener('click', function (e) {
+      if (isOpen() && !pop.contains(e.target) && !btn.contains(e.target)) setOpen(false);
     });
-    pop.addEventListener('click', function (e) { e.stopPropagation(); });
-    document.addEventListener('click', function () { if (!pop.hidden) setOpen(false); });
     document.addEventListener('keydown', function (e) {
-      if (e.key === 'Escape' && !pop.hidden) { setOpen(false); btn.focus(); }
+      if (e.key === 'Escape' && isOpen()) { setOpen(false); btn.focus(); }
     });
 
-    function step(d) {
-      var i = FS_STEPS.indexOf(typeSet.fs) + d;
-      if (i < 0 || i >= FS_STEPS.length) return;
+    function setFs(i) {
+      i = Math.max(0, Math.min(FS_STEPS.length - 1, i));
+      if (FS_STEPS[i] === typeSet.fs) return;
       typeSet.fs = FS_STEPS[i]; applyType(); saveType();
     }
-    $('fsDown').addEventListener('click', function () { step(-1); });
-    $('fsUp').addEventListener('click', function () { step(1); });
+    $('fsDown').addEventListener('click', function () { setFs(FS_STEPS.indexOf(typeSet.fs) - 1); });
+    $('fsUp').addEventListener('click', function () { setFs(FS_STEPS.indexOf(typeSet.fs) + 1); });
+    $('fsRange').addEventListener('input', function () { setFs(parseInt(this.value, 10)); });
     pop.querySelector('.tp-seg').addEventListener('click', function (e) {
       var b = e.target.closest('button[data-lh]');
       if (!b) return;
